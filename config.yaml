@@ -1,0 +1,205 @@
+# ============================================================
+#  KONFIGURACJA AI DIGEST
+#  Edytuj ten plik, żeby dodać/usunąć źródła lub zmienić filtry.
+#  Nie musisz dotykać kodu.
+# ============================================================
+
+output:
+  title: "AI Digest — Konrad"
+  description: "Przefiltrowany strumień newsów AI, modeli, narzędzi i repozytoriów"
+  # ZMIEŃ na swój URL GitHub Pages po pierwszym deployu:
+  site_url: "https://TWOJ-USERNAME.github.io/ai-digest"
+  max_items: 120          # ile pozycji trzymać w feedzie
+  lookback_hours: 48      # ile godzin wstecz brać pod uwagę przy każdym uruchomieniu
+
+# ------------------------------------------------------------
+#  ŹRÓDŁA RSS/ATOM
+#  tier: "always"  -> zawsze przechodzi, bez filtrowania (kurowane, niskoszumowe)
+#        "filtered" -> musi trafić w słowo kluczowe (szerokie/hałaśliwe źródła)
+# ------------------------------------------------------------
+feeds:
+  # --- Laby i oficjalne blogi (zawsze warte uwagi) ---
+  - name: "Anthropic News"
+    url: "https://www.anthropic.com/news/rss.xml"
+    tier: always
+
+  - name: "Anthropic Engineering"
+    url: "https://www.anthropic.com/engineering/rss.xml"
+    tier: always
+
+  - name: "OpenAI News"
+    url: "https://openai.com/news/rss.xml"
+    tier: always
+
+  - name: "Google DeepMind Blog"
+    url: "https://deepmind.google/blog/rss.xml"
+    tier: always
+
+  - name: "Hugging Face Blog"
+    url: "https://huggingface.co/blog/feed.xml"
+    tier: always
+
+  - name: "Simon Willison"
+    url: "https://simonwillison.net/atom/everything/"
+    tier: always
+
+  - name: "Mistral AI"
+    url: "https://mistral.ai/news/feed.xml"
+    tier: always
+
+  # --- Papers / research ---
+  - name: "HF Daily Papers"
+    url: "https://jamesg.blog/hf-papers.xml"
+    tier: filtered
+
+  - name: "arXiv cs.CL (NLP/LLM)"
+    url: "http://export.arxiv.org/rss/cs.CL"
+    tier: filtered
+
+  - name: "arXiv cs.CV (Vision/Segmentation)"
+    url: "http://export.arxiv.org/rss/cs.CV"
+    tier: filtered
+
+  # --- Community / szum (mocno filtrowane) ---
+  - name: "r/LocalLLaMA"
+    url: "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
+    tier: filtered
+
+  - name: "Hacker News (AI)"
+    url: "https://hnrss.org/newest?q=AI+OR+LLM+OR+Claude+OR+Anthropic&points=50"
+    tier: filtered
+
+  # --- GitHub Trending (przez mirror RSS) ---
+  - name: "GitHub Trending — Python"
+    url: "https://mshibanami.github.io/GitHubTrendingRSS/daily/python.xml"
+    tier: filtered
+
+  - name: "GitHub Trending — TypeScript"
+    url: "https://mshibanami.github.io/GitHubTrendingRSS/daily/typescript.xml"
+    tier: filtered
+
+  - name: "GitHub Trending — Rust"
+    url: "https://mshibanami.github.io/GitHubTrendingRSS/daily/rust.xml"
+    tier: filtered
+
+# ------------------------------------------------------------
+#  GITHUB RELEASES — repo, które Cię realnie obchodzą
+#  Zawsze przechodzą (to Twoje narzędzia, każdy release jest istotny).
+#  Format: owner/repo
+# ------------------------------------------------------------
+github_releases:
+  - anthropics/claude-code
+  - anthropics/anthropic-sdk-python
+  - anthropics/claude-agent-sdk-python
+  - langchain-ai/langgraph
+  - pydantic/pydantic-ai
+  - unslothai/unsloth
+  - modelcontextprotocol/python-sdk
+  - NREL/OpenOA
+  - qubvel-org/segmentation_models.pytorch
+  - ultralytics/ultralytics
+  - huggingface/transformers
+  - vllm-project/vllm
+  - ggml-org/llama.cpp
+  - daijro/camoufox
+  - pymupdf/PyMuPDF
+  - langfuse/langfuse
+
+# ------------------------------------------------------------
+#  NOWE REPOZYTORIA — GitHub Search API
+#  Szuka świeżo utworzonych repo z minimalną liczbą gwiazdek.
+# ------------------------------------------------------------
+github_search:
+  enabled: true
+  min_stars: 40           # próg — podnieś, jeśli za dużo szumu
+  created_within_days: 14
+  queries:
+    - "topic:llm"
+    - "topic:mcp"
+    - "topic:rag"
+    - "topic:agents"
+    - "claude in:name,description,readme"
+
+# ------------------------------------------------------------
+#  FILTROWANIE PO SŁOWACH KLUCZOWYCH
+#  Dotyczy tylko źródeł tier: filtered.
+#  Dopasowanie: case-insensitive, granice słów.
+# ------------------------------------------------------------
+keywords:
+  include:
+    # Modele i laby
+    - claude
+    - anthropic
+    - gpt-5
+    - gemini
+    - llama
+    - qwen
+    - deepseek
+    - mistral
+    - bielik
+    - opus
+    - sonnet
+    - fable
+    - mythos
+    # Techniki
+    - llm
+    - rag
+    - fine-tuning
+    - finetuning
+    - fine-tune
+    - qlora
+    - lora
+    - quantization
+    - kwantyzacja
+    - distillation
+    - inference
+    - embedding
+    - vector database
+    - vector search
+    - context window
+    - long context
+    # Agenty i tooling
+    - mcp
+    - model context protocol
+    - agentic
+    - agent framework
+    - langgraph
+    - langchain
+    - pydantic ai
+    - tool use
+    - function calling
+    - claude code
+    - prompt engineering
+    # Twoje domeny
+    - ocr
+    - document extraction
+    - segmentation
+    - segformer
+    - unet
+    - u-net
+    - computer vision
+    - remote sensing
+    - satellite imagery
+    - orthophoto
+    - geospatial
+    - browser automation
+    - scada
+    - wind turbine
+
+  # Jeśli tytuł trafia w któreś z tych — odrzuć (nawet gdy trafił w include)
+  exclude:
+    - hiring
+    - "we're hiring"
+    - webinar
+    - discount
+    - coupon
+    - "black friday"
+    - crypto
+    - bitcoin
+    - nft
+    - token price
+    - "ai girlfriend"
+    - waifu
+    - "make money"
+    - dropshipping
+    - "prompt pack"
