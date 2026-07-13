@@ -1,5 +1,15 @@
 {
  "seen": [
+  "a57328db07ceb9ce",
+  "6e6c0d8cd6b65633",
+  "b411667fb2aabd24",
+  "713318ddef04d5d1",
+  "5bb3c19a988abe45",
+  "8b2ccbea4c7ddf4a",
+  "af53f077b9312029",
+  "5eb2110d2afa817b",
+  "6105664f8f8e6460",
+  "c11da6bb436c11dd",
   "89047161fb8f6e1d",
   "7b0c347f884516e6",
   "cebeafc62440cb26",
@@ -21,6 +31,7 @@
   "d2cd53f6f9d5e05e",
   "fce1d9e5e6fb6090",
   "8df42879ab311cdf",
+  "e5a864ed209e1a1a",
   "f8d8c0dcb040071c",
   "2c63582d4f92d868",
   "fb7a397bb0853e43",
@@ -108,20 +119,133 @@
   "40e0b03ad4e1ffa1",
   "f54c206324ef15ac",
   "a59caa8c9b95f4ae",
-  "4e831c47eb41d226",
-  "d052dcba33d2316f",
-  "f46f17562f3cf2e0",
-  "b6f5dd49409a3714",
-  "5d3d3e947ffaec4a",
-  "c11581044ed7cb2a",
-  "1bf5590465b8c37d",
-  "66a958d39ef46acf",
-  "5e1398971b9d9e31",
-  "8b2d574d802cf64a",
-  "eee1d54ae47375f6",
-  "8cce2977a9f6e842"
+  "4e831c47eb41d226"
  ],
  "items": [
+  {
+   "uid": "a57328db07ceb9ce",
+   "title": "⭐ 83 · herry2059/project-os-for-codex (TypeScript)",
+   "url": "https://github.com/herry2059/project-os-for-codex",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-07-13T18:53:51+00:00",
+   "summary": "Open-source control plane for Codex projects: Git-backed context, visible agent progress, scoped MCP access, resumable work, and safe handoffs. Compatible with Claude Code.",
+   "matched": [
+    "claude",
+    "mcp",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "6e6c0d8cd6b65633",
+   "title": "⭐ 161 · ohad6k/ditto (Python)",
+   "url": "https://github.com/ohad6k/ditto",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-07-13T18:39:02+00:00",
+   "summary": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "b411667fb2aabd24",
+   "title": "Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V2-GGUF",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uvk1if/qwen3635ba3buncensoredgenesishermesv2gguf/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-13T18:35:20+00:00",
+   "summary": "Here model: https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V2-GGUF Settings: temperature=0.6, top_p=0.95, top_k=20, min_p=0, presence_penalty=disabled, repeat_penalty=disabled, seed=42, thinking=enabled System Prompt: You are Qwen, a large language model created by Tongyi Lab team from…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "713318ddef04d5d1",
+   "title": "ggml-org/llama.cpp b9987",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9987",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-07-13T15:40:41+00:00",
+   "summary": "gguf : add tensor shape accessor (#24405) * gguf : add tensor shape accessors * gguf : return tensor shape as const int64_t * * gguf : remove n_dims accessor, keep only gguf_get_tensor_ne **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b9987/llama-b9987-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "5bb3c19a988abe45",
+   "title": "ultralytics/ultralytics v8.4.94 — v8.4.94 - Remove TorchScript mobile optimization (#25140)",
+   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.94",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-07-13T15:27:49+00:00",
+   "summary": "## 🌟 Summary 🚀 **Ultralytics 8.4.94 modernizes deployment, improves validation and tracking reliability, and expands edge-device and dataset documentation.** ## 📊 Key Changes - **TorchScript mobile optimization removed** 🛠️ - Removed the deprecated PyTorch Mobile/XNNPACK optimization path and the TorchScript `optimize` argument. - Regular TorchScript export remains available for legacy C++ and…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "8b2ccbea4c7ddf4a",
+   "title": "Upgrade path for ryzen 9 (64 gb) + rtx 5080",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uvelii/upgrade_path_for_ryzen_9_64_gb_rtx_5080/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-13T15:21:47+00:00",
+   "summary": "Hi, I'm a long time lurker and this is my first post so please be gentle. I'm running a Ryzen 9 5900x 64gb paired with a 5080 RTX. It's been great so far. My daily driver is qwen 35b a3b, while it doesn't break any speed records, it is usable (Q6, about 30-ish decode with 256k context). The thing is, I'd like to…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "af53f077b9312029",
+   "title": "⭐ 703 · ai4s-research/open-science (TypeScript)",
+   "url": "https://github.com/ai4s-research/open-science",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-07-13T14:04:04+00:00",
+   "summary": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
+   "matched": [
+    "claude",
+    "mcp"
+   ]
+  },
+  {
+   "uid": "5eb2110d2afa817b",
+   "title": "MCP…. Is bad?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uvaqxp/mcp_is_bad/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-13T12:54:23+00:00",
+   "summary": "So like many of you I realized I was creating custom tools for each one of my AI based applications and then realized alright I guess I should go forth and build a local MCP server. SOMEONE TELL ME IF IM DOING SOMETHING WRONG but it seems like permissions control for an agent has to be managed by the MCP service. This…",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "6105664f8f8e6460",
+   "title": "Production Qwen 3.6-27B VLLM config?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uvacno/production_qwen_3627b_vllm_config/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-13T12:36:41+00:00",
+   "summary": "UPDATE : If you are running Qwen3.6 27b or 35b with prefix caching and spec decode, you will run into corruption problems! Take a look at https://github.com/vllm-project/vllm/pull/48375 ; the patch there has resolved my problems on quality decrease. Thanks to /u/buttplugs4life4me for discovering the problem! Hi…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "c11da6bb436c11dd",
+   "title": "OvisOCR2: a promising 0.8B local document parser",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uv88co/ovisocr2_a_promising_08b_local_document_parser/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-13T10:55:51+00:00",
+   "summary": "Just came across OvisOCR2 , a new 0.8B end-to-end OCR model based on Qwen3.5-0.8B. https://preview.redd.it/adj3m8wu9zch1.png?width=5108 format=png auto=webp s=c4f14a0f7bfd6e1417fa8f476479db76498af51b It converts full document pages directly into structured Markdown, including text, tables, formulas, and reading order.…",
+   "matched": [
+    "ocr"
+   ]
+  },
   {
    "uid": "89047161fb8f6e1d",
    "title": "Kuberwastaken/claurst",
@@ -384,6 +508,19 @@
    "summary": "sycl: add Q2_K to DMMV reorder path (#25064) Signed-off-by: Todd Malsbary **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b9984/llama-b9984-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "e5a864ed209e1a1a",
+   "title": "⭐ 1577 · HUANGCHIHHUNGLeo/claude-real-video (Python)",
+   "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-07-13T07:18:53+00:00",
+   "summary": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+   "matched": [
+    "claude",
+    "llm"
    ]
   },
   {
@@ -1476,142 +1613,7 @@
     "claude",
     "claude code"
    ]
-  },
-  {
-   "uid": "d052dcba33d2316f",
-   "title": "⭐ 136 · olemeyer/rocketplaneIO (TypeScript)",
-   "url": "https://github.com/olemeyer/rocketplaneIO",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-07-12T18:12:00+00:00",
-   "summary": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "f46f17562f3cf2e0",
-   "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-   "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-   "source": "Hacker News (AI)",
-   "category": "news",
-   "published": "2026-07-12T17:13:07+00:00",
-   "summary": "Article URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48882716 Points: 205 # Comments: 88",
-   "matched": [
-    "gpt-5"
-   ]
-  },
-  {
-   "uid": "b6f5dd49409a3714",
-   "title": "24GB VRAM llama-server config exchange thread",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uukj2m/24gb_vram_llamaserver_config_exchange_thread/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-07-12T16:43:42+00:00",
-   "summary": "For whom is this tread : Everyone with a 24GB GPU (rtx 3090, 7900xtx, rtx 4090) What this Thread is for : Sharing proven/well working llama-server start configs. Requirements for the configs: - Utilizes the the VRAM as much as possible - Provides at least 200.000 tokens KV Cache State next to your start command, how…",
-   "matched": [
-    "llama"
-   ]
-  },
-  {
-   "uid": "5d3d3e947ffaec4a",
-   "title": "⭐ 170 · oxbshw/watch-skill (Python)",
-   "url": "https://github.com/oxbshw/watch-skill",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-07-12T16:32:04+00:00",
-   "summary": "Video understanding and self-verification for AI agents. Turn videos, streams, and agent screen recordings into searchable, timestamped evidence—then use THE LOOP to inspect, fix, and verify the work. MCP, CLI, REST, local-first.",
-   "matched": [
-    "mcp"
-   ]
-  },
-  {
-   "uid": "c11581044ed7cb2a",
-   "title": "⭐ 340 · SuperJJ007/CSSwitch (Rust)",
-   "url": "https://github.com/SuperJJ007/CSSwitch",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-07-12T16:27:31+00:00",
-   "summary": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-   "matched": [
-    "claude",
-    "anthropic",
-    "deepseek"
-   ]
-  },
-  {
-   "uid": "1bf5590465b8c37d",
-   "title": "ggml-org/llama.cpp b9977",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9977",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-07-12T16:18:10+00:00",
-   "summary": "server : fix image blocks in tool_result being dropped during Anthropic OpenAI conversion (#22536) * server : fix image blocks in tool_result being dropped during Anthropic→OpenAI conversion server_chat_convert_anthropic_to_oai() silently discarded image blocks inside Anthropic tool_result content. This broke multimodal tool outputs (e.g. a tool that returns an image) because the model never…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "66a958d39ef46acf",
-   "title": "ggml-org/llama.cpp b9976",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9976",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-07-12T15:22:50+00:00",
-   "summary": "Fix conditional to display 'LLAMA_SPLIT_MODE_TENSOR not implemented for architecture' message (#24926) **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b9976/llama-b9976-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "5e1398971b9d9e31",
-   "title": "Kreuzberg (local document extraction) is being renamed to Xberg - current version on LTS",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uuhqlz/kreuzberg_local_document_extraction_is_being/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-07-12T14:58:01+00:00",
-   "summary": "Hi all, I'm the author of Kreuzberg. The next version of Kreuzberg will be released as Xberg - why? Well, we discovered that the name is not easy to pronounce or understand for people who don't have the German context, and this wasn't working well. Xberg is a common name for Kreuzberg in Berlin, and it has the…",
-   "matched": [
-    "document extraction"
-   ]
-  },
-  {
-   "uid": "8b2d574d802cf64a",
-   "title": "ggml-org/llama.cpp b9975",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9975",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-07-12T14:49:18+00:00",
-   "summary": "gguf : reject empty metadata keys (#24917) **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b9975/llama-b9975-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "eee1d54ae47375f6",
-   "title": "Anthropic found Claude reasoning in silence (J-space) — we ran the same lens on open Qwen3-8B",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uugulk/anthropic_found_claude_reasoning_in_silence/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-07-12T14:22:37+00:00",
-   "summary": "Anthropic’s research on Claude found a silent internal workspace they call J-space — hidden reasoning that never shows up as visible text. Classic example: the model answers 49 , but inside J-space they caught 21 → 42 → 49 . Important distinction: Chain-of-thought = text you can read J-space = silent concepts in…",
-   "matched": [
-    "claude",
-    "anthropic"
-   ]
-  },
-  {
-   "uid": "8cce2977a9f6e842",
-   "title": "ggml-org/llama.cpp b9974",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9974",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-07-12T14:16:29+00:00",
-   "summary": "cuda: Don't crash when querying memory on device with no free memory. (#25157) If a Cuda device has no or limited available memory, the actual call to cudaMemGetInfo() itself can cause a fatal crash due to a cuda out of memory error (there is not enough memory to actually query memory) This causes an issue because we query memory for all devices at startup even if the user isn't trying to use the…",
-   "matched": [
-    "*"
-   ]
   }
  ],
- "last_run": "2026-07-13T09:54:12.805025+00:00"
+ "last_run": "2026-07-13T18:55:45.156223+00:00"
 }
