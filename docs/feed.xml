@@ -5,8 +5,71 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-07-18T08:19:22Z</updated>
+  <updated>2026-07-18T18:26:59Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>🚀 ultralytics/ultralytics v8.4.101 — v8.4.101 - Add Hailo pose, OBB, and classification export and inference for YOLOv8 and YOLO11 (#25276)</title>
+    <link href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.101"/>
+    <id>urn:uuid:76d48587cb67e61f</id>
+    <updated>2026-07-18T16:48:20Z</updated>
+    <published>2026-07-18T16:48:20Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## 🌟 Summary 🚀 **Ultralytics v8.4.101 expands Hailo deployment support across nearly the full YOLO task range and strengthens NDJSON dataset reliability, Platform validation insights, and documentation.** ## 📊 Key Changes - **🧠 Expanded Hailo export and inference** - `format="hailo"` now supports: - Object detection - Instance segmentation - Pose estimation - Oriented bounding boxes (OBB) - Image…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.101"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Kimi K3 ranks #1 on @AfterQuery's SpreadsheetBench 2, surpassing Claude Fable 5</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1uzzecz/kimi_k3_ranks_1_on_afterquerys_spreadsheetbench_2/"/>
+    <id>urn:uuid:8429dd307ad44851</id>
+    <updated>2026-07-18T15:50:06Z</updated>
+    <published>2026-07-18T15:50:06Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;submitted by /u/Charuru [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, fable&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1uzzecz/kimi_k3_ranks_1_on_afterquerys_spreadsheetbench_2/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10068</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10068"/>
+    <id>urn:uuid:a973bf94a4ec99a4</id>
+    <updated>2026-07-18T13:36:42Z</updated>
+    <published>2026-07-18T13:36:42Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;model: rotate injected K/V cache for DFlash (#25823) * dflash: rotate injected K/V cache when using K/V quantization * Update src/models/dflash.cpp Co-authored-by: Georgi Gerganov * clearer format * remove trailing whitespace --------- Co-authored-by: Georgi Gerganov **Website:** - **macOS/iOS:** - [macOS Apple Silicon…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10068"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 why minimax M3 branch not merged to main?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1uzvzyn/why_minimax_m3_branch_not_merged_to_main/"/>
+    <id>urn:uuid:78eb6672412999ff</id>
+    <updated>2026-07-18T13:31:25Z</updated>
+    <published>2026-07-18T13:31:25Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I was trying to load Minimax M3 using the `llama.cpp` main branch and realized that one needs to get an M3 branch. Is there any good reason why it isn't merged into the main branch? submitted by /u/arm2armreddit [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1uzvzyn/why_minimax_m3_branch_not_merged_to_main/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10067</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10067"/>
+    <id>urn:uuid:0f3c8424349ddf44</id>
+    <updated>2026-07-18T12:12:58Z</updated>
+    <published>2026-07-18T12:12:58Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;llama-quant : exclude i32 ffn_gate_tid2eid routing table from quantization (#25787) DeepSeek-V4's ffn_gate_tid2eid tensor is an i32 token-id -&amp;gt; expert-id index table, not weights. It was never added to the name-based exclusion list alongside ffn_gate_inp.weight, so llama-quantize tries to quantize it and fails since i32 cannot convert to a float type. Fixes ggml-org/llama.cpp#25754 Signed-off-by:…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10067"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Qwen and Gemma providers</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1uzr4ia/qwen_and_gemma_providers/"/>
+    <id>urn:uuid:e76a05bd351be5c9</id>
+    <updated>2026-07-18T09:17:05Z</updated>
+    <published>2026-07-18T09:17:05Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I like to use the MoE modles qwen3.6-35B and Gemma-4-26B. I noticed differences in result quality between versions from different providers, like bartowski, unsloth, lm-studio, google, etc. My tests dont give me a clear answer to though. Is there a rule if thumb which provider to prefer for 1) coding and 2) chatting…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1uzr4ia/qwen_and_gemma_providers/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 What kind of dark magic is Deepseek using?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1uzqspl/what_kind_of_dark_magic_is_deepseek_using/"/>
+    <id>urn:uuid:57b05f6292ef04ad</id>
+    <updated>2026-07-18T08:58:03Z</updated>
+    <published>2026-07-18T08:58:03Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I was taking a look at Kimi K3 scores on the Artificial analysis leaderboard and was quite baffled when I saw this chart. Granted, Deepseek has always been the king of price to performance, but this is still incredible. Is it just API subsidization or have they optimized their models truly this much? submitted by…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1uzqspl/what_kind_of_dark_magic_is_deepseek_using/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 ai-dynamo/dynamo</title>
     <link href="https://github.com/ai-dynamo/dynamo"/>
@@ -60,6 +123,24 @@
     <published>2026-07-18T07:54:58Z</published>
     <category term="REPO"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, gemini&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/PromptPartner/agentsmith"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Bring back Qwen team!</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1uzpd80/bring_back_qwen_team/"/>
+    <id>urn:uuid:2422b4af5d529b16</id>
+    <updated>2026-07-18T07:33:38Z</updated>
+    <published>2026-07-18T07:33:38Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;We knew it will never be the same after they change submitted by /u/takoulseum [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1uzpd80/bring_back_qwen_team/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 SigLIP 2 text embedding on CPU with Rust + ONNX</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1uzoc6x/siglip_2_text_embedding_on_cpu_with_rust_onnx/"/>
+    <id>urn:uuid:6d5a66ffefba7a78</id>
+    <updated>2026-07-18T06:35:30Z</updated>
+    <published>2026-07-18T06:35:30Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;We’re building a robotics data platform with a lot of images, video, and text metadata. For search, we use SigLIP 2. GPUs handle batched asynchronous image/video embedding and indexing, while this small Rust + ONNX Runtime service handles live text queries on CPU. Both land in the same embedding space, so a text query…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: embedding&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1uzoc6x/siglip_2_text_embedding_on_cpu_with_rust_onnx/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📰 Claude make Fable 5 permanent</title>
@@ -141,6 +222,15 @@
     <published>2026-07-17T23:47:50Z</published>
     <category term="NEWS"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I've seen the benchmarks, they supposedly right up there with Fable 5 and Sol 5.6. Howerver I'm skeptical of benchmarks and the kimi k3 creators even mentioned the user experience isn't quite on par. How is K3 doing on coding? How is the personality? Does it's thinking and train of thought feel high quality or sort of…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fable&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1uzg3n3/how_does_kimi_k3_feel_does_it_match_up_where_it/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Local LLM project</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1uzfjjv/local_llm_project/"/>
+    <id>urn:uuid:49da424412682b89</id>
+    <updated>2026-07-17T23:23:09Z</updated>
+    <published>2026-07-17T23:23:09Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Is it worth running local models on this old beast? Dell PowerEdge R710 (2009-12 era) Dual Xenon 5500 (I'm pretty sure) 48Gb DDR3-1066 submitted by /u/Motor-Independent572 [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1uzfjjv/local_llm_project/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>🚀 ggml-org/llama.cpp b10066</title>
@@ -996,95 +1086,5 @@
     <published>2026-07-17T04:00:00Z</published>
     <category term="PAPER"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2410.15267v3 Announce Type: replace-cross Abstract: The deployment of large language models (LLMs) like ChatGPT and Gemini has shown their powerful natural language generation capabilities. However, these models can inadvertently learn and retain sensitive information and harmful content during training, raising…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: gemini, rag&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2410.15267"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 L-MARS: Legal Multi-Agent System with Agentic Search and Citation-Faithfulness Audit</title>
-    <link href="https://arxiv.org/abs/2509.00761"/>
-    <id>urn:uuid:e3dee2ee79bc6c3c</id>
-    <updated>2026-07-17T04:00:00Z</updated>
-    <published>2026-07-17T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2509.00761v4 Announce Type: replace-cross Abstract: Large language models are increasingly deployed for legal question answering, where evaluations typically focus on multiple-choice accuracy. This measure overlooks a common failure: whether the citation source attached to an answer exists and supports the rule…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2509.00761"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 When Does Belief-Based Agent Memory Help? Reliability-Conditional Updating and Provenance-Capped Poisoning Defense</title>
-    <link href="https://arxiv.org/abs/2606.22030"/>
-    <id>urn:uuid:5a1cbde89dccecd7</id>
-    <updated>2026-07-17T04:00:00Z</updated>
-    <published>2026-07-17T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2606.22030v2 Announce Type: replace-cross Abstract: We investigate when belief-based memory actually improves large language model (LLM) agents. Our vehicle is Nous, a long-term memory architecture that represents each entity-attribute pair as a categorical probability distribution updated through closed-form…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2606.22030"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 EvalSafetyGap: A Hybrid Survey and Conceptual Framework for LLM Evaluation-Safety Failures</title>
-    <link href="https://arxiv.org/abs/2606.30219"/>
-    <id>urn:uuid:5e623b88c4270ab7</id>
-    <updated>2026-07-17T04:00:00Z</updated>
-    <published>2026-07-17T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2606.30219v2 Announce Type: replace-cross Abstract: LLM evaluation and AI safety face a shared measurement problem: benchmark scores, reward-model signals, and reported safety metrics can improve while the latent properties they are meant to represent remain difficult to verify. This paper combines a hybrid…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2606.30219"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping</title>
-    <link href="https://arxiv.org/abs/2606.31693"/>
-    <id>urn:uuid:9d80d3d8d0164a28</id>
-    <updated>2026-07-17T04:00:00Z</updated>
-    <published>2026-07-17T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2606.31693v2 Announce Type: replace-cross Abstract: The wave of AI-native applications is moving shopping beyond page- and feed-based browsing toward intent-driven experiences orchestrated by LLM agents. A common design wraps an LLM around existing search and recommendation pipelines, forcing complex intents…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2606.31693"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Multi-Turn On-Policy Distillation with Prefix Replay</title>
-    <link href="https://arxiv.org/abs/2607.04763"/>
-    <id>urn:uuid:a5351f859a0ab1ca</id>
-    <updated>2026-07-17T04:00:00Z</updated>
-    <published>2026-07-17T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.04763v2 Announce Type: replace-cross Abstract: We study on-policy distillation (OPD) for agentic tasks, where an LLM agent interacts with an environment over multiple turns and a student imitates a teacher over these multi-turn interaction histories. Fully online OPD is costly because each update requires…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, distillation, agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.04763"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Inference-Time Concept Suppression and Video-Centric Evaluation for Text-to-Video Models</title>
-    <link href="https://arxiv.org/abs/2607.14194"/>
-    <id>urn:uuid:5a331e8a84cf4d75</id>
-    <updated>2026-07-17T04:00:00Z</updated>
-    <published>2026-07-17T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2607.14194v1 Announce Type: new Abstract: Text-to-video (T2V) generators can synthesize realistic and temporally coherent videos, but controllably removing a target concept from a generator remains difficult. Unlike text-to-image concept erasure, T2V unlearning must suppress a target concept that may persist…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.14194"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation</title>
-    <link href="https://arxiv.org/abs/2607.14287"/>
-    <id>urn:uuid:5c867cd8255b2913</id>
-    <updated>2026-07-17T04:00:00Z</updated>
-    <published>2026-07-17T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2607.14287v1 Announce Type: new Abstract: Defect segmentation in additive manufacturing (AM) X-ray computed tomography (XCT) images remains challenging due to severe class imbalance and large distribution shifts across scan conditions. Although recent foundation models such as the Segment Anything Model (SAM)…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.14287"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Beyond scalar losses: calibrating segmentation models via gradient vector field surgery</title>
-    <link href="https://arxiv.org/abs/2607.14338"/>
-    <id>urn:uuid:6c79e1d444d037e7</id>
-    <updated>2026-07-17T04:00:00Z</updated>
-    <published>2026-07-17T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2607.14338v1 Announce Type: new Abstract: Region-based loss functions, such as the Dice loss, have established themselves as the de facto standard for highly class- and region-imbalanced segmentation tasks. However, models trained using region-based loss functions are notoriously miscalibrated and typically…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.14338"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Multi-Scale ViT Inference with Habitat-Fit Priors and kNN Retrieval for Multi-Species Plant Identification</title>
-    <link href="https://arxiv.org/abs/2607.14509"/>
-    <id>urn:uuid:3c459310609b0364</id>
-    <updated>2026-07-17T04:00:00Z</updated>
-    <published>2026-07-17T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2607.14509v1 Announce Type: new Abstract: This paper describes DS@GT ARC's third-place solution to the PlantCLEF 2026 challenge on multi-species plant identification in vegetation quadrat images, where systems must predict every species present in high-resolution (~3000 x 3000 pixel) plot photographs while…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.14509"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Advanced Image Generation: Negative Prompt Optimization and Latent Classifier Guidance</title>
-    <link href="https://arxiv.org/abs/2607.14580"/>
-    <id>urn:uuid:ccdfba02fb736e99</id>
-    <updated>2026-07-17T04:00:00Z</updated>
-    <published>2026-07-17T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2607.14580v1 Announce Type: new Abstract: We present a novel system that integrates negative prompt optimization via a fine-tuned sequence-to-sequence LLM and latent-space classifier guidance to improve the quality of images generated by Stable Diffusion. Our approach automatically generates optimized negative…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.14580"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
