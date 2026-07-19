@@ -1,5 +1,11 @@
 {
  "seen": [
+  "80162c6c34045e38",
+  "028e9e6b1e2145df",
+  "ec87f4e9f44362b7",
+  "8572ce2a774ab5f7",
+  "5bfab01a7261c754",
+  "03eb85a843ffa3f1",
   "c51e9116e7a8e555",
   "ea6e83bd4fed4e4d",
   "4f1ec54f72847414",
@@ -113,15 +119,83 @@
   "eec073d72f369b41",
   "7b7c50b57e130837",
   "446b9b8a9777dce8",
-  "7909806671261e5a",
-  "943d1a13b6ad67d6",
-  "741167c34e012765",
-  "1167de673c2fa9ce",
-  "9d6872ffb34d5ba5",
-  "92cefd6d2b975e7d",
-  "0e787f7c018055d4"
+  "7909806671261e5a"
  ],
  "items": [
+  {
+   "uid": "80162c6c34045e38",
+   "title": "[Paper] Automated Tensor Scheduling for Hybrid CPU-GPU LLM Inference on Consumer Devices",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0vp9k/paper_automated_tensor_scheduling_for_hybrid/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-19T16:54:44+00:00",
+   "summary": "Running large language models on consumer devices such as laptops and desktops is challenging because model weights often exceed GPU memory capacity, making offloading inference necessary to extend effective model capacity with CPU memory. Existing offloading systems, however, typically rely on coarse layer-level or…",
+   "matched": [
+    "llm",
+    "inference"
+   ]
+  },
+  {
+   "uid": "028e9e6b1e2145df",
+   "title": "Please Qwen, can we have more 3.x-35B-a3B please 🙏",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0t1g2/please_qwen_can_we_have_more_3x35ba3b_please/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-19T15:09:58+00:00",
+   "summary": "submitted by /u/JLeonsarmiento [link] [comments]",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "ec87f4e9f44362b7",
+   "title": "Hey Qwen Team: We Need a 100B MoE Model for Spark!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0sheg/hey_qwen_team_we_need_a_100b_moe_model_for_spark/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-19T14:47:28+00:00",
+   "summary": "Are there any Qwen team members here? Please release a 100B MoE model that I can run on Spark! submitted by /u/absurd-dream-studio [link] [comments]",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "8572ce2a774ab5f7",
+   "title": "poor man's way to local inference on the go",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0pnqd/poor_mans_way_to_local_inference_on_the_go/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-19T12:44:48+00:00",
+   "summary": "Many bring egpu to game on laptop, yet here I am fiddling with llama cpp params for 1-time crappy HW configuration for Qwen3.6 35B A3B. idk if I'm having fun or not, but running llama bench runs are surely a good way to kill some time, I guess p.s. I really like recently added llama cpp's built in lightweight web ui,…",
+   "matched": [
+    "llama",
+    "inference"
+   ]
+  },
+  {
+   "uid": "5bfab01a7261c754",
+   "title": "ultralytics/ultralytics v8.4.102 — v8.4.102 - 8x faster MuSGD optimizer step with batched Newton-Schulz (#25288)",
+   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.102",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-07-19T12:40:11+00:00",
+   "summary": "## 🌟 Summary 🚀 **Ultralytics 8.4.102 makes MuSGD training up to 8× faster while expanding YOLO26 edge deployment, improving export reliability, and strengthening dataset and GPU error handling.** ## 📊 Key Changes - **⚡ Faster MuSGD optimizer** - Batches Newton–Schulz orthogonalization across compatible parameter matrices instead of processing each parameter separately. - Uses fused PyTorch…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "03eb85a843ffa3f1",
+   "title": "OSS gathering in Shanghai",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0nm43/oss_gathering_in_shanghai/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-19T11:02:22+00:00",
+   "summary": "This seems awesome meetup. Within a day, Qwen started the move with 3.8 version. Hoping for more moves from others soon. Tweet : https://xcancel.com/RenLeanna/status/2078144481812185186#m submitted by /u/pmttyji [link] [comments]",
+   "matched": [
+    "qwen"
+   ]
+  },
   {
    "uid": "c51e9116e7a8e555",
    "title": "cocoindex-io/cocoindex",
@@ -1543,85 +1617,7 @@
    "matched": [
     "llm"
    ]
-  },
-  {
-   "uid": "943d1a13b6ad67d6",
-   "title": "Answer-Conditioned Chains of Thought Degrade Verifiable-Reasoning Distillation in Large Language Models",
-   "url": "https://arxiv.org/abs/2607.14552",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2607.14552v1 Announce Type: new Abstract: A standard recipe for distilling the reasoning ability of large language models (LLMs) is to sample chains of thought from the model, keep those that reach the correct final answer, and fine-tune on the survivors. When sampling fails, a common fix shows the generator the…",
-   "matched": [
-    "fine-tune",
-    "distillation"
-   ]
-  },
-  {
-   "uid": "741167c34e012765",
-   "title": "Investigating first-language bias in LLM-based automated essay scoring: A cross-prompt evaluation of an open-weight AI-model on TOEFL essays",
-   "url": "https://arxiv.org/abs/2607.14605",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2607.14605v1 Announce Type: new Abstract: This study examines the cross-prompt generalization and first-language (L1) scoring effects of a LoRA-adapted open-weight large language model (Gemma-3-27B-it) applied to automated essay scoring. Using the identical model and inference configuration reported in \"AiAWE:…",
-   "matched": [
-    "llm",
-    "lora",
-    "inference"
-   ]
-  },
-  {
-   "uid": "1167de673c2fa9ce",
-   "title": "D-cut: Adaptive Verification Depth Pruning for Batched Speculative Decoding",
-   "url": "https://arxiv.org/abs/2607.14647",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2607.14647v1 Announce Type: new Abstract: Speculative decoding accelerates large language model (LLM) inference without compromising output quality. Recent parallel drafting methods further improve single-request performance by decoupling draft length from drafting latency, enabling longer drafts and higher mean…",
-   "matched": [
-    "llm",
-    "inference"
-   ]
-  },
-  {
-   "uid": "9d6872ffb34d5ba5",
-   "title": "Gold-Guided Programmatic Distillation for Financial Reasoning over Hybrid Tables and Text",
-   "url": "https://arxiv.org/abs/2607.14709",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2607.14709v1 Announce Type: new Abstract: Financial question answering over hybrid tabular and textual data may require multi-source reasoning and precise numerical computation. While large language models (LLMs) can generate intermediate reasoning steps, natural-language rationales remain prone to arithmetic…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "92cefd6d2b975e7d",
-   "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning",
-   "url": "https://arxiv.org/abs/2607.14777",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2607.14777v1 Announce Type: new Abstract: Large language models are increasingly trained as interactive agents for long-horizon tasks involving multi-turn interaction, tool use, and environment feedback. Outcome-based reinforcement learning (RL) provides a practical optimization paradigm, but its sparse…",
-   "matched": [
-    "distillation",
-    "agentic",
-    "tool use"
-   ]
-  },
-  {
-   "uid": "0e787f7c018055d4",
-   "title": "Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution",
-   "url": "https://arxiv.org/abs/2607.14905",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2607.14905v1 Announce Type: new Abstract: Given the current trend to employ large language models (LLMs) in almost any imaginable context, LLM-generated text detection and authorship attribution have become a pressing issue. Prior work has primarily focused on surface-level linguistic features, an approach shown…",
-   "matched": [
-    "llm"
-   ]
   }
  ],
- "last_run": "2026-07-19T08:42:43.161750+00:00"
+ "last_run": "2026-07-19T18:27:08.621982+00:00"
 }

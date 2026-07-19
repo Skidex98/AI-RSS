@@ -5,8 +5,62 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-07-19T08:42:43Z</updated>
+  <updated>2026-07-19T18:27:08Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>📰 [Paper] Automated Tensor Scheduling for Hybrid CPU-GPU LLM Inference on Consumer Devices</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v0vp9k/paper_automated_tensor_scheduling_for_hybrid/"/>
+    <id>urn:uuid:80162c6c34045e38</id>
+    <updated>2026-07-19T16:54:44Z</updated>
+    <published>2026-07-19T16:54:44Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Running large language models on consumer devices such as laptops and desktops is challenging because model weights often exceed GPU memory capacity, making offloading inference necessary to extend effective model capacity with CPU memory. Existing offloading systems, however, typically rely on coarse layer-level or…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v0vp9k/paper_automated_tensor_scheduling_for_hybrid/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Please Qwen, can we have more 3.x-35B-a3B please 🙏</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v0t1g2/please_qwen_can_we_have_more_3x35ba3b_please/"/>
+    <id>urn:uuid:028e9e6b1e2145df</id>
+    <updated>2026-07-19T15:09:58Z</updated>
+    <published>2026-07-19T15:09:58Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;submitted by /u/JLeonsarmiento [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v0t1g2/please_qwen_can_we_have_more_3x35ba3b_please/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Hey Qwen Team: We Need a 100B MoE Model for Spark!</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v0sheg/hey_qwen_team_we_need_a_100b_moe_model_for_spark/"/>
+    <id>urn:uuid:ec87f4e9f44362b7</id>
+    <updated>2026-07-19T14:47:28Z</updated>
+    <published>2026-07-19T14:47:28Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Are there any Qwen team members here? Please release a 100B MoE model that I can run on Spark! submitted by /u/absurd-dream-studio [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v0sheg/hey_qwen_team_we_need_a_100b_moe_model_for_spark/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 poor man's way to local inference on the go</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v0pnqd/poor_mans_way_to_local_inference_on_the_go/"/>
+    <id>urn:uuid:8572ce2a774ab5f7</id>
+    <updated>2026-07-19T12:44:48Z</updated>
+    <published>2026-07-19T12:44:48Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Many bring egpu to game on laptop, yet here I am fiddling with llama cpp params for 1-time crappy HW configuration for Qwen3.6 35B A3B. idk if I'm having fun or not, but running llama bench runs are surely a good way to kill some time, I guess p.s. I really like recently added llama cpp's built in lightweight web ui,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v0pnqd/poor_mans_way_to_local_inference_on_the_go/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ultralytics/ultralytics v8.4.102 — v8.4.102 - 8x faster MuSGD optimizer step with batched Newton-Schulz (#25288)</title>
+    <link href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.102"/>
+    <id>urn:uuid:5bfab01a7261c754</id>
+    <updated>2026-07-19T12:40:11Z</updated>
+    <published>2026-07-19T12:40:11Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## 🌟 Summary 🚀 **Ultralytics 8.4.102 makes MuSGD training up to 8× faster while expanding YOLO26 edge deployment, improving export reliability, and strengthening dataset and GPU error handling.** ## 📊 Key Changes - **⚡ Faster MuSGD optimizer** - Batches Newton–Schulz orthogonalization across compatible parameter matrices instead of processing each parameter separately. - Uses fused PyTorch…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.102"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 OSS gathering in Shanghai</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v0nm43/oss_gathering_in_shanghai/"/>
+    <id>urn:uuid:03eb85a843ffa3f1</id>
+    <updated>2026-07-19T11:02:22Z</updated>
+    <published>2026-07-19T11:02:22Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;This seems awesome meetup. Within a day, Qwen started the move with 3.8 version. Hoping for more moves from others soon. Tweet : https://xcancel.com/RenLeanna/status/2078144481812185186#m submitted by /u/pmttyji [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v0nm43/oss_gathering_in_shanghai/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 cocoindex-io/cocoindex</title>
     <link href="https://github.com/cocoindex-io/cocoindex"/>
@@ -1032,59 +1086,5 @@
     <published>2026-07-17T04:00:00Z</published>
     <category term="PAPER"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.14480v1 Announce Type: new Abstract: LLM evaluators (trained reward models and prompted LLM-as-a-Judge) are routinely validated via pairwise accuracy. In a multilingual setting, this operates under the premise that high pairwise accuracy implies reliable, language-neutral scoring. We show that this…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.14480"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Answer-Conditioned Chains of Thought Degrade Verifiable-Reasoning Distillation in Large Language Models</title>
-    <link href="https://arxiv.org/abs/2607.14552"/>
-    <id>urn:uuid:943d1a13b6ad67d6</id>
-    <updated>2026-07-17T04:00:00Z</updated>
-    <published>2026-07-17T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.14552v1 Announce Type: new Abstract: A standard recipe for distilling the reasoning ability of large language models (LLMs) is to sample chains of thought from the model, keep those that reach the correct final answer, and fine-tune on the survivors. When sampling fails, a common fix shows the generator the…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tune, distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.14552"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Investigating first-language bias in LLM-based automated essay scoring: A cross-prompt evaluation of an open-weight AI-model on TOEFL essays</title>
-    <link href="https://arxiv.org/abs/2607.14605"/>
-    <id>urn:uuid:741167c34e012765</id>
-    <updated>2026-07-17T04:00:00Z</updated>
-    <published>2026-07-17T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.14605v1 Announce Type: new Abstract: This study examines the cross-prompt generalization and first-language (L1) scoring effects of a LoRA-adapted open-weight large language model (Gemma-3-27B-it) applied to automated essay scoring. Using the identical model and inference configuration reported in "AiAWE:…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, lora, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.14605"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 D-cut: Adaptive Verification Depth Pruning for Batched Speculative Decoding</title>
-    <link href="https://arxiv.org/abs/2607.14647"/>
-    <id>urn:uuid:1167de673c2fa9ce</id>
-    <updated>2026-07-17T04:00:00Z</updated>
-    <published>2026-07-17T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.14647v1 Announce Type: new Abstract: Speculative decoding accelerates large language model (LLM) inference without compromising output quality. Recent parallel drafting methods further improve single-request performance by decoupling draft length from drafting latency, enabling longer drafts and higher mean…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.14647"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Gold-Guided Programmatic Distillation for Financial Reasoning over Hybrid Tables and Text</title>
-    <link href="https://arxiv.org/abs/2607.14709"/>
-    <id>urn:uuid:9d6872ffb34d5ba5</id>
-    <updated>2026-07-17T04:00:00Z</updated>
-    <published>2026-07-17T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.14709v1 Announce Type: new Abstract: Financial question answering over hybrid tabular and textual data may require multi-source reasoning and precise numerical computation. While large language models (LLMs) can generate intermediate reasoning steps, natural-language rationales remain prone to arithmetic…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.14709"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning</title>
-    <link href="https://arxiv.org/abs/2607.14777"/>
-    <id>urn:uuid:92cefd6d2b975e7d</id>
-    <updated>2026-07-17T04:00:00Z</updated>
-    <published>2026-07-17T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.14777v1 Announce Type: new Abstract: Large language models are increasingly trained as interactive agents for long-horizon tasks involving multi-turn interaction, tool use, and environment feedback. Outcome-based reinforcement learning (RL) provides a practical optimization paradigm, but its sparse…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation, agentic, tool use&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.14777"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution</title>
-    <link href="https://arxiv.org/abs/2607.14905"/>
-    <id>urn:uuid:0e787f7c018055d4</id>
-    <updated>2026-07-17T04:00:00Z</updated>
-    <published>2026-07-17T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.14905v1 Announce Type: new Abstract: Given the current trend to employ large language models (LLMs) in almost any imaginable context, LLM-generated text detection and authorship attribution have become a pressing issue. Prior work has primarily focused on surface-level linguistic features, an approach shown…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.14905"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
