@@ -1,6 +1,33 @@
 {
  "seen": [
+  "c51e9116e7a8e555",
+  "ea6e83bd4fed4e4d",
+  "4f1ec54f72847414",
+  "a8f611c84abe4901",
+  "9789740e6c96abd5",
+  "f22dfe85c6a10c3c",
+  "4b66e01d5845b450",
+  "b6ac129658829f16",
+  "808e1873b6f1032d",
+  "4d5fdfaf6008dbf1",
+  "96b44ddd2492d261",
+  "6ac83b0feb93fdda",
+  "00866288f3f53655",
+  "dc8fc63acfa2f255",
+  "d7eba2b4751ded98",
+  "c497d0fa7ed24a8c",
+  "f984fcc14ca074ac",
+  "4ce114e08ef1e8e7",
+  "1caf7f652f9bebbb",
+  "a1257da88cbcc643",
+  "258e7c955d3bde02",
+  "c84fe15e5e1b9c7e",
+  "d92c478ace036f93",
+  "d104f1c01ac84c7a",
+  "c9b05c7d28b61417",
+  "b44f9a39b43a0983",
   "76d48587cb67e61f",
+  "fd4f0956f3d8fda2",
   "8429dd307ad44851",
   "a973bf94a4ec99a4",
   "78eb6672412999ff",
@@ -92,36 +119,333 @@
   "1167de673c2fa9ce",
   "9d6872ffb34d5ba5",
   "92cefd6d2b975e7d",
-  "0e787f7c018055d4",
-  "9ba50205250c7c80",
-  "8a6f3a4fa67aeda0",
-  "53e6eb70e23b829f",
-  "7512a1846b7b7ba0",
-  "f14c2a77a059d156",
-  "4f9622547640f25a",
-  "169c086fb9ba7e8c",
-  "b6b3bf46d080f45d",
-  "caa2321f654e852b",
-  "bc87a38bfd3f310c",
-  "35472a18b338ef2a",
-  "52b0d8748e413098",
-  "eced8581a32e2e7d",
-  "84ed698d3ebcc5b5",
-  "31576a0be71d21b8",
-  "048d4da38b006ac4",
-  "2cd1bfd0ab7040f5",
-  "ab95da088b33d7dd",
-  "9fb8e47b178561f8",
-  "c1677e9af300df3f",
-  "9d0d19dabd28abd5",
-  "9324a5799168995e",
-  "60a784ae41f535bf",
-  "2d169e4da864ebc8",
-  "188d811e76c2dd11",
-  "364a83007dd152fc",
-  "cf15960fff843d48"
+  "0e787f7c018055d4"
  ],
  "items": [
+  {
+   "uid": "c51e9116e7a8e555",
+   "title": "cocoindex-io/cocoindex",
+   "url": "https://github.com/cocoindex-io/cocoindex",
+   "source": "GitHub Trending — Rust",
+   "category": "repo",
+   "published": "2026-07-19T08:42:27.929555+00:00",
+   "summary": "Incremental engine for long horizon agents 🌟 Star if you like it! Your agents deserve fresh context. Star us ❤️ → · · · CocoIndex turns codebases, meeting notes, inboxes, Slack, PDFs, and videos into live, continuously fresh context for your AI agents and LLM apps to reason over effectively — with minimal incremental…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "ea6e83bd4fed4e4d",
+   "title": "warpdotdev/warp",
+   "url": "https://github.com/warpdotdev/warp",
+   "source": "GitHub Trending — Rust",
+   "category": "repo",
+   "published": "2026-07-19T08:42:27.926523+00:00",
+   "summary": "Warp is an agentic development environment, born out of the terminal. Website · Code · Agents · Terminal · Drive · Docs · How Warp Works Note OpenAI is the founding sponsor of the new, open-source Warp repository, and the new agentic management workflows are powered by GPT models. About Warp is an agentic development…",
+   "matched": [
+    "agentic"
+   ]
+  },
+  {
+   "uid": "4f1ec54f72847414",
+   "title": "run-llama/liteparse",
+   "url": "https://github.com/run-llama/liteparse",
+   "source": "GitHub Trending — Rust",
+   "category": "repo",
+   "published": "2026-07-19T08:42:27.925103+00:00",
+   "summary": "A fast, helpful, and open-source document parser LiteParse | | | | | | Docs English | 简体中文 Looking for LiteParse V1? Follow this link to the old code LiteParse is a standalone OSS PDF parsing tool focused exclusively on fast and light parsing. It provides high-quality spatial text parsing with bounding boxes, without…",
+   "matched": [
+    "llama"
+   ]
+  },
+  {
+   "uid": "a8f611c84abe4901",
+   "title": "rivet-dev/agentos",
+   "url": "https://github.com/rivet-dev/agentos",
+   "source": "GitHub Trending — Rust",
+   "category": "repo",
+   "published": "2026-07-19T08:42:27.917772+00:00",
+   "summary": "A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in. A portable open-source operating system for AI agents. Near-zero cold starts (~6 ms), up to 32x cheaper than sandboxes. Built-in ACP agents: Pi, Claude Code, and OpenCode…",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "9789740e6c96abd5",
+   "title": "musistudio/claude-code-router",
+   "url": "https://github.com/musistudio/claude-code-router",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-07-19T08:42:27.419112+00:00",
+   "summary": "One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control. Claude Code Router Kimi Code Subscription · API Global · API China Thanks to Kimi for sponsoring this project! Kimi K2.7 Code is an open-source, coding-focused agentic model developed…",
+   "matched": [
+    "claude",
+    "agentic",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "f22dfe85c6a10c3c",
+   "title": "SigNoz/signoz",
+   "url": "https://github.com/SigNoz/signoz",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-07-19T08:42:27.413737+00:00",
+   "summary": "SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build…",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "4b66e01d5845b450",
+   "title": "KnockOutEZ/wigolo",
+   "url": "https://github.com/KnockOutEZ/wigolo",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-07-19T08:42:27.409571+00:00",
+   "summary": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. Local-first web intelligence for AI agents — no keys, no cloud, no metered bill. works with Claude Code · Cursor · Codex · Gemini CLI · VS Code · Windsurf · Zed · Antigravity and…",
+   "matched": [
+    "claude",
+    "gemini",
+    "mcp",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "b6ac129658829f16",
+   "title": "agentscope-ai/agentscope",
+   "url": "https://github.com/agentscope-ai/agentscope",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-07-19T08:42:26.700345+00:00",
+   "summary": "Build and run agents you can see, understand and trust. 中文主页 | Documentation | Roadmap What is AgentScope 2.0? AgentScope 2.0 is a production-ready, easy-to-use agent framework with essential abstractions that work with rising model capability and built-in support for . Event System → A unified event bus to the…",
+   "matched": [
+    "agent framework"
+   ]
+  },
+  {
+   "uid": "808e1873b6f1032d",
+   "title": "anthropics/skills",
+   "url": "https://github.com/anthropics/skills",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-07-19T08:42:26.697961+00:00",
+   "summary": "Public repository for Agent Skills Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io . Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized…",
+   "matched": [
+    "claude",
+    "anthropic"
+   ]
+  },
+  {
+   "uid": "4d5fdfaf6008dbf1",
+   "title": "Ahem! Qwen is on the move again",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0kqnn/ahem_qwen_is_on_the_move_again/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-19T08:12:22+00:00",
+   "summary": "https://preview.redd.it/0l8w2j67a5eh1.png?width=581 format=png auto=webp s=cae9d3ef7cf80cea780e0670f7dede73d1c02d49 https://x.com/Alibaba_Qwen/status/2078754377473601787?s=20 submitted by /u/Lowkey_LokiSN [link] [comments]",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "96b44ddd2492d261",
+   "title": "Thinking Machines' best public Tinker result used Qwen3-235B, not Inkling. is the base model actually that important?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0ka8g/thinking_machines_best_public_tinker_result_used/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-19T07:45:27+00:00",
+   "summary": "I Went through the Inkling model card and the Bridgewater/Tinker case study instead of the press coverage. Coverage mostly quoted the 97.1% AIME 2026 number; the rest of the table tells a more mixed story. AIME 2026: Inkling 97.1%, GLM 5.2 99.2%, Fable 5 and GPT-5.6 Sol both 99.9%. Everyone on the list is above 94%,…",
+   "matched": [
+    "gpt-5",
+    "fable"
+   ]
+  },
+  {
+   "uid": "6ac83b0feb93fdda",
+   "title": "daijro/camoufox v152.0.4-beta.28",
+   "url": "https://github.com/daijro/camoufox/releases/tag/v152.0.4-beta.28",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-07-19T07:20:26+00:00",
+   "summary": "> [!WARNING] > Keep in mind that Camoufox is in active development and may not be suitable for a production environment. > If you experience any issues, please report them [here](https://github.com/daijro/camoufox/issues). ## What's Changed * fix(juggler): restore humanized mouse trajectory dropped in FF146 migration (#677) by @JWriter20 in https://github.com/daijro/camoufox/pull/679 *…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "00866288f3f53655",
+   "title": "⭐ 63 · S40911120/recensa (TypeScript)",
+   "url": "https://github.com/S40911120/recensa",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-07-19T05:43:43+00:00",
+   "summary": "Self-hosted web viewer for Claude Code session transcripts — read, search, replay, and audit every session you have ever run",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "dc8fc63acfa2f255",
+   "title": "AI Mania Is Eviscerating Global Decision-Making",
+   "url": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-07-19T05:06:21+00:00",
+   "summary": "AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources. In one extreme case, I have seen an executive confess that they had never even…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "d7eba2b4751ded98",
+   "title": "Claude Code uses Bun written in Rust now",
+   "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-07-19T03:54:09+00:00",
+   "summary": "In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. I decided to have a poke at my own Claude Code installation to see if I could find…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "c497d0fa7ed24a8c",
+   "title": "⭐ 578 · Skyvern-AI/rustwright (Python)",
+   "url": "https://github.com/Skyvern-AI/rustwright",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-07-19T03:47:44+00:00",
+   "summary": "Playwright's API on a Rust CDP engine — Chromium browser automation for Python & Node, no driver subprocess. (Alpha)",
+   "matched": [
+    "browser automation"
+   ]
+  },
+  {
+   "uid": "f984fcc14ca074ac",
+   "title": "anthropics/claude-agent-sdk-python v0.2.123",
+   "url": "https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.123",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-07-19T03:08:55+00:00",
+   "summary": "### Internal/Other Changes - Updated bundled Claude CLI to version 2.1.215 --- **PyPI:** https://pypi.org/project/claude-agent-sdk/0.2.123/ ```bash pip install claude-agent-sdk==0.2.123 ```",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "4ce114e08ef1e8e7",
+   "title": "anthropics/claude-code v2.1.215",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.215",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-07-19T02:56:01+00:00",
+   "summary": "## What's changed - Claude no longer runs the `/verify` and `/code-review` skills on its own; invoke them with `/verify` or `/code-review` when you want them",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "1caf7f652f9bebbb",
+   "title": "Deepseek v4 Flash on 80 GB VRAM and 128 GB DDR4 RAM",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0etj2/deepseek_v4_flash_on_80_gb_vram_and_128_gb_ddr4/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-19T02:47:27+00:00",
+   "summary": "I am using unsloth Q8 Deepseek v4 Flash. So far I am able to run properly with the following command CUDA_DEVICE_ORDER=PCI_BUS_ID CUDA_VISIBLE_DEVICES=0,2,1 \\ llamacpp/llama.cpp/build/bin/llama-server \\ --model unsloth/DeepSeek-V4-Flash-GGUF/UD-Q8_K_XL/DeepSeek-V4-Flash-UD-Q8_K_XL-00001-of-00005.gguf \\ --port 8001…",
+   "matched": [
+    "llama",
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "a1257da88cbcc643",
+   "title": "What’s your favorite underrated local model?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0eszf/whats_your_favorite_underrated_local_model/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-19T02:46:37+00:00",
+   "summary": "What’s your favorite underrated local model that you actually use every day? I’m not talking about the mainstream choices like Qwen 3.6 or Gemma 4. I’m looking for the hidden gems that deserve more attention. What do you use it for, and what hardware are you running it on? I’m hoping this thread surfaces some…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "258e7c955d3bde02",
+   "title": "I tried fine-tuning a ternary model, Bonsai 8b, on metal",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0egoi/i_tried_finetuning_a_ternary_model_bonsai_8b_on/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-19T02:29:24+00:00",
+   "summary": "We've heard the hype around binary and ternary models, and it seems recently, their performance is starting to catch up and be competitive for every-day use across a range of devices, although there's still more to wish for... What these models are A new family of true sub-2-bit LLMs is out: PrismML's Bonsai line.…",
+   "matched": [
+    "fine-tuning"
+   ]
+  },
+  {
+   "uid": "c84fe15e5e1b9c7e",
+   "title": "Qwen vs Gemma",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0dksm/qwen_vs_gemma/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-19T01:45:00+00:00",
+   "summary": "Hi! Been doing some local LLM stuff, and I can't help but notice: despite vastly-superior benchmark scores, Qwen 3.6 35a3B feels... substantially less intelligent than Gemma 4 26a4B (QAT). In terms of prompt adherence, output coherence, and just general sanity , Gemma seems head-and-shoulders ahead. Arena.ai rankings…",
+   "matched": [
+    "qwen",
+    "llm"
+   ]
+  },
+  {
+   "uid": "d92c478ace036f93",
+   "title": "FastFlowLM Joins AMD to Advance AI Inference",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0axkk/fastflowlm_joins_amd_to_advance_ai_inference/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-18T23:40:25+00:00",
+   "summary": "Super excited to have the FLM team as co-workers! submitted by /u/jfowers_amd [link] [comments]",
+   "matched": [
+    "inference"
+   ]
+  },
+  {
+   "uid": "d104f1c01ac84c7a",
+   "title": "Deepseek V4 soon",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v04jq2/deepseek_v4_soon/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-18T19:11:19+00:00",
+   "summary": "Deepseek V4 is about to be released; they say it will be cheap, and from the videos I've seen, it will be similar to Kimi K3 and Fable. I think Fable will be replaced by these two Chinese models. submitted by /u/Illustrious-Swim9663 [link] [comments]",
+   "matched": [
+    "deepseek",
+    "fable"
+   ]
+  },
+  {
+   "uid": "c9b05c7d28b61417",
+   "title": "model: add openPangu-2.0-Flash (92B-A6B) with MLA-latent cache, DSA/SWA, mHC, and multi-head MTP by joelfarthing · Pull Request #2065 · ikawrakow/ik_llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v03psf/model_add_openpangu20flash_92ba6b_with_mlalatent/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-18T18:38:39+00:00",
+   "summary": "openPangu-2.0-Flash - 92B A6B 512K Context Length Model : https://huggingface.co/openpangu/openPangu-2.0-Flash/blob/main/README_EN.md GGUF for ik_llama folks : https://huggingface.co/ji-farthing/openPangu-2.0-Flash-ik-llama-GGUF submitted by /u/pmttyji [link] [comments]",
+   "matched": [
+    "llama"
+   ]
+  },
+  {
+   "uid": "b44f9a39b43a0983",
+   "title": "SQLite Query Explainer",
+   "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-07-18T17:19:10+00:00",
+   "summary": "Tool: SQLite Query Explainer Julia Evan's, in Learning a few things about running SQLite : Maybe one day I’ll learn to read a query plan. Big same.... which inspired me to have Fable build this interactive explain tool, which runs SQLite in Python in Pyodide in Web Assembly in the browser and adds a layer of…",
+   "matched": [
+    "*"
+   ]
+  },
   {
    "uid": "76d48587cb67e61f",
    "title": "ultralytics/ultralytics v8.4.101 — v8.4.101 - Add Hailo pose, OBB, and classification export and inference for YOLOv8 and YOLO11 (#25276)",
@@ -132,6 +456,19 @@
    "summary": "## 🌟 Summary 🚀 **Ultralytics v8.4.101 expands Hailo deployment support across nearly the full YOLO task range and strengthens NDJSON dataset reliability, Platform validation insights, and documentation.** ## 📊 Key Changes - **🧠 Expanded Hailo export and inference** - `format=\"hailo\"` now supports: - Object detection - Instance segmentation - Pose estimation - Oriented bounding boxes (OBB) - Image…",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "fd4f0956f3d8fda2",
+   "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+   "url": "https://ykdojo.github.io/claude-controls-mac/",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-07-18T16:12:08+00:00",
+   "summary": "Article URL: https://ykdojo.github.io/claude-controls-mac/ Comments URL: https://news.ycombinator.com/item?id=48959392 Points: 227 # Comments: 155",
+   "matched": [
+    "claude",
+    "claude code"
    ]
   },
   {
@@ -1284,337 +1621,7 @@
    "matched": [
     "llm"
    ]
-  },
-  {
-   "uid": "9ba50205250c7c80",
-   "title": "Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents",
-   "url": "https://arxiv.org/abs/2607.15095",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2607.15095v1 Announce Type: new Abstract: The formation of political coalitions is a complex negotiation driven by both concrete policy objectives and deep-seated ideological convictions. While Large Language Models (LLMs) open new avenues for computational political science, the neutrality and helpfulness…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "8a6f3a4fa67aeda0",
-   "title": "Grokipedia vs Wikipedia: An LLM-Based Audit of Political Neutrality along Ideologies",
-   "url": "https://arxiv.org/abs/2607.15146",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2607.15146v1 Announce Type: new Abstract: Online encyclopedias shape political opinion and, through it, democratic discourse. In late 2025, Grokipedia was released, an encyclopedia written entirely by the LLM Grok. One motivation behind the project was to provide an unbiased alternative to Wikipedia, which has…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "53e6eb70e23b829f",
-   "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
-   "url": "https://arxiv.org/abs/2607.15277",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2607.15277v1 Announce Type: new Abstract: In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditional distribution. If this interpretation holds, then LLM estimates should…",
-   "matched": [
-    "llm",
-    "inference"
-   ]
-  },
-  {
-   "uid": "7512a1846b7b7ba0",
-   "title": "Orchestrating Power Grid Studies with Multi-Agent AI and MCP Servers",
-   "url": "https://arxiv.org/abs/2607.14158",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2607.14158v1 Announce Type: cross Abstract: This position paper explores how Agentic AI and Model Context Protocol (MCP) can support power-grid studies in a Transmission System Operator (TSO) context. We focus on integrating Large Language Models with numerical simulation tools, structured workflows, and human…",
-   "matched": [
-    "mcp",
-    "model context protocol",
-    "agentic"
-   ]
-  },
-  {
-   "uid": "f14c2a77a059d156",
-   "title": "MemoHarness: Agent Harnesses That Learn from Experience",
-   "url": "https://arxiv.org/abs/2607.14159",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2607.14159v1 Announce Type: cross Abstract: An agent harness is the external control layer that turns a base LLM into an executable agent by managing context, tools, orchestration, memory, decoding, and output handling. While harness design strongly affects agent behavior, most automatic improvement methods…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "4f9622547640f25a",
-   "title": "Branching Policy Optimization: Sandbox-Native Language Agent Reinforcement Learning",
-   "url": "https://arxiv.org/abs/2607.14171",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2607.14171v1 Announce Type: cross Abstract: Reinforcement learning has emerged as the dominant paradigm for training large language model (LLM) agents that interact with executable sandboxes. State-of-the-art algorithms such as PPO, RLOO, and GRPO inherit their rollout topology from RLHF: for each prompt, N…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "169c086fb9ba7e8c",
-   "title": "SD-MAR: Multi-image Analytical Reasoning via Synthetic Data and Reinforcement Learning",
-   "url": "https://arxiv.org/abs/2607.14333",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2607.14333v1 Announce Type: cross Abstract: Vision Language Models (VLMs) demonstrate strong perceptual abilities but remain limited in tasks requiring analytical reasoning across multiple visual states, such as multi-image comparison, change detection, and multi-step visual inference. These capabilities are…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "b6b3bf46d080f45d",
-   "title": "RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning",
-   "url": "https://arxiv.org/abs/2607.14512",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2607.14512v1 Announce Type: cross Abstract: Multi-step retrosynthesis planning seeks to decompose a target molecule into commercially available building blocks through a sequence of feasible reactions. The vast combinatorial search space makes this task challenging even for expert chemists. Traditional methods…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "caa2321f654e852b",
-   "title": "Stop Thinking, Start Looking: Efficient Post-Training for Multimodal Document Question Answering via Reasoning-Free Alignment",
-   "url": "https://arxiv.org/abs/2607.14682",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2607.14682v1 Announce Type: cross Abstract: Efficient multimodal document question answering with explicit visual grounding, locating the precise document region that supports each answer remains an open challenge. Current approaches bifurcate into Supervised Fine-Tuning (SFT), which requires large annotated…",
-   "matched": [
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "bc87a38bfd3f310c",
-   "title": "The Energy Society: A Simulation Environment for Studying Agent Cooperation under Survival Pressure",
-   "url": "https://arxiv.org/abs/2607.14865",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2607.14865v1 Announce Type: cross Abstract: LLM-based agents are increasingly deployed in multi-agent environments whose incentives can shape their behavior. We introduce The Energy Society, a minimal survival economy for studying how competitive and cooperative incentives affect emergent behavior when inference…",
-   "matched": [
-    "llm",
-    "inference"
-   ]
-  },
-  {
-   "uid": "35472a18b338ef2a",
-   "title": "Innocuous-Seeming Data, Latent Ideology: Ideological Generalisation in Finetuned LLMs",
-   "url": "https://arxiv.org/abs/2607.14888",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2607.14888v1 Announce Type: cross Abstract: Finetuning language models on small, curated datasets is standard practice for adapting them to specific policies or domains. We show that finetuning on narrow, factually-defensible, moderation-passing data can cause broad ideological shifts across unrelated domains,…",
-   "matched": [
-    "finetuning"
-   ]
-  },
-  {
-   "uid": "52b0d8748e413098",
-   "title": "On-Policy Delta Distillation",
-   "url": "https://arxiv.org/abs/2607.15161",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2607.15161v1 Announce Type: cross Abstract: On-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing token-level supervision from a teacher model. Although on-policy distillation has been studied and applied…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "eced8581a32e2e7d",
-   "title": "Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step Agentic Search",
-   "url": "https://arxiv.org/abs/2607.15253",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2607.15253v1 Announce Type: cross Abstract: Retrieval systems are trained and evaluated on a static idea of usefulness: hand a document and a question to a reader model, see whether the answer improves, and score the document accordingly. The idea holds up when a document is read on its own. It breaks when a…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "84ed698d3ebcc5b5",
-   "title": "Decoupled Alignment for Robust Plug-and-Play Adaptation",
-   "url": "https://arxiv.org/abs/2406.01514",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2406.01514v4 Announce Type: replace Abstract: We introduce a training-free safety enhancement method for aligning large language models (LLMs) without the need for supervised fine-tuning or reinforcement learning from human feedback. Our main idea is to provide a robust plug-and-play approach to prevent shadow…",
-   "matched": [
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "31576a0be71d21b8",
-   "title": "Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity",
-   "url": "https://arxiv.org/abs/2510.01171",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2510.01171v4 Announce Type: replace Abstract: Post-training alignment often reduces LLM diversity, leading to a phenomenon known as mode collapse. Unlike prior work that attributes this effect to algorithmic limitations, we identify a fundamental, pervasive data-level driver: typicality bias in preference data,…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "048d4da38b006ac4",
-   "title": "Step-Tagging: Toward controlling the generation of Language Reasoning Models through step monitoring",
-   "url": "https://arxiv.org/abs/2512.14332",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2512.14332v2 Announce Type: replace Abstract: The field of Language Reasoning Models (LRMs) has been very active over the past few years with advances in training and inference techniques enabling LRMs to reason longer, and more accurately. However, a growing body of studies show that LRMs are still inefficient,…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "2cd1bfd0ab7040f5",
-   "title": "WavePhaseNet: A DFT-Based Method for Constructing Semantic Conceptual Hierarchy Structures (SCHS)",
-   "url": "https://arxiv.org/abs/2602.14419",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2602.14419v2 Announce Type: replace Abstract: This paper reformulates Transformer/Attention mechanisms in Large Language Models (LLMs) through measure theory and frequency analysis, theoretically demonstrating that hallucination is an inevitable structural limitation. The embedding space functions as a…",
-   "matched": [
-    "embedding"
-   ]
-  },
-  {
-   "uid": "ab95da088b33d7dd",
-   "title": "The Hidden Puppet Master: Predicting Human Belief Change in Manipulative LLM Dialogues",
-   "url": "https://arxiv.org/abs/2603.20907",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2603.20907v3 Announce Type: replace Abstract: As users increasingly turn to LLMs for practical and personal advice, they become vulnerable to subtle steering toward hidden incentives misaligned with their own interests. While existing NLP research has benchmarked manipulation detection, these efforts often rely…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "9fb8e47b178561f8",
-   "title": "The Tool Illusion: Rethinking Tool Use in Web Agents",
-   "url": "https://arxiv.org/abs/2604.03465",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2604.03465v2 Announce Type: replace Abstract: As web agents rapidly evolve, an increasing body of work has moved beyond conventional atomic browser interactions and explored tool use as a higher-level action paradigm. Although prior studies have shown the promise of tools, their conclusions are often drawn from…",
-   "matched": [
-    "tool use"
-   ]
-  },
-  {
-   "uid": "c1677e9af300df3f",
-   "title": "FlowBot: Inducing LLM Workflows with Bilevel Optimization and Textual Gradients",
-   "url": "https://arxiv.org/abs/2604.26258",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2604.26258v3 Announce Type: replace Abstract: LLM workflows, which coordinate structured calls to individual LLMs/agents to achieve a particular goal, offer a promising path towards building powerful AI systems that can tackle diverse tasks. However, existing approaches for building such workflows generally rely…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "9d0d19dabd28abd5",
-   "title": "Segmenting Human-LLM Co-authored Text via Change Point Detection",
-   "url": "https://arxiv.org/abs/2605.03723",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2605.03723v2 Announce Type: replace Abstract: The rise of large language models (LLMs) has created an urgent need to distinguish between human-written and LLM-generated text to ensure authenticity and societal trust. Existing detectors typically provide a binary classification for an entire passage; however,…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "9324a5799168995e",
-   "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages",
-   "url": "https://arxiv.org/abs/2606.13572",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2606.13572v2 Announce Type: replace Abstract: Multimodal Large Language Models (MLLMs) have shown promising reasoning capabilities in general domains, yet their performance remains limited in specialized settings such as healthcare, especially in multilingual and low-resource scenarios. This gap is critical in…",
-   "matched": [
-    "agent framework"
-   ]
-  },
-  {
-   "uid": "60a784ae41f535bf",
-   "title": "LLM Agents Are Latent Context Managers: Eliciting Self-Managed Context via State Proprioception",
-   "url": "https://arxiv.org/abs/2606.30005",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2606.30005v3 Announce Type: replace Abstract: Long-horizon tool agents are bottlenecked by how their context grows toward the limits of the context window. Recent systems make context management agent- or system-controlled, but they either learn a compression policy that discards evidence or manage context in a…",
-   "matched": [
-    "llm",
-    "context window"
-   ]
-  },
-  {
-   "uid": "2d169e4da864ebc8",
-   "title": "Diarization-Guided Qwen-ASR Adaptation for Multilingual Two-Speaker Conversational Speech",
-   "url": "https://arxiv.org/abs/2607.08208",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2607.08208v2 Announce Type: replace Abstract: This paper describes our self-designed system for Task 1 of the MLC-SLM 2026 Challenge for multilingual two-speaker conversational speech. The system combines a modular speaker diarization front end with a challenge-adapted Qwen3-ASR-1.7B recognizer. The diarization…",
-   "matched": [
-    "qwen"
-   ]
-  },
-  {
-   "uid": "188d811e76c2dd11",
-   "title": "Workload-Driven Optimization for On-Device Real-Time Subtitle Translation",
-   "url": "https://arxiv.org/abs/2607.09957",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2607.09957v2 Announce Type: replace Abstract: This report studies on-device English-to-Traditional-Chinese subtitle translation for Taiwan under short inputs, short outputs, batch-size-one inference, low latency, and privacy constraints. These conditions limit the value of optimizations designed for long-context…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "364a83007dd152fc",
-   "title": "PolyInterview: An LLM-based Platform for Immersive Mock Interview Practice with Comprehensive Multimodal Assessment",
-   "url": "https://arxiv.org/abs/2607.10310",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2607.10310v2 Announce Type: replace Abstract: Preparing for job interviews is important for securing desired positions, yet realistic practice remains difficult to access: real interviews are infrequent, expert mock coaching is costly, and self-practice offers neither adaptive dialogue nor structured assessment.…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "cf15960fff843d48",
-   "title": "When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep Secret or Forget Knowledge?",
-   "url": "https://arxiv.org/abs/2410.15267",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-17T04:00:00+00:00",
-   "summary": "arXiv:2410.15267v3 Announce Type: replace-cross Abstract: The deployment of large language models (LLMs) like ChatGPT and Gemini has shown their powerful natural language generation capabilities. However, these models can inadvertently learn and retain sensitive information and harmful content during training, raising…",
-   "matched": [
-    "gemini",
-    "rag"
-   ]
   }
  ],
- "last_run": "2026-07-18T18:26:59.961872+00:00"
+ "last_run": "2026-07-19T08:42:43.161750+00:00"
 }
