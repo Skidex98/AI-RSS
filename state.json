@@ -1,5 +1,21 @@
 {
  "seen": [
+  "77ed349faf97af40",
+  "bf82eed446f8780d",
+  "64d2b506542973b3",
+  "8a749ef40bb106ac",
+  "a9fe6c99469aa695",
+  "5b8561fa36c97c86",
+  "33bdcdd9ab80a43e",
+  "8bd0870f2abe816e",
+  "6512903fb4f6f198",
+  "e62ff6214bd6537a",
+  "2d6e67290acbb52b",
+  "8e973df60349af03",
+  "8278f5fd1edacf49",
+  "08802dac63ce4864",
+  "bde062e6cd31a54b",
+  "a2e9b5fda30614f5",
   "7f123890bf3cd538",
   "0df615c119f8b3de",
   "528ceb67be454e88",
@@ -103,25 +119,206 @@
   "dc8fc63acfa2f255",
   "d7eba2b4751ded98",
   "c497d0fa7ed24a8c",
-  "f984fcc14ca074ac",
-  "4ce114e08ef1e8e7",
-  "1caf7f652f9bebbb",
-  "a1257da88cbcc643",
-  "258e7c955d3bde02",
-  "c84fe15e5e1b9c7e",
-  "d92c478ace036f93",
-  "d104f1c01ac84c7a",
-  "c9b05c7d28b61417",
-  "b44f9a39b43a0983",
-  "76d48587cb67e61f",
-  "8f9588830a209f5b",
-  "fd4f0956f3d8fda2",
-  "8429dd307ad44851",
-  "a973bf94a4ec99a4",
-  "78eb6672412999ff",
-  "0f3c8424349ddf44"
+  "f984fcc14ca074ac"
  ],
  "items": [
+  {
+   "uid": "77ed349faf97af40",
+   "title": "tirth8205/code-review-graph",
+   "url": "https://github.com/tirth8205/code-review-graph",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-07-20T19:13:27.657764+00:00",
+   "summary": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. code-review-graph Stop burning tokens. Start reviewing smarter. English | 简体中文 | 日本語 | 한국어 | हिन्दी Usage ·…",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "bf82eed446f8780d",
+   "title": "⭐ 419 · vshulcz/deja-vu (Go)",
+   "url": "https://github.com/vshulcz/deja-vu",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-07-20T18:50:17+00:00",
+   "summary": "Your agents already solved this. deja finds it — retroactive search and MCP recall over the session logs your coding agents already wrote. Cross-agent, SSH-portable, one zero-dep binary, fully local.",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "64d2b506542973b3",
+   "title": "⭐ 265 · pax-beehive/paxm (Go)",
+   "url": "https://github.com/pax-beehive/paxm",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-07-20T17:14:54+00:00",
+   "summary": "Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.",
+   "matched": [
+    "claude",
+    "mcp",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "8a749ef40bb106ac",
+   "title": "Who’s Afraid of Chinese Models?",
+   "url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-07-20T17:09:19+00:00",
+   "summary": "Who’s Afraid of Chinese Models? Interesting proposal from Ben Thompson that both addresses the hypocrisy of labs outlawing distillation against their models despite training on unlicensed data, and could help US open models compete more effectively with their Chinese counterparts: The U.S. should pass a law that (1)…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "a9fe6c99469aa695",
+   "title": "⭐ 94 · 0xsline/OpenChatCut (TypeScript)",
+   "url": "https://github.com/0xsline/OpenChatCut",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-07-20T16:30:20+00:00",
+   "summary": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "5b8561fa36c97c86",
+   "title": "Running a 13M ASR conformer on a microcontroller",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v1pume/running_a_13m_asr_conformer_on_a_microcontroller/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-20T16:09:37+00:00",
+   "summary": "Hello everyone, I wanted to share a recent project of mine, which brings a 13.1 million parameter convolution transformer model to a $10 microcontroller (more specifically, the ESP32-S3). It's a distilled and quantized version of nvidias small conformer model from huggingface. Thanks to quantization, this model now…",
+   "matched": [
+    "quantization"
+   ]
+  },
+  {
+   "uid": "33bdcdd9ab80a43e",
+   "title": "Introducing Cosmos 3 Edge",
+   "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+   "source": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-07-20T15:58:51+00:00",
+   "summary": "",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "8bd0870f2abe816e",
+   "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+   "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-07-20T15:13:42+00:00",
+   "summary": "Article URL: https://www.emergingtrajectories.com/lh/frontier-lab-economics/ Comments URL: https://news.ycombinator.com/item?id=48980019 Points: 184 # Comments: 187",
+   "matched": [
+    "anthropic",
+    "qwen"
+   ]
+  },
+  {
+   "uid": "6512903fb4f6f198",
+   "title": "Unsloth now supports AMD!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v1nor4/unsloth_now_supports_amd/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-20T14:48:52+00:00",
+   "summary": "Hey r/LocalLLaMA folks! Unsloth now officially supports AMD hardware for local inference, fine-tuning, reinforcement learning, and deployment! It's been in the works for quite some time, but it works on Windows, Linux WSL devices (+ technically Mac) with AMD GPUs! Unsloth Studio is fully open source and free , and…",
+   "matched": [
+    "fine-tuning",
+    "inference"
+   ]
+  },
+  {
+   "uid": "e62ff6214bd6537a",
+   "title": "543 tok/s single-request Qwen3.6-35B-A3B on one RTX 5090 over a 65K-token decode",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v1no8e/543_toks_singlerequest_qwen3635ba3b_on_one_rtx/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-20T14:48:19+00:00",
+   "summary": "An example TL;DR I have open-sourced NInfer , a from-scratch C++/CUDA inference engine currently specialized for two exact Qwen3.6 checkpoints on a single RTX 5090. Both the engine and the converted model artifacts are publicly available: Github : https://github.com/Neroued/ninfer The main result: Qwen3.6-35B-A3B…",
+   "matched": [
+    "inference"
+   ]
+  },
+  {
+   "uid": "2d6e67290acbb52b",
+   "title": "DeepSeek v4 flash release version appears to have been activated on api. Open weights imminent?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v1nj6e/deepseek_v4_flash_release_version_appears_to_have/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-20T14:43:03+00:00",
+   "summary": "https://np.reddit.com/r/DeepSeek/s/skO7urrE2C DS4 sort of came and went from the spotlight. The consensus seemed to be that its most notable feature is its price, and then we got distracted by the next big releases. However, people seem to forget this was only the preview version, and I think we may be about to…",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "8e973df60349af03",
+   "title": "⭐ 197 · ohad6k/emulo (Python)",
+   "url": "https://github.com/ohad6k/emulo",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-07-20T14:38:52+00:00",
+   "summary": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "8278f5fd1edacf49",
+   "title": "unslothai/unsloth v0.1.50-beta — Introducing AMD support",
+   "url": "https://github.com/unslothai/unsloth/releases/tag/v0.1.50-beta",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-07-20T14:06:46+00:00",
+   "summary": "Hey everyone! This release brings local LLM training and inference to AMD GPUs across Windows, WSL and Linux. [Read our AMD Blog + Guide](https://unsloth.ai/docs/basics/amd) Starting today, our AMD collaboration, custom Triton kernels, and math algorithms enables you to train and run 500+ models across AMD's Radeon, Instinct, Ryzen and data center GPUs, up to 2× faster with 70% less VRAM and no…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "08802dac63ce4864",
+   "title": "Kimi K3 just fixed 15 critical security bugs that Codex and Fable refused because of “cyber guardrails”. Hugging Face: We had this experience ourselves this week! Very scary to be guardrailed as a…",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v1k3pw/kimi_k3_just_fixed_15_critical_security_bugs_that/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-20T12:27:55+00:00",
+   "summary": "David Sacks on 𝕏: https://x.com/DavidSacks/status/2078984980588531855 calle on 𝕏: https://x.com/callebtc/status/2078574362316165611 clem 🤗 on 𝕏: https://x.com/ClementDelangue/status/2078987852495364398 https://huggingface.co/blog/security-incident-july-2026 submitted by /u/Nunki08 [link] [comments]",
+   "matched": [
+    "fable"
+   ]
+  },
+  {
+   "uid": "bde062e6cd31a54b",
+   "title": "langfuse/langfuse v3.222.0",
+   "url": "https://github.com/langfuse/langfuse/releases/tag/v3.222.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-07-20T11:41:27+00:00",
+   "summary": "## What's Changed ### Features * feat(filters): block filter-sidebar facets unavailable in chart view (LFE-11040) by @nkabardin in https://github.com/langfuse/langfuse/pull/15203 * feat(web): Design system - typography (tokenized text styles) by @nmtrang29 in https://github.com/langfuse/langfuse/pull/15186 * feat(sessions): cleaner more compact view by @nimarb in…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "a2e9b5fda30614f5",
+   "title": "Safety and alignment in an era of long-horizon models",
+   "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-07-20T10:00:00+00:00",
+   "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+   "matched": [
+    "*"
+   ]
+  },
   {
    "uid": "7f123890bf3cd538",
    "title": "diegosouzapw/OmniRoute",
@@ -1409,204 +1606,7 @@
    "matched": [
     "*"
    ]
-  },
-  {
-   "uid": "4ce114e08ef1e8e7",
-   "title": "anthropics/claude-code v2.1.215",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.215",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-07-19T02:56:01+00:00",
-   "summary": "## What's changed - Claude no longer runs the `/verify` and `/code-review` skills on its own; invoke them with `/verify` or `/code-review` when you want them",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "1caf7f652f9bebbb",
-   "title": "Deepseek v4 Flash on 80 GB VRAM and 128 GB DDR4 RAM",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0etj2/deepseek_v4_flash_on_80_gb_vram_and_128_gb_ddr4/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-07-19T02:47:27+00:00",
-   "summary": "I am using unsloth Q8 Deepseek v4 Flash. So far I am able to run properly with the following command CUDA_DEVICE_ORDER=PCI_BUS_ID CUDA_VISIBLE_DEVICES=0,2,1 \\ llamacpp/llama.cpp/build/bin/llama-server \\ --model unsloth/DeepSeek-V4-Flash-GGUF/UD-Q8_K_XL/DeepSeek-V4-Flash-UD-Q8_K_XL-00001-of-00005.gguf \\ --port 8001…",
-   "matched": [
-    "llama",
-    "deepseek"
-   ]
-  },
-  {
-   "uid": "a1257da88cbcc643",
-   "title": "What’s your favorite underrated local model?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0eszf/whats_your_favorite_underrated_local_model/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-07-19T02:46:37+00:00",
-   "summary": "What’s your favorite underrated local model that you actually use every day? I’m not talking about the mainstream choices like Qwen 3.6 or Gemma 4. I’m looking for the hidden gems that deserve more attention. What do you use it for, and what hardware are you running it on? I’m hoping this thread surfaces some…",
-   "matched": [
-    "qwen"
-   ]
-  },
-  {
-   "uid": "258e7c955d3bde02",
-   "title": "I tried fine-tuning a ternary model, Bonsai 8b, on metal",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0egoi/i_tried_finetuning_a_ternary_model_bonsai_8b_on/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-07-19T02:29:24+00:00",
-   "summary": "We've heard the hype around binary and ternary models, and it seems recently, their performance is starting to catch up and be competitive for every-day use across a range of devices, although there's still more to wish for... What these models are A new family of true sub-2-bit LLMs is out: PrismML's Bonsai line.…",
-   "matched": [
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "c84fe15e5e1b9c7e",
-   "title": "Qwen vs Gemma",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0dksm/qwen_vs_gemma/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-07-19T01:45:00+00:00",
-   "summary": "Hi! Been doing some local LLM stuff, and I can't help but notice: despite vastly-superior benchmark scores, Qwen 3.6 35a3B feels... substantially less intelligent than Gemma 4 26a4B (QAT). In terms of prompt adherence, output coherence, and just general sanity , Gemma seems head-and-shoulders ahead. Arena.ai rankings…",
-   "matched": [
-    "qwen",
-    "llm"
-   ]
-  },
-  {
-   "uid": "d92c478ace036f93",
-   "title": "FastFlowLM Joins AMD to Advance AI Inference",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0axkk/fastflowlm_joins_amd_to_advance_ai_inference/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-07-18T23:40:25+00:00",
-   "summary": "Super excited to have the FLM team as co-workers! submitted by /u/jfowers_amd [link] [comments]",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "d104f1c01ac84c7a",
-   "title": "Deepseek V4 soon",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v04jq2/deepseek_v4_soon/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-07-18T19:11:19+00:00",
-   "summary": "Deepseek V4 is about to be released; they say it will be cheap, and from the videos I've seen, it will be similar to Kimi K3 and Fable. I think Fable will be replaced by these two Chinese models. submitted by /u/Illustrious-Swim9663 [link] [comments]",
-   "matched": [
-    "deepseek",
-    "fable"
-   ]
-  },
-  {
-   "uid": "c9b05c7d28b61417",
-   "title": "model: add openPangu-2.0-Flash (92B-A6B) with MLA-latent cache, DSA/SWA, mHC, and multi-head MTP by joelfarthing · Pull Request #2065 · ikawrakow/ik_llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v03psf/model_add_openpangu20flash_92ba6b_with_mlalatent/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-07-18T18:38:39+00:00",
-   "summary": "openPangu-2.0-Flash - 92B A6B 512K Context Length Model : https://huggingface.co/openpangu/openPangu-2.0-Flash/blob/main/README_EN.md GGUF for ik_llama folks : https://huggingface.co/ji-farthing/openPangu-2.0-Flash-ik-llama-GGUF submitted by /u/pmttyji [link] [comments]",
-   "matched": [
-    "llama"
-   ]
-  },
-  {
-   "uid": "b44f9a39b43a0983",
-   "title": "SQLite Query Explainer",
-   "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
-   "source": "Simon Willison",
-   "category": "news",
-   "published": "2026-07-18T17:19:10+00:00",
-   "summary": "Tool: SQLite Query Explainer Julia Evan's, in Learning a few things about running SQLite : Maybe one day I’ll learn to read a query plan. Big same.... which inspired me to have Fable build this interactive explain tool, which runs SQLite in Python in Pyodide in Web Assembly in the browser and adds a layer of…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "76d48587cb67e61f",
-   "title": "ultralytics/ultralytics v8.4.101 — v8.4.101 - Add Hailo pose, OBB, and classification export and inference for YOLOv8 and YOLO11 (#25276)",
-   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.101",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-07-18T16:48:20+00:00",
-   "summary": "## 🌟 Summary 🚀 **Ultralytics v8.4.101 expands Hailo deployment support across nearly the full YOLO task range and strengthens NDJSON dataset reliability, Platform validation insights, and documentation.** ## 📊 Key Changes - **🧠 Expanded Hailo export and inference** - `format=\"hailo\"` now supports: - Object detection - Instance segmentation - Pose estimation - Oriented bounding boxes (OBB) - Image…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "8f9588830a209f5b",
-   "title": "⭐ 546 · capitalone/VulnHunter (Python)",
-   "url": "https://github.com/capitalone/VulnHunter",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-07-18T16:30:39+00:00",
-   "summary": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "fd4f0956f3d8fda2",
-   "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-   "url": "https://ykdojo.github.io/claude-controls-mac/",
-   "source": "Hacker News (AI)",
-   "category": "news",
-   "published": "2026-07-18T16:12:08+00:00",
-   "summary": "Article URL: https://ykdojo.github.io/claude-controls-mac/ Comments URL: https://news.ycombinator.com/item?id=48959392 Points: 227 # Comments: 155",
-   "matched": [
-    "claude",
-    "claude code"
-   ]
-  },
-  {
-   "uid": "8429dd307ad44851",
-   "title": "Kimi K3 ranks #1 on @AfterQuery's SpreadsheetBench 2, surpassing Claude Fable 5",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uzzecz/kimi_k3_ranks_1_on_afterquerys_spreadsheetbench_2/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-07-18T15:50:06+00:00",
-   "summary": "submitted by /u/Charuru [link] [comments]",
-   "matched": [
-    "claude",
-    "fable"
-   ]
-  },
-  {
-   "uid": "a973bf94a4ec99a4",
-   "title": "ggml-org/llama.cpp b10068",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10068",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-07-18T13:36:42+00:00",
-   "summary": "model: rotate injected K/V cache for DFlash (#25823) * dflash: rotate injected K/V cache when using K/V quantization * Update src/models/dflash.cpp Co-authored-by: Georgi Gerganov * clearer format * remove trailing whitespace --------- Co-authored-by: Georgi Gerganov **Website:** - **macOS/iOS:** - [macOS Apple Silicon…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "78eb6672412999ff",
-   "title": "why minimax M3 branch not merged to main?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uzvzyn/why_minimax_m3_branch_not_merged_to_main/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-07-18T13:31:25+00:00",
-   "summary": "I was trying to load Minimax M3 using the `llama.cpp` main branch and realized that one needs to get an M3 branch. Is there any good reason why it isn't merged into the main branch? submitted by /u/arm2armreddit [link] [comments]",
-   "matched": [
-    "llama"
-   ]
-  },
-  {
-   "uid": "0f3c8424349ddf44",
-   "title": "ggml-org/llama.cpp b10067",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10067",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-07-18T12:12:58+00:00",
-   "summary": "llama-quant : exclude i32 ffn_gate_tid2eid routing table from quantization (#25787) DeepSeek-V4's ffn_gate_tid2eid tensor is an i32 token-id -> expert-id index table, not weights. It was never added to the name-based exclusion list alongside ffn_gate_inp.weight, so llama-quantize tries to quantize it and fails since i32 cannot convert to a float type. Fixes ggml-org/llama.cpp#25754 Signed-off-by:…",
-   "matched": [
-    "*"
-   ]
   }
  ],
- "last_run": "2026-07-20T09:41:46.149114+00:00"
+ "last_run": "2026-07-20T19:13:42.811251+00:00"
 }
