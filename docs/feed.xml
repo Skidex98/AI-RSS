@@ -5,8 +5,188 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-07-24T09:03:52Z</updated>
+  <updated>2026-07-24T18:57:48Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>📰 [Paper] Statistically-Lossless Quantization of Large Language Models</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v5j35f/paper_statisticallylossless_quantization_of_large/"/>
+    <id>urn:uuid:dc497afb950bbe95</id>
+    <updated>2026-07-24T18:06:36Z</updated>
+    <published>2026-07-24T18:06:36Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Model quantization has become essential for efficient large language model deployment, yet existing approaches involve clear trade-offs: methods such as GPTQ and AWQ achieve practical compression but are lossy, while lossless techniques preserve fidelity but typically do not accelerate inference. This paper explores…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: quantization, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v5j35f/paper_statisticallylossless_quantization_of_large/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 anthropics/claude-agent-sdk-python v0.2.127</title>
+    <link href="https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.127"/>
+    <id>urn:uuid:906837ce4ce77a63</id>
+    <updated>2026-07-24T17:27:47Z</updated>
+    <published>2026-07-24T17:27:47Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;### Bug Fixes - **Fixed premature stdin closure when background tasks are in flight**: `query()` no longer closes stdin on the first `result` frame when background tasks (e.g. `run_in_background: true` subagents) are still running. Previously, closing stdin too early caused SDK-MCP tool calls from background tasks to fail with `"Stream closed"` and silently bypassed PreToolUse hooks. Stdin now…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.127"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Spent two weeks on a kernel that benchmarked 29x faster. End to end it's maybe 6-10%, and it's not even wired in yet.</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v5hphx/spent_two_weeks_on_a_kernel_that_benchmarked_29x/"/>
+    <id>urn:uuid:57ade062170434e3</id>
+    <updated>2026-07-24T17:18:12Z</updated>
+    <published>2026-07-24T17:18:12Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I've been building a C99 inference engine from scratch (no Python, no BLAS, just gcc and make) that runs BitNet's ternary models on CPU. A few weeks ago I got obsessed with the matmul kernel - wrote a new one using AVX-512BW's vpermt2w to pack 5 ternary weights per byte instead of 4, benchmarked it in isolation, and…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v5hphx/spent_two_weeks_on_a_kernel_that_benchmarked_29x/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 anthropics/claude-code v2.1.219</title>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.219"/>
+    <id>urn:uuid:2f1bac797ae1ed99</id>
+    <updated>2026-07-24T17:14:23Z</updated>
+    <published>2026-07-24T17:14:23Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's changed - Added Claude Opus 5 (`claude-opus-5`), now the default Opus model — 1M context, fast mode at $10/$50 per Mtok - Added `sandbox.network.strictAllowlist` setting to deny non-allowlisted hosts for sandboxed commands without prompting - Added `DirectoryAdded` hook that fires after `/add-dir` or the SDK `register_repo_root` control request registers a new working directory…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.219"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Claude Opus 5</title>
+    <link href="https://www.anthropic.com/news/claude-opus-5"/>
+    <id>urn:uuid:50c33b3bd8589c2c</id>
+    <updated>2026-07-24T16:57:41Z</updated>
+    <published>2026-07-24T16:57:41Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;https://www.anthropic.com/claude-opus-5-system-card Comments URL: https://news.ycombinator.com/item?id=49038433 Points: 663 # Comments: 372&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, anthropic, opus&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.anthropic.com/news/claude-opus-5"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 anthropics/anthropic-sdk-python v0.120.0</title>
+    <link href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.120.0"/>
+    <id>urn:uuid:efad7b44cf0f56b3</id>
+    <updated>2026-07-24T16:32:34Z</updated>
+    <published>2026-07-24T16:32:34Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## 0.120.0 (2026-07-24) Full Changelog: [v0.119.0...v0.120.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.119.0...v0.120.0) ### Features * **api:** add claude-opus-5 model ([bf4e31c](https://github.com/anthropics/anthropic-sdk-python/commit/bf4e31c17c43ba2b409bec57e1856b025d159f1a)) * **api:** add tool addition/removal blocks and tool_change events…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.120.0"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 It appears that the anti opensource AI lobby is far outgunned already</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v5g4tl/it_appears_that_the_anti_opensource_ai_lobby_is/"/>
+    <id>urn:uuid:d5f3112631c4a09d</id>
+    <updated>2026-07-24T16:22:39Z</updated>
+    <published>2026-07-24T16:22:39Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;The earlier post on this subreddit by 20+ companies signing the petition including Microsoft, Meta, Nvidia, YC ( https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/ ) etc plus this https://xcancel.com/elonmusk/status/2080672505660834163 And the entire LLM enthusiast market is heavily in favor…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v5g4tl/it_appears_that_the_anti_opensource_ai_lobby_is/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 1380 · Vincentwei1021/video-shotcraft (TypeScript)</title>
+    <link href="https://github.com/Vincentwei1021/video-shotcraft"/>
+    <id>urn:uuid:e289a6ae3c885eaf</id>
+    <updated>2026-07-24T14:55:40Z</updated>
+    <published>2026-07-24T14:55:40Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;AI video skill for Claude Code &amp;amp; Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Vincentwei1021/video-shotcraft"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 205 · livetennisapi/livetennisapi-mcp (JavaScript)</title>
+    <link href="https://github.com/livetennisapi/livetennisapi-mcp"/>
+    <id>urn:uuid:b4bdc79480ec13b8</id>
+    <updated>2026-07-24T14:31:26Z</updated>
+    <published>2026-07-24T14:31:26Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, llm, mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/livetennisapi/livetennisapi-mcp"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 101 · illiahaidar/mcptrustchecker (TypeScript)</title>
+    <link href="https://github.com/illiahaidar/mcptrustchecker"/>
+    <id>urn:uuid:014bfa4247dbfdf8</id>
+    <updated>2026-07-24T14:01:25Z</updated>
+    <published>2026-07-24T14:01:25Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Security scanner for MCP (Model Context Protocol) servers — reads the real published npm/PyPI source, not just metadata, to catch tool poisoning, prompt injection, toxic flows &amp;amp; supply-chain risk. Offline, deterministic A–F Trust Score, SARIF + CI gates.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp, model context protocol&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/illiahaidar/mcptrustchecker"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10107</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10107"/>
+    <id>urn:uuid:3c2a6989b8d9c751</id>
+    <updated>2026-07-24T14:01:16Z</updated>
+    <published>2026-07-24T14:01:16Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;hexagon: fix Windows crash when op_poll is enabled (#26029) **Website:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10107/llama-b10107-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10107"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 More than 20 companies including NVIDIA, Meta, Microsoft, Palantir, and Hugging Face have signed a letter urging policymakers to avoid premature restrictions on open weight models.</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v5c3vt/more_than_20_companies_including_nvidia_meta/"/>
+    <id>urn:uuid:ddf036c56f9b4aea</id>
+    <updated>2026-07-24T13:55:23Z</updated>
+    <published>2026-07-24T13:55:23Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;The Open Letter was initiated by Microsoft and published today: “ Open Weights and American AI Leadership ”. It argues against broad or premature restrictions on open-weight models and explicitly says policymakers should distinguish legitimate model distillation from misappropriation. Notably absent from the…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v5c3vt/more_than_20_companies_including_nvidia_meta/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 469 · 0xsline/OpenChatCut (TypeScript)</title>
+    <link href="https://github.com/0xsline/OpenChatCut"/>
+    <id>urn:uuid:a9fe6c99469aa695</id>
+    <updated>2026-07-24T12:35:36Z</updated>
+    <published>2026-07-24T12:35:36Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/0xsline/OpenChatCut"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 langfuse/langfuse v4.0.0-rc.2 (pre)</title>
+    <link href="https://github.com/langfuse/langfuse/releases/tag/v4.0.0-rc.2"/>
+    <id>urn:uuid:9013708bbd498673</id>
+    <updated>2026-07-24T12:34:34Z</updated>
+    <published>2026-07-24T12:34:34Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's Changed ### Features * feat(agent): Add additional DB columns and scoped backfill for background execution (LFE-14370) by @LysanderKie in https://github.com/langfuse/langfuse/pull/15291 * feat(json-viewer): async virtualized lazy JSON renderer (LFE-11080) by @nkabardin in https://github.com/langfuse/langfuse/pull/15265 * feat(sfdc-sync): rework backfill to per-org units with CSV…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/langfuse/langfuse/releases/tag/v4.0.0-rc.2"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Why we don’t have kickstarter for the models?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v594bk/why_we_dont_have_kickstarter_for_the_models/"/>
+    <id>urn:uuid:77f6f10e3d3ee061</id>
+    <updated>2026-07-24T11:49:43Z</updated>
+    <published>2026-07-24T11:49:43Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I think this is an areas which could utilize crowdfunding/ crowdcomputing. Imagine Qwen team comIng here and telling: ”Guys we need 10M$ to train qwen4-27b, if we reach 20M$ milestone we could make Qwen4-122b” I would pay something for sure to support community. And more importantly- many companies would pay. Edit:…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v594bk/why_we_dont_have_kickstarter_for_the_models/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10106</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10106"/>
+    <id>urn:uuid:f36b93649626af1b</id>
+    <updated>2026-07-24T11:34:41Z</updated>
+    <published>2026-07-24T11:34:41Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;CUDA: fix external compilation of q1_0 MMQ (#25778) **Website:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10106/llama-b10106-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10106"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 151 · zeraix/zeraix (TypeScript)</title>
+    <link href="https://github.com/zeraix/zeraix"/>
+    <id>urn:uuid:e9f2d877bf91a54b</id>
+    <updated>2026-07-24T11:00:40Z</updated>
+    <published>2026-07-24T11:00:40Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Open-source local AI workspace — advancing on-device inference.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/zeraix/zeraix"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 68 · MemTensor/memmy-agent (TypeScript)</title>
+    <link href="https://github.com/MemTensor/memmy-agent"/>
+    <id>urn:uuid:5294bd45dc170f9e</id>
+    <updated>2026-07-24T10:03:10Z</updated>
+    <published>2026-07-24T10:03:10Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;🍙 A personal AI Agent &amp;amp; local memory hub for all AI Agent and tools like Claude Code, Codex, OpenClaw and Hermes Agent. Gives every AI one shared, full-controlled memory and persistent context — all AI remember the same you.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MemTensor/memmy-agent"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10105</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10105"/>
+    <id>urn:uuid:17229d2b1ed51cea</id>
+    <updated>2026-07-24T09:34:02Z</updated>
+    <published>2026-07-24T09:34:02Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;args: refactor mlock/mmap/directio into load-mode (#20834) * args: overhaul mmap/mlock/dio into single arg Signed-off-by: Aaron Teo * docs: update docs with llama-gen-docs Signed-off-by: Aaron Teo * chore: satisfy code quality Signed-off-by: Aaron Teo * args: make the `+` sign an actual modifier now Signed-off-by: Aaron Teo * chore: general code clean up + comments Signed-off-by: Aaron Teo * arg:…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10105"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Hetzner is working on LLM Inference</title>
+    <link href="https://sliplane.io/blog/hetzner-inference"/>
+    <id>urn:uuid:dc0e01f137fb0fe6</id>
+    <updated>2026-07-24T09:24:44Z</updated>
+    <published>2026-07-24T09:24:44Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://sliplane.io/blog/hetzner-inference Comments URL: https://news.ycombinator.com/item?id=49033087 Points: 138 # Comments: 68&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://sliplane.io/blog/hetzner-inference"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 t8y2/dbx</title>
     <link href="https://github.com/t8y2/dbx"/>
@@ -71,6 +251,24 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows Awesome Claude Skills A comprehensive and curated list of 1000+ production ready and practical Claude Skills and Plugins for enhancing productivity across usecases on not just Claude.ai , Claude Code, but also across…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ComposioHQ/awesome-claude-skills"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📦 ⭐ 174 · risa-labs-inc/BossConsole (Kotlin)</title>
+    <link href="https://github.com/risa-labs-inc/BossConsole"/>
+    <id>urn:uuid:dd5cea97832e04d9</id>
+    <updated>2026-07-24T08:13:06Z</updated>
+    <published>2026-07-24T08:13:06Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Open-source, multi-platform harness for AI agents — a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets &amp;amp; 100+ MCP tools. Built for enterprises, science &amp;amp; research.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, gemini, mcp, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/risa-labs-inc/BossConsole"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 706 · pireel/pireel (TypeScript)</title>
+    <link href="https://github.com/pireel/pireel"/>
+    <id>urn:uuid:351596e2749788a3</id>
+    <updated>2026-07-24T06:17:47Z</updated>
+    <published>2026-07-24T06:17:47Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/pireel/pireel"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>🚀 ggml-org/llama.cpp b10103</title>
     <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10103"/>
     <id>urn:uuid:027ebd3adb319bff</id>
@@ -87,6 +285,24 @@
     <published>2026-07-24T06:04:25Z</published>
     <category term="NEWS"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Even if China was distilling from US models (assuming all accusations are true), nothing about it makes it illegal. It is like saying you distilled knowledge from your professor in colleges and now he can sue you to shut down your careers for IP thefts. Never mind that you paid the tuitions to be taught and the…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v52t2d/the_distillation_claim_is_just_ridiculous_in/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Claude Cookbook</title>
+    <link href="https://platform.claude.com/cookbook/"/>
+    <id>urn:uuid:1ed0e5dd8e5d92be</id>
+    <updated>2026-07-24T05:09:15Z</updated>
+    <published>2026-07-24T05:09:15Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://platform.claude.com/cookbook/ Comments URL: https://news.ycombinator.com/item?id=49031409 Points: 273 # Comments: 140&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://platform.claude.com/cookbook/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📄 OpenSkillRisk: Benchmarking Agent Safety When Using Real-World Risky Third-Party Skills</title>
+    <link href="https://arxiv.org/abs/2607.20121"/>
+    <id>urn:uuid:4504b05852a812f9</id>
+    <updated>2026-07-24T04:00:00Z</updated>
+    <published>2026-07-24T04:00:00Z</published>
+    <category term="PAPER"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.20121v2 Announce Type: replace Abstract: LLM-based agents leverage third-party skills to extend their capabilities in open-world scenarios. However, third-party skills can introduce extra security vulnerabilities, as seemingly harmless skills can contain latent safety risks that only emerge during actual…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.20121"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📄 What is Good? Extracting and Testing Implicit Theories of Literary Quality from LLM Reasoning Traces</title>
@@ -870,221 +1086,5 @@
     <published>2026-07-24T04:00:00Z</published>
     <category term="PAPER"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2604.12935v2 Announce Type: replace Abstract: Efficiently merging several models fine-tuned for different tasks, but stemming from the same pretrained base model, is of great practical interest. Despite extensive prior work, most evaluations of model merging in computer vision are restricted to image…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: computer vision&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2604.12935"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 ETC: Extreme Token Compression via Task-aware Visual Information Distillation in VLMs</title>
-    <link href="https://arxiv.org/abs/2606.00543"/>
-    <id>urn:uuid:db84bf0c928e7bef</id>
-    <updated>2026-07-24T04:00:00Z</updated>
-    <published>2026-07-24T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2606.00543v2 Announce Type: replace Abstract: In Vision-Language Models (VLMs), high-resolution images produce a large number of visual tokens, resulting in high computational costs and KV-cache overhead during inference. To address this problem, we propose an Extreme Token Compression (ETC) framework that…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2606.00543"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence</title>
-    <link href="https://arxiv.org/abs/2606.20515"/>
-    <id>urn:uuid:5a0c64bf292b9d53</id>
-    <updated>2026-07-24T04:00:00Z</updated>
-    <published>2026-07-24T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2606.20515v3 Announce Type: replace Abstract: Real-world spatial intelligence requires reasoning over a continuous and evolving 3D world, yet existing VLMs and tool-augmented agents largely remain tied to static, stateless inference from isolated visual observations. We introduce \textbf{\textsc{S-Agent}}, a…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2606.20515"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 AnchorPrune: Relevance-Anchored Contextual Expansion for Visual Token Pruning</title>
-    <link href="https://arxiv.org/abs/2607.07033"/>
-    <id>urn:uuid:0827a37f93c8d059</id>
-    <updated>2026-07-24T04:00:00Z</updated>
-    <published>2026-07-24T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2607.07033v4 Announce Type: replace Abstract: Large vision-language models incur substantial inference costs because high-resolution inputs introduce thousands of visual tokens, many of which are redundant for a given query. Existing pruning methods often combine query relevance and token diversity, yet these…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.07033"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Multivariate Planar Curves: A Statistical Framework for Shape Analysis in Images</title>
-    <link href="https://arxiv.org/abs/2508.11780"/>
-    <id>urn:uuid:a072700051626205</id>
-    <updated>2026-07-24T04:00:00Z</updated>
-    <published>2026-07-24T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2508.11780v3 Announce Type: replace-cross Abstract: Recent developments in computer vision have made segmented images widely available across many domains, such as medicine, where segmented radiographs play an important role in diagnosis. As prediction problems are common in image analysis, this work explores…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: computer vision&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2508.11780"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 124 · VKirill/claude-lane-stack (Python)</title>
-    <link href="https://github.com/VKirill/claude-lane-stack"/>
-    <id>urn:uuid:63ba51351704c9fe</id>
-    <updated>2026-07-24T01:00:47Z</updated>
-    <published>2026-07-24T01:00:47Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Multi-agent coding orchestration for Claude Code — AGY/Grok/Codex lanes, file contracts, auto-merge to main&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/VKirill/claude-lane-stack"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 pydantic/pydantic-ai v2.17.0 — v2.17.0 (2026-07-23)</title>
-    <link href="https://github.com/pydantic/pydantic-ai/releases/tag/v2.17.0"/>
-    <id>urn:uuid:6b89cbefa9522cad</id>
-    <updated>2026-07-24T00:32:49Z</updated>
-    <published>2026-07-24T00:32:49Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's Changed ### 🚀 Features * Make `RequestUsage` and `RunUsage` support arbitrary fields for upcoming genai-prices by @alexmojaki in https://github.com/pydantic/pydantic-ai/pull/6683 * Cache per-message OTel serialization to avoid `O(n²)` instrumentation cost by @dsfaccini in https://github.com/pydantic/pydantic-ai/pull/6635 ### 🐛 Bug Fixes * Fix `ContentFilterError` for real Model Armor…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/pydantic/pydantic-ai/releases/tag/v2.17.0"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b10099</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10099"/>
-    <id>urn:uuid:b8ee822cdf19ca26</id>
-    <updated>2026-07-23T23:34:13Z</updated>
-    <published>2026-07-23T23:34:13Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;CUDA: Improve NVFP4 W4A4 activation quantization (#25730) * Squash history before conflict-resolution during rebase on master WIP commit Add 32-byte loads, restore per-block amax Use nvfp4x4 intrinsic when available Fuse per-channel amax and quantization kernels Do pointer arithmetic only once on x Remove unnecessary ternary in the load We assert on host side that ne00 is 64-aligned Add back…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10099"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 The first known runaway AI agent - or a very bad marketing stunt?</title>
-    <link href="https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything"/>
-    <id>urn:uuid:a517d6afe3b83a5d</id>
-    <updated>2026-07-23T22:53:08Z</updated>
-    <published>2026-07-23T22:53:08Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Simon Willison&lt;/p&gt;&lt;p&gt;The first known runaway AI agent - or a very bad marketing stunt? Martin Alderson's commentary on the OpenAI accidental cyberattack against Hugging Face includes a couple of details I hadn't considered. First, Hugging Face offers a truly rich target if you're trying to find potential vulnerabilities that require…&lt;/p&gt;&lt;p&gt;&lt;a href="https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 78 · Get-Concord-AI/concord-mcp (TypeScript)</title>
-    <link href="https://github.com/Get-Concord-AI/concord-mcp"/>
-    <id>urn:uuid:ed0e1df77ae3ff16</id>
-    <updated>2026-07-23T22:39:05Z</updated>
-    <published>2026-07-23T22:39:05Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Shared work-state for coding agents: claim work, leave handoffs, and generate review packets before PRs, over MCP.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Get-Concord-AI/concord-mcp"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Running Qwen 3.6 35B MoE (Q4_K_M) on a Zeus (Xiaomi 12 Pro, 12GB RAM)</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v4q5gm/running_qwen_36_35b_moe_q4_k_m_on_a_zeus_xiaomi/"/>
-    <id>urn:uuid:dbcb5a809d1a1352</id>
-    <updated>2026-07-23T20:44:40Z</updated>
-    <published>2026-07-23T20:44:40Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Shoutout to this awesome guy - https://www.reddit.com/r/LLM/s/IDUyU3v9ap Thanks to his project, BigMoeOnEdge https://github.com/Helldez/BigMoeOnEdge , I managed to successfully run a 35B MoE model on just 12GB of RAM! My setup is a modified Xiaomi 12 Pro (12GB RAM) that I call Zeus .…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen, llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v4q5gm/running_qwen_36_35b_moe_q4_k_m_on_a_zeus_xiaomi/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b10098</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10098"/>
-    <id>urn:uuid:7bc0b1f9aaf543cc</id>
-    <updated>2026-07-23T20:12:00Z</updated>
-    <published>2026-07-23T20:12:00Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;hexagon: activation ops update (#25974) * hex-geglu: optimized all-in-one geglu microkernel * hex-geglu: enable non-contiguous src and strided DMA * hex-act: enable non-contiguous srs and strided DMA for rest of ACT ops * hex-act: generalize GLU per-thread functions via DEFINE_GLU_PER_THREAD macro * hexagon: move UNARY_SILU and UNARY_GELU to unary-ops * hex-act: replace the generic ops_context…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10098"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 langfuse/langfuse v4.0.0-rc.1 (pre)</title>
-    <link href="https://github.com/langfuse/langfuse/releases/tag/v4.0.0-rc.1"/>
-    <id>urn:uuid:6e2328c0a31daabe</id>
-    <updated>2026-07-23T19:07:46Z</updated>
-    <published>2026-07-23T19:07:46Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's Changed * fix(assistant): remove in-app assistant max height by @LysanderKie in https://github.com/langfuse/langfuse/pull/15349 * feat(web): v4 migration entry point — sidebar card + migration side panel by @nmtrang29 in https://github.com/langfuse/langfuse/pull/15086 * feat(MCP, API): Add feedback submission via public API and MCP tool by @LysanderKie in…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/langfuse/langfuse/releases/tag/v4.0.0-rc.1"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Deepseek V4 Flash ~105 t/s on two Nvidia 4090d 48G (ada) in vLLM</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v4n8wj/deepseek_v4_flash_105_ts_on_two_nvidia_4090d_48g/"/>
-    <id>urn:uuid:f772b3f24374d374</id>
-    <updated>2026-07-23T19:01:22Z</updated>
-    <published>2026-07-23T19:01:22Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;TLDR: I (with the help of AI) re-implemented every Blackwell-only kernel (DeepGEMM, FlashInfer sparse-MLA, block-scaled FP8) in Triton, because they simply don't exist for sm89. The performance is 2-3x more for parallel agentic workflows. Benchmark llama-server vs vLLM I was inspired by the post…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama, deepseek, agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v4n8wj/deepseek_v4_flash_105_ts_on_two_nvidia_4090d_48g/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 rtk-ai/rtk</title>
-    <link href="https://github.com/rtk-ai/rtk"/>
-    <id>urn:uuid:d4d7434ec434c586</id>
-    <updated>2026-07-23T18:46:16Z</updated>
-    <published>2026-07-23T18:46:16Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Rust&lt;/p&gt;&lt;p&gt;CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies High-performance CLI proxy that reduces LLM token consumption by 60-90% Website • Install • Troubleshooting • Architecture • Discord English • Francais • 中文 • 日本語 • 한국어 • Espanol • Português rtk filters…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/rtk-ai/rtk"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 JCodesMore/ai-website-cloner-template</title>
-    <link href="https://github.com/JCodesMore/ai-website-cloner-template"/>
-    <id>urn:uuid:b45364e1cabb9809</id>
-    <updated>2026-07-23T18:46:15Z</updated>
-    <published>2026-07-23T18:46:15Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — TypeScript&lt;/p&gt;&lt;p&gt;Clone any website with one command using AI coding agents AI Website Cloner Template A reusable template for reverse-engineering any website into a clean, modern Next.js codebase using AI coding agents. Recommended: Claude Code with Opus 4.8 for best results — but works with a variety of AI coding agents. Point it at…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, opus, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/JCodesMore/ai-website-cloner-template"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 earendil-works/pi</title>
-    <link href="https://github.com/earendil-works/pi"/>
-    <id>urn:uuid:70e0965b360d595f</id>
-    <updated>2026-07-23T18:46:15Z</updated>
-    <published>2026-07-23T18:46:15Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — TypeScript&lt;/p&gt;&lt;p&gt;AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See CONTRIBUTING.md . Pi Agent Harness This is the home of the Pi agent harness project including our self extensible coding agent.…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/earendil-works/pi"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 langchain-ai/open_deep_research</title>
-    <link href="https://github.com/langchain-ai/open_deep_research"/>
-    <id>urn:uuid:bf9a86609c69b592</id>
-    <updated>2026-07-23T18:46:15Z</updated>
-    <published>2026-07-23T18:46:15Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;🔬 Open Deep Research Deep research has broken out as one of the most popular agent applications. This is a simple, configurable, fully open source deep research agent that works across many model providers, search tools, and MCP servers. It's performance is on par with many popular deep research agents ( see Deep…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp, langchain&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/langchain-ai/open_deep_research"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 bojieli/ai-agent-book</title>
-    <link href="https://github.com/bojieli/ai-agent-book"/>
-    <id>urn:uuid:0142af4f4444274e</id>
-    <updated>2026-07-23T18:46:15Z</updated>
-    <published>2026-07-23T18:46:15Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 深入理解 AI Agent：设计原理与工程实践 中文 ← 当前 · 正体中文 · English · Русский · Tiếng Việt · தமிழ் 🌐 在线阅读 — 本书已构建为支持多语言切换、章节折叠、全文搜索的在线阅读站点，每次推送自动更新。下方仍提供 PDF / EPUB 离线版本。 Agent = LLM + 上下文 + 工具 ——本书围绕这个核心公式，用 10 章把 AI Agent 从原理讲到工程实战。全书正文、配图、 92 个配套实验 全部开源，欢迎亲手把实验跑一遍。 📚 10 章…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/bojieli/ai-agent-book"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 The LLM distillation process simplified for politicians:</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v4moxy/the_llm_distillation_process_simplified_for/"/>
-    <id>urn:uuid:7ca4a1430f05338f</id>
-    <updated>2026-07-23T18:41:48Z</updated>
-    <published>2026-07-23T18:41:48Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;/s submitted by /u/Porespellar [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v4moxy/the_llm_distillation_process_simplified_for/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b10094</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10094"/>
-    <id>urn:uuid:3940edf19a1e974f</id>
-    <updated>2026-07-23T18:28:00Z</updated>
-    <published>2026-07-23T18:28:00Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;common: infer the speculative type from the draft repo sidecars (#25989) With -hfd pointing to a repo that ships mtp-/dflash-/eagle3- sidecars and no --spec-type given, the draft resolved to a full model while the sidecar was the intended draft. When the speculative types are still at their default, discover the sidecars of the draft repo, pick the first available following the existing mtp &amp;gt;…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10094"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 CPU-only inference on a Celeron N5095 SBC: 6 models from 0.6B to 8B, benchmarked</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v4lgo3/cpuonly_inference_on_a_celeron_n5095_sbc_6_models/"/>
-    <id>urn:uuid:f0918d722ec871a3</id>
-    <updated>2026-07-23T17:59:34Z</updated>
-    <published>2026-07-23T17:59:34Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I wanted to know how cheap you can go and still run local models, so I ran Ollama CPU-only on a Youyeetoo X1S. It's a single-board x86 machine with a Celeron N5095 (Jasper Lake, 4C/4T, 15W), 16GB of RAM, and a 128GB NVMe, running Kali 2025.4. Base configs of this board go for about $100 to $130 on AliExpress depending…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v4lgo3/cpuonly_inference_on_a_celeron_n5095_sbc_6_models/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 460 · vshulcz/deja-vu (Go)</title>
-    <link href="https://github.com/vshulcz/deja-vu"/>
-    <id>urn:uuid:bf82eed446f8780d</id>
-    <updated>2026-07-23T17:46:32Z</updated>
-    <published>2026-07-23T17:46:32Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Your agents already solved this. deja finds it — memory operations for fifteen coding agents: retroactive search and MCP recall (84.9% R@1 on LongMemEval-S, no LLM), trust scopes, curated notes with tags and lifecycle states, measured impact. One zero-dep binary, fully local.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/vshulcz/deja-vu"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 anthropics/anthropic-sdk-python v0.119.0</title>
-    <link href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.119.0"/>
-    <id>urn:uuid:a8bd78151bd656ce</id>
-    <updated>2026-07-23T17:34:23Z</updated>
-    <published>2026-07-23T17:34:23Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## 0.119.0 (2026-07-23) Full Changelog: [v0.118.0...v0.119.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.118.0...v0.119.0) ### Features * **api:** add new stop reason 'model_context_window_exceeded' ([d983cde](https://github.com/anthropics/anthropic-sdk-python/commit/d983cdecdea27fb8ae36fd293930b978c9bebf4f)) ### Bug Fixes * **tools:** handle binary files in agent toolset…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.119.0"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b10093</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10093"/>
-    <id>urn:uuid:612a8f31bd46548b</id>
-    <updated>2026-07-23T17:19:26Z</updated>
-    <published>2026-07-23T17:19:26Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;Fix DeepSeek4 crafted template (#25414) * chat: fix DS4 template to explicitly follow reference behavior * Support DeepSeekv4 flag (`drop_reasoning`). * fix: hook DS3.2 parser for DS4 as well * fix: add tool result reordering * fix: post-merge **Website:** - **macOS/iOS:** - [macOS Apple Silicon…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10093"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
