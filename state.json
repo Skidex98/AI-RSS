@@ -1,12 +1,38 @@
 {
  "seen": [
+  "d4d7434ec434c586",
+  "3c205bdd4d6567e2",
+  "c9fd137613014063",
+  "70e0965b360d595f",
+  "a107b9a852ee29ba",
+  "59ac47fb08d05b81",
+  "3ba63d61176bd48e",
+  "1c193f4ab9f71952",
+  "9ef273999977e067",
+  "466cb2b9b35ce2fa",
+  "633c7442f4f9fda1",
+  "38c530d664d60f39",
+  "adde617d0da380ea",
+  "cc552b0e7e570cb7",
+  "bf82eed446f8780d",
+  "e03f094c78d2bff4",
+  "334971241d4e371a",
+  "7ef40382e181d915",
+  "c4090cc9ebd481aa",
+  "415f107c107fd36e",
+  "d7c1cba611f50f18",
+  "0e03705d6753778b",
+  "ae2e4c6096d01241",
   "dc497afb950bbe95",
   "906837ce4ce77a63",
   "57ade062170434e3",
   "2f1bac797ae1ed99",
+  "ed0e1df77ae3ff16",
   "50c33b3bd8589c2c",
+  "e4ee1c3e64e37411",
   "efad7b44cf0f56b3",
   "d5f3112631c4a09d",
+  "d453194887828dd0",
   "e289a6ae3c885eaf",
   "b4bdc79480ec13b8",
   "014bfa4247dbfdf8",
@@ -93,35 +119,293 @@
   "1097982adcedef3e",
   "3aa965812f8347be",
   "629b1d8c1ba88fb2",
-  "27c85dba90dc6e2a",
-  "9c7154abe0f602c3",
-  "33b2ec5d1e43feaa",
-  "1e267440d473808c",
-  "3621e05417238312",
-  "0685a4267ea2794d",
-  "4f95ee9580eca293",
-  "802ebb9f6be35cbb",
-  "5c12ba05e4fc41f6",
-  "50663789dc546cea",
-  "447a79f0923f5254",
-  "a5acd8c03a44c264",
-  "53d02e8085fb1486",
-  "37b82e529e689ef2",
-  "d59731224553c3b9",
-  "155182f774a420d9",
-  "0e45dceeceeaa72d",
-  "28a4a3b4723872c5",
-  "5fd586dce0853bb2",
-  "f64bba5e950e5362",
-  "d6597e4842b613a0",
-  "834f5d72510f5687",
-  "9439fa2cae28c263",
-  "4307f1241dcf9a41",
-  "fe70f19c0a91641b",
-  "3391240c869cb551",
-  "ffe55ca5de16ae95"
+  "27c85dba90dc6e2a"
  ],
  "items": [
+  {
+   "uid": "d4d7434ec434c586",
+   "title": "rtk-ai/rtk",
+   "url": "https://github.com/rtk-ai/rtk",
+   "source": "GitHub Trending — Rust",
+   "category": "repo",
+   "published": "2026-07-25T08:30:27.106001+00:00",
+   "summary": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies High-performance CLI proxy that cuts up to 90% of the bash output your agent reads Website • Install • Troubleshooting • Architecture • Discord English • Francais • 中文 • 日本語 • 한국어 • Espanol • Português…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "3c205bdd4d6567e2",
+   "title": "ai-driven-dev/framework",
+   "url": "https://github.com/ai-driven-dev/framework",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-07-25T08:30:26.697070+00:00",
+   "summary": "Marketplace Framework AI-Driven Dev : Context Engineering, Plugins, Agents, Skills, Hooks, Templates, SDLC AI-Driven Dev Framework 🇫🇷 Agentic framework for software engineers to produce 100% quality code with IA, agonistically. 7 plugins · 40 skills · 2 agents · MIT 🗺️ Live roadmap The AI-Driven Dev Framework installs…",
+   "matched": [
+    "agentic"
+   ]
+  },
+  {
+   "uid": "c9fd137613014063",
+   "title": "pingdotgg/t3code",
+   "url": "https://github.com/pingdotgg/t3code",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-07-25T08:30:26.696462+00:00",
+   "summary": "T3 Code T3 Code is a minimal web GUI for coding agents (currently Codex, Claude, Cursor, and OpenCode, more coming soon). Installation Warning T3 Code currently supports Codex, Claude, Cursor, and OpenCode. Install and authenticate at least one provider before use: Codex: install Codex CLI and run codex login Claude:…",
+   "matched": [
+    "claude"
+   ]
+  },
+  {
+   "uid": "70e0965b360d595f",
+   "title": "earendil-works/pi",
+   "url": "https://github.com/earendil-works/pi",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-07-25T08:30:26.695676+00:00",
+   "summary": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See CONTRIBUTING.md . Pi Agent Harness This is the home of the Pi agent harness project including our self extensible coding agent.…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "a107b9a852ee29ba",
+   "title": "makenotion/notion-mcp-server",
+   "url": "https://github.com/makenotion/notion-mcp-server",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-07-25T08:30:26.693033+00:00",
+   "summary": "Official Notion MCP Server Notion MCP Server Note We’ve introduced Notion MCP , a remote MCP server with the following improvements: Easy installation via standard OAuth. No need to fiddle with JSON or API tokens anymore. Powerful tools tailored to AI agents, including editing pages in Markdown. These tools are…",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "59ac47fb08d05b81",
+   "title": "theopenco/llmgateway",
+   "url": "https://github.com/theopenco/llmgateway",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-07-25T08:30:26.690383+00:00",
+   "summary": "Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. LLM Gateway LLM Gateway is an open-source API gateway for Large Language Models (LLMs). It acts as a middleware between your applications and various LLM providers, allowing you to: Route requests to multiple LLM…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "3ba63d61176bd48e",
+   "title": "langgenius/dify",
+   "url": "https://github.com/langgenius/dify",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-07-25T08:30:26.689540+00:00",
+   "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. Dify Cloud · Self-hosting · Documentation · Dify edition overview Dify is an open-source LLM app…",
+   "matched": [
+    "llm",
+    "rag",
+    "agentic"
+   ]
+  },
+  {
+   "uid": "1c193f4ab9f71952",
+   "title": "apify/crawlee",
+   "url": "https://github.com/apify/crawlee",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-07-25T08:30:26.688790+00:00",
+   "summary": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless…",
+   "matched": [
+    "rag",
+    "browser automation"
+   ]
+  },
+  {
+   "uid": "9ef273999977e067",
+   "title": "CoreBunch/Instatic",
+   "url": "https://github.com/CoreBunch/Instatic",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-07-25T08:30:26.683467+00:00",
+   "summary": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. Instatic Own your site. Love building it. A self-hosted CMS where the visual editor, content engine, and publisher all live in one Bun…",
+   "matched": [
+    "agentic"
+   ]
+  },
+  {
+   "uid": "466cb2b9b35ce2fa",
+   "title": "unclecode/crawl4ai",
+   "url": "https://github.com/unclecode/crawl4ai",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-07-25T08:30:26.304257+00:00",
+   "summary": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler Scraper. 🚀 Crawl4AI Cloud API — Closed Beta (Launching Soon) Reliable, large-scale web extraction, now built to be drastically more cost-effective than…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "633c7442f4f9fda1",
+   "title": "cheahjs/free-llm-api-resources",
+   "url": "https://github.com/cheahjs/free-llm-api-resources",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-07-25T08:30:26.300025+00:00",
+   "summary": "A list of free LLM inference resources accessible via API. Free LLM API resources This lists various services that provide free access or credits towards API-based LLM usage. Note Please don't abuse these services, else we might lose them. Warning This list explicitly excludes any services that are not legitimate (eg…",
+   "matched": [
+    "llm",
+    "inference"
+   ]
+  },
+  {
+   "uid": "38c530d664d60f39",
+   "title": "moorcheh-ai/memanto",
+   "url": "https://github.com/moorcheh-ai/memanto",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-07-25T08:30:26.299032+00:00",
+   "summary": "Memory that AI Agents Love! Memory that AI Agents Love! A companion memory agent that lets your agents focus and improve while you keep ownership of everything they learn. Persistent memory for Claude Code, Cursor, Codex, and 14+ other agents, built on the world's first information-theoretic search engine. 100% free,…",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "adde617d0da380ea",
+   "title": "flashinfer-ai/flashinfer",
+   "url": "https://github.com/flashinfer-ai/flashinfer",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-07-25T08:30:26.294241+00:00",
+   "summary": "FlashInfer: Kernel Library for LLM Serving High-Performance GPU Kernels for Inference | Documentation | Latest Release | Blog | Slack | Discussion Forum | FlashInfer is a library and kernel generator for inference that delivers state-of-the-art performance across diverse GPU architectures. It provides unified APIs for…",
+   "matched": [
+    "llm",
+    "inference"
+   ]
+  },
+  {
+   "uid": "cc552b0e7e570cb7",
+   "title": "calesthio/OpenMontage",
+   "url": "https://github.com/calesthio/OpenMontage",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-07-25T08:30:26.292055+00:00",
+   "summary": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. Monty the Clapper — the official mascot of OpenMontage OpenMontage The first open-source, agentic video…",
+   "matched": [
+    "agentic"
+   ]
+  },
+  {
+   "uid": "bf82eed446f8780d",
+   "title": "⭐ 472 · vshulcz/deja-vu (Go)",
+   "url": "https://github.com/vshulcz/deja-vu",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-07-25T08:14:40+00:00",
+   "summary": "Your agents already solved this. deja finds it — memory operations for sixteen coding agents: retroactive search and MCP recall (84.9% hit@1 on LongMemEval-S, no LLM), search by when it happened, a local memory viewer, trust scopes, curated notes with tags. One zero-dep binary, fully local.",
+   "matched": [
+    "llm",
+    "mcp"
+   ]
+  },
+  {
+   "uid": "e03f094c78d2bff4",
+   "title": "DKV: Open-source KV-cache compression framework for local LLM inference (CLI + technical report)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5wviz/dkv_opensource_kvcache_compression_framework_for/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-25T03:27:31+00:00",
+   "summary": "Hi everyone! Over the past five months I've been working on DKV (DifferentialKV), an open-source project exploring KV-cache compression for long-context local LLM inference. The goal is to reduce KV-cache memory requirements through anchor-based representations, joint low-rank compression, exact residual preservation,…",
+   "matched": [
+    "llm",
+    "inference"
+   ]
+  },
+  {
+   "uid": "334971241d4e371a",
+   "title": "anthropics/claude-agent-sdk-python v0.2.128",
+   "url": "https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.128",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-07-25T01:49:41+00:00",
+   "summary": "### Internal/Other Changes - Updated bundled Claude CLI to version 2.1.220 --- **PyPI:** https://pypi.org/project/claude-agent-sdk/0.2.128/ ```bash pip install claude-agent-sdk==0.2.128 ```",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "7ef40382e181d915",
+   "title": "anthropics/claude-code v2.1.220",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.220",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-07-25T01:35:55+00:00",
+   "summary": "## What's changed - Bug fixes and reliability improvements",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "c4090cc9ebd481aa",
+   "title": "pydantic/pydantic-ai v2.18.0 — v2.18.0 (2026-07-24)",
+   "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.18.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-07-25T01:01:03+00:00",
+   "summary": "## What's Changed ### 🚀 Features * Add `AdvisorTool` support for Anthropic and OpenRouter by @adtyavrdhn in https://github.com/pydantic/pydantic-ai/pull/6605 * Add 'us'/'eu' multi-region locations to GoogleCloudProvider location type by @pydanty[bot] in https://github.com/pydantic/pydantic-ai/pull/6715 * Add `external_web_access` option to `WebSearchTool` for OpenAI Responses by @pydanty[bot] in…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "415f107c107fd36e",
+   "title": "Quoting Boris Cherny",
+   "url": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-07-25T00:42:59+00:00",
+   "summary": "More than any of these eval scores, what is most exciting to me is something else: Opus 5 is our least prompt injectable model yet. It is a bit buried in the system card, but across PI evals and red teaming, Opus 5 is very hard to prompt inject successfully. Boris Cherny , here's that System Card section , page 73…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "d7c1cba611f50f18",
+   "title": "Introducing Claude Opus 5",
+   "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-07-24T23:48:50+00:00",
+   "summary": "Introducing Claude Opus 5 I've been offline kayaking with sea otters for much of today so I haven't had a chance to put Anthropic's new model Claude Opus 5 through its paces yet. The buzz is positive, and Anthropic's description of it as a \"thoughtful and proactive model that comes close to the frontier intelligence…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "0e03705d6753778b",
+   "title": "ultralytics/ultralytics v8.4.105 — v8.4.105 - Fuse distillation checkpoints to the student model (#25415)",
+   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.105",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-07-24T23:35:04+00:00",
+   "summary": "## 🌟 Summary **v8.4.105 improves reliability for distillation checkpoints, expands YOLO26 deployment options, and enhances CoreML, mobile, Hailo, QNN, Platform, and documentation workflows.** ## 📊 Key Changes - 🛠️ **Fixed distillation checkpoint crashes** by adding `fuse()` delegation to `DistillationModel`. Checkpoints saved during or after interrupted training can now be used with `yolo…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "ae2e4c6096d01241",
+   "title": "CachyLLama’s: llama.cpp fork with persistent KV cache that makes long local-agent sessions much less painful",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5k08a/cachyllamas_llamacpp_fork_with_persistent_kv/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-24T18:39:22+00:00",
+   "summary": "I’m not affiliated with this project, but I’ve been running it recently and I’m surprised it hasn’t received more attention here: https://github.com/fewtarius/CachyLLama CachyLLama is a fork of llama.cpp focused on a problem that matters a lot on slower hardware: repeated prompt processing. Not only does it have a new…",
+   "matched": [
+    "llama"
+   ]
+  },
   {
    "uid": "dc497afb950bbe95",
    "title": "[Paper] Statistically-Lossless Quantization of Large Language Models",
@@ -172,6 +456,18 @@
    ]
   },
   {
+   "uid": "ed0e1df77ae3ff16",
+   "title": "⭐ 79 · Get-Concord-AI/concord-mcp (TypeScript)",
+   "url": "https://github.com/Get-Concord-AI/concord-mcp",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-07-24T17:04:33+00:00",
+   "summary": "Shared work-state for coding agents: claim work, leave handoffs, and generate review packets before PRs, over MCP.",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
    "uid": "50c33b3bd8589c2c",
    "title": "Claude Opus 5",
    "url": "https://www.anthropic.com/news/claude-opus-5",
@@ -183,6 +479,18 @@
     "claude",
     "anthropic",
     "opus"
+   ]
+  },
+  {
+   "uid": "e4ee1c3e64e37411",
+   "title": "Agentic Kernel Optimization, visualized.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5gngo/agentic_kernel_optimization_visualized/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-24T16:41:20+00:00",
+   "summary": "A swarm of GPT 5.6 Sol agents spent over 40 hours optimizing a Kimi K3-like model from 65 to 406 tok/s. This animation follows their collaboration as they discover operator fusions, transform the execution graph, and develop new kernel algorithms. We start with a fully decomposed 331-node Kimi Linear graph and end…",
+   "matched": [
+    "agentic"
    ]
   },
   {
@@ -205,6 +513,18 @@
    "category": "news",
    "published": "2026-07-24T16:22:39+00:00",
    "summary": "The earlier post on this subreddit by 20+ companies signing the petition including Microsoft, Meta, Nvidia, YC ( https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/ ) etc plus this https://xcancel.com/elonmusk/status/2080672505660834163 And the entire LLM enthusiast market is heavily in favor…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "d453194887828dd0",
+   "title": "⭐ 40 · Drobiazkin/ai-agent-architecture (HTML)",
+   "url": "https://github.com/Drobiazkin/ai-agent-architecture",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-07-24T16:02:38+00:00",
+   "summary": "Build LLM systems you actually control. A free, open engineering book + course — from tokenization to serving your own models. Mechanisms, trade-offs, and numbers, not prompt tips",
    "matched": [
     "llm"
    ]
@@ -1288,323 +1608,7 @@
    "matched": [
     "llm"
    ]
-  },
-  {
-   "uid": "9c7154abe0f602c3",
-   "title": "ARCO: Adaptive Rubrics with Co-Evolution for Multi-Step LLM-Based Agents",
-   "url": "https://arxiv.org/abs/2606.21262",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2606.21262v2 Announce Type: replace-cross Abstract: Reinforcement learning for multi-step LLM agents often relies on scalar rewards that indicate success but cannot explain why a trajectory is good or bad. Rubric-based rewards improve interpretability through natural-language criteria, but existing methods share…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "33b2ec5d1e43feaa",
-   "title": "ODeform: Learning Continuous 4D Motion for Shape Deformation with Neural ODEs",
-   "url": "https://arxiv.org/abs/2607.20670",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.20670v1 Announce Type: new Abstract: Modeling continuous object deformation is important for many computer vision and robotics tasks, such as manipulation and simulation. Existing approaches rely on learning-based methods or physics simulators to model shape deformations. However, these approaches either…",
-   "matched": [
-    "computer vision"
-   ]
-  },
-  {
-   "uid": "1e267440d473808c",
-   "title": "U-CFR: Uncertainty-Guided Cascade Forward Refinement for Interactive Segmentation",
-   "url": "https://arxiv.org/abs/2607.20705",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.20705v1 Announce Type: new Abstract: Interactive image segmentation is critical for efficient image annotation; however, existing methods often require many corrective clicks or rely on passive refinement schemes that converge slowly. We propose Uncertainty-Guided Cascade Forward Refinement (U-CFR), a novel…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "3621e05417238312",
-   "title": "Agentic Designer: Progressive Multi-Agent Collaboration for Structure-Aware Interior Layout Generation",
-   "url": "https://arxiv.org/abs/2607.20866",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.20866v1 Announce Type: new Abstract: Generating realistic interior furniture layouts that strictly adhere to architectural constraints (e.g., walls, doors, and windows) remains a fundamental challenge in automated spatial design. Existing approaches, primarily based on one-shot generation using diffusion…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "0685a4267ea2794d",
-   "title": "FSB-Net: Frequency-Spatial Boundary Network for Brain Stroke Lesion Segmentation in Non-Contrast CT",
-   "url": "https://arxiv.org/abs/2607.20955",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.20955v1 Announce Type: new Abstract: Accurate segmentation of brain stroke lesions in non-contrast computed tomography (NCCT) scans is critical for rapid clinical decision-making, yet remains difficult due to the low contrast between lesion and normal brain tissue, heterogeneous lesion morphology across…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "4f95ee9580eca293",
-   "title": "GeoThreat: Transferable Targeted Adversarial Attacks on Large Vision-Language Models for Remote Sensing Image Interpretation",
-   "url": "https://arxiv.org/abs/2607.21036",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.21036v1 Announce Type: new Abstract: Adversarial attacks against large vision-language models (LVLMs) serve as an effective means of assessing their robustness in cross-modal semantic understanding. Existing studies mainly focus on corrupting visual inputs to induce predefined erroneous responses in general…",
-   "matched": [
-    "remote sensing"
-   ]
-  },
-  {
-   "uid": "802ebb9f6be35cbb",
-   "title": "Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text",
-   "url": "https://arxiv.org/abs/2607.21072",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.21072v1 Announce Type: new Abstract: Spatial intelligence is essential for agents to move from static semantic understanding toward interacting with the physical world. Many spatial tasks are grounded in continuous visual scenes, where locations, regions, and paths are more naturally expressed by pointing,…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "5c12ba05e4fc41f6",
-   "title": "C-PTQ: Fisher-weighted Channel-wise Sensitivity for Post-training Quantization of MLLMs",
-   "url": "https://arxiv.org/abs/2607.21076",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.21076v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) require huge memory and computational costs, which limits their practical deployment. Post-training quantization (PTQ) techniques offer an efficient solution for model compression and inference acceleration. Yet, the quantized…",
-   "matched": [
-    "quantization",
-    "inference"
-   ]
-  },
-  {
-   "uid": "50663789dc546cea",
-   "title": "Loss Landscape Topology Reveals Why Simple Baselines are Competitive at 3D Point Cloud Segmentation Under Class Imbalance",
-   "url": "https://arxiv.org/abs/2607.21089",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.21089v1 Announce Type: new Abstract: Semantic segmentation of 3D point clouds faces severe class imbalance, yet the effectiveness of specialized imbalance-aware methods from 2D computer vision remains unclear in 3D contexts. We systematically evaluate 11 imbalance mitigation approaches across datasets with…",
-   "matched": [
-    "segmentation",
-    "computer vision"
-   ]
-  },
-  {
-   "uid": "447a79f0923f5254",
-   "title": "Safety-oriented sidewalk and road segmentation for smartphone-based assistive navigation",
-   "url": "https://arxiv.org/abs/2607.21137",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.21137v1 Announce Type: new Abstract: Independent sidewalk mobility is essential for blind and visually impaired pedestrians (BVIPs), yet smartphone-based assistive navigation requires perception models that distinguish walkable sidewalks from adjacent unsafe regions. This study presents a safety-oriented…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "a5acd8c03a44c264",
-   "title": "Out of Sight, Still in Mind: Token Compression for Omni-LLMs",
-   "url": "https://arxiv.org/abs/2607.21179",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.21179v1 Announce Type: new Abstract: The goal of this paper is to reduce the input token cost of Omni-modal large language models (Omni-LLMs) at inference time. Omni-LLMs reason jointly over audio, video and text, but the cost of the three streams is highly unbalanced: visual tokens account for the vast…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "53d02e8085fb1486",
-   "title": "T-STAR: A Large-Scale Benchmark for Spatio-Temporal Panoptic Scene Graph Generation in Satellite Video",
-   "url": "https://arxiv.org/abs/2607.21228",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.21228v1 Announce Type: new Abstract: Structured understanding of satellite video is essential for advancing dynamic geospatial scene analysis from low-level perception to high-level cognition. To move beyond object-centric perception, this paper introduces spatio-temporal panoptic scene graph generation…",
-   "matched": [
-    "geospatial"
-   ]
-  },
-  {
-   "uid": "37b82e529e689ef2",
-   "title": "Unlearning Under Imbalance: Benchmarking Fairness in Multimodal LLM Unlearning",
-   "url": "https://arxiv.org/abs/2607.21300",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.21300v1 Announce Type: new Abstract: Machine unlearning has emerged as a tool for removing personal data from trained models to comply with recent AI regulations. To evaluate unlearning effectiveness in multimodal large language models (MLLMs), prior works fine-tune models on fictitious identities,…",
-   "matched": [
-    "llm",
-    "fine-tune"
-   ]
-  },
-  {
-   "uid": "d59731224553c3b9",
-   "title": "ASTRA-Net: Anatomy-Specific Transfer and Representation Alignment for Drug-Induced Sleep Endoscopy Segmentation",
-   "url": "https://arxiv.org/abs/2607.21370",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.21370v1 Announce Type: new Abstract: Quantitative drug-induced sleep endoscopy (DISE) requires reliable airway boundaries at specific anatomical levels. Pixel-level DISE annotations are scarce, and manual contouring limits the scalability of quantitative assessment. To address this limitation, we developed…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "155182f774a420d9",
-   "title": "DINOde: Continuous Vision-Text Alignment for Open-Vocabulary Semantic Segmentation",
-   "url": "https://arxiv.org/abs/2607.21371",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.21371v1 Announce Type: new Abstract: Open-vocabulary semantic segmentation (OVSS) leverages textual semantics to segment objects beyond predefined categories. While the self-supervised model DINOv3 provides strong structured visual representations, its lack of native textual alignment hinders its direct…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "0e45dceeceeaa72d",
-   "title": "SPDCN: Strip-based Deformable Convolutional Network for Steel Surface Defect Segmentation",
-   "url": "https://arxiv.org/abs/2607.21456",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.21456v1 Announce Type: new Abstract: Steel surface defect segmentation is critical for industrial quality inspection, yet existing methods struggle with elongated, anisotropic defects such as cracks and scratches due to the isotropic receptive fields of standard convolutions and rigid sampling grids that…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "28a4a3b4723872c5",
-   "title": "Visual Contrastive Self-Distillation",
-   "url": "https://arxiv.org/abs/2607.21556",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.21556v1 Announce Type: new Abstract: On-policy self-distillation (OPSD) is promising as it removes the external teacher required by on-policy distillation (OPD), yet it still needs asymmetric information between teacher and student to ensure that the self-teacher provides a stronger learning signal than the…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "5fd586dce0853bb2",
-   "title": "Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning",
-   "url": "https://arxiv.org/abs/2607.21591",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.21591v1 Announce Type: new Abstract: Diffusion and flow-matching models dominate conditional image generation, yet inference-time scaling for these models is far less developed than for autoregressive language models. Because final quality is highly sensitive to the initial noise seed, many approaches spend…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "f64bba5e950e5362",
-   "title": "A Graph Neural Network approach to zero-shot Digital Twins",
-   "url": "https://arxiv.org/abs/2607.20535",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.20535v1 Announce Type: cross Abstract: Traditional Predictive Digital Twins often remain geometrically rigid, requiring extensive retraining or fine-tuning whenever the underlying physical domain or boundary conditions change. To overcome this limitation, we present a novel framework for \\textit{Zero-Shot…",
-   "matched": [
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "d6597e4842b613a0",
-   "title": "StrideDiffusion: Accelerating Diffusion Models for Time-series Generation",
-   "url": "https://arxiv.org/abs/2607.20545",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.20545v1 Announce Type: cross Abstract: Diffusion models have become competitive generators for time series, but their practical use is limited by the large number of sequential denoising steps required at inference time. Existing fast samplers typically use fixed or generic timestep schedules, overlooking a…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "834f5d72510f5687",
-   "title": "CT-Merging: Consensus Directions and Task-Level Scaling for LoRA Adapter Merging",
-   "url": "https://arxiv.org/abs/2607.20561",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.20561v1 Announce Type: cross Abstract: LoRA adapters provide an efficient way to specialize a pretrained model for many downstream tasks, but deploying one adapter per task requires adapter storage and task selection at inference time. Model merging addresses this issue by combining independently trained…",
-   "matched": [
-    "lora",
-    "inference"
-   ]
-  },
-  {
-   "uid": "9439fa2cae28c263",
-   "title": "A real-time RGB-D perception pipeline for autonomous impact hammers in mining: self-filtering, rock segmentation and rock-breaking poses generation",
-   "url": "https://arxiv.org/abs/2607.20748",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.20748v1 Announce Type: cross Abstract: Impact hammers, also known as rock-breakers, are essential machines in mining operations, where they perform secondary reduction. In underground mining, these machines are typically teleoperated, limiting operational efficiency. This paper presents a real-time RGB-D…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "4307f1241dcf9a41",
-   "title": "KroQuant: Kronecker-Structured Block Transforms for Efficient Post-Training Quantization of Diffusion Transformers",
-   "url": "https://arxiv.org/abs/2607.21446",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.21446v1 Announce Type: cross Abstract: Post-training quantization (PTQ) of diffusion transformers (DiTs) to W4A4 severely degrades output quality, because activations entering each linear layer contain outliers that 4-bit formats cannot represent. The standard fix applies an invertible linear transform to…",
-   "matched": [
-    "quantization"
-   ]
-  },
-  {
-   "uid": "fe70f19c0a91641b",
-   "title": "QATMA: Quantization-Aware Training with Multimodal Alignment for Open-Vocabulary Object Detection",
-   "url": "https://arxiv.org/abs/2603.05964",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2603.05964v3 Announce Type: replace Abstract: Quantizing open-vocabulary object detection (OVOD) models reduces their memory and computational costs, but extremely low-bit quantization severely degrades both cross-modal (region-text) and intra-modal (region-region) alignments. This multimodal degradation is a…",
-   "matched": [
-    "quantization"
-   ]
-  },
-  {
-   "uid": "3391240c869cb551",
-   "title": "Lessons and Open Questions from a Unified Study of Camera-Trap Species Recognition Over Time",
-   "url": "https://arxiv.org/abs/2603.20509",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2603.20509v2 Announce Type: replace Abstract: Camera traps are vital for large-scale biodiversity monitoring, yet accurate automated analysis remains challenging due to diverse deployment environments. While the computer vision community has mostly framed this challenge as cross-domain generalization, this…",
-   "matched": [
-    "computer vision"
-   ]
-  },
-  {
-   "uid": "ffe55ca5de16ae95",
-   "title": "Task Alignment: A Simple Proxy for Practical Model Merging Across Diverse Vision Tasks",
-   "url": "https://arxiv.org/abs/2604.12935",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2604.12935v2 Announce Type: replace Abstract: Efficiently merging several models fine-tuned for different tasks, but stemming from the same pretrained base model, is of great practical interest. Despite extensive prior work, most evaluations of model merging in computer vision are restricted to image…",
-   "matched": [
-    "computer vision"
-   ]
   }
  ],
- "last_run": "2026-07-24T18:57:48.893713+00:00"
+ "last_run": "2026-07-25T08:30:40.662771+00:00"
 }
