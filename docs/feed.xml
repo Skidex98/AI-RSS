@@ -5,8 +5,89 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-07-25T08:30:40Z</updated>
+  <updated>2026-07-25T18:26:42Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>📰 Kimi Linear 48B A3B?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v6f5vf/kimi_linear_48b_a3b/"/>
+    <id>urn:uuid:67573e5fa183444d</id>
+    <updated>2026-07-25T17:58:17Z</updated>
+    <published>2026-07-25T17:58:17Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Just noticed this exists, 1M context MOE with 48B par seems just like what Ive been looking for - it runs pretty damn fast too compared to Qwen 3.6 35B. after some testing it seems capable of producing *not terrible* results but it always tries to go for the minimun possible output that could be presented as what was…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v6f5vf/kimi_linear_48b_a3b/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 I run 35B–480B coding models on my 36 GB MacBook by streaming MoE experts from SSD — self-contained app, and I publish the benchmarks that *failed* too</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v6eqvo/i_run_35b480b_coding_models_on_my_36_gb_macbook/"/>
+    <id>urn:uuid:14affe343f249f3e</id>
+    <updated>2026-07-25T17:42:20Z</updated>
+    <published>2026-07-25T17:42:20Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I got tired of your Mac can't run that so I forked llama.cpp to stream a MoE model's expert weights from SSD instead of forcing the whole thing into RAM. A MoE only fires a few experts per token, so most weights sit idle — Slipstream keeps the always-needed weights resident and streams the routed experts on demand,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v6eqvo/i_run_35b480b_coding_models_on_my_36_gb_macbook/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Benchmarks: TensorSharp vs. llama.cpp</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v6ect8/benchmarks_tensorsharp_vs_llamacpp/"/>
+    <id>urn:uuid:753f6639d791f8a0</id>
+    <updated>2026-07-25T17:27:32Z</updated>
+    <published>2026-07-25T17:27:32Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Cuda and Vulkan Benchmark: TensorSharp vs. llama.cpp I would like to share my latest open source local Unsloth (GGUF) LLM inference engine and applications. It supports many models from Unsloth, like Gemma4, DiffusionGemma, Qwen3.6 with multi-modal (image, vision, audio), Qwen Image Edit, reasoning and function tool.…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama, qwen, llm, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v6ect8/benchmarks_tensorsharp_vs_llamacpp/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 143 · Saivineeth147/lora-speedrun (Python)</title>
+    <link href="https://github.com/Saivineeth147/lora-speedrun"/>
+    <id>urn:uuid:b15afb70789ca56b</id>
+    <updated>2026-07-25T17:16:46Z</updated>
+    <published>2026-07-25T17:16:46Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Speedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt for fine-tuning.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tuning, lora&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Saivineeth147/lora-speedrun"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Great Arguments by Member of Technical Staff at Anthropic :D</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v6dy7w/great_arguments_by_member_of_technical_staff_at/"/>
+    <id>urn:uuid:5c28373e4cd32371</id>
+    <updated>2026-07-25T17:12:04Z</updated>
+    <published>2026-07-25T17:12:04Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Tweet : https://xcancel.com/Mononofu/status/2080937562739531837#m submitted by /u/pmttyji [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v6dy7w/great_arguments_by_member_of_technical_staff_at/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 How much are you actually using your local models these days? Which ones do you reach for the most?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v6dk8t/how_much_are_you_actually_using_your_local_models/"/>
+    <id>urn:uuid:1429a06651fefadb</id>
+    <updated>2026-07-25T16:57:17Z</updated>
+    <published>2026-07-25T16:57:17Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I started tracking my local model usage about four weeks ago and was wondering if anyone else here keeps track of how much they use them. I’ve also been running some tests with the cheapest SOTA open-weight Chinese models via OpenRouter. Apart from that, I’m mainly using GPT-5.5 in Codex CLI for professional work and…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: gpt-5&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v6dk8t/how_much_are_you_actually_using_your_local_models/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Google comes out in favor of OpenWeight models. (It is now EVERY tech giant vs Anthropic)</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v6axx3/google_comes_out_in_favor_of_openweight_models_it/"/>
+    <id>urn:uuid:56e3bec2f8c9bc97</id>
+    <updated>2026-07-25T15:12:42Z</updated>
+    <published>2026-07-25T15:12:42Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;submitted by /u/MysteryWra [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v6axx3/google_comes_out_in_favor_of_openweight_models_it/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 vllm-project/vllm v0.26.0</title>
+    <link href="https://github.com/vllm-project/vllm/releases/tag/v0.26.0"/>
+    <id>urn:uuid:6c625f171377c479</id>
+    <updated>2026-07-25T10:38:53Z</updated>
+    <published>2026-07-25T10:38:53Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;# vLLM v0.26.0 Release Notes ## Highlights This release features 411 commits from 212 contributors (61 new)! * **New Inkling model family** with a full support stack: base modeling (#48799), piecewise CUDA graph support (#48822), Hopper FA4 relative attention (#48858), MTP=1 speculative decoding (#48869), LoRA (#48884), and standard ModelOpt NVFP4 quantization (#48990). * **DeepSeek-V4…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/vllm-project/vllm/releases/tag/v0.26.0"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Who ONLY use local models?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v62z48/who_only_use_local_models/"/>
+    <id>urn:uuid:3a8288c825b80c41</id>
+    <updated>2026-07-25T08:51:28Z</updated>
+    <published>2026-07-25T08:51:28Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Please be honest. I would love to hear about guys really dedicated to local AI and who really reject subscriptions (especially to openai and anthropic). What do you use your model for? submitted by /u/takoulseum [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v62z48/who_only_use_local_models/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 rtk-ai/rtk</title>
     <link href="https://github.com/rtk-ai/rtk"/>
@@ -1005,86 +1086,5 @@
     <published>2026-07-24T04:00:00Z</published>
     <category term="PAPER"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.00250v4 Announce Type: replace Abstract: Maltese OCR is constrained by the absence of a public, reusable paragraph-scale training corpus. We address this by generating synthetic Maltese line images, fine-tuning the Tesseract 5 LSTM, and combining five deterministic Tesseract configurations through…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tuning, ocr&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.00250"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 MetaHOPE: A Metaphor-Oriented Evaluation Framework for Analysing MT and LLM Translation Errors</title>
-    <link href="https://arxiv.org/abs/2607.00848"/>
-    <id>urn:uuid:4e8b3934312fe025</id>
-    <updated>2026-07-24T04:00:00Z</updated>
-    <published>2026-07-24T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.00848v2 Announce Type: replace Abstract: In this opinion paper, we propose MetaHOPE, an error severity-aware annotation framework for evaluating metaphor translations. Metaphors present challenges for machine translation (MT) and natural language understanding and processing (NLU, NLP), because it presents…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.00848"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 A Sovereign, Open-Source Foundation Model for German and English</title>
-    <link href="https://arxiv.org/abs/2607.09424"/>
-    <id>urn:uuid:fc646aeca12d3a58</id>
-    <updated>2026-07-24T04:00:00Z</updated>
-    <published>2026-07-24T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.09424v3 Announce Type: replace Abstract: We present Soofi S 30B-A3B, a sovereign, open-source Mixture-of-Experts (MoE) hybrid Mamba Transformer foundation model for German and English. Its hybrid design activates only 3B of 30B parameters per token and keeps the inference cache near-constant as context…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.09424"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Silent Failures in Quantized LLM Reasoning: A Taxonomy-Based Analysis of Hollow Convergence and Failure Mode Shifts</title>
-    <link href="https://arxiv.org/abs/2607.09999"/>
-    <id>urn:uuid:4ed81b3349e12b57</id>
-    <updated>2026-07-24T04:00:00Z</updated>
-    <published>2026-07-24T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.09999v2 Announce Type: replace Abstract: We show that post-training quantization can silently alter how large language models reason even when task accuracy is preserved. Using a six-category failure taxonomy validated by two independent human annotators (Cohen's $\kappa$ = 0.906), we classify 30,000…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, quantization&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.09999"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 SkillCorpus: Consolidating and Evaluating the Open Skill Ecosystem for Real-World LLM Agents</title>
-    <link href="https://arxiv.org/abs/2607.15557"/>
-    <id>urn:uuid:79c50e44882e0dbb</id>
-    <updated>2026-07-24T04:00:00Z</updated>
-    <published>2026-07-24T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.15557v4 Announce Type: replace Abstract: Agent skills, SKILL files that package reusable procedural knowledge for an LLM agent, are a popular mechanism for extending agent capabilities. Public repositories now host them in large and growing numbers, yet these artifacts are fragmented, redundant, and uneven…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.15557"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 How Robust Is Homogeneity Bias in LLMs? Evidence Across Models, Decoding Settings, and Identity Signals</title>
-    <link href="https://arxiv.org/abs/2501.02211"/>
-    <id>urn:uuid:5cb0d8d5fe7731a0</id>
-    <updated>2026-07-24T04:00:00Z</updated>
-    <published>2026-07-24T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2501.02211v3 Announce Type: replace-cross Abstract: Large language models (LLMs) reproduce homogeneity bias -- the tendency to portray marginalized groups as more internally similar than dominant groups -- but whether this bias generalizes across models, is stable under different inference settings, or depends…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2501.02211"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 WebCoach: Self-Evolving Web Agents with Cross-Session Memory Guidance</title>
-    <link href="https://arxiv.org/abs/2511.12997"/>
-    <id>urn:uuid:1097982adcedef3e</id>
-    <updated>2026-07-24T04:00:00Z</updated>
-    <published>2026-07-24T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2511.12997v2 Announce Type: replace-cross Abstract: Multimodal LLM-powered agents have recently demonstrated impressive capabilities in web navigation, enabling agents to complete complex browsing tasks across diverse domains. However, current agents struggle with repetitive errors and lack the ability to learn…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2511.12997"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 StackingNet: Collective Inference Across Independent AI Foundation Models</title>
-    <link href="https://arxiv.org/abs/2602.13792"/>
-    <id>urn:uuid:3aa965812f8347be</id>
-    <updated>2026-07-24T04:00:00Z</updated>
-    <published>2026-07-24T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2602.13792v3 Announce Type: replace-cross Abstract: Artificial intelligence built on large foundation models has transformed language understanding, computer vision, and reasoning, yet these systems remain isolated and cannot readily share their capabilities. Coordinating the complementary strengths of…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference, computer vision&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2602.13792"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 SR-TTT Does Not Learn Retrieval: A Correction and Mechanistic Post-Mortem of Surprisal-Aware Residual Test-Time Training</title>
-    <link href="https://arxiv.org/abs/2603.06642"/>
-    <id>urn:uuid:629b1d8c1ba88fb2</id>
-    <updated>2026-07-24T04:00:00Z</updated>
-    <published>2026-07-24T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2603.06642v2 Announce Type: replace-cross Abstract: Test-Time Training (TTT) language models replace the KV-cache with fast weights updated during inference, achieving O(1) memory but suffering catastrophic failure on exact-recall tasks. Version 1 of this work proposed SR-TTT, which routes high-surprisal tokens…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2603.06642"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Progressive in Principle, Centrist in Practice: LLM Political Bias Is Instrument-Dependent</title>
-    <link href="https://arxiv.org/abs/2606.00048"/>
-    <id>urn:uuid:27c85dba90dc6e2a</id>
-    <updated>2026-07-24T04:00:00Z</updated>
-    <published>2026-07-24T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2606.00048v2 Announce Type: replace-cross Abstract: Prior work establishes that instruction-tuned LLMs exhibit left-of-center political bias, but measures it exclusively through abstract questionnaires. We show this does not generalize to concrete policy decisions. We introduce a dual-instrument methodology…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2606.00048"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
