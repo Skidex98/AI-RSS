@@ -5,8 +5,53 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-07-26T08:56:26Z</updated>
+  <updated>2026-07-26T18:31:32Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>📰 Minimax M3 support with MSA has been merged into llama.cpp</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v7ay5h/minimax_m3_support_with_msa_has_been_merged_into/"/>
+    <id>urn:uuid:ba7a3b4a6c0f52ee</id>
+    <updated>2026-07-26T17:54:00Z</updated>
+    <published>2026-07-26T17:54:00Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;submitted by /u/Time_Reaper [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v7ay5h/minimax_m3_support_with_msa_has_been_merged_into/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 90 agentic bakeoff runs: ThinkingCap vs Fable Fusion vs stock Qwen3.6-27B</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v78dzr/90_agentic_bakeoff_runs_thinkingcap_vs_fable/"/>
+    <id>urn:uuid:f11e13c54d2e0d81</id>
+    <updated>2026-07-26T16:19:45Z</updated>
+    <published>2026-07-26T16:19:45Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Last week someone here said ThinkingCap and Fable Fusion really do beat the OG for agentic work, so I ran it: 6 self-grading tasks, 5 reps, 3 models, 90 isolated runs. Tooling, since that's half the story: each run was a fresh Coder workspace on my k8s cluster driving my own agent (Hermes, the harness I use daily)…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fable, agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v78dzr/90_agentic_bakeoff_runs_thinkingcap_vs_fable/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Sources: OpenAI and Anthropic quietly lobby Washington regulators to restrict open-source AI models, even as Sam Altman publicly says he supports open source AI</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v74j62/sources_openai_and_anthropic_quietly_lobby/"/>
+    <id>urn:uuid:4e01156d0ba0c776</id>
+    <updated>2026-07-26T13:53:52Z</updated>
+    <published>2026-07-26T13:53:52Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;submitted by /u/pscoutou [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v74j62/sources_openai_and_anthropic_quietly_lobby/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Kimi K3 gets open weighted tomorrow!</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v722bp/kimi_k3_gets_open_weighted_tomorrow/"/>
+    <id>urn:uuid:2aec3902374de5c7</id>
+    <updated>2026-07-26T12:05:47Z</updated>
+    <published>2026-07-26T12:05:47Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Kimi K3 is supposed to get open weighted tomorrow! Can't run it or even a model a hundred times smaller lol, but its still a great win for open source. For me, personally im more awaited for the new inference providers that will open up hopefully. https://preview.redd.it/ix64yipudkfh1.png?width=1481 format=png…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v722bp/kimi_k3_gets_open_weighted_tomorrow/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 ai-sage/GigaChat3.1-Audio-10B-A1.8B · Hugging Face</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1v6zksb/aisagegigachat31audio10ba18b_hugging_face/"/>
+    <id>urn:uuid:b2307f97e6d3c0dd</id>
+    <updated>2026-07-26T09:59:03Z</updated>
+    <published>2026-07-26T09:59:03Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;GigaChat Audio 10B is an audio-native LLM built on top of the GigaChat 3.1 Lightning text model. A Conformer speech encoder and a modality adapter feed audio embeddings directly into a Mixture-of-Experts decoder, so the model keeps the text quality of its base while adding speech understanding. Capabilities: audio…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1v6zksb/aisagegigachat31audio10ba18b_hugging_face/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 lance-format/lance</title>
     <link href="https://github.com/lance-format/lance"/>
@@ -827,6 +872,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://platform.claude.com/cookbook/ Comments URL: https://news.ycombinator.com/item?id=49031409 Points: 273 # Comments: 140&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://platform.claude.com/cookbook/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📦 ⭐ 75 · icebird1998/scientific-illustrator (JavaScript)</title>
+    <link href="https://github.com/icebird1998/scientific-illustrator"/>
+    <id>urn:uuid:87f794bbde9b07b7</id>
+    <updated>2026-07-24T04:33:50Z</updated>
+    <published>2026-07-24T04:33:50Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/icebird1998/scientific-illustrator"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>📄 OpenSkillRisk: Benchmarking Agent Safety When Using Real-World Risky Third-Party Skills</title>
     <link href="https://arxiv.org/abs/2607.20121"/>
     <id>urn:uuid:4504b05852a812f9</id>
@@ -1032,59 +1086,5 @@
     <published>2026-07-24T04:00:00Z</published>
     <category term="PAPER"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.21143v1 Announce Type: new Abstract: Ambiguous user requests make clarification a sequential decision problem for conversational LLM assistants: they must decide whether to ask, what to ask, when to stop, and when to answer. We introduce RegretBench, a multi-turn benchmark that evaluates clarification as…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.21143"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 A Comparative Evaluation of Embeddings and LLMs in a Greek Book Publisher Setting - The CUP Dataset</title>
-    <link href="https://arxiv.org/abs/2607.21274"/>
-    <id>urn:uuid:68e9a7ba60b32f0e</id>
-    <updated>2026-07-24T04:00:00Z</updated>
-    <published>2026-07-24T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.21274v1 Announce Type: new Abstract: We present CUP, a Greek book retrieval benchmark consisting of 868 catalog records and 104 expert-annotated queries with graded relevance judgments. We evaluate sparse (BM25), dense (sentence-transformers), hybrid, and LLM-assisted retrieval methods in this book-search…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.21274"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Adaptive Depth Sparse Framework: Similarity-Driven Resource Allocation for Pre-Trained LLMs</title>
-    <link href="https://arxiv.org/abs/2607.21291"/>
-    <id>urn:uuid:3ea59538eb77a8e4</id>
-    <updated>2026-07-24T04:00:00Z</updated>
-    <published>2026-07-24T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.21291v1 Announce Type: new Abstract: Large language models (LLMs) achieve strong generation and reasoning performance, but the Transformer architecture incurs high inference cost. Existing acceleration methods often rely on task-specific fine-tuning or training from scratch, increasing adaptation cost and…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tuning, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.21291"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 GRADRAG: Cross-Component Prompt Adaptation for Coordinated Multi-Agent RAG</title>
-    <link href="https://arxiv.org/abs/2607.21324"/>
-    <id>urn:uuid:a1ad50766aa0bc88</id>
-    <updated>2026-07-24T04:00:00Z</updated>
-    <published>2026-07-24T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.21324v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) systems increasingly employ multiple LLM agents. Yet, most prior work optimizes components in isolation rather than coordinating improvements across the pipeline. We introduce GRADRAG, a framework for cross-component prompt adaptation…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, rag&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.21324"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Capital Markets LLM Reliability Score (CM-LRS): From Plausible to Bankable</title>
-    <link href="https://arxiv.org/abs/2607.21340"/>
-    <id>urn:uuid:3b6add6718b2cee2</id>
-    <updated>2026-07-24T04:00:00Z</updated>
-    <published>2026-07-24T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.21340v1 Announce Type: new Abstract: In capital-markets workflows the question is rarely whether a large language model can produce a fluent draft, but whether the draft is bankable: defensible in front of a counter-party or a regulator, with the documents in hand. Existing methods address parts of that…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.21340"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Token Budget Saturation and Mechanistic Early Detection of Reasoning Non-Convergence in Chain-of-Thought Models</title>
-    <link href="https://arxiv.org/abs/2607.21433"/>
-    <id>urn:uuid:e680c482abe4e2e8</id>
-    <updated>2026-07-24T04:00:00Z</updated>
-    <published>2026-07-24T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.21433v1 Announce Type: new Abstract: Chain-of-thought reasoning models such as DeepSeek-R1-Distill-Qwen-7B exhibit a bimodal convergence pattern: generations either terminate within a token budget (converged) or exhaust it without reaching a conclusion (non-converged). We characterize this phenomenon…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen, deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.21433"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 What, Where, and How: Disentangling the Roles of Task, Language, and Model in Code Model Representations</title>
-    <link href="https://arxiv.org/abs/2607.21491"/>
-    <id>urn:uuid:30525f68eb89450b</id>
-    <updated>2026-07-24T04:00:00Z</updated>
-    <published>2026-07-24T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.21491v1 Announce Type: new Abstract: Do independently trained language models come to represent the same thing in the same way? We answer for code, extending a recently introduced concept-circuit extraction method to a 2x2 design -- Python and Rust crossed with Qwen2.5-Coder-7B and DeepSeek-Coder-V1-6.7B --…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.21491"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
