@@ -1,12 +1,36 @@
 {
  "seen": [
+  "0f0a5d510345a186",
+  "bb32fcd62c60a18e",
+  "85d27d4cf28cc1c8",
+  "7da74fafc170dcc2",
+  "318ad11799c39e8f",
+  "6450ce2b2e286244",
+  "099c95918632b208",
+  "65d50c4c972f6e74",
+  "da5a11f518c16a38",
+  "bdfa797d9457479d",
+  "d87a015cd12917fd",
+  "9892c2602b8929d3",
+  "8c1e8b9815cb94e3",
+  "6d0945f5533777e7",
+  "067d8ef2d21e6e33",
+  "59ab973faf1d1fad",
+  "957fa6dfe0cd5b1b",
+  "aafc4ecb290ad433",
+  "904daa2672f633c7",
+  "7f6cd2661aa1efa3",
+  "9a0ac0f6bd958140",
+  "6edba067184c7cad",
   "67573e5fa183444d",
   "14affe343f249f3e",
   "753f6639d791f8a0",
   "b15afb70789ca56b",
   "5c28373e4cd32371",
   "1429a06651fefadb",
+  "ef11d64039ab51be",
   "56e3bec2f8c9bc97",
+  "e5593765a8f041f1",
   "6c625f171377c479",
   "3a8288c825b80c41",
   "d4d7434ec434c586",
@@ -95,33 +119,282 @@
   "a1ad50766aa0bc88",
   "3b6add6718b2cee2",
   "e680c482abe4e2e8",
-  "30525f68eb89450b",
-  "e96217b13b087078",
-  "3f04e32dc642a337",
-  "257cc75e25c45e8d",
-  "3804a72829c7e0ca",
-  "fee46f51d95170f7",
-  "594c148230d54a14",
-  "57fde765adfbac3b",
-  "6b29c8bc51f40ca5",
-  "ef58036e2019adbd",
-  "3ab524ea9fe10fb3",
-  "511546fe58d8f8a2",
-  "437bb3b2d5a38c1f",
-  "bbe15965cc198bc6",
-  "78b85503d5c15552",
-  "14e9a34594925347",
-  "95cba24bfc7bc7fa",
-  "df63321ddc6ccf01",
-  "2a2fb2dac89d6008",
-  "fabc081c6806f730",
-  "d6c1f75202374fb2",
-  "29e29fdbd7ae7500",
-  "2c5cc357535d0079",
-  "60a784ae41f535bf",
-  "72e581a2b6fc23da"
+  "30525f68eb89450b"
  ],
  "items": [
+  {
+   "uid": "0f0a5d510345a186",
+   "title": "lance-format/lance",
+   "url": "https://github.com/lance-format/lance",
+   "source": "GitHub Trending — Rust",
+   "category": "repo",
+   "published": "2026-07-26T08:56:13.735302+00:00",
+   "summary": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming.. The Open Lakehouse Format for Multimodal AI High-performance vector search,…",
+   "matched": [
+    "vector search"
+   ]
+  },
+  {
+   "uid": "bb32fcd62c60a18e",
+   "title": "aaif-goose/goose",
+   "url": "https://github.com/aaif-goose/goose",
+   "source": "GitHub Trending — Rust",
+   "category": "repo",
+   "published": "2026-07-26T08:56:13.729008+00:00",
+   "summary": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM goose your native open source AI agent — desktop app, CLI, and API — for code, workflows, and everything in between goose is a general-purpose AI agent that runs on your machine. Not just for code —…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "85d27d4cf28cc1c8",
+   "title": "MadsLorentzen/ai-job-search",
+   "url": "https://github.com/MadsLorentzen/ai-job-search",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-07-26T08:56:13.431030+00:00",
+   "summary": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. AI Job Search The job search that runs on your machine. An AI-powered job application framework built on Claude Code . Fork it, fill in…",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "7da74fafc170dcc2",
+   "title": "different-ai/openwork",
+   "url": "https://github.com/different-ai/openwork",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-07-26T08:56:13.429045+00:00",
+   "summary": "The open-source alternative to Claude Cowork (powered by opencode) OpenWork OpenWork is a free, open-source desktop app made for sharing AI workflows. It is an open-source alternative to Claude Cowork and Codex for macOS, Windows, and Linux. Add one OpenWork MCP to Codex, Claude Code, Cursor, or another compatible…",
+   "matched": [
+    "claude",
+    "mcp",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "318ad11799c39e8f",
+   "title": "mksglu/context-mode",
+   "url": "https://github.com/mksglu/context-mode",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-07-26T08:56:13.416159+00:00",
+   "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. Context Mode The other half of the context problem. Used across teams at The Problem Every MCP tool call dumps raw data into your context window. A…",
+   "matched": [
+    "context window",
+    "mcp"
+   ]
+  },
+  {
+   "uid": "6450ce2b2e286244",
+   "title": "Alishahryar1/free-claude-code",
+   "url": "https://github.com/Alishahryar1/free-claude-code",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-07-26T08:56:12.989096+00:00",
+   "summary": "Use claude code, codex or pi for free from the terminal, IDE, or your phone like OpenClaw (voice supported) Use Claude Code, Codex, Pi, or their IDE extensions through your own provider-backed proxy. Run your coding agents with free, paid, or local models. Choose and validate providers from one local Admin UI. Quick…",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "099c95918632b208",
+   "title": "VectifyAI/PageIndex",
+   "url": "https://github.com/VectifyAI/PageIndex",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-07-26T08:56:12.988043+00:00",
+   "summary": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG ◦ No Vector DB, No Chunking ◦ Context-Aware Retrieval ◦ Reads Like a Human 🌐 Website • 🖥️ Chat Platform • 🔌 MCP API • 📖 Docs • 💬 Discord • ✉️ Contact 📢 Updates 🔥 Agentic Vectorless RAG — A…",
+   "matched": [
+    "rag",
+    "mcp",
+    "agentic"
+   ]
+  },
+  {
+   "uid": "65d50c4c972f6e74",
+   "title": "OpenDCAI/DataFlow",
+   "url": "https://github.com/OpenDCAI/DataFlow",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-07-26T08:56:12.984651+00:00",
+   "summary": "Easy Data Preparation with latest LLMs-based Operators and Pipelines. DataFlow Generate, Clean, and Prepare LLM Data, All-in-One Visual, low-code pipelines with flexible orchestration across domains and use cases.💪 Turn raw data into high-quality LLM training datasets.🔧 🎉 Get smarter LLMs cheaply — give us a star ⭐ on…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "da5a11f518c16a38",
+   "title": "MODSetter/SurfSense",
+   "url": "https://github.com/MODSetter/SurfSense",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-07-26T08:56:12.983495+00:00",
+   "summary": "Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9 English | Español | Português | हिन्दी | 简体中文 SurfSense: The Open-Source NotebookLM Alternative for…",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "bdfa797d9457479d",
+   "title": "GLM 5.2 and ik_llama.ccp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6uira/glm_52_and_ik_llamaccp/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-26T05:18:04+00:00",
+   "summary": "Running GLM-5.2 (the new glm-dsa arch), Unsloth UD-Q4_K_XL, on a 4-socket Xeon E7-8880 v4 box with 1TB RAM and a single RTX 3060 12GB. ik_llama.cpp, experts on CPU (--cpu-moe), 24 attention layers on the GPU. Works great at 8k context — rock solid, ~3.7 tok/s gen. Problem: the second I raise context (anywhere past…",
+   "matched": [
+    "llama"
+   ]
+  },
+  {
+   "uid": "d87a015cd12917fd",
+   "title": "Karparthy removed Anthropic from his bio",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6pkji/karparthy_removed_anthropic_from_his_bio/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-26T01:12:29+00:00",
+   "summary": "Andrej Karpathy, a prominent advocate for open-source AI and a co-founder of OpenAI, appears to have removed Anthropic from his X bio, suggesting he may have left the company. Karpathy joined Anthropic only a few months ago, making the apparent departure somewhat surprising. This is possibly related to Anthropic’s…",
+   "matched": [
+    "anthropic"
+   ]
+  },
+  {
+   "uid": "9892c2602b8929d3",
+   "title": "Llama.cpp now has full MCP support!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6n33i/llamacpp_now_has_full_mcp_support/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-25T23:18:38+00:00",
+   "summary": "After a long and grueling effort spearheaded by ngxson, llama.cpp now fully supports MCP for all protocols. Over-the-web HTTP servers were already supported in the client (since they don't require any sort of plumbing), but stdio servers required real integration. After we modified the `llama-cli` terminal client to…",
+   "matched": [
+    "llama",
+    "mcp"
+   ]
+  },
+  {
+   "uid": "8c1e8b9815cb94e3",
+   "title": "Ruff v0.16.0",
+   "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-07-25T22:44:05+00:00",
+   "summary": "Ruff v0.16.0 Astral shipped a significant new version of their Ruff Python linting tool a few days ago on July 23rd. I noticed today because my various CI jobs all started failing thanks to new default Ruff checks and my unpinned \"ruff\" dev dependency. From Brent Westbrook's announcement post: Ruff now enables 413…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "6d0945f5533777e7",
+   "title": "4x 3090, 96gb vram what Model to drive Hermes?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6lrre/4x_3090_96gb_vram_what_model_to_drive_hermes/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-25T22:20:47+00:00",
+   "summary": "3 year lurker, now i finally got my server up and running. dont know which model to choose. llama.cpp or vllm, what makes more sense? mainly single user with maybe 2-3 more additional users in family, if everything checks out. hermes is gonna be used as ai playground to manifest ideas on tailscale network and do quick…",
+   "matched": [
+    "llama"
+   ]
+  },
+  {
+   "uid": "067d8ef2d21e6e33",
+   "title": "Is it worth getting 128GB MacBook Pro? Will it ever be comparable to today’s frontier models for coding?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6jpvn/is_it_worth_getting_128gb_macbook_pro_will_it/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-25T20:56:22+00:00",
+   "summary": "I am a long time iOS app developer. In the last year I have been using Cursor+Claude/others to assist with app development. I am concerned that the current low pricing will disappear eventually. I am pricing out a new laptop with the intention of using local models instead. New MacBook Pros can be configured with…",
+   "matched": [
+    "claude"
+   ]
+  },
+  {
+   "uid": "59ab973faf1d1fad",
+   "title": "Deepseek V4 flash - Hy3 or is Qwen3.6 27B still the most solid for agentic/coding?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6jlva/deepseek_v4_flash_hy3_or_is_qwen36_27b_still_the/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-25T20:51:31+00:00",
+   "summary": "I understand that the laguna model is either still buggy or potentially benchmaxxed. So I’d like to know for people who really tested, are DS flash or Hy3 really better in your usecase? submitted by /u/Leflakk [link] [comments]",
+   "matched": [
+    "deepseek",
+    "agentic"
+   ]
+  },
+  {
+   "uid": "957fa6dfe0cd5b1b",
+   "title": "The new rules of context engineering for Claude 5 generation models",
+   "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-07-25T20:42:35+00:00",
+   "summary": "Article URL: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models Comments URL: https://news.ycombinator.com/item?id=49051361 Points: 310 # Comments: 194",
+   "matched": [
+    "claude"
+   ]
+  },
+  {
+   "uid": "aafc4ecb290ad433",
+   "title": "ultralytics/ultralytics v8.4.106 — v8.4.106 - Reject unreadable image sources, and harden download failure paths (#25431)",
+   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.106",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-07-25T20:29:41+00:00",
+   "summary": "## 🌟 Summary 🛡️ **Ultralytics v8.4.106 improves reliability by rejecting invalid inputs early, providing clearer model-loading errors, and strengthening automated testing and download recovery.** ## 📊 Key Changes - **🖼️ Clear validation for unreadable image sources** *(PR #25431, @glenn-jocher)* - Empty image lists, zero-sized images, invalid channel dimensions, and empty tensors are now rejected…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "904daa2672f633c7",
+   "title": "LLM Usage in Debian: Three Proposals",
+   "url": "https://www.debian.org/vote/2026/vote_002",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-07-25T19:44:39+00:00",
+   "summary": "Article URL: https://www.debian.org/vote/2026/vote_002 Comments URL: https://news.ycombinator.com/item?id=49050859 Points: 146 # Comments: 128",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "7f6cd2661aa1efa3",
+   "title": "Seriously, what do you do with them?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6hosb/seriously_what_do_you_do_with_them/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-25T19:35:12+00:00",
+   "summary": "Please let me know which small LLM model you're using and what you're using it for. submitted by /u/International-Car643 [link] [comments]",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "9a0ac0f6bd958140",
+   "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+   "url": "https://github.com/slvDev/esp32-ai",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-07-25T18:59:50+00:00",
+   "summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 178 # Comments: 39",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "6edba067184c7cad",
+   "title": "Mobile Offline LLMs: What do you use them for?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6fq6p/mobile_offline_llms_what_do_you_use_them_for/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-25T18:19:20+00:00",
+   "summary": "I've spent the last year or so playing around with open source MLX and GGUF models on iPhone hardware. Given the limitations in memory, GPU/CPU/ANE, and in turn the context window I've been trying to figure out the best use cases for them. I've also done a lot of testing with Apple Foundation model. It is not that…",
+   "matched": [
+    "context window"
+   ]
+  },
   {
    "uid": "67573e5fa183444d",
    "title": "Kimi Linear 48B A3B?",
@@ -199,6 +472,20 @@
    ]
   },
   {
+   "uid": "ef11d64039ab51be",
+   "title": "Medium sized MoE LLM models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6d2ou/medium_sized_moe_llm_models/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-25T16:37:58+00:00",
+   "summary": "What are some medium sized MoE models (up to 60B parameters in float8/110B in mxfp4) that are currently worth using? As far as I am aware there is Qwen 3.5 35B, Gemma 4 A4B, Nemotron 3 Nano. Qwen seems to dominate this bracked in terms of model performance. DeepSeek v4 flash is slightly above that parameter limit. Any…",
+   "matched": [
+    "qwen",
+    "deepseek",
+    "llm"
+   ]
+  },
+  {
    "uid": "56e3bec2f8c9bc97",
    "title": "Google comes out in favor of OpenWeight models. (It is now EVERY tech giant vs Anthropic)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6axx3/google_comes_out_in_favor_of_openweight_models_it/",
@@ -208,6 +495,18 @@
    "summary": "submitted by /u/MysteryWra [link] [comments]",
    "matched": [
     "anthropic"
+   ]
+  },
+  {
+   "uid": "e5593765a8f041f1",
+   "title": "My GX10 died",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v67tzg/my_gx10_died/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-25T13:02:32+00:00",
+   "summary": "Everything ran fine, I was using UD 3.6 Q6 for 35 and 27B, each 4 concurrent requests at 200K context. I had Dify and Mastra to play around with, Unsloth studio to get around to and vLLM ready for whenever I decided to do some more testing. LLama-swap above lama.cpp and liteLLM with semantic routing. And a nice…",
+   "matched": [
+    "llama"
    ]
   },
   {
@@ -1309,308 +1608,7 @@
    "matched": [
     "deepseek"
    ]
-  },
-  {
-   "uid": "e96217b13b087078",
-   "title": "DataPrep-Bench: Benchmarking LLMs as Training Data Preparators",
-   "url": "https://arxiv.org/abs/2607.20465",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.20465v1 Announce Type: cross Abstract: The quality of training data fundamentally determines the capabilities of large language models (LLMs), yet no unified benchmark exists to measure how well LLMs, agents, and data-centric workflows actually prepare training data end to end. We view LLM-driven data…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "3f04e32dc642a337",
-   "title": "SonicSampler: Unified Tile-Aware Kernels for LLM Sampling and Speculative Verification",
-   "url": "https://arxiv.org/abs/2607.20475",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.20475v1 Announce Type: cross Abstract: Sampling in LLM inference comprises a combinatorial set of logit processing, token selection, and verification operations for speculative decoding. However, existing implementations either accelerate only subsets of this pipeline, rely on multiple kernel launches, or…",
-   "matched": [
-    "llm",
-    "inference"
-   ]
-  },
-  {
-   "uid": "257cc75e25c45e8d",
-   "title": "Directional Hallucinations: Ideological Drift in News-Grounded LLM Question Answering",
-   "url": "https://arxiv.org/abs/2607.20487",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.20487v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used to answer questions about political information, including in election-adjacent information settings where factual errors and ideological distortions are high-stakes. We present a reproducible measurement framework…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "3804a72829c7e0ca",
-   "title": "CMI-Mem: Toward Generalizable Long-Term Memory Management via CMI-Augmented Reinforcement Learning",
-   "url": "https://arxiv.org/abs/2607.20553",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.20553v1 Announce Type: cross Abstract: Memory Manager models are pivotal in agent systems. Existing methods rely predominantly on LLM-judged synthetic question-answer (QA) pairs, making memory valuation dependent on sampled queries and the downstream reader. To address this limitation, we propose…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "fee46f51d95170f7",
-   "title": "Demonstrating GenDB: Instance-Optimized and Customized Query Processing Code Generation via LLM Agents",
-   "url": "https://arxiv.org/abs/2607.20630",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.20630v1 Announce Type: cross Abstract: Traditional query processing engines require continuous development and extensions to support new techniques and user requirements, and in some cases, entirely new systems must be built from scratch. However, these engines are difficult to extend due to their internal…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "594c148230d54a14",
-   "title": "WaveformQA: Benchmarking LLM Temporal Reasoning on Digital Waveforms",
-   "url": "https://arxiv.org/abs/2607.20638",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.20638v1 Announce Type: cross Abstract: Large Language Models (LLMs) have demonstrated strong capabilities in code generation and reasoning, yet their ability to perform temporal reasoning over digital waveform data remains largely unexplored. Although reasoning over digital waveforms is a critical…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "57fde765adfbac3b",
-   "title": "GaugeQuant: Online Learning of Quantization-Optimal Bases from LLM Symmetries",
-   "url": "https://arxiv.org/abs/2607.20757",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.20757v1 Announce Type: cross Abstract: Transformers are known to have internal continuous symmetries that leave outputs invariant, while modifying quantization. GaugeQuant leverages this in-training by introducing a LogSumExp term to the loss that breaks the symmetries, thus selecting a basis that minimizes…",
-   "matched": [
-    "llm",
-    "quantization"
-   ]
-  },
-  {
-   "uid": "6b29c8bc51f40ca5",
-   "title": "Position Bias is Hidden Behind Ceiling Effects: A Permutation Diagnostic for LLM Benchmarks",
-   "url": "https://arxiv.org/abs/2607.20864",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.20864v1 Announce Type: cross Abstract: Position bias in multiple-choice LLM evaluation is widely cited as a confound in capability comparisons, but published measurements rely on single answer-order shuffles whose results confound the bias signal with content-level noise and sampling stochasticity. I…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "ef58036e2019adbd",
-   "title": "Transformer-Assisted LLM-Based Source Code Summarisation: to Enable More Secure Software Development",
-   "url": "https://arxiv.org/abs/2607.20933",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.20933v1 Announce Type: cross Abstract: Neural Source Code Summarisation (NSCS) aims to generate natural language summaries of source code to improve developers' and maintainers' understanding of code. Source code summaries are vital during the maintenance phase of the Secure Software Development Lifecycle…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "3ab524ea9fe10fb3",
-   "title": "The Weight of Silence: A Causal Case for Weights Over the Scratchpad in Latent Chess Reasoning",
-   "url": "https://arxiv.org/abs/2607.20952",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.20952v1 Announce Type: cross Abstract: Latent, or silent, reasoning lets language models carry out intermediate computation in continuous vector space instead of words, and is widely assumed to function as an internal scratchpad the model actively consults during inference. Whether that assumption survives…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "511546fe58d8f8a2",
-   "title": "HiMe: Real-Time Self-Hosted Personal Agent Platform for Health Insights with Wearable Devices",
-   "url": "https://arxiv.org/abs/2607.21019",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.21019v1 Announce Type: cross Abstract: Traditional approaches to wearable health signal analysis, such as smartwatches, are constrained by rigid analytical frameworks and limited personalisation. The emergence of LLM agents creates a new opportunity for Personal Health Agentic Analysis, where health…",
-   "matched": [
-    "llm",
-    "agentic"
-   ]
-  },
-  {
-   "uid": "437bb3b2d5a38c1f",
-   "title": "VibeVoice-ASR-BitNet Technical Report",
-   "url": "https://arxiv.org/abs/2607.21075",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.21075v1 Announce Type: cross Abstract: We present VibeVoice-ASR-BitNet, a compressed variant of VibeVoice-ASR optimized for real-time inference on edge CPUs. We apply heterogeneous quantization tailored to the computational characteristics of each stage: the VAE acoustic tokenizer uses full-pipeline INT8…",
-   "matched": [
-    "quantization",
-    "inference"
-   ]
-  },
-  {
-   "uid": "bbe15965cc198bc6",
-   "title": "Euclid-MCP: A Model Context Protocol Server for Deterministic Logical Reasoning via Prolog",
-   "url": "https://arxiv.org/abs/2607.21412",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.21412v1 Announce Type: cross Abstract: Large Language Models (LLMs) excel at natural language understanding and generation but remain unreliable for multi-step logical reasoning, especially in safety-critical or compliance-sensitive domains. Recent neuro-symbolic approaches address this gap by coupling…",
-   "matched": [
-    "mcp",
-    "model context protocol"
-   ]
-  },
-  {
-   "uid": "78b85503d5c15552",
-   "title": "Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data preparation tasks",
-   "url": "https://arxiv.org/abs/2607.21482",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.21482v1 Announce Type: cross Abstract: Large language models (LLMs) and agents are now widely used tools in code development, with data typically sent to third-party cloud-based models. Their adoption in research using personal data is constrained by governance requirements that typically prohibit data…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "14e9a34594925347",
-   "title": "GS-Agent: Creating 4D Physical Worlds With Generative Simulation",
-   "url": "https://arxiv.org/abs/2607.21522",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.21522v1 Announce Type: cross Abstract: Creating dynamic and physically realistic 4D worlds from natural language descriptions is both fascinating and challenging. Traditional computer graphics methods rely on manual creation, requiring extensive human effort to fine-tune materials, motions, and visual…",
-   "matched": [
-    "fine-tune"
-   ]
-  },
-  {
-   "uid": "95cba24bfc7bc7fa",
-   "title": "OpenForgeRL: Train Harness-native Agents in Any Environment",
-   "url": "https://arxiv.org/abs/2607.21557",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.21557v1 Announce Type: cross Abstract: Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to drive multi-turn reasoning, tool use, and access to external systems. While powerful, these complex harnesses also make agents hard to train end-to-end with open…",
-   "matched": [
-    "claude",
-    "inference",
-    "tool use",
-    "claude code"
-   ]
-  },
-  {
-   "uid": "df63321ddc6ccf01",
-   "title": "Student-Centered Distillation Narrows the Agentic Gap Between Small and Large LLMs",
-   "url": "https://arxiv.org/abs/2509.14257",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2509.14257v3 Announce Type: replace Abstract: Large Language Model agents achieve strong performance on multi-step reasoning and tool-use tasks, but their impressive capabilities typically rely on extremely large backbones. Existing distillation approaches train smaller students to imitate full teacher…",
-   "matched": [
-    "distillation",
-    "agentic"
-   ]
-  },
-  {
-   "uid": "2a2fb2dac89d6008",
-   "title": "Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents",
-   "url": "https://arxiv.org/abs/2601.01885",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2601.01885v3 Announce Type: replace Abstract: Large language model (LLM) agents face fundamental limitations in long-horizon reasoning due to finite context windows, making effective memory management critical. Existing methods typically handle long-term memory (LTM) and short-term memory (STM) as separate…",
-   "matched": [
-    "llm",
-    "agentic"
-   ]
-  },
-  {
-   "uid": "fabc081c6806f730",
-   "title": "Gumbel Distillation for Parallel Text Generation",
-   "url": "https://arxiv.org/abs/2603.22216",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2603.22216v2 Announce Type: replace Abstract: The slow, sequential nature of autoregressive (AR) language models has driven the adoption of parallel decoding methods. However, these non-AR models often sacrifice generation quality as they struggle to model the complex joint distribution of token sequences. To…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "d6c1f75202374fb2",
-   "title": "LinearARD: Linear-Memory Attention Distillation for RoPE Restoration",
-   "url": "https://arxiv.org/abs/2604.00004",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2604.00004v2 Announce Type: replace Abstract: The extension of context windows in Large Language Models is typically facilitated by scaling positional encodings followed by lightweight Continual Pre-Training (CPT). While effective for processing long sequences, this paradigm often disrupts original model…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "29e29fdbd7ae7500",
-   "title": "PennySynth: RAG-Driven Data Synthesis for Automated Quantum Code Generation",
-   "url": "https://arxiv.org/abs/2605.25572",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2605.25572v2 Announce Type: replace Abstract: The growing complexity of quantum programming frameworks has exposed a critical limitation in existing large language model (LLM)-based code assistants: general-purpose models hallucinate PennyLane-specific gate names, misplace device configurations, and produce…",
-   "matched": [
-    "llm",
-    "rag"
-   ]
-  },
-  {
-   "uid": "2c5cc357535d0079",
-   "title": "EvoSpec: Evolving Speculative Decoding via Real-Time Vocabulary and Parameter Adaptation",
-   "url": "https://arxiv.org/abs/2605.27390",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2605.27390v3 Announce Type: replace Abstract: Speculative decoding accelerates Large Language Model inference through draft-then-verify generation, yet lightweight draft models face coupled efficiency and quality limitations: large-vocabulary output projection is costly, while limited draft capacity and static…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "60a784ae41f535bf",
-   "title": "LLM Agents Are Latent Context Managers: Eliciting Self-Managed Context via State Proprioception",
-   "url": "https://arxiv.org/abs/2606.30005",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2606.30005v4 Announce Type: replace Abstract: Long-horizon tool agents are bottlenecked by how their context grows toward the limits of the context window. Recent systems make context management agent- or system-controlled, but they either learn a compression policy that discards evidence or manage context in a…",
-   "matched": [
-    "llm",
-    "context window"
-   ]
-  },
-  {
-   "uid": "72e581a2b6fc23da",
-   "title": "LV-ROVER-MLT: Low-Resource Maltese OCR by Synthetic Fine-Tuning and Multi-Stream Arbitration",
-   "url": "https://arxiv.org/abs/2607.00250",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-07-24T04:00:00+00:00",
-   "summary": "arXiv:2607.00250v4 Announce Type: replace Abstract: Maltese OCR is constrained by the absence of a public, reusable paragraph-scale training corpus. We address this by generating synthetic Maltese line images, fine-tuning the Tesseract 5 LSTM, and combining five deterministic Tesseract configurations through…",
-   "matched": [
-    "fine-tuning",
-    "ocr"
-   ]
   }
  ],
- "last_run": "2026-07-25T18:26:42.776724+00:00"
+ "last_run": "2026-07-26T08:56:26.076006+00:00"
 }
