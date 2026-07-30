@@ -1,5 +1,39 @@
 {
  "seen": [
+  "930ffff3bf7fe66c",
+  "74e993ad4d7c11f2",
+  "a1aa2e55494f7f99",
+  "9097fb1bde3e9bb7",
+  "641ae7284fce1544",
+  "04965df8e3728f2d",
+  "bd67e925479e06f4",
+  "8dd243fffcdc353c",
+  "f89d09d03d3c6b34",
+  "1e985fa2f54520c2",
+  "e5cedad43da533fd",
+  "2089952b53799138",
+  "ca518ef7a5253e50",
+  "e2dff8f0c1664e73",
+  "d4a04715d8cbd405",
+  "d241364fdabfbcf0",
+  "03308b74749a148b",
+  "0ad340bb7344ab0f",
+  "7dc8dd43874eae65",
+  "7963f83025e393fc",
+  "351596e2749788a3",
+  "cfde428e89855abb",
+  "916b96a49c628e94",
+  "8667d0ed77d0c508",
+  "dfb5ebb135243db5",
+  "a4908e6797adc175",
+  "bfeed97000497ef7",
+  "b2aa278b21882e0a",
+  "3b15048f2b8c26c8",
+  "1ea04689c91d7f21",
+  "22e75a90223dc877",
+  "d0c4f344d788a560",
+  "3fee15bfeec79d00",
+  "dd5cea97832e04d9",
   "4a5126e2b25d4ee8",
   "e5b44a600947456e",
   "a10a791be0f8922f",
@@ -15,8 +49,14 @@
   "3209b79515918a9a",
   "cba5730614bbd0b0",
   "db2e1bad5a86e418",
+  "bd2721b7aad46ca9",
   "13c0e3c794313a8c",
   "a199cef65d8b6ae2",
+  "0937af9cb5cfe86f",
+  "8dabcb2f06ae1886",
+  "a615e85b7ec68247",
+  "092d23670fae26da",
+  "34505ed0947299a1",
   "2c722616f33840fd",
   "1e010b02e2e26f0c",
   "5c65a4d52bf6932c",
@@ -79,49 +119,426 @@
   "fae54ddf00254ccd",
   "2bffd5e5445fe5be",
   "d07e5a26eb520160",
-  "2857e940343b2187",
-  "9d65de9b3a090eea",
-  "e6f00aea7f60208e",
-  "0354aa73dbe780d3",
-  "a5d87c8087fe5df8",
-  "006f8d3be5685346",
-  "c41bdfdf898d1ac5",
-  "35ad453cee07c45c",
-  "d2918d4f484c273a",
-  "9d16013ed3b93edd",
-  "8595d6f1fe2b32d1",
-  "76252b40340a5373",
-  "f97e9069b82a6cb2",
-  "74e899b6b7a2cb79",
-  "88c0c7bf95c99d32",
-  "659699746de6f682",
-  "24928f6ee490c8fb",
-  "e71c98a46a9e3033",
-  "d149f923ec9667a5",
-  "eb501eb8ac946988",
-  "05af643be588ee0a",
-  "1e13cdf113acadc0",
-  "297bbaa9362934a2",
-  "36948e73e1281c89",
-  "9df7f7df8e0839a9",
-  "29d7820c54913466",
-  "c15b9f21271fae8f",
-  "5f31880ce942e90f",
-  "773032899baa549c",
-  "e7ecf954c04ac57c",
-  "88d1a03c690d8d40",
-  "0942c468f4d71095",
-  "585d224ae69097f6",
-  "cb1da33f6671b50c",
-  "cd65bca6887c1210",
-  "78f75717f05a89c1",
-  "37f3ae192379f359",
-  "87f794bbde9b07b7",
-  "c86ecbf1150c0be6",
-  "10a21f77292324e7",
-  "4fdc0b463bbfc1d1"
+  "2857e940343b2187"
  ],
  "items": [
+  {
+   "uid": "930ffff3bf7fe66c",
+   "title": "tensorzero/tensorzero",
+   "url": "https://github.com/tensorzero/tensorzero",
+   "source": "GitHub Trending — Rust",
+   "category": "repo",
+   "published": "2026-07-30T18:55:27.720565+00:00",
+   "summary": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation. TensorZero TensorZero is an open-source LLMOps platform that unifies: Gateway: access every LLM provider through a unified API, built for performance ( 1ms p99 latency) Observability:…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "74e993ad4d7c11f2",
+   "title": "microsoft/azure-devops-mcp",
+   "url": "https://github.com/microsoft/azure-devops-mcp",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-07-30T18:55:27.206788+00:00",
+   "summary": "The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents. ⭐ Azure DevOps MCP Server Important We recommend using the Remote MCP Server instead of this local server. It requires no installation and gets new features first. Learn more This project provides Azure DevOps MCP tooling for…",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "a1aa2e55494f7f99",
+   "title": "vudovn/ag-kit",
+   "url": "https://github.com/vudovn/ag-kit",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-07-30T18:55:27.205815+00:00",
+   "summary": "AG KIT Antigravity-first agent engineering kit with rules, skills, specialist agents, workflows, persistent memory, MCP guidance, orchestration, and a native safety hook. Primary runtime: Google Antigravity Tiếng Việt · Migration guide · Production checklist · Security Production profile AG Kit installs a complete…",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "9097fb1bde3e9bb7",
+   "title": "microsoft/flint-chart",
+   "url": "https://github.com/microsoft/flint-chart",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-07-30T18:55:27.201394+00:00",
+   "summary": "🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs. Flint: A Visualization Language for the AI Era Please visit: Flint Project Site | MCP Server Guide | 中文主页 Flint is a visualization intermediate language that lets AI agents…",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "641ae7284fce1544",
+   "title": "BuilderIO/agent-native",
+   "url": "https://github.com/BuilderIO/agent-native",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-07-30T18:55:27.197567+00:00",
+   "summary": "A framework for building agent-native applications. Agent-Native The framework for agentic apps Don't pick between apps or agents. Agent-Native apps are both. // One action powers every app surface: UI, agent, HTTP, MCP, A2A, and CLI. export default defineAction({ schema: z.object({ emailId: z.string(), body:…",
+   "matched": [
+    "mcp",
+    "agentic"
+   ]
+  },
+  {
+   "uid": "04965df8e3728f2d",
+   "title": "opengeos/GeoLibre",
+   "url": "https://github.com/opengeos/GeoLibre",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-07-30T18:55:27.189953+00:00",
+   "summary": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. GeoLibre A free and open-source, lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It…",
+   "matched": [
+    "geospatial"
+   ]
+  },
+  {
+   "uid": "bd67e925479e06f4",
+   "title": "lightseekorg/tokenspeed",
+   "url": "https://github.com/lightseekorg/tokenspeed",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-07-30T18:55:26.834408+00:00",
+   "summary": "TokenSpeed is a speed-of-light LLM inference engine. TokenSpeed is a speed-of-light LLM inference engine designed for agentic workloads , with TensorRT-LLM-level performance and vLLM-level usability. Our goal is to be the most performant inference engine for production agentic workloads. Core components: Modeling…",
+   "matched": [
+    "llm",
+    "inference",
+    "agentic"
+   ]
+  },
+  {
+   "uid": "8dd243fffcdc353c",
+   "title": "microsoft/agent-governance-toolkit",
+   "url": "https://github.com/microsoft/agent-governance-toolkit",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-07-30T18:55:26.832906+00:00",
+   "summary": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10. 🌍 English | 日本語 | 简体中文 | 한국어 Agent Governance Toolkit Ship agents to production without losing sleep 🚀 Quick Start · 📋 Specifications · 📦…",
+   "matched": [
+    "agentic"
+   ]
+  },
+  {
+   "uid": "f89d09d03d3c6b34",
+   "title": "virgiliojr94/book-to-skill",
+   "url": "https://github.com/virgiliojr94/book-to-skill",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-07-30T18:55:26.825011+00:00",
+   "summary": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. book-to-skill Turn any technical book, document folder, or collection of sources into a unified agent skill — ready to study, reference, and use while you work in GitHub Copilot CLI, Amp, or Claude Code. 🏆 #10…",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "1e985fa2f54520c2",
+   "title": "huggingface/speech-to-speech",
+   "url": "https://github.com/huggingface/speech-to-speech",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-07-30T18:55:26.818470+00:00",
+   "summary": "Build local voice agents with open-source models Speech To Speech: Build voice agents with open-source models A low-latency, fully modular voice-agent pipeline: VAD - STT - LLM - TTS , exposed through an OpenAI Realtime-compatible WebSocket API . Every component is swappable. The LLM slot speaks OpenAI-compatible…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "e5cedad43da533fd",
+   "title": "⭐ 73 · miuuyy/codex-chatgpt-web (TypeScript)",
+   "url": "https://github.com/miuuyy/codex-chatgpt-web",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-07-30T18:32:52+00:00",
+   "summary": "Use ChatGPT Pro as a native model in the Codex app — with context, compaction, streaming, images, and optional MCP tools.",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "2089952b53799138",
+   "title": "ggml-org/llama.cpp b10196",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10196",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-07-30T18:29:16+00:00",
+   "summary": "llama-context : sync pending async copies before clearing embd_seq (#25676) **Website:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10196/llama-b10196-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "ca518ef7a5253e50",
+   "title": "Quoting Bruce Schneier",
+   "url": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-07-30T18:25:26+00:00",
+   "summary": "The writing assignments I give my students are gym tasks, not work tasks. I ask them to write policy memos not because the world needs more policy memos. I assign them because the very act of writing, which includes thinking and outlining and drafting and editing, making and criticizing and revising arguments, will…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "e2dff8f0c1664e73",
+   "title": "Inkling-Small by thinkingmachines",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vb16gj/inklingsmall_by_thinkingmachines/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-30T18:01:53+00:00",
+   "summary": "276B total parameters, 12B active, 1M context window. Blog post: https://thinkingmachines.ai/news/inkling-small/ NVFP4: https://huggingface.co/thinkingmachines/Inkling-Small-NVFP4 GGUF's by Unsloth: https://huggingface.co/unsloth/Inkling-Small-GGUF submitted by /u/rerri [link] [comments]",
+   "matched": [
+    "context window"
+   ]
+  },
+  {
+   "uid": "d4a04715d8cbd405",
+   "title": "ggml-org/llama.cpp b10195",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10195",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-07-30T17:21:07+00:00",
+   "summary": "tests : avoid building get-model.cpp many times (#26317) * tests : remove get-model.cpp * tests : fix quant type selection **Website:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10195/llama-b10195-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) -…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "d241364fdabfbcf0",
+   "title": "How close are we to local llama robotics for consumer price point?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vazt2h/how_close_are_we_to_local_llama_robotics_for/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-30T17:14:07+00:00",
+   "summary": "I'm guessing 3 years, what do you think? In other words: many of us will be able to afford a general purpose robot in 3 years to experiment with in the home. Cost roughly $5k? Probably small size, but hopefully still able to do the dishes and operate a vacuum. submitted by /u/Terminator857 [link] [comments]",
+   "matched": [
+    "llama"
+   ]
+  },
+  {
+   "uid": "03308b74749a148b",
+   "title": "⭐ 1204 · QoderAI/better-harness (JavaScript)",
+   "url": "https://github.com/QoderAI/better-harness",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-07-30T15:47:07+00:00",
+   "summary": "Help your coding agents (Claude Code, Codex, Qoder, Cursor, and other coding agents) get better at getting better.",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "0ad340bb7344ab0f",
+   "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+   "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+   "source": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-07-30T15:09:09+00:00",
+   "summary": "",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "7dc8dd43874eae65",
+   "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+   "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+   "source": "Google DeepMind Blog",
+   "category": "news",
+   "published": "2026-07-30T15:00:59+00:00",
+   "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "7963f83025e393fc",
+   "title": "ggml-org/llama.cpp b10194",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10194",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-07-30T15:00:45+00:00",
+   "summary": "ggml-cuda: Allow transpose-free gemmv computation (#26171) When matrix's weights are shaped 1xK is leverage a transpose-free computation to use mat_mul_vec_f. **Website:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10194/llama-b10194-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "351596e2749788a3",
+   "title": "⭐ 843 · pireel/pireel (TypeScript)",
+   "url": "https://github.com/pireel/pireel",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-07-30T14:55:53+00:00",
+   "summary": "The open-source alternative to Capcut、ChatCut. Drivable by any AI agent over MCP.",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "cfde428e89855abb",
+   "title": "Software Engineers: Do you honestly get anything useful out of LLMs?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vavh2h/software_engineers_do_you_honestly_get_anything/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-30T14:37:45+00:00",
+   "summary": "For 6 months now I've been trying to make agentic coding work for me, using Pi and a handful 30-120B models (Qwens, Nemotrons, Leguna...etc). I'm not greedy either, I stick to decent quants, never quantize kv cache, and keep my sessions up to 90k max. But the results have ALWAYS been disappointing. No matter how much…",
+   "matched": [
+    "agentic"
+   ]
+  },
+  {
+   "uid": "916b96a49c628e94",
+   "title": "langfuse/langfuse v4.1.0",
+   "url": "https://github.com/langfuse/langfuse/releases/tag/v4.1.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-07-30T14:12:12+00:00",
+   "summary": "## What's Changed ### Feat * feat(preview): pin the preview URL to the top of the PR description by @nmtrang29 in https://github.com/langfuse/langfuse/pull/15588 * feat(experiments): enhance MultiStepExperimentForm with review step validation and error messaging by @marliessophie in https://github.com/langfuse/langfuse/pull/15560 * feat(agent): Extract & extend background execution for…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "8667d0ed77d0c508",
+   "title": "PR for running Ternary-Bonsai-8B-Q2_0.gguf in llama.cpp with CUDA support just got merged",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vau4dh/pr_for_running_ternarybonsai8bq2_0gguf_in/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-30T13:46:29+00:00",
+   "summary": "Time to see what it's capable of submitted by /u/413205 [link] [comments]",
+   "matched": [
+    "llama"
+   ]
+  },
+  {
+   "uid": "dfb5ebb135243db5",
+   "title": "ggml-org/llama.cpp b10192",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10192",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-07-30T13:44:53+00:00",
+   "summary": "sync : ggml **Website:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10192/llama-b10192-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "a4908e6797adc175",
+   "title": "Turbo-fieldfare: Open-source engine running Gemma 4 26B in 2 GB RAM on Apple Silicon",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vasnys/turbofieldfare_opensource_engine_running_gemma_4/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-30T12:46:12+00:00",
+   "summary": "Its a custom Swift/Metal inference engine that runs Gemma 4 26B-A4B-IT on M-series Macs with very low RAM. It uses ~2GB instead of ~14 GB. The result is reportedly 5–6 tok/s on an 8 GB M2 MacBook Air and 31–35 tok/s on an M5 MacBook Pro. It also includes an OpenAI-compatible local server with streaming and tool-call…",
+   "matched": [
+    "inference"
+   ]
+  },
+  {
+   "uid": "bfeed97000497ef7",
+   "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+   "url": "https://github.com/grafana/ai-sdk",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-07-30T11:55:39+00:00",
+   "summary": "Article URL: https://github.com/grafana/ai-sdk Comments URL: https://news.ycombinator.com/item?id=49108778 Points: 52 # Comments: 14",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "b2aa278b21882e0a",
+   "title": "langfuse/langfuse v3.224.4",
+   "url": "https://github.com/langfuse/langfuse/releases/tag/v3.224.4",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-07-30T10:15:17+00:00",
+   "summary": "## What's Changed * chore(release): retire latest markers on the v3 maintenance line by @Steffen911 in https://github.com/langfuse/langfuse/pull/15608 * fix(api): derive dashboard widget minVersion from the deployment write mode (v3 backport of #15565) by @LysanderKie in https://github.com/langfuse/langfuse/pull/15597 * fix(dashboards): return 404 instead of 500 when updating a missing dashboard…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "3b15048f2b8c26c8",
+   "title": "GLM 5.2 with vision on Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vapetj/glm_52_with_vision_on_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-30T10:08:30+00:00",
+   "summary": "Hi all, I have not seen this model talked about here but it seems like baseten (inference provider on OpenRouter) merged the vision encoder from Kimi k2.6 into GLM 5.2. I think the lack of vision was one of the big complaint when GLM 5.2 came out, I have not tested this model but that is quite cool from baseten to…",
+   "matched": [
+    "inference"
+   ]
+  },
+  {
+   "uid": "1ea04689c91d7f21",
+   "title": "Benchmarked: MindControl for Llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vapbnl/benchmarked_mindcontrol_for_llamacpp/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-30T10:03:44+00:00",
+   "summary": "I recently shared the original MindControl PoC (and on github ) - sampler-level guided reasoning budgets for llama.cpp, nudging the model with self-aware statements about its own thinking budget instead of just hard-truncating it. We received some great feedback, and the most common ask (fair enough) was along the…",
+   "matched": [
+    "llama"
+   ]
+  },
+  {
+   "uid": "22e75a90223dc877",
+   "title": "Advancing the price-performance frontier with GPT-5.6",
+   "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-07-30T10:00:00+00:00",
+   "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "d0c4f344d788a560",
+   "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+   "url": "https://github.com/YoanWai/agent-manager",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-07-30T09:34:27+00:00",
+   "summary": "Article URL: https://github.com/YoanWai/agent-manager Comments URL: https://news.ycombinator.com/item?id=49107749 Points: 83 # Comments: 72",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "3fee15bfeec79d00",
+   "title": "ggml-org/llama.cpp b10189",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10189",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-07-30T09:33:47+00:00",
+   "summary": "Remove custom cpu op from the M3 graph, express with stock ops (#26297) **Website:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10189/llama-b10189-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "dd5cea97832e04d9",
+   "title": "⭐ 207 · risa-labs-inc/BossConsole (Kotlin)",
+   "url": "https://github.com/risa-labs-inc/BossConsole",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-07-30T09:21:37+00:00",
+   "summary": "Open-source, multi-platform harness for AI agents — a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
+   "matched": [
+    "claude",
+    "gemini",
+    "mcp",
+    "claude code"
+   ]
+  },
   {
    "uid": "4a5126e2b25d4ee8",
    "title": "qxcnm/Codex-Manager",
@@ -313,6 +730,18 @@
    ]
   },
   {
+   "uid": "bd2721b7aad46ca9",
+   "title": "4090 + 5060 Ti + 64GB RAM: 206 t/s on a 35B-A3B, and a 122B at 37 t/s",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1valwh8/4090_5060_ti_64gb_ram_206_ts_on_a_35ba3b_and_a/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-07-30T06:46:44+00:00",
+   "summary": "I've been benchmarking a two-card box for a few weeks and I still can't quite get over some of these numbers, so I'm dumping them here. Box: RTX 4090 (24GB) + RTX 5060 Ti (16GB), i9-13900K, 64GB DDR5. WSL2 with 47GB allocated to the VM, CUDA 12.8 (12.8 specifically,13.1 segfaults llama.cpp's MMQ kernel on Blackwell…",
+   "matched": [
+    "llama"
+   ]
+  },
+  {
    "uid": "13c0e3c794313a8c",
    "title": "What is the fastest local research tool (deep research) ?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vakz7g/what_is_the_fastest_local_research_tool_deep/",
@@ -334,6 +763,67 @@
    "summary": "mimo2: address MTP review feedback (#26228) Co-authored-by: tnhnyc **Website:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10184/llama-b10184-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "0937af9cb5cfe86f",
+   "title": "Every Time I Hire a Linguist, Inference Costs Go Down: On Linguistic Rules as Effective Prompt Compressors",
+   "url": "https://arxiv.org/abs/2607.25335",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-07-30T04:00:00+00:00",
+   "summary": "arXiv:2607.25335v2 Announce Type: replace Abstract: Prompt compression shortens LLM input to reduce inference cost, yet existing methods score token importance through LM forward passes. It remains questionable whether such nuanced, costly token selection is necessary. Compression requires identifying informative…",
+   "matched": [
+    "llm",
+    "inference"
+   ]
+  },
+  {
+   "uid": "8dabcb2f06ae1886",
+   "title": "Temporal-Distance JEPA: Plan-Aware Representation Learning for Latent World Model Predictive Control",
+   "url": "https://arxiv.org/abs/2607.25337",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-07-30T04:00:00+00:00",
+   "summary": "arXiv:2607.25337v2 Announce Type: replace Abstract: Joint-Embedding Predictive Architectures (JEPAs) learn world models by predicting in representation space rather than reconstructing pixels, making them a natural backbone for latent model predictive control from offline demonstration logs. JEPA-style training…",
+   "matched": [
+    "embedding"
+   ]
+  },
+  {
+   "uid": "a615e85b7ec68247",
+   "title": "AngelSpec: Towards Real-World High Performance Inference with Speculative Decoding",
+   "url": "https://arxiv.org/abs/2607.25852",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-07-30T04:00:00+00:00",
+   "summary": "arXiv:2607.25852v2 Announce Type: replace Abstract: Speculative decoding accelerates large language model inference without changing the target distribution, but no single drafting structure performs best across real-world workloads. Autoregressive multi-token prediction (MTP) is a lightweight, stable proposal…",
+   "matched": [
+    "inference"
+   ]
+  },
+  {
+   "uid": "092d23670fae26da",
+   "title": "Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs",
+   "url": "https://arxiv.org/abs/2607.25959",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-07-30T04:00:00+00:00",
+   "summary": "arXiv:2607.25959v2 Announce Type: replace Abstract: Wikipedia and Wikidata are widely used for information access, LLM pre-training, and retrieval-augmented generation. Their knowledge is deeply connected but scattered across text, tables, and knowledge graphs. This raises a practical question: when these modalities…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "34505ed0947299a1",
+   "title": "Safety-Aware Cascaded Inference for Crop Damage Assessment with Controlled Error Trade-offs",
+   "url": "https://arxiv.org/abs/2607.25468",
+   "source": "arXiv cs.CV (Vision/Segmentation)",
+   "category": "paper",
+   "published": "2026-07-30T04:00:00+00:00",
+   "summary": "arXiv:2607.25468v2 Announce Type: replace Abstract: In picture-based agricultural insurance for smallholder farmers, missed damage detections carry substantially higher cost than false alarms: a farmer who sustained real losses receives no payout, while unnecessary expert review is operationally costly but reversible.…",
+   "matched": [
+    "inference"
    ]
   },
   {
@@ -1099,492 +1589,7 @@
    "matched": [
     "segmentation"
    ]
-  },
-  {
-   "uid": "9d65de9b3a090eea",
-   "title": "Decoupled Visual Processing: Efficient Multimodal Adaptation via Modality-Specific Transformer Substitution",
-   "url": "https://arxiv.org/abs/2607.26596",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2607.26596v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) have demonstrated remarkable capabilities by integrating visual and textual understanding within a unified transformer architecture. However, fine-tuning all parameters of these models for visual instruction tuning is…",
-   "matched": [
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "e6f00aea7f60208e",
-   "title": "FPSGen: Flexible Point Cloud Scene Generation with BEV-Supported Transport Flows",
-   "url": "https://arxiv.org/abs/2607.26645",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2607.26645v1 Announce Type: new Abstract: Existing point-based generative methods for outdoor scenes primarily focus on LiDAR-conditioned completion. During training, noisy point clouds are constructed by perturbing complete ground-truth scenes, whereas during inference, they are initialized by adding noise to…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "0354aa73dbe780d3",
-   "title": "Anchoring and Steering Diffusion: Enhancing the Faithfulness of Text-to-Image Generation at Inference Time",
-   "url": "https://arxiv.org/abs/2607.26647",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2607.26647v1 Announce Type: new Abstract: While text-to-image diffusion models achieve impressive visual quality, they frequently struggle to maintain precise alignment with complex compositional prompts. An effective strategy is to improve the inference process of diffusion models, thereby better leveraging…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "a5d87c8087fe5df8",
-   "title": "Dual Inversion for Text-to-Image Diffusion Models: From Both Prompt and Noise Perspectives",
-   "url": "https://arxiv.org/abs/2607.26735",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2607.26735v1 Announce Type: new Abstract: Prompt inversion, as a typical reverse engineering technique, enables text-to-image (T2I) diffusion models to generate the desired target images without extensive prompt engineering. However, existing prompt inversion methods suffer from significant limitations: (1)…",
-   "matched": [
-    "prompt engineering"
-   ]
-  },
-  {
-   "uid": "006f8d3be5685346",
-   "title": "Long-Tailed 3D Point Cloud Dataset Distillation",
-   "url": "https://arxiv.org/abs/2607.26763",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2607.26763v1 Announce Type: new Abstract: Dataset distillation compresses large-scale datasets into compact synthetic sets while preserving their training utility, enabling efficient 3D point cloud training. Current point cloud dataset distillation methods only tackle geometric and representation challenges…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "c41bdfdf898d1ac5",
-   "title": "DistillAlign: Coordinating Mode Covering and Mode Seeking in Autoregressive Video Distillation",
-   "url": "https://arxiv.org/abs/2607.26811",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2607.26811v1 Announce Type: new Abstract: Existing autoregressive video distillation methods commonly adopt a Distribution Matching Distillation (DMD)-based multi-stage pipeline. However, they typically decouple the initialization and DMD stages -- which then pursue different target distributions -- and judge…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "35ad453cee07c45c",
-   "title": "BATS: Resource-Efficient Volumetric Segmentation with Boundary-Aware Mixed-Resolution Tokens",
-   "url": "https://arxiv.org/abs/2607.26829",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2607.26829v1 Announce Type: new Abstract: Many high-performing volumetric segmentation models maintain dense multi-scale feature maps, leading to high activation memory and inference cost. We present BATS (Boundary-Aware Token Selection), a 3D medical image segmentation architecture that concentrates…",
-   "matched": [
-    "inference",
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "d2918d4f484c273a",
-   "title": "SCALPEL: Semantic Cross-modal Alignment via LLM-Powered Encoder Learning for Medical Vision-Language Representation",
-   "url": "https://arxiv.org/abs/2607.26885",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2607.26885v1 Announce Type: new Abstract: Vision-language pre-training (VLP) serves as a cornerstone for medical multimodal representation learning. However, existing medical VLP frameworks are often constrained by the limited context windows and shallow representational capacities of lightweight text encoders…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "9d16013ed3b93edd",
-   "title": "CinemaTraj: Composing Atomic Camera Trajectories for 3D Scenes with LLM Agents",
-   "url": "https://arxiv.org/abs/2607.26910",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2607.26910v1 Announce Type: new Abstract: Automatically generating cinematically expressive camera trajectories through 3D scenes from natural language descriptions is a challenging task of high practical value, with applications ranging from real-estate advertising to virtual tour creation. Existing methods…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "8595d6f1fe2b32d1",
-   "title": "Progressive Multimodal Alignment for Continual Instruction Tuning",
-   "url": "https://arxiv.org/abs/2607.26947",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2607.26947v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) rely on a projector to align visual representations with the language embedding space, making it central to cross-modal understanding. In Multimodal Continual Instruction Tuning (MCIT), however, shifting visual distributions and…",
-   "matched": [
-    "embedding"
-   ]
-  },
-  {
-   "uid": "76252b40340a5373",
-   "title": "Robust RPC Bundle Adjustment for Multi-Date Satellite Imagery with Season-Invariant Correspondences",
-   "url": "https://arxiv.org/abs/2607.26973",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2607.26973v1 Announce Type: new Abstract: Accurate refinement of Rational Polynomial Camera (RPC) models is essential for high-quality satellite image geolocation. In ground control point (GCP)-free multi-view pipelines, this refinement is commonly performed through bundle adjustment from automatically extracted…",
-   "matched": [
-    "satellite imagery"
-   ]
-  },
-  {
-   "uid": "f97e9069b82a6cb2",
-   "title": "Mitigating Compounding Error via Video Representation Regularization",
-   "url": "https://arxiv.org/abs/2607.27036",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2607.27036v1 Announce Type: new Abstract: Video diffusion-based world models enable long autoregressive video generation for robotics, autonomous driving and simulation tasks, yet sliding-window autoregressive inference suffers from severe error accumulation that degrades frame quality over time. Although this…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "74e899b6b7a2cb79",
-   "title": "Step-Attention Refinement of DINOv3 Features for Efficient Anterior Eye Segmentation",
-   "url": "https://arxiv.org/abs/2607.27087",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2607.27087v1 Announce Type: new Abstract: Anterior eye segment (AES) segmentation is a key component of both ocular biometrics and emerging clinical image analysis applications. However, heterogeneous acquisition conditions and limited annotations in medical settings hinder the robustness and generalization of…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "88c0c7bf95c99d32",
-   "title": "Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection",
-   "url": "https://arxiv.org/abs/2607.27113",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2607.27113v1 Announce Type: new Abstract: The growing capability of image generation models has made synthetic images a routine presence in open media, making robust and generalizable AI-Generated Image (AIGI) detection increasingly essential. While multi-modal large language models (MLLMs) offer a transparent…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "659699746de6f682",
-   "title": "SeasonStereo: Robust Dense Stereo Matching for Multi-Date Satellite Imagery via Generative AI",
-   "url": "https://arxiv.org/abs/2607.27139",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2607.27139v1 Announce Type: new Abstract: Accurate 3D reconstruction from satellite imagery typically relies on near-simultaneous stereo pairs, limiting its applicability to diachronic settings where multi-date images exhibit varying seasonal and illumination conditions. Training dense stereo matching models…",
-   "matched": [
-    "satellite imagery"
-   ]
-  },
-  {
-   "uid": "24928f6ee490c8fb",
-   "title": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
-   "url": "https://arxiv.org/abs/2607.27205",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2607.27205v1 Announce Type: new Abstract: Vision-language-action (VLA) models commonly adopt an LLM-centric $V \\to L \\to A$ pathway, where visual observations are projected into the representation space of a large language model before being decoded into robot actions. Although effective, this design incurs…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "e71c98a46a9e3033",
-   "title": "Improving Knowledge Distillation Under Unknown Covariate Shift Through Confidence-Guided Data Augmentation",
-   "url": "https://arxiv.org/abs/2506.02294",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2506.02294v3 Announce Type: replace Abstract: Large foundation models trained on extensive datasets demonstrate strong zero-shot capabilities in various domains. Knowledge distillation has become an established tool for transferring knowledge from foundation models to small student networks when data and model…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "d149f923ec9667a5",
-   "title": "LISA-3D: Lifting Language-Image Segmentation to 3D via Multi-View Consistency",
-   "url": "https://arxiv.org/abs/2512.01008",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2512.01008v2 Announce Type: replace Abstract: Text-driven 3D reconstruction requires masks that understand free-form instructions and remain stable under viewpoint changes. We present LISA-3D, a two-stage framework that adapts the instruction-following segmenter LISA with geometry-aware Low-Rank Adaptation…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "eb501eb8ac946988",
-   "title": "Context-measure: Contextualizing Metric for Camouflage",
-   "url": "https://arxiv.org/abs/2512.07076",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2512.07076v4 Announce Type: replace Abstract: Camouflage relies heavily on context, but current metrics used in camouflaged object segmentation ignore contextual cues. We identify two major drawbacks of these metrics: first, the Dimension Flaw - a predicted foreground map usually contains both pixel labels and…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "05af643be588ee0a",
-   "title": "Kinetic Mining in Context: Few-Shot Action Synthesis via Text-to-Motion Distillation",
-   "url": "https://arxiv.org/abs/2512.11654",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2512.11654v3 Announce Type: replace Abstract: The acquisition cost for large, annotated motion datasets remains a critical bottleneck for skeletal-based Human Activity Recognition (HAR). Although Text-to-Motion (T2M) generative models offer a compelling, scalable source of synthetic data, their training…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "1e13cdf113acadc0",
-   "title": "Clinical Graph-Mediated Distillation for Unpaired MRI-to-CFI Hypertension Prediction",
-   "url": "https://arxiv.org/abs/2603.21809",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2603.21809v2 Announce Type: replace Abstract: Retinal fundus imaging enables low-cost and scalable hypertension (HTN) screening, but HTN-related retinal cues are subtle, yielding high-variance predictions. Brain MRI provides stronger vascular and small-vessel-disease markers of HTN, yet it is expensive and…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "297bbaa9362934a2",
-   "title": "When Does Visual Token Pruning Improve Calibration? The Role of Evidence Coverage in MLLMs",
-   "url": "https://arxiv.org/abs/2604.12035",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2604.12035v3 Announce Type: replace Abstract: Visual token pruning is widely used to reduce the inference cost of multimodal large language models (MLLMs), but it is usually evaluated only by accuracy. We study how pruning affects calibration, defined as the agreement between confidence and correctness, and show…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "36948e73e1281c89",
-   "title": "Topology-Constrained Quantized nnUNet for Efficient and Anatomically Accurate 3D Tooth Segmentation",
-   "url": "https://arxiv.org/abs/2605.04201",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2605.04201v2 Announce Type: replace Abstract: We propose a topology-constrained quantized nnUNet framework for efficient and anatomically accurate 3D tooth segmentation, addressing the challenges of spatial distortion introduced by quantization in deep learning models. The proposed method integrates a novel…",
-   "matched": [
-    "quantization",
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "9df7f7df8e0839a9",
-   "title": "Distill, Diffuse, Segment: Unsupervised 3D Semantic Segmentation for Autonomous Driving Based on Multi-Level Distillation and Graph Diffusion",
-   "url": "https://arxiv.org/abs/2605.08293",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2605.08293v3 Announce Type: replace Abstract: LiDAR-based semantic segmentation is essential for autonomous-driving perception, yet dense point-wise annotations are costly, and long-tailed outdoor scenes make small safety-critical objects difficult to discover without supervision. Existing unsupervised methods…",
-   "matched": [
-    "distillation",
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "29d7820c54913466",
-   "title": "Enhanced Seam Segmentation for Automated Welding Robot in Construction Through Transfer Learning: Addressing Limitations of Bilateral Segmentation Network",
-   "url": "https://arxiv.org/abs/2607.06150",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2607.06150v3 Announce Type: replace Abstract: Reliable seam segmentation is essential for autonomous robotic welding in construction, where harsh illumination, specular reflections, and thin weld geometries often degrade segmentation performance. This study proposes a reflection-robust seam segmentation…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "c15b9f21271fae8f",
-   "title": "AptAvatar: Fast and Vivid Long-Form Audio-Driven Video Generation for Production-Ready Avatars",
-   "url": "https://arxiv.org/abs/2607.24013",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2607.24013v2 Announce Type: replace Abstract: Production-ready audio-driven avatar generation requires efficient inference without sacrificing fidelity or motion expressiveness. However, existing acceleration methods often compromise quality through restrictive architectural choices, such as causal attention and…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "5f31880ce942e90f",
-   "title": "FilmBench: A Film-Grade Benchmark for Cinematic Video Generation",
-   "url": "https://arxiv.org/abs/2607.24241",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2607.24241v2 Announce Type: replace Abstract: Progress in video generation keeps narrowing the visual gap between AI-generated and professionally produced footage, yet most benchmarks still draw prompts from web sources or LLM templates and score them with untrained, generic multimodal models. More…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "773032899baa549c",
-   "title": "SADe: Sparse-Atom Support Decontamination for Few-Shot Segmentation with Weak Support Annotations",
-   "url": "https://arxiv.org/abs/2607.24706",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2607.24706v2 Announce Type: replace Abstract: Few-shot segmentation (FSS) commonly assumes clean pixel-level support masks, yet practical support supervision often uses boxes, scribbles, coarse masks, or pseudo-masks. These weak annotations may include texture-similar distractors and background context alongside…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "e7ecf954c04ac57c",
-   "title": "On-Device Inference versus Wireless Streaming: Energy-Efficient Multi-Modal Deep Learning for Wearable Cardiovascular Patches",
-   "url": "https://arxiv.org/abs/2510.18668",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2510.18668v5 Announce Type: replace-cross Abstract: Wearable cardiovascular sensor patches promise continuous, unobtrusive monitoring, but their tight energy, memory, and compute budgets make it unclear whether physiological signals should be analyzed on the device or streamed to the cloud for processing. We…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "88d1a03c690d8d40",
-   "title": "LLM-Grounded Dynamic Task Planning with Hierarchical Temporal Logic for Human-Aware Multi-Robot Handover",
-   "url": "https://arxiv.org/abs/2602.09472",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2602.09472v2 Announce Type: replace-cross Abstract: Large Language Models (LLMs) enable non-experts to specify open-world multi-robot tasks, but the generated plans are often kinematically infeasible and inefficient in long-horizon settings. Formal methods such as Linear Temporal Logic (LTL) offer correctness…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "0942c468f4d71095",
-   "title": "MLVC: Multi-platform Learned Video Codec for Real-World Deployment",
-   "url": "https://arxiv.org/abs/2606.28027",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-07-30T04:00:00+00:00",
-   "summary": "arXiv:2606.28027v2 Announce Type: replace-cross Abstract: Neural video codecs have surpassed classical codecs in coding efficiency but remain impractical for deployment due to cross-platform incompatibility and high computational cost. Existing quantization-based solutions fail to produce deterministic results across…",
-   "matched": [
-    "quantization"
-   ]
-  },
-  {
-   "uid": "585d224ae69097f6",
-   "title": "pydantic/pydantic-ai v2.21.0 — v2.21.0 (2026-07-29)",
-   "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.21.0",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-07-30T01:59:06+00:00",
-   "summary": "## What's Changed ### 🚀 Features * feat(usage): add `per_request_input_tokens_limit` to `UsageLimits` by @Oxygen56 in https://github.com/pydantic/pydantic-ai/pull/5907 ### 🐛 Bug Fixes * Refresh `KnownModelName` from Gateway probes and stable Google image IDs by @adtyavrdhn in https://github.com/pydantic/pydantic-ai/pull/6806 **Full Changelog**:…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "cb1da33f6671b50c",
-   "title": "Bought a 5090 to escape API fees. Ended up building a mini datacenter. Sound familiar?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vacf09/bought_a_5090_to_escape_api_fees_ended_up/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-07-29T23:16:20+00:00",
-   "summary": "I bought an RTX 5090 last year just to run 27B models natively. I even fine-tuned it with my own data using LoRA, building RAGs and was pretty damn happy with the results at first. But, Q8 quantization 130k context was barely squeezing through. Naturally, I bought two RTX 6000 Pros, just waiting for the next-gen…",
-   "matched": [
-    "lora",
-    "quantization"
-   ]
-  },
-  {
-   "uid": "cd65bca6887c1210",
-   "title": "LLM Honeypot",
-   "url": "https://llm2human.pages.dev/",
-   "source": "Hacker News (AI)",
-   "category": "news",
-   "published": "2026-07-29T22:51:03+00:00",
-   "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 231 # Comments: 58",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "78f75717f05a89c1",
-   "title": "Quantizing Kimi K3 (2.8T A50B) to GGUF ourselves - Q3_K_S works, 1.1 TB on disk",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vaaqdl/quantizing_kimi_k3_28t_a50b_to_gguf_ourselves_q3/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-07-29T22:08:40+00:00",
-   "summary": "we're experimenting with our own dynamic GGUF quants of kimi k3, made from the original weights with our llama.cpp fork. Q3_K_S is done and works 1114.76 GiB on disk. Q1 and Q2 are in progress, results on those tomorrow rented box hardware: - AMD EPYC 9554P, 64 cores - 1.5 TB of DDR5 - NVMe in raid0 to store the…",
-   "matched": [
-    "llama"
-   ]
-  },
-  {
-   "uid": "37f3ae192379f359",
-   "title": "Quoting D. Richard Hipp",
-   "url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything",
-   "source": "Simon Willison",
-   "category": "news",
-   "published": "2026-07-29T21:15:21+00:00",
-   "summary": "Years ago, we didn’t have SQL. There were people whose job was to generate software that would query large data sets. Their job title was COBOL programmer. Then SQL comes along—I’m simplifying this only a little bit—and it gives you this convenient way so people could just specify. With a very simple specification,…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "87f794bbde9b07b7",
-   "title": "⭐ 185 · icebird1998/scientific-illustrator (JavaScript)",
-   "url": "https://github.com/icebird1998/scientific-illustrator",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-07-29T21:00:54+00:00",
-   "summary": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
-   "matched": [
-    "mcp"
-   ]
-  },
-  {
-   "uid": "c86ecbf1150c0be6",
-   "title": "Are you guys not scared of where we're heading? A year ago, GPT-5 was considered one of the best models in the world. Today, we have open-weight models like Qwen3.6-27B that are competitive enough to…",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va7nm7/are_you_guys_not_scared_of_where_were_heading_a/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-07-29T20:13:52+00:00",
-   "summary": "I think the claims about having Mythos level-model in our laptops in 1-2 years might not be so crazy of a theory submitted by /u/SilverRegion9394 [link] [comments]",
-   "matched": [
-    "gpt-5",
-    "mythos"
-   ]
-  },
-  {
-   "uid": "10a21f77292324e7",
-   "title": "Claude: Elevated errors across all models – Resolved",
-   "url": "https://status.claude.com/incidents/q2kg8n613kr3",
-   "source": "Hacker News (AI)",
-   "category": "news",
-   "published": "2026-07-29T19:50:42+00:00",
-   "summary": "Article URL: https://status.claude.com/incidents/q2kg8n613kr3 Comments URL: https://news.ycombinator.com/item?id=49102150 Points: 263 # Comments: 245",
-   "matched": [
-    "claude"
-   ]
-  },
-  {
-   "uid": "4fdc0b463bbfc1d1",
-   "title": "I pre-trained a 700m on 18B tokens optimized for Python and Wikitext | TheOneWhoWill/Shibai-700M-Base · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va6dvv/i_pretrained_a_700m_on_18b_tokens_optimized_for/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-07-29T19:29:11+00:00",
-   "summary": "I know this is the 1000000th new sub billion parameter model out there and probably isn't as good as Qwen 3 0.6B or Qwen 3.5 0.8B but it still packs a decent punch. My intention to to continuously pre-train this model on another 5 Billion tokens or so on pure doc string based Python. It's not fine tuned for chat, just…",
-   "matched": [
-    "qwen"
-   ]
   }
  ],
- "last_run": "2026-07-30T09:13:38.140938+00:00"
+ "last_run": "2026-07-30T18:55:41.592943+00:00"
 }
