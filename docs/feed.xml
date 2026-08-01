@@ -5,7 +5,7 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-08-01T08:40:04Z</updated>
+  <updated>2026-08-01T18:28:47Z</updated>
   <author><name>ai-digest</name></author>
   <entry>
     <title>📰 Disrupting a Criminal Scam Operation</title>
@@ -15,6 +15,87 @@
     <published>2026-08-04T00:00:00Z</published>
     <category term="NEWS"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Deepseek v4 flash 0731 still not holding up.</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1vct09w/deepseek_v4_flash_0731_still_not_holding_up/"/>
+    <id>urn:uuid:889094dac04abba1</id>
+    <updated>2026-08-01T17:16:45Z</updated>
+    <published>2026-08-01T17:16:45Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;The biggest issue with preview was its inability to follow rules prompts and skills. It seems like no matter what you do it ignores them. I've tried first person and second person. I've tried Chinese and English. It does not follow them. That's the only problem with these models and why they're not actually frontier…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1vct09w/deepseek_v4_flash_0731_still_not_holding_up/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10219</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10219"/>
+    <id>urn:uuid:9cd9b6603f30cc3a</id>
+    <updated>2026-08-01T16:46:07Z</updated>
+    <published>2026-08-01T16:46:07Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;cli : persist reasoning_content in chat history (#26362) * cli : persist reasoning_content in chat history llama-cli collected reasoning from the stream for display but only stored assistant content in messages, so --reasoning-preserve could not re-inject prior thoughts on later turns. **Website:** - **macOS/iOS:** - [macOS Apple Silicon…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10219"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 DeepSeek V4 Flash 0731 IQ2_M benchmark for Dual 3060 and 96GB RAM ≈ 3.5 tok/s.</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1vcrd6d/deepseek_v4_flash_0731_iq2_m_benchmark_for_dual/"/>
+    <id>urn:uuid:93b872444724c6e4</id>
+    <updated>2026-08-01T16:10:45Z</updated>
+    <published>2026-08-01T16:10:45Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Thanks to the community help I finally launched this llm. LM Studio refused to load weight onto second GPU but Unsloth Studio did so everything was done in there. Not a proper benchmark (used PC in parallel as well) but it gives an idea of ​​the performance from dual 3060 with RAM offloading. DeepSeek V4 Flash 0731…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek, llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1vcrd6d/deepseek_v4_flash_0731_iq2_m_benchmark_for_dual/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ultralytics/ultralytics v8.4.115 — v8.4.115 - Deprecate HUB in favor of Ultralytics Platform (#25608)</title>
+    <link href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.115"/>
+    <id>urn:uuid:18dd772208ca42df</id>
+    <updated>2026-08-01T16:06:47Z</updated>
+    <published>2026-08-01T16:06:47Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## 🌟 Summary **v8.4.115 transitions Ultralytics from legacy HUB integrations to the streamlined [Ultralytics Platform](https://platform.ultralytics.com/) experience, with simpler authentication and a leaner training codebase.** 🚀 ## 📊 Key Changes - 🔐 **Introduced validated Platform CLI authentication** - Log in with `yolo login API_KEY` - Remove credentials with `yolo logout` - API keys are…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.115"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 I'm kinda tired of obsession for one-shot tests in coding, there are good tests for multi-step debugging with analyzing output/images/videos?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1vcpsml/im_kinda_tired_of_obsession_for_oneshot_tests_in/"/>
+    <id>urn:uuid:b076228692ab71a2</id>
+    <updated>2026-08-01T15:07:04Z</updated>
+    <published>2026-08-01T15:07:04Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Personally, i think good coding model shouldn't be focused on one-shot everything in one html-file tests, but should be really good on debugging, fixing and modifying its own output. Anyone know such simple tests that i would able to run with local models? May be some kind of synthetic stuff that forces LLM to build…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1vcpsml/im_kinda_tired_of_obsession_for_oneshot_tests_in/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10218</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10218"/>
+    <id>urn:uuid:db3e63f738f0afb4</id>
+    <updated>2026-08-01T12:46:12Z</updated>
+    <published>2026-08-01T12:46:12Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;mtmd: add minicpmv46 downsample (#25993) * add minicpmv46 downsample Signed-off-by: tc-mb * put downsample mode inside gguf. Signed-off-by: tc-mb * build mtmd_image_preprocessor_llava_uhd Signed-off-by: tc-mb * fix code Signed-off-by: tc-mb * add convert Signed-off-by: tc-mb * add 4x ignore vit merger Signed-off-by: tc-mb --------- Signed-off-by: tc-mb **Website:** - **macOS/iOS:** - [macOS Apple…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10218"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 DS4 flash 0731 - Acquarium Panel Failure - Q3_K_XL Unsloth</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1vckcue/ds4_flash_0731_acquarium_panel_failure_q3_k_xl/"/>
+    <id>urn:uuid:986b7c8c2c7fffc3</id>
+    <updated>2026-08-01T11:00:39Z</updated>
+    <published>2026-08-01T11:00:39Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;https://preview.redd.it/1a39x4zivqgh1.png?width=1550 format=png auto=webp s=de591c039cc18782a6b5d8e402fdc1594be05132 start C:\llm\llamam5\build\bin\llama-server.exe --model H:\UD-Q3_K_XL\DeepSeek-V4-Flash-0731-UD-Q3_K_XL-00001-of-00004.gguf --host 127.0.0.1 --port 8080 -c 250000 --parallel 1 --no-warmup --flash-attn…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama, deepseek, llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1vckcue/ds4_flash_0731_acquarium_panel_failure_q3_k_xl/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 New DeepSeek V4 Flash 0731 vs ChatGPT Luna comparison</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1vcj0hh/new_deepseek_v4_flash_0731_vs_chatgpt_luna/"/>
+    <id>urn:uuid:7f9e1a5a8ffed309</id>
+    <updated>2026-08-01T09:44:58Z</updated>
+    <published>2026-08-01T09:44:58Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;submitted by /u/perelmanych [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1vcj0hh/new_deepseek_v4_flash_0731_vs_chatgpt_luna/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Deepseek V4 Flash 0731. LM Studio loading only into RAM.</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1vci6gz/deepseek_v4_flash_0731_lm_studio_loading_only/"/>
+    <id>urn:uuid:8fd4e6087715e3b0</id>
+    <updated>2026-08-01T08:56:11Z</updated>
+    <published>2026-08-01T08:56:11Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;The model refuses to load into VRAM and uses only RAM. What can be an issue? Q2_K_XL from Unsloth if that changes something. submitted by /u/esw123 [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1vci6gz/deepseek_v4_flash_0731_lm_studio_loading_only/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📦 cocoindex-io/cocoindex</title>
@@ -107,6 +188,33 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows Trail of Bits Skills Marketplace A Claude Code plugin marketplace from Trail of Bits providing skills to enhance AI-assisted security analysis, testing, and development workflows. Codex can load this marketplace…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/trailofbits/skills"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 DeepSeek-V4-Flash-0731: Models you can run locally now have the intelligence score of the top frontier model from March 2026</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1vchoua/deepseekv4flash0731_models_you_can_run_locally/"/>
+    <id>urn:uuid:c1c06d75aa1d9a44</id>
+    <updated>2026-08-01T08:27:40Z</updated>
+    <published>2026-08-01T08:27:40Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;March 6th, 2026 the highest intelligence index score was 51 for frontier models. deepseek-ai/DeepSeek-V4-Flash-0731 that has an intelligence score of 50. If these benchmarks are accurate, models available to run locally on 8K USD (us prices - just guestimating/not exact) hardware has nearly the same intelligence score…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1vchoua/deepseekv4flash0731_models_you_can_run_locally/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Are 1B LLMs Going Away in 2026?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1vchmmj/are_1b_llms_going_away_in_2026/"/>
+    <id>urn:uuid:e06021fb189ea4b7</id>
+    <updated>2026-08-01T08:24:00Z</updated>
+    <published>2026-08-01T08:24:00Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I don't know much about llms aside from downloading them through a frontend and running them on my laptop or potato phone. Google released gemma 4, but unlike gemma 3, there isn't a 1b model this time. Llama also had a 1b model before, but there doesn't seem to be a new one. Qwen 3.5 had a 1b (0.8b) class model too,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama, qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1vchmmj/are_1b_llms_going_away_in_2026/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Qwen 3.6 27B Q5 on 3x2080ti: 55tps with llama.cpp. Can I squeeze out more?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1vch2vl/qwen_36_27b_q5_on_3x2080ti_55tps_with_llamacpp/"/>
+    <id>urn:uuid:b559b136d6e64e35</id>
+    <updated>2026-08-01T07:52:10Z</updated>
+    <published>2026-08-01T07:52:10Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;CPU: Threadripper 3970X RAM: 128GB DDR4 GPUs: 3x2080ti 11GB The current best parameters to run it: llama-server \ --model Qwen3.6-27B-Q5_K_S.gguf \ --n-gpu-layers 999 \ --split-mode tensor \ --flash-attn on \ --cache-type-k q8_0 \ --cache-type-v q8_0 \ --ctx-size 16384 \ --batch-size 2048 \ --ubatch-size 1024 \…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama, qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1vch2vl/qwen_36_27b_q5_on_3x2080ti_55tps_with_llamacpp/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>🚀 ggml-org/llama.cpp b10217</title>
     <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10217"/>
     <id>urn:uuid:a5788b7e5c4b51a2</id>
@@ -132,6 +240,15 @@
     <published>2026-08-01T02:35:54Z</published>
     <category term="NEWS"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;What speeds are everyone getting with deepseek v4 flash 0731? I’m getting~200 tps prompt processing / ~11 tps token gen, on 4x5060ti16gb with ddr4 3200 ram at 4-channel, via llamacpp, with context window of 128000, -ub/-b at 4096, “q8” unsloth’s lossless quant submitted by /u/Ambitious_Fold_2874 [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek, context window&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1vcaztx/what_speeds_are_everyone_getting_with_deepseek_v4/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Me: Worn out from all the new model drops this week, but still hyped for all the great new releases.</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1vcav6l/me_worn_out_from_all_the_new_model_drops_this/"/>
+    <id>urn:uuid:04ffdab07f5087a4</id>
+    <updated>2026-08-01T02:29:43Z</updated>
+    <published>2026-08-01T02:29:43Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I mean seriously y’all, what an amazing past few days. So many awesome new models to test out in the mid range model sizes. EDIT: Added some of the more interesting models that came out over the last week and a half - Thinking Machines Inkling Small - DeepSeek v4 Flash 0731 - Poolside Laguna - Upstage Solar -…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1vcav6l/me_worn_out_from_all_the_new_model_drops_this/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>🚀 pydantic/pydantic-ai v2.22.0 — v2.22.0 (2026-07-31)</title>
@@ -557,6 +674,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Simon Willison&lt;/p&gt;&lt;p&gt;Release: datasette-agent 0.4a0 New await context.browser_task() mechanism allowing agent tools to run code directly in the user's browser. #33 This is an exciting new capability: it makes it easy for Datasette Agent plugins to provide tools that execute custom JavaScript in the user's browser . Tags: datasette ,…&lt;/p&gt;&lt;p&gt;&lt;a href="https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📦 ⭐ 241 · Prism-Shadow/penguin-harness (TypeScript)</title>
+    <link href="https://github.com/Prism-Shadow/penguin-harness"/>
+    <id>urn:uuid:d5c9c3326fab9734</id>
+    <updated>2026-07-31T14:01:57Z</updated>
+    <published>2026-07-31T14:01:57Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;🐧 Automated Agent Builder. Use DeepSeek, Gemini to Create Self-Evolving Agents in One Click&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: gemini, deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Prism-Shadow/penguin-harness"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>📰 The Chinese LLM release carousel never stops. Place your bets for MiniMax next week.</title>
     <link href="https://www.reddit.com/r/LocalLLaMA/comments/1vbr5zj/the_chinese_llm_release_carousel_never_stops/"/>
     <id>urn:uuid:1fc4df9de25c940a</id>
@@ -960,131 +1086,5 @@
     <published>2026-07-31T04:00:00Z</published>
     <category term="PAPER"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.27726v1 Announce Type: cross Abstract: Deep research over data lakes requires an LLM agent to investigate evidence across thousands of heterogeneous tables and passages to synthesize a report. Existing methods perform iterative retrieval and generation, letting accumulated context determine what to…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.27726"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 IFHierBench: Hierarchical Instruction Following for Large Language Models</title>
-    <link href="https://arxiv.org/abs/2607.27912"/>
-    <id>urn:uuid:d4a5dafda5aae63c</id>
-    <updated>2026-07-31T04:00:00Z</updated>
-    <published>2026-07-31T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.27912v1 Announce Type: cross Abstract: Instruction-following ability is critical for deploying large language models in real-world applications, where downstream components depend on the output satisfying specific constraints. Modern deployments increasingly handle the full task in a single LLM call, with…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.27912"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 TriShield: Zero-Utility-Loss Defense Against Privacy Backdoors in Federated Language Model Fine-Tuning via Orthogonal Gradient Projection and Optimizer State Entanglement</title>
-    <link href="https://arxiv.org/abs/2607.27940"/>
-    <id>urn:uuid:bb5fcf835c8a8f9b</id>
-    <updated>2026-07-31T04:00:00Z</updated>
-    <published>2026-07-31T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.27940v1 Announce Type: cross Abstract: Federated fine-tuning of large language models (LLMs) enables collaborative training without exposing raw data. However, a recent attack, NeuroImprint [1] (arXiv:2606.20553), demonstrates that a malicious parameter server can corrupt a PEFT adapter into a privacy…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tuning&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.27940"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 SciDataSailor: Deep Scientific Data Exploring</title>
-    <link href="https://arxiv.org/abs/2607.28098"/>
-    <id>urn:uuid:b2bda3f38661c6b3</id>
-    <updated>2026-07-31T04:00:00Z</updated>
-    <published>2026-07-31T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.28098v1 Announce Type: cross Abstract: Scientific datasets are commonly organized as hierarchical repositories containing heterogeneous and interdependent files, making their inspection, integration, and analysis labor-intensive and reliant on domain expertise. Although large language model (LLM) agents…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.28098"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 PCAP-LM: An LLM-Native Text Representation for TLS Bulk Traffic Analysis</title>
-    <link href="https://arxiv.org/abs/2607.28100"/>
-    <id>urn:uuid:389d0a1c82e6362a</id>
-    <updated>2026-07-31T04:00:00Z</updated>
-    <published>2026-07-31T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.28100v1 Announce Type: cross Abstract: Large language models (LLMs) offer powerful reasoning capabilities for network traffic analysis, but standard capture formats and their textual equivalents are prohibitively verbose, overflowing LLM context windows by two orders of magnitude. We present PCAP-LM, a…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.28100"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 CDAE: Enhancing Perturbation Robustness in Pretrained Language Models with Contrastive Denoising</title>
-    <link href="https://arxiv.org/abs/2607.28236"/>
-    <id>urn:uuid:ce0fa0a1af421480</id>
-    <updated>2026-07-31T04:00:00Z</updated>
-    <published>2026-07-31T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.28236v1 Announce Type: cross Abstract: Pre-trained language models have significantly improved sentence representation learning, yet their embedding remain sensitive to semantic preserving textual perturbations such as synonym substitution, masking and word dropout. This work proposes a lightweight…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: embedding&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.28236"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 GLM-RAG: Graph Language Models for Graph-Based Retrieval-Augmented Generation</title>
-    <link href="https://arxiv.org/abs/2607.28397"/>
-    <id>urn:uuid:f83734442a426f9f</id>
-    <updated>2026-07-31T04:00:00Z</updated>
-    <published>2026-07-31T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.28397v1 Announce Type: cross Abstract: Retrieval-augmented generation (RAG) over knowledge graphs requires retrievers that can effectively capture both graph structure and semantic information. Recent approaches have explored graph neural network (GNN)-based retrievers to model graph topology in multi-hop…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: rag&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.28397"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 WIDE: Boosting Adaptive LLM Inference via Token-level Dynamic Width Pruning</title>
-    <link href="https://arxiv.org/abs/2607.28418"/>
-    <id>urn:uuid:d7fa181eed381d56</id>
-    <updated>2026-07-31T04:00:00Z</updated>
-    <published>2026-07-31T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.28418v1 Announce Type: cross Abstract: Pruning is a promising approach for improving the efficiency of LLMs. Existing static structured pruning methods are hardware-friendly and can deliver practical throughput gains, but their input-agnostic computation allocation often causes substantial accuracy…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.28418"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation</title>
-    <link href="https://arxiv.org/abs/2607.28590"/>
-    <id>urn:uuid:b49b6d490168dfd7</id>
-    <updated>2026-07-31T04:00:00Z</updated>
-    <published>2026-07-31T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.28590v1 Announce Type: cross Abstract: Multimodal on-policy distillation (OPD) transfers fine-grained visual knowledge by supervising student-generated trajectories with a privileged-view teacher. Yet its next-token corrections are source-mixed, combining visual signals with linguistic priors and…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.28590"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 LLM Self-Correction with DeCRIM: Decompose, Critique, and Refine for Enhanced Following of Instructions with Multiple Constraints</title>
-    <link href="https://arxiv.org/abs/2410.06458"/>
-    <id>urn:uuid:dd25cdccddc2651b</id>
-    <updated>2026-07-31T04:00:00Z</updated>
-    <published>2026-07-31T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2410.06458v2 Announce Type: replace Abstract: Instruction following is a key capability for LLMs. However, recent studies have shown that LLMs often struggle with instructions containing multiple constraints (e.g. a request to create a social media post "in a funny tone" with "no hashtag"). Despite this, most…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2410.06458"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Hallucinations and Truth: A Comprehensive Accuracy Evaluation of RAG, LoRA and DoRA</title>
-    <link href="https://arxiv.org/abs/2502.10497"/>
-    <id>urn:uuid:bc25bad93838b3bd</id>
-    <updated>2026-07-31T04:00:00Z</updated>
-    <published>2026-07-31T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2502.10497v2 Announce Type: replace Abstract: Recent advancements in Generative AI have significantly improved the efficiency and adaptability of natural language processing (NLP) systems, particularly through Retrieval-Augmented Generation (RAG), Low-Rank Adaptation (LoRA), and Weight-Decomposed Low-Rank…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: rag, lora&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2502.10497"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Towards Structurally Explainable Machine-Generated Text Detection: A Graph-Perspective Framework</title>
-    <link href="https://arxiv.org/abs/2505.12507"/>
-    <id>urn:uuid:1cbde73a302472e3</id>
-    <updated>2026-07-31T04:00:00Z</updated>
-    <published>2026-07-31T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2505.12507v2 Announce Type: replace Abstract: Despite the success of machine-generated text detectors, the black-box nature remains a critical limitation. Traditional explainability methods rely on token-level saliency, insufficient to reveal the high-order structural dependencies that distinguish LLM outputs.…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2505.12507"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 CRMWeaver: Building Powerful Business Agent via Agentic RL and Shared Memories</title>
-    <link href="https://arxiv.org/abs/2510.25333"/>
-    <id>urn:uuid:9ee28e3229e661cd</id>
-    <updated>2026-07-31T04:00:00Z</updated>
-    <published>2026-07-31T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2510.25333v2 Announce Type: replace Abstract: Recent years have witnessed the rapid development of LLM-based agents, which shed light on using language agents to solve complex real-world problems. A prominent application lies in business agents, which interact with databases and internal knowledge bases via tool…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2510.25333"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Select or Project? Evaluating Lower-dimensional Vectors for LLM Training Data Explanations</title>
-    <link href="https://arxiv.org/abs/2601.16651"/>
-    <id>urn:uuid:43913a543658c3fe</id>
-    <updated>2026-07-31T04:00:00Z</updated>
-    <published>2026-07-31T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2601.16651v3 Announce Type: replace Abstract: Gradient-based methods for instance-based explanation for large language models (LLMs) are hindered by the immense dimensionality of model gradients. In practice, influence estimation is restricted to a subset of model parameters to make computation tractable, but…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2601.16651"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 MentorCollab: Selective Large-to-Small Inference-Time Guidance for Efficient Reasoning</title>
-    <link href="https://arxiv.org/abs/2602.05307"/>
-    <id>urn:uuid:ec719e8394dbffd6</id>
-    <updated>2026-07-31T04:00:00Z</updated>
-    <published>2026-07-31T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2602.05307v2 Announce Type: replace Abstract: Large reasoning models (LRMs) achieve strong performance by producing long chains of thought, but their inference costs are high and often generate redundant reasoning. Small language models (SLMs) are far more efficient, yet struggle on multi-step reasoning tasks. A…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2602.05307"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
