@@ -5,8 +5,62 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-08-15T07:06:48Z</updated>
+  <updated>2026-08-15T17:44:58Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>📦 ⭐ 152 · sosoj92/jarvis-assistant-vocal (Python)</title>
+    <link href="https://github.com/sosoj92/jarvis-assistant-vocal"/>
+    <id>urn:uuid:f7126eae2b31453d</id>
+    <updated>2026-08-15T15:18:08Z</updated>
+    <published>2026-08-15T15:18:08Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Assistant vocal local en francais : Claude ou Ollama (offline), domotique Hue, OBS, agenda, navigateur, appels Twilio, serveur MCP. Python.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/sosoj92/jarvis-assistant-vocal"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Qwen3.8 27B vs Qwen3.6 27B vs Qwen3.5 27B, a slight improvement in oneshotting ability across generations.</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1vp52ct/qwen38_27b_vs_qwen36_27b_vs_qwen35_27b_a_slight/"/>
+    <id>urn:uuid:c26d4cddeb1cab8b</id>
+    <updated>2026-08-15T15:01:14Z</updated>
+    <published>2026-08-15T15:01:14Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Ran Qwen3.8 27B through all 35 oneshot prompts on oneshotlm and compared them to Qwen3.6 27B and Qwen3.5 27B. Here are the results. 3.6 was not able to create a working 2048 game but 3.8 did. 3.8's pelican is accurate 3.8 was able to get Wolfenstein mostly correct whereas 3.6 did not draw anything. I used Sonnet 5 to…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: sonnet&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1vp52ct/qwen38_27b_vs_qwen36_27b_vs_qwen35_27b_a_slight/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10442</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10442"/>
+    <id>urn:uuid:53b81824a54c5fe2</id>
+    <updated>2026-08-15T14:58:24Z</updated>
+    <published>2026-08-15T14:58:24Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;vulkan: add SHMEM_STRIDE_PAD/APPLY_SLM_A_RESHAPE for coopmat1 on Intel Xe (#25380) * vulkan: add SHMEM_STRIDE_PAD/APPLY_SLM_A_RESHAPE for coopmat mul_mm on Intel Xe * vulkan: fix shmem estimate for Intel SHMEM_STRIDE_PAD=0 in matmul_shmem_support * cacheline aligned for shared kvalues_mxfp4 * vulkan: fix OOB read in kvalues_mxfp4 init after cacheline padding * vulkan: restrict SLM-A reshape to…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10442"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10441</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10441"/>
+    <id>urn:uuid:530f7bc38386e3a0</id>
+    <updated>2026-08-15T11:24:40Z</updated>
+    <published>2026-08-15T11:24:40Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;common: migrate the deprecated --mmap/--no-mmap to --load-mode (#26934) Replace the deprecated --mmap, --no-mmap, --mlock, and --direct-io flags with the unified --load-mode argument across scripts, examples, and documentation. Internal warning message and env var docs updated accordingly. Signed-off-by: Fathi Boudra **Website:** - **macOS/iOS:** - [macOS Apple Silicon…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10441"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Fable 5 refuses to touch Qwen deployments?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1voynzn/fable_5_refuses_to_touch_qwen_deployments/"/>
+    <id>urn:uuid:5dea4f1be173b760</id>
+    <updated>2026-08-15T09:47:33Z</updated>
+    <published>2026-08-15T09:47:33Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;It could be just me and my setup, but I just tried to get fable to adjust my Qwen 3.8 deployment script and (simple task, mostly knob turning).... and it outright refused. Censor box immediately kicks in. Not reading too much into it, but it did make me giggle. submitted by /u/NotumRobotics [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen, fable&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1voynzn/fable_5_refuses_to_touch_qwen_deployments/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Qwen 3.8 35BA3B spotted</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1voxppd/qwen_38_35ba3b_spotted/"/>
+    <id>urn:uuid:a9ca3018b6fd7915</id>
+    <updated>2026-08-15T08:49:06Z</updated>
+    <published>2026-08-15T08:49:06Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;https://preview.redd.it/xwbkbbj55ijh1.png?width=1554 format=png auto=webp s=abd354c8a6bef033d5fb8383c49e4a682ab22105 Just wait and see https://github.com/modelscope/ms-swift/commit/ab726e9d445a6520a70df2c831177d46adb1f589 submitted by /u/BazzyIm [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1voxppd/qwen_38_35ba3b_spotted/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 jlcodes99/cockpit-tools</title>
     <link href="https://github.com/jlcodes99/cockpit-tools"/>
@@ -134,6 +188,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;So a bit of context, I am a cybersecurity senior analyst I am interested in LLMs for that field especially with MCPs to connect them to the tools or for writing scripts I started this field by doing assembly language reading for hacking games when I was a teenager then that became malware analysis then I started to…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1vonuu0/qwen_38_27b_is_a_game_changer/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 Qwen 3.8 27B - Note the new recommended sampling parameters (from the official HF page)</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1vomibf/qwen_38_27b_note_the_new_recommended_sampling/"/>
+    <id>urn:uuid:3b8c9ca779422f06</id>
+    <updated>2026-08-14T23:09:22Z</updated>
+    <published>2026-08-14T23:09:22Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;submitted by /u/Thrumpwart [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1vomibf/qwen_38_27b_note_the_new_recommended_sampling/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>🚀 anthropics/claude-agent-sdk-python v0.2.139</title>
     <link href="https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.139"/>
     <id>urn:uuid:9d919d5ea929b8b6</id>
@@ -215,6 +278,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I'm currently testing out Qwen3.8-27B using Unsloth's UD-Q4_K_XL running a freshly rebuilt llama.cpp. I have a 22GB RTX 2080TI on which I'm able to fit 100k context with q8_0 quantization, and using MTP with --spec-draft-n-max 4 I get about 40tk/s which is slightly less than Qwen3.6-27B but usable enough. I've been…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama, quantization&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1vohpc8/the_difference_between_medium_and_xhigh_reasoning/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 Fixed/improved Jinja chat template for Qwen 3.8</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1voha70/fixedimproved_jinja_chat_template_for_qwen_38/"/>
+    <id>urn:uuid:ba0668c944288aae</id>
+    <updated>2026-08-14T19:39:44Z</updated>
+    <published>2026-08-14T19:39:44Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Again? you might ask. I( \ *) took the original Qwen 27B 3.8 chat template and compared it to the improved template that was posted a day before. The original has issues. The improved one fixed some while also introducing new issues. Now you have a new chat template that you can download . One issue among others with…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1voha70/fixedimproved_jinja_chat_template_for_qwen_38/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>📦 ⭐ 507 · patchy631/time-to-first-token (HTML)</title>
     <link href="https://github.com/patchy631/time-to-first-token"/>
     <id>urn:uuid:91545036fbbb668d</id>
@@ -249,6 +321,15 @@
     <published>2026-08-14T19:22:14Z</published>
     <category term="RELEASE"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;chat : pass reasoning_effort to template * chat: add reasoning_effort to common_chat_templates_inputs Store OpenAI Chat Completions reasoning_effort and make it available to jinja templates (with model specific translations where required). Assisted-by: llama.cpp:Muse-Glimmer-30B * server : fixup reading reasoning effort from body server_chat_convert_responses_to_chatcmpl already handles…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10434"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Qwen 3.8 27b sometimes thinks in caveman</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1vofhw0/qwen_38_27b_sometimes_thinks_in_caveman/"/>
+    <id>urn:uuid:f7097f2577bde4e4</id>
+    <updated>2026-08-14T18:34:08Z</updated>
+    <published>2026-08-14T18:34:08Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;submitted by /u/Eyelbee [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1vofhw0/qwen_38_27b_sometimes_thinks_in_caveman/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📦 t8y2/dbx</title>
@@ -357,6 +438,15 @@
     <published>2026-08-14T17:56:43Z</published>
     <category term="REPO"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;The graph based agentic IDE&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/AlgoNoRhythm/Flare"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Qwen 27b 3.6 vs 3.8 on web design tasks - first thoughts?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1voe9pw/qwen_27b_36_vs_38_on_web_design_tasks_first/"/>
+    <id>urn:uuid:d72d4664c40a32dd</id>
+    <updated>2026-08-14T17:50:40Z</updated>
+    <published>2026-08-14T17:50:40Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;https://preview.redd.it/4b23rwobodjh1.png?width=1263 format=png auto=webp s=8f4329d4a45482bd8a5fbb92691adb0500b66053 All results for 3.6 https://thez.co/web-design-bench/model.php?id=8 All results for 3.8 https://thez.co/web-design-bench/model.php?id=21 Added and ran 3.8 27b through my personal benchmark. I personally…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1voe9pw/qwen_27b_36_vs_38_on_web_design_tasks_first/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>🚀 ggml-org/llama.cpp b10431</title>
@@ -996,95 +1086,5 @@
     <published>2026-08-14T04:00:00Z</published>
     <category term="PAPER"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.13476v1 Announce Type: cross Abstract: We present Multi-Agent Reasoning and Coordination (MARC), an open-source framework that replaces monolithic LLM prompting with deterministic multi-agent orchestration for clinical reasoning. MARC coordinates role-specialized agents for extraction, reasoning, answer…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, agent framework&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.13476"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Intern-S2-Preview: Scientific Agentic Foundation Model</title>
-    <link href="https://arxiv.org/abs/2608.13505"/>
-    <id>urn:uuid:09885a493503a3ba</id>
-    <updated>2026-08-14T04:00:00Z</updated>
-    <published>2026-08-14T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.13505v1 Announce Type: cross Abstract: Scientific discovery increasingly requires AI systems that can reason over scientific evidence of heterogeneous modalities, interact with scientific tools and environments, and sustain progress across long task horizons. We present Intern-S2-Preview, a series of…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.13505"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design</title>
-    <link href="https://arxiv.org/abs/2608.13560"/>
-    <id>urn:uuid:b2fc5e9d42ff40a4</id>
-    <updated>2026-08-14T04:00:00Z</updated>
-    <published>2026-08-14T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.13560v1 Announce Type: cross Abstract: Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.13560"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Enhancing In-Hospital Mortality Prediction Using Multi-Representational Learning with LLM-Generated Expert Summaries</title>
-    <link href="https://arxiv.org/abs/2411.16818"/>
-    <id>urn:uuid:f1720343af7fb407</id>
-    <updated>2026-08-14T04:00:00Z</updated>
-    <published>2026-08-14T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2411.16818v2 Announce Type: replace Abstract: To evaluate a multi-representational framework in which large language model (LLM)-generated expert summaries of intensive care unit (ICU) notes are fused with physiology for in-hospital mortality (IHM) prediction, and to determine how much of the resulting gain is…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2411.16818"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 When Large Language Models are More PersuasiveThan Incentivized Humans, and Why</title>
-    <link href="https://arxiv.org/abs/2505.09662"/>
-    <id>urn:uuid:88f6bbbae5db9bfe</id>
-    <updated>2026-08-14T04:00:00Z</updated>
-    <published>2026-08-14T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2505.09662v4 Announce Type: replace Abstract: Large Language Models (LLMs) have been shown to be highly persuasive, but when and why they outperform humans is still an open question. We compare the persuasiveness of two LLMs (Claude 3.5 Sonnet and DeepSeek v3) against humans who had incentives to persuade, using…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, deepseek, sonnet&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2505.09662"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 REHEARSE: Experiential Rehearsal for Verbal Confidence Calibration in Large Language Models</title>
-    <link href="https://arxiv.org/abs/2508.14390"/>
-    <id>urn:uuid:58d5d9ed71d6bf6d</id>
-    <updated>2026-08-14T04:00:00Z</updated>
-    <published>2026-08-14T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2508.14390v2 Announce Type: replace Abstract: Large language models (LLMs) often express verbal confidence that is poorly aligned with actual correctness, limiting their reliability in safety-critical applications. Existing prompt-based methods treat calibration largely as a one-shot inference problem, relying…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2508.14390"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Gradual Code-Switching as Inference-Time Cross-Lingual Representational Alignment for LLMs</title>
-    <link href="https://arxiv.org/abs/2510.05678"/>
-    <id>urn:uuid:1db4c68336717308</id>
-    <updated>2026-08-14T04:00:00Z</updated>
-    <published>2026-08-14T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2510.05678v2 Announce Type: replace Abstract: While large language models (LLMs) have achieved notable progress in multilingual settings, their performance remains uneven across languages as LLMs often rely on English-centric latent representations. In this work, we introduce code-switching in-context learning…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2510.05678"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Agentic Aggregation for Parallel Scaling of Long-Horizon Agentic Tasks</title>
-    <link href="https://arxiv.org/abs/2604.11753"/>
-    <id>urn:uuid:128c1ee437fd76fe</id>
-    <updated>2026-08-14T04:00:00Z</updated>
-    <published>2026-08-14T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2604.11753v2 Announce Type: replace Abstract: We study parallel test-time scaling for long-horizon agentic tasks such as agentic search and deep research, where multiple rollouts are generated in parallel and aggregated into a final response. While such scaling has proven effective for chain-of-thought…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2604.11753"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 One prompt is not enough: Instruction Sensitivity Undermines Embedding Model Evaluation</title>
-    <link href="https://arxiv.org/abs/2605.22544"/>
-    <id>urn:uuid:b011be9f204304c9</id>
-    <updated>2026-08-14T04:00:00Z</updated>
-    <published>2026-08-14T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2605.22544v2 Announce Type: replace Abstract: Instruction embedding models have become common among state-of-the-art models, however are evaluated using a single prompt per task. The single-point evaluation ignores a main problem of the instruction-based approach namely: sensitivity to the phrasing of the…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: embedding&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2605.22544"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Topics as Proxies for Sociodemographics: How Conversational Context Affects LLM Answers</title>
-    <link href="https://arxiv.org/abs/2606.02776"/>
-    <id>urn:uuid:b36cd246503181f7</id>
-    <updated>2026-08-14T04:00:00Z</updated>
-    <published>2026-08-14T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2606.02776v5 Announce Type: replace Abstract: When large language models (LLMs) are used in high-stakes scenarios, such as legal, medical and financial advice, even a single conversation history is enough to drive differences in outcomes between users. Prior work has demonstrated that this results in outcome…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2606.02776"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Token Reduction Is Not Cost Reduction</title>
-    <link href="https://arxiv.org/abs/2607.12161"/>
-    <id>urn:uuid:52293dd8be4e7c81</id>
-    <updated>2026-08-14T04:00:00Z</updated>
-    <published>2026-08-14T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.12161v5 Announce Type: replace Abstract: Token-reduction tools for coding agents are often evaluated by the number of tokens they remove, but token count alone does not determine end-to-end inference cost. We evaluate three token-reduction approaches against an unmodified Claude Code baseline across…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, inference, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.12161"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

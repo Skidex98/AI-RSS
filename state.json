@@ -1,5 +1,11 @@
 {
  "seen": [
+  "f7126eae2b31453d",
+  "c26d4cddeb1cab8b",
+  "53b81824a54c5fe2",
+  "530f7bc38386e3a0",
+  "5dea4f1be173b760",
+  "a9ca3018b6fd7915",
   "e25aaf57fbebce4b",
   "ae5092fc818c8044",
   "70e0965b360d595f",
@@ -14,6 +20,7 @@
   "c75952be5a80f9e2",
   "12788a35547691ba",
   "13abfed4ebad0897",
+  "3b8c9ca779422f06",
   "9d919d5ea929b8b6",
   "1c1485e91b013492",
   "bad4e9072c8423ec",
@@ -23,10 +30,12 @@
   "6a262362a506de0a",
   "e83c2ad742f67d8c",
   "c7350a032bcf9108",
+  "ba0668c944288aae",
   "91545036fbbb668d",
   "93a30558a2806824",
   "8c497205df89845c",
   "6c945538fcca87e5",
+  "f7097f2577bde4e4",
   "033673d93afab129",
   "d4d7434ec434c586",
   "cdce02c92ed4fbfb",
@@ -39,6 +48,7 @@
   "0fd9d3dcceab66c5",
   "9d350608eccef8e4",
   "457bdfd6e3baa972",
+  "d72d4664c40a32dd",
   "d5033af4398321f1",
   "cbb36f20d4855faa",
   "58ceec6f7a78ac61",
@@ -109,19 +119,83 @@
   "7c8dcf1d4de2ae8c",
   "452796b42db7e917",
   "3704e9cacc376c92",
-  "97adf19b63f48471",
-  "09885a493503a3ba",
-  "b2fc5e9d42ff40a4",
-  "f1720343af7fb407",
-  "88f6bbbae5db9bfe",
-  "58d5d9ed71d6bf6d",
-  "1db4c68336717308",
-  "128c1ee437fd76fe",
-  "b011be9f204304c9",
-  "b36cd246503181f7",
-  "52293dd8be4e7c81"
+  "97adf19b63f48471"
  ],
  "items": [
+  {
+   "uid": "f7126eae2b31453d",
+   "title": "⭐ 152 · sosoj92/jarvis-assistant-vocal (Python)",
+   "url": "https://github.com/sosoj92/jarvis-assistant-vocal",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-15T15:18:08+00:00",
+   "summary": "Assistant vocal local en francais : Claude ou Ollama (offline), domotique Hue, OBS, agenda, navigateur, appels Twilio, serveur MCP. Python.",
+   "matched": [
+    "claude",
+    "mcp"
+   ]
+  },
+  {
+   "uid": "c26d4cddeb1cab8b",
+   "title": "Qwen3.8 27B vs Qwen3.6 27B vs Qwen3.5 27B, a slight improvement in oneshotting ability across generations.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp52ct/qwen38_27b_vs_qwen36_27b_vs_qwen35_27b_a_slight/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-15T15:01:14+00:00",
+   "summary": "Ran Qwen3.8 27B through all 35 oneshot prompts on oneshotlm and compared them to Qwen3.6 27B and Qwen3.5 27B. Here are the results. 3.6 was not able to create a working 2048 game but 3.8 did. 3.8's pelican is accurate 3.8 was able to get Wolfenstein mostly correct whereas 3.6 did not draw anything. I used Sonnet 5 to…",
+   "matched": [
+    "sonnet"
+   ]
+  },
+  {
+   "uid": "53b81824a54c5fe2",
+   "title": "ggml-org/llama.cpp b10442",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10442",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-08-15T14:58:24+00:00",
+   "summary": "vulkan: add SHMEM_STRIDE_PAD/APPLY_SLM_A_RESHAPE for coopmat1 on Intel Xe (#25380) * vulkan: add SHMEM_STRIDE_PAD/APPLY_SLM_A_RESHAPE for coopmat mul_mm on Intel Xe * vulkan: fix shmem estimate for Intel SHMEM_STRIDE_PAD=0 in matmul_shmem_support * cacheline aligned for shared kvalues_mxfp4 * vulkan: fix OOB read in kvalues_mxfp4 init after cacheline padding * vulkan: restrict SLM-A reshape to…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "530f7bc38386e3a0",
+   "title": "ggml-org/llama.cpp b10441",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10441",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-08-15T11:24:40+00:00",
+   "summary": "common: migrate the deprecated --mmap/--no-mmap to --load-mode (#26934) Replace the deprecated --mmap, --no-mmap, --mlock, and --direct-io flags with the unified --load-mode argument across scripts, examples, and documentation. Internal warning message and env var docs updated accordingly. Signed-off-by: Fathi Boudra **Website:** - **macOS/iOS:** - [macOS Apple Silicon…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "5dea4f1be173b760",
+   "title": "Fable 5 refuses to touch Qwen deployments?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voynzn/fable_5_refuses_to_touch_qwen_deployments/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-15T09:47:33+00:00",
+   "summary": "It could be just me and my setup, but I just tried to get fable to adjust my Qwen 3.8 deployment script and (simple task, mostly knob turning).... and it outright refused. Censor box immediately kicks in. Not reading too much into it, but it did make me giggle. submitted by /u/NotumRobotics [link] [comments]",
+   "matched": [
+    "qwen",
+    "fable"
+   ]
+  },
+  {
+   "uid": "a9ca3018b6fd7915",
+   "title": "Qwen 3.8 35BA3B spotted",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voxppd/qwen_38_35ba3b_spotted/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-15T08:49:06+00:00",
+   "summary": "https://preview.redd.it/xwbkbbj55ijh1.png?width=1554 format=png auto=webp s=abd354c8a6bef033d5fb8383c49e4a682ab22105 Just wait and see https://github.com/modelscope/ms-swift/commit/ab726e9d445a6520a70df2c831177d46adb1f589 submitted by /u/BazzyIm [link] [comments]",
+   "matched": [
+    "qwen"
+   ]
+  },
   {
    "uid": "e25aaf57fbebce4b",
    "title": "jlcodes99/cockpit-tools",
@@ -296,6 +370,18 @@
    ]
   },
   {
+   "uid": "3b8c9ca779422f06",
+   "title": "Qwen 3.8 27B - Note the new recommended sampling parameters (from the official HF page)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vomibf/qwen_38_27b_note_the_new_recommended_sampling/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-14T23:09:22+00:00",
+   "summary": "submitted by /u/Thrumpwart [link] [comments]",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
    "uid": "9d919d5ea929b8b6",
    "title": "anthropics/claude-agent-sdk-python v0.2.139",
    "url": "https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.139",
@@ -406,6 +492,18 @@
    ]
   },
   {
+   "uid": "ba0668c944288aae",
+   "title": "Fixed/improved Jinja chat template for Qwen 3.8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voha70/fixedimproved_jinja_chat_template_for_qwen_38/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-14T19:39:44+00:00",
+   "summary": "Again? you might ask. I( \\ *) took the original Qwen 27B 3.8 chat template and compared it to the improved template that was posted a day before. The original has issues. The improved one fixed some while also introducing new issues. Now you have a new chat template that you can download . One issue among others with…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
    "uid": "91545036fbbb668d",
    "title": "⭐ 507 · patchy631/time-to-first-token (HTML)",
    "url": "https://github.com/patchy631/time-to-first-token",
@@ -453,6 +551,18 @@
    "summary": "chat : pass reasoning_effort to template * chat: add reasoning_effort to common_chat_templates_inputs Store OpenAI Chat Completions reasoning_effort and make it available to jinja templates (with model specific translations where required). Assisted-by: llama.cpp:Muse-Glimmer-30B * server : fixup reading reasoning effort from body server_chat_convert_responses_to_chatcmpl already handles…",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "f7097f2577bde4e4",
+   "title": "Qwen 3.8 27b sometimes thinks in caveman",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vofhw0/qwen_38_27b_sometimes_thinks_in_caveman/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-14T18:34:08+00:00",
+   "summary": "submitted by /u/Eyelbee [link] [comments]",
+   "matched": [
+    "qwen"
    ]
   },
   {
@@ -602,6 +712,18 @@
    "summary": "The graph based agentic IDE",
    "matched": [
     "agentic"
+   ]
+  },
+  {
+   "uid": "d72d4664c40a32dd",
+   "title": "Qwen 27b 3.6 vs 3.8 on web design tasks - first thoughts?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voe9pw/qwen_27b_36_vs_38_on_web_design_tasks_first/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-14T17:50:40+00:00",
+   "summary": "https://preview.redd.it/4b23rwobodjh1.png?width=1263 format=png auto=webp s=8f4329d4a45482bd8a5fbb92691adb0500b66053 All results for 3.6 https://thez.co/web-design-bench/model.php?id=8 All results for 3.8 https://thez.co/web-design-bench/model.php?id=21 Added and ran 3.8 27b through my personal benchmark. I personally…",
+   "matched": [
+    "qwen"
    ]
   },
   {
@@ -1474,131 +1596,7 @@
     "llm",
     "agent framework"
    ]
-  },
-  {
-   "uid": "09885a493503a3ba",
-   "title": "Intern-S2-Preview: Scientific Agentic Foundation Model",
-   "url": "https://arxiv.org/abs/2608.13505",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-08-14T04:00:00+00:00",
-   "summary": "arXiv:2608.13505v1 Announce Type: cross Abstract: Scientific discovery increasingly requires AI systems that can reason over scientific evidence of heterogeneous modalities, interact with scientific tools and environments, and sustain progress across long task horizons. We present Intern-S2-Preview, a series of…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "b2fc5e9d42ff40a4",
-   "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
-   "url": "https://arxiv.org/abs/2608.13560",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-08-14T04:00:00+00:00",
-   "summary": "arXiv:2608.13560v1 Announce Type: cross Abstract: Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "f1720343af7fb407",
-   "title": "Enhancing In-Hospital Mortality Prediction Using Multi-Representational Learning with LLM-Generated Expert Summaries",
-   "url": "https://arxiv.org/abs/2411.16818",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-08-14T04:00:00+00:00",
-   "summary": "arXiv:2411.16818v2 Announce Type: replace Abstract: To evaluate a multi-representational framework in which large language model (LLM)-generated expert summaries of intensive care unit (ICU) notes are fused with physiology for in-hospital mortality (IHM) prediction, and to determine how much of the resulting gain is…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "88f6bbbae5db9bfe",
-   "title": "When Large Language Models are More PersuasiveThan Incentivized Humans, and Why",
-   "url": "https://arxiv.org/abs/2505.09662",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-08-14T04:00:00+00:00",
-   "summary": "arXiv:2505.09662v4 Announce Type: replace Abstract: Large Language Models (LLMs) have been shown to be highly persuasive, but when and why they outperform humans is still an open question. We compare the persuasiveness of two LLMs (Claude 3.5 Sonnet and DeepSeek v3) against humans who had incentives to persuade, using…",
-   "matched": [
-    "claude",
-    "deepseek",
-    "sonnet"
-   ]
-  },
-  {
-   "uid": "58d5d9ed71d6bf6d",
-   "title": "REHEARSE: Experiential Rehearsal for Verbal Confidence Calibration in Large Language Models",
-   "url": "https://arxiv.org/abs/2508.14390",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-08-14T04:00:00+00:00",
-   "summary": "arXiv:2508.14390v2 Announce Type: replace Abstract: Large language models (LLMs) often express verbal confidence that is poorly aligned with actual correctness, limiting their reliability in safety-critical applications. Existing prompt-based methods treat calibration largely as a one-shot inference problem, relying…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "1db4c68336717308",
-   "title": "Gradual Code-Switching as Inference-Time Cross-Lingual Representational Alignment for LLMs",
-   "url": "https://arxiv.org/abs/2510.05678",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-08-14T04:00:00+00:00",
-   "summary": "arXiv:2510.05678v2 Announce Type: replace Abstract: While large language models (LLMs) have achieved notable progress in multilingual settings, their performance remains uneven across languages as LLMs often rely on English-centric latent representations. In this work, we introduce code-switching in-context learning…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "128c1ee437fd76fe",
-   "title": "Agentic Aggregation for Parallel Scaling of Long-Horizon Agentic Tasks",
-   "url": "https://arxiv.org/abs/2604.11753",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-08-14T04:00:00+00:00",
-   "summary": "arXiv:2604.11753v2 Announce Type: replace Abstract: We study parallel test-time scaling for long-horizon agentic tasks such as agentic search and deep research, where multiple rollouts are generated in parallel and aggregated into a final response. While such scaling has proven effective for chain-of-thought…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "b011be9f204304c9",
-   "title": "One prompt is not enough: Instruction Sensitivity Undermines Embedding Model Evaluation",
-   "url": "https://arxiv.org/abs/2605.22544",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-08-14T04:00:00+00:00",
-   "summary": "arXiv:2605.22544v2 Announce Type: replace Abstract: Instruction embedding models have become common among state-of-the-art models, however are evaluated using a single prompt per task. The single-point evaluation ignores a main problem of the instruction-based approach namely: sensitivity to the phrasing of the…",
-   "matched": [
-    "embedding"
-   ]
-  },
-  {
-   "uid": "b36cd246503181f7",
-   "title": "Topics as Proxies for Sociodemographics: How Conversational Context Affects LLM Answers",
-   "url": "https://arxiv.org/abs/2606.02776",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-08-14T04:00:00+00:00",
-   "summary": "arXiv:2606.02776v5 Announce Type: replace Abstract: When large language models (LLMs) are used in high-stakes scenarios, such as legal, medical and financial advice, even a single conversation history is enough to drive differences in outcomes between users. Prior work has demonstrated that this results in outcome…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "52293dd8be4e7c81",
-   "title": "Token Reduction Is Not Cost Reduction",
-   "url": "https://arxiv.org/abs/2607.12161",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-08-14T04:00:00+00:00",
-   "summary": "arXiv:2607.12161v5 Announce Type: replace Abstract: Token-reduction tools for coding agents are often evaluated by the number of tokens they remove, but token count alone does not determine end-to-end inference cost. We evaluate three token-reduction approaches against an unmodified Claude Code baseline across…",
-   "matched": [
-    "claude",
-    "inference",
-    "claude code"
-   ]
   }
  ],
- "last_run": "2026-08-15T07:06:48.237367+00:00"
+ "last_run": "2026-08-15T17:44:58.687547+00:00"
 }
