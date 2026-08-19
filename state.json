@@ -1,5 +1,35 @@
 {
  "seen": [
+  "beba70d4ab3f675a",
+  "3e4e826efb5a6c8a",
+  "35801ff7284afa6c",
+  "5f1af9f4b9cdedce",
+  "9d5b01e7fd5e6684",
+  "bf9a2c3a90aa05cf",
+  "af184853467914ad",
+  "9d350608eccef8e4",
+  "ed8b5a9fbd4cbd1b",
+  "18f6258495a01da3",
+  "07739d6d8588939d",
+  "4e72d0602dc10e80",
+  "cb4c20c293663c10",
+  "34df32d8aa2984d2",
+  "84d6415c64780dd0",
+  "35018db19d88295f",
+  "d742917c7f8d81a8",
+  "86165fd726092360",
+  "3634f1159d440ab7",
+  "f300a5a31e58a6a1",
+  "5be3f43b4b7b0913",
+  "a5018c3ee0ddac8c",
+  "0721653a7cece3a4",
+  "1c801ace19f278c2",
+  "c16cbe54a28790cd",
+  "18411803847e416d",
+  "b282076573b6f385",
+  "9e5c0d56ba8ce26e",
+  "004c665babdf49db",
+  "beeb5d5ef7c0c2df",
   "3a9f572d412c4820",
   "e25aaf57fbebce4b",
   "6c16b0c4a6fd58e1",
@@ -8,8 +38,11 @@
   "b18b533efd4deb94",
   "ea5a06363cf60c96",
   "3fdc032c51306251",
+  "7e6c1cc769e393fb",
   "a8eed94f2597b091",
   "494d4e807a3e2af5",
+  "90a4dabd5c6e0e05",
+  "e09fd5b6ab949faf",
   "068e4e5ef878e252",
   "7686cb393b8c0309",
   "6f87a9dd43f67ad1",
@@ -86,42 +119,381 @@
   "7a7947476f0fe2cc",
   "af557a50ef2bb689",
   "4329453e3b6bb2b5",
-  "79983c6d71d238ba",
-  "65ee2f60e4ef0157",
-  "4bcc9c5f31857c1b",
-  "77d6b38af9a5724d",
-  "c3d3945e762de287",
-  "00748564cc903768",
-  "4f9aee7e8bc4577b",
-  "7841d698f492d8fc",
-  "c9e7eb4f0cc45784",
-  "9e907a7ca6a828b2",
-  "f39d180feb14480a",
-  "d8efad4e205e8560",
-  "eb2c85ff875b607a",
-  "c5cbdb0a5655838e",
-  "cfdd249e69d11a2e",
-  "46fe40b06525fa26",
-  "035e13abd8efb4c8",
-  "ff44fbf8c7dc3718",
-  "045a9633f112f1d4",
-  "f92763bd226bace9",
-  "4e0d995f38be1092",
-  "60dcd59856a7f502",
-  "6de1ad89aa10e25c",
-  "5c7568b20130ce88",
-  "e12b90076fab7177",
-  "e2881bf840c3dffc",
-  "ec53fde0e2f5d24b",
-  "7217347a049c9f05",
-  "de4935e1fb63ac7b",
-  "7c5da724c4f9a473",
-  "de8421abc9a0a1c5",
-  "8ab815d9237932b6",
-  "3e1b7153aba1f461",
-  "decc8cb1cf1577c5"
+  "79983c6d71d238ba"
  ],
  "items": [
+  {
+   "uid": "beba70d4ab3f675a",
+   "title": "Offering Zero Data Retention for frontier models",
+   "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-08-19T19:00:00+00:00",
+   "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "3e4e826efb5a6c8a",
+   "title": "akitaonrails/ai-memory",
+   "url": "https://github.com/akitaonrails/ai-memory",
+   "source": "GitHub Trending — Rust",
+   "category": "repo",
+   "published": "2026-08-19T17:50:23.958932+00:00",
+   "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions.…",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "35801ff7284afa6c",
+   "title": "cordiverse/cordis",
+   "url": "https://github.com/cordiverse/cordis",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-08-19T17:50:23.342711+00:00",
+   "summary": "Meta-Framework of Spatiotemporal Composability https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer Cordis A Meta-Framework of Spatiotemporal Composability. Cordis is under active development. The API is not yet stable and may change without notice. Paper: A Programming Paradigm for…",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "5f1af9f4b9cdedce",
+   "title": "unslothai/unsloth",
+   "url": "https://github.com/unslothai/unsloth",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-08-19T17:50:23.173316+00:00",
+   "summary": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. https://unsloth.ai/docs Unsloth is the first desktop app to run and train models. Features • Quickstart • Notebooks • Documentation ⚡ Get started Download the native Unsloth Desktop app for…",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "9d5b01e7fd5e6684",
+   "title": "jundot/omlx",
+   "url": "https://github.com/jundot/omlx",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-08-19T17:50:23.168799+00:00",
+   "summary": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar https://omlx.ai oMLX LLM inference, optimized for your Mac Continuous batching and tiered KV caching, managed directly from your menu bar. junkim.dot@gmail.com · https://omlx.ai/me Install · Quickstart ·…",
+   "matched": [
+    "llm",
+    "inference"
+   ]
+  },
+  {
+   "uid": "bf9a2c3a90aa05cf",
+   "title": "mukul975/Anthropic-Cybersecurity-Skills",
+   "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-08-19T17:50:23.160327+00:00",
+   "summary": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0…",
+   "matched": [
+    "claude",
+    "anthropic",
+    "gemini",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "af184853467914ad",
+   "title": "volcengine/OpenViking",
+   "url": "https://github.com/volcengine/OpenViking",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-08-19T17:50:23.159621+00:00",
+   "summary": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. https://openviking.ai/ OpenViking: The Context Database for AI Agents English / 中文 / 日本語 Website · Live Demo · GitHub · Issues · Docs 👋 Join our Community 📱 Lark Group · WeChat · Discord · X What is OpenViking OpenViking is an…",
+   "matched": [
+    "rag"
+   ]
+  },
+  {
+   "uid": "9d350608eccef8e4",
+   "title": "⭐ 10007 · awesome-dsh-plugin/awesome-dsh-plugin (Python)",
+   "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-19T17:49:37+00:00",
+   "summary": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "ed8b5a9fbd4cbd1b",
+   "title": "⭐ 75 · ustoppble/overclick (TypeScript)",
+   "url": "https://github.com/ustoppble/overclick",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-19T17:46:59+00:00",
+   "summary": "The open source task board where AI agents do the work. Self-hosted, MCP-native, zero data collection.",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "18f6258495a01da3",
+   "title": "⭐ 2071 · ccch1mneyyy/dsh-TUI (TypeScript)",
+   "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-19T17:37:59+00:00",
+   "summary": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。 DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "07739d6d8588939d",
+   "title": "⭐ 746 · 0xsline/awesome-deepseek-harness (Python)",
+   "url": "https://github.com/0xsline/awesome-deepseek-harness",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-19T17:30:03+00:00",
+   "summary": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "4e72d0602dc10e80",
+   "title": "⭐ 41 · openma-ai/Martty (Rust)",
+   "url": "https://github.com/openma-ai/Martty",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-19T17:17:37+00:00",
+   "summary": "deepseek-harness-tui before. Self-Improvement TUI Plugin of DeepSeek Harness. Everything Here Is Also A Plugin. dsh-tui",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "cb4c20c293663c10",
+   "title": "langfuse/langfuse v4.15.0",
+   "url": "https://github.com/langfuse/langfuse/releases/tag/v4.15.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-08-19T16:57:45+00:00",
+   "summary": "## What's Changed ### Features * feat(assistant): Improve sandbox tool rendering by @bezbac in https://github.com/langfuse/langfuse/pull/16305 * feat(trace): compact timeline behind a feature preview by @nkabardin in https://github.com/langfuse/langfuse/pull/16137 * feat(in-app-agent): Foundation to make in-app agent available in OSS (2nd try) by @LysanderKie in…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "34df32d8aa2984d2",
+   "title": "anthropics/anthropic-sdk-python v0.124.0",
+   "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.124.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-08-19T16:51:20+00:00",
+   "summary": "## 0.124.0 (2026-08-19) Full Changelog: [v0.123.0...v0.124.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.123.0...v0.124.0) ### Features * **api:** Files and Skills APIs are now GA; add computer use and browser use toolsets ([9a09e84](https://github.com/anthropics/anthropic-sdk-python/commit/9a09e84608944172088acf371e7584133ca19844))",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "84d6415c64780dd0",
+   "title": "⭐ 4862 · zhu1090093659/dsh-web-ui (TypeScript)",
+   "url": "https://github.com/zhu1090093659/dsh-web-ui",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-19T16:37:36+00:00",
+   "summary": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "35018db19d88295f",
+   "title": "⭐ 181 · agentpit-io/hunter-community (Python)",
+   "url": "https://github.com/agentpit-io/hunter-community",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-19T16:22:28+00:00",
+   "summary": "Hunter Community Edition · your private financial AI team · open-source self-hosted · powered by opencode + MCP + multi-agent · 15 min docker start",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "d742917c7f8d81a8",
+   "title": "AntLing’ve open-sourced 6 Base Model checkpoints for Ling-3.0-tiny & Ling-3.0-flash, covering pre-trained, mid-trained, and WSM-merged stages.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsqfmj/antlingve_opensourced_6_base_model_checkpoints/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-19T15:56:11+00:00",
+   "summary": "None has undergone post-training, giving researchers flexible starting points for continued pre-training, fine-tuning, and further research. Two key highlights: - They use WSM to replace LR decay with weighted checkpoint merging, making the training process better suited for continual pre-training while enabling…",
+   "matched": [
+    "fine-tuning"
+   ]
+  },
+  {
+   "uid": "86165fd726092360",
+   "title": "NVFP4 on VOLTA! Despite being built for Blackwell, I made four 2017 V100s run Qwen 3.8 NVFP4 natively and match my $6000 RTX 5090.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsq3zg/nvfp4_on_volta_despite_being_built_for_blackwell/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-19T15:44:29+00:00",
+   "summary": "Four Tesla V100s from 2017 matched my RTX 5090 on single-request Qwen 3.8 decode. Repo: https://github.com/dnv2003/v100-skinny https://i.redd.it/5ws2ak3uqckh1.gif The 5090 was not being held back. It ran NInfer , a specialist engine built to make this exact model as fast as possible on that GPU. (love this guys work)…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "3634f1159d440ab7",
+   "title": "Ornith-1.5 (397B [DeepSWE 56], 35B-A3B, 9B)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsou3a/ornith15_397b_deepswe_56_35ba3b_9b/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-19T14:58:07+00:00",
+   "summary": "Aloha! 🌺Introducing Ornith-1.5, a family of open-source LLMs spanning 9B Dense, 35B MoE, and 397B MoE, trained with self-improving strategies. It achieves state-of-the-art performance among open-source models of comparable size and delivers performance comparable to Claude Opus 4.8 across reasoning, agentic, and…",
+   "matched": [
+    "claude",
+    "opus",
+    "agentic"
+   ]
+  },
+  {
+   "uid": "f300a5a31e58a6a1",
+   "title": "⭐ 159 · Dominic789654/awesome-deepseek-harness (TypeScript)",
+   "url": "https://github.com/Dominic789654/awesome-deepseek-harness",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-19T14:35:55+00:00",
+   "summary": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
+   "matched": [
+    "deepseek",
+    "mcp"
+   ]
+  },
+  {
+   "uid": "5be3f43b4b7b0913",
+   "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+   "url": "https://huggingface.co/blog/LiquidAI/qad",
+   "source": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-08-19T13:48:49+00:00",
+   "summary": "",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "a5018c3ee0ddac8c",
+   "title": "ultralytics/ultralytics v8.4.123 — v8.4.123 - Accept existing depth dataset formats (#25859)",
+   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.123",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-08-19T13:46:52+00:00",
+   "summary": "## 🌟 Summary **Ultralytics 8.4.123 expands depth-estimation dataset compatibility, allowing standard scaled PNG and floating-point NPY depth maps to be used directly across training, NDJSON conversion, and Ultralytics Platform workflows.** 🚀 ## 📊 Key Changes - 🗂️ **Broader depth format support** - Accepts plain 16-bit grayscale PNG depth maps. - Adds support for floating-point `.npy` depth maps…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "0721653a7cece3a4",
+   "title": "anthropics/anthropic-sdk-python v0.123.0",
+   "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.123.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-08-19T13:31:54+00:00",
+   "summary": "## 0.123.0 (2026-08-18) Full Changelog: [v0.122.0...v0.123.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.122.0...v0.123.0) ### Features * **api:** additions to files and memory stores ([09ce187](https://github.com/anthropics/anthropic-sdk-python/commit/09ce187e1c21029d636534fbabc7dd328f037c68)) * **api:** updates to skill, files, and user profiles…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "1c801ace19f278c2",
+   "title": "ggml-org/llama.cpp b10502",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10502",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-08-19T13:26:32+00:00",
+   "summary": "ci : add attestation for signed release artifacts (#25933) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10502/llama-b10502-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "c16cbe54a28790cd",
+   "title": "⭐ 2670 · yetone/cumora (TypeScript)",
+   "url": "https://github.com/yetone/cumora",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-19T12:20:35+00:00",
+   "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "18411803847e416d",
+   "title": "langfuse/langfuse v4.14.0",
+   "url": "https://github.com/langfuse/langfuse/releases/tag/v4.14.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-08-19T11:24:18+00:00",
+   "summary": "## What's Changed ### Features * feat(web): mask customer IO content in PostHog session recordings by @nmtrang29 in https://github.com/langfuse/langfuse/pull/16244 * feat(v4-migration): track delay badge impressions and hovers by @nmtrang29 in https://github.com/langfuse/langfuse/pull/16260 * feat(scores): add chart view for the scores table by @wochinge in…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "b282076573b6f385",
+   "title": "Stop Anthropomorphisizing Intermediate Tokens: Qwen3.8 doesn't \"overthink\"",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsjcf7/stop_anthropomorphisizing_intermediate_tokens/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-19T11:09:16+00:00",
+   "summary": "Intermediate tokens, called thinking or reasoning actually are nothing like it. Humans do step-by-step reasoning leading to the conclusion. LLMs use intermediate traces to augment their prompt . This explains why sometimes the answer is very good but the reasoning is verbose. Flooding your context window or fighting…",
+   "matched": [
+    "context window"
+   ]
+  },
+  {
+   "uid": "9e5c0d56ba8ce26e",
+   "title": "huggingface/transformers v5.15.1 — Patch release: v5.15.1",
+   "url": "https://github.com/huggingface/transformers/releases/tag/v5.15.1",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-08-19T10:50:47+00:00",
+   "summary": "# Patch release v5.15.1 This patch most notably solves a few issues with DFlash and MTP candidate generators, as well as an issue where images could sometimes not be processed on accelerator if using Lanczos filter. It contains the following commits: - Fix DFlash candidate token device mismatch with device_map=\"auto\" (#47877) by @sywangyi and @Cyrilvallez - Align logit distributions for…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "004c665babdf49db",
+   "title": "Am I doing something wrong? Qwen 3.8 27B seems useless for agentic coding",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsinej/am_i_doing_something_wrong_qwen_38_27b_seems/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-19T10:32:34+00:00",
+   "summary": "I have been using local models on/off for like 2 years or so but never really used them extensively because the closed ones were always much better. Once Qwen 3.8 27B was released I decided to give it another serious try. I configured Cline and ZooCode as VSCode addons, installed a few MCP servers and added one skill.…",
+   "matched": [
+    "qwen",
+    "mcp",
+    "agentic"
+   ]
+  },
+  {
+   "uid": "beeb5d5ef7c0c2df",
+   "title": "ultralytics/ultralytics v8.4.122 — v8.4.122 - Use canonical PNG depth maps (#25858)",
+   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.122",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-08-19T10:01:51+00:00",
+   "summary": "## 🌟 Summary **v8.4.122 standardizes Ultralytics depth estimation around compact, self-describing 16-bit PNG depth maps**—simplifying the data pipeline and significantly reducing storage requirements. 🖼️📉 ## 📊 Key Changes - **Canonical depth format introduced:** Depth targets now use 16-bit PNG files with embedded metadata describing their meter range. - **Invalid pixels are clearly…",
+   "matched": [
+    "*"
+   ]
+  },
   {
    "uid": "3a9f572d412c4820",
    "title": "farion1231/cc-switch",
@@ -225,6 +597,18 @@
    ]
   },
   {
+   "uid": "7e6c1cc769e393fb",
+   "title": "Replit expands access to software creation with GPT-5.6 Luna",
+   "url": "https://openai.com/index/replit",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-08-19T07:00:00+00:00",
+   "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
    "uid": "a8eed94f2597b091",
    "title": "⭐ 140 · V1ki/dsh-plugin-subscriptions (TypeScript)",
    "url": "https://github.com/V1ki/dsh-plugin-subscriptions",
@@ -248,6 +632,30 @@
    "summary": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
    "matched": [
     "mcp"
+   ]
+  },
+  {
+   "uid": "90a4dabd5c6e0e05",
+   "title": "LENS: In-Context Search via Latent Evidence Exploration over Dynamic Raw Documents",
+   "url": "https://arxiv.org/abs/2608.16185",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-08-19T04:00:00+00:00",
+   "summary": "arXiv:2608.16185v2 Announce Type: replace Abstract: LLM agents increasingly answer questions over dynamic raw-document collections, where files may change before preprocessing, and relevant evidence (spans, sections, pages, or tables) is query-dependent. Existing retrieval-augmented approaches pre-materialize evidence…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "e09fd5b6ab949faf",
+   "title": "UrbanWorld2.0: A Multimodal Agentic Framework for Reality-Aligned 3D World Generation at City-Scale",
+   "url": "https://arxiv.org/abs/2511.18005",
+   "source": "arXiv cs.CV (Vision/Segmentation)",
+   "category": "paper",
+   "published": "2026-08-19T04:00:00+00:00",
+   "summary": "arXiv:2511.18005v3 Announce Type: replace Abstract: The automated generation of high-fidelity, city-scale 3D environments remains a formidable challenge with profound academic and industrial implications. However, existing methods struggle to achieve the necessary quality, fidelity, and scalability. To address this,…",
+   "matched": [
+    "agentic"
    ]
   },
   {
@@ -1184,408 +1592,7 @@
    "matched": [
     "agentic"
    ]
-  },
-  {
-   "uid": "65ee2f60e4ef0157",
-   "title": "Comprehensive framework for evaluation of deep neural networks in detection and quantification of lymphoma from PET/CT images: clinical insights, pitfalls, and observer agreement analyses",
-   "url": "https://arxiv.org/abs/2311.09614",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-19T04:00:00+00:00",
-   "summary": "arXiv:2311.09614v5 Announce Type: replace Abstract: This study addresses critical gaps in automated lymphoma segmentation from PET/CT images, focusing on issues often overlooked in existing literature. While deep learning has been applied for lymphoma lesion segmentation, few studies incorporate out-of-distribution…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "4bcc9c5f31857c1b",
-   "title": "Multi-Scale Spectral Attention Module-based Hyperspectral Segmentation in Autonomous Driving Scenarios",
-   "url": "https://arxiv.org/abs/2506.18682",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-19T04:00:00+00:00",
-   "summary": "arXiv:2506.18682v3 Announce Type: replace Abstract: Recent advances in autonomous driving (AD) have highlighted the potential of hyperspectral imaging (HSI) for enhanced environmental perception, particularly in challenging weather and lighting conditions. However, efficiently processing high-dimensional spectral data…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "77d6b38af9a5724d",
-   "title": "CKAA: Cross-subspace Knowledge Alignment and Aggregation for Robust Continual Learning",
-   "url": "https://arxiv.org/abs/2507.09471",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-19T04:00:00+00:00",
-   "summary": "arXiv:2507.09471v2 Announce Type: replace Abstract: Continual Learning (CL) empowers AI models to continuously learn from sequential task streams. Recently, parameter-efficient fine-tuning (PEFT)-based CL methods have garnered increasing attention due to their superior performance. They typically allocate a unique…",
-   "matched": [
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "c3d3945e762de287",
-   "title": "Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing",
-   "url": "https://arxiv.org/abs/2509.12040",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-19T04:00:00+00:00",
-   "summary": "arXiv:2509.12040v3 Announce Type: replace Abstract: Open-Vocabulary Remote Sensing Image Segmentation (OVRSIS), an emerging task that adapts Open-Vocabulary Segmentation (OVS) to the remote sensing (RS) domain, remains underexplored due to the absence of a unified evaluation benchmark and the domain gap between…",
-   "matched": [
-    "segmentation",
-    "remote sensing"
-   ]
-  },
-  {
-   "uid": "00748564cc903768",
-   "title": "Vision-Language Enhanced Foundation Model for Semi-Supervised Medical Image Segmentation",
-   "url": "https://arxiv.org/abs/2511.19759",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-19T04:00:00+00:00",
-   "summary": "arXiv:2511.19759v3 Announce Type: replace Abstract: Semi-supervised learning (SSL) has emerged as an efficient paradigm for medical image segmentation, reducing the reliance on extensive expert annotations. Vision-language models (VLMs) have demonstrated strong generalization and few-shot capabilities across diverse…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "4f9aee7e8bc4577b",
-   "title": "Low-Dose CT for Stroke Diagnosis: A Dual-Pipeline Deep Learning Framework for Portable Neuroimaging",
-   "url": "https://arxiv.org/abs/2603.26764",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-19T04:00:00+00:00",
-   "summary": "arXiv:2603.26764v2 Announce Type: replace Abstract: Portable CT scanners may support earlier stroke assessment, but reduced photon counts introduce noise that affects image quality and may alter automated classification. We compared direct classification of simulated low-dose slices with residual U-Net denoising…",
-   "matched": [
-    "u-net"
-   ]
-  },
-  {
-   "uid": "7841d698f492d8fc",
-   "title": "Live Interactive Training for Video Segmentation",
-   "url": "https://arxiv.org/abs/2603.26929",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-19T04:00:00+00:00",
-   "summary": "arXiv:2603.26929v2 Announce Type: replace Abstract: Interactive video segmentation often requires many user interventions for robust performance in challenging scenarios (e.g., occlusions, object separations, camouflage, etc.). Yet, even state-of-the-art models like SAM2 use corrections only for immediate fixes…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "c9e7eb4f0cc45784",
-   "title": "VISOR: Agentic Visual Retrieval-Augmented Generation via Iterative Search and Over-horizon Reasoning",
-   "url": "https://arxiv.org/abs/2604.09508",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-19T04:00:00+00:00",
-   "summary": "arXiv:2604.09508v3 Announce Type: replace Abstract: Visual Retrieval-Augmented Generation (VRAG) empowers Vision-Language Models to retrieve and reason over visually rich documents. To tackle complex queries requiring multi-step reasoning, agentic VRAG systems interleave reasoning with iterative retrieval. However,…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "9e907a7ca6a828b2",
-   "title": "SegWithU: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation",
-   "url": "https://arxiv.org/abs/2604.15271",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-19T04:00:00+00:00",
-   "summary": "arXiv:2604.15271v4 Announce Type: replace Abstract: Reliable uncertainty estimation is critical for medical image segmentation, where automated contours feed downstream quantification and clinical decision support. Many strong uncertainty methods require repeated inference, while efficient single-forward-pass…",
-   "matched": [
-    "inference",
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "f39d180feb14480a",
-   "title": "SAFE-Pruner: Semantic Attention-Guided Future-Aware Token Pruning for Efficient Vision-Language-Action Manipulation",
-   "url": "https://arxiv.org/abs/2605.29662",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-19T04:00:00+00:00",
-   "summary": "arXiv:2605.29662v3 Announce Type: replace Abstract: Real-time inference of vision-language-action (VLA) models is essential for robotic control. While visual token pruning has shown strong potential for accelerating inference, most existing methods mainly base pruning decisions on shallow-layer cues and risk…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "d8efad4e205e8560",
-   "title": "Seeing is Free, Speaking is Not: Uncovering the True Energy Bottleneck in Edge VLM Inference",
-   "url": "https://arxiv.org/abs/2607.09520",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-19T04:00:00+00:00",
-   "summary": "arXiv:2607.09520v2 Announce Type: replace Abstract: Vision-Language Models (VLMs) are the perceptual backbone of embodied AI, but their energy footprint on edge hardware remains poorly understood. Existing efficiency efforts focus predominantly on reducing visual tokens, implicitly treating visual processing as the…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "eb2c85ff875b607a",
-   "title": "GNM Head: A Generative aNthropometric Model of the human head",
-   "url": "https://arxiv.org/abs/2607.23687",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-19T04:00:00+00:00",
-   "summary": "arXiv:2607.23687v2 Announce Type: replace Abstract: Parametric models of the human head are essential tools traditionally used in computer vision and graphics for animation, rendering, and reconstruction. More recently, they serve as crucial conditioning signals within generative large vision models, allowing for…",
-   "matched": [
-    "computer vision"
-   ]
-  },
-  {
-   "uid": "c5cbdb0a5655838e",
-   "title": "SUMI: Scalable Unified Model for 3D Point Cloud Inference",
-   "url": "https://arxiv.org/abs/2608.08115",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-19T04:00:00+00:00",
-   "summary": "arXiv:2608.08115v2 Announce Type: replace Abstract: Point cloud completion commonly follows a coarse-to-fine paradigm, where a low-density coarse shape is first predicted and then upsampled to the target resolution. Although recent methods have improved global structure recovery, the fine stage often remains limited…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "cfdd249e69d11a2e",
-   "title": "A second-order theory of texture for depth from focus",
-   "url": "https://arxiv.org/abs/2608.10411",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-19T04:00:00+00:00",
-   "summary": "arXiv:2608.10411v2 Announce Type: replace Abstract: We present a theory of textured appearance of optically rough surfaces based on wave optics, emphasizing the role of texture for passive depth from focus. Our theory shows that even surfaces that traditional computer vision would consider textureless can produce…",
-   "matched": [
-    "computer vision"
-   ]
-  },
-  {
-   "uid": "46fe40b06525fa26",
-   "title": "Beyond Correctness: Benchmarking and Aligning Response Behaviors in Hybrid-Thinking MLLMs",
-   "url": "https://arxiv.org/abs/2608.12781",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-19T04:00:00+00:00",
-   "summary": "arXiv:2608.12781v2 Announce Type: replace Abstract: Hybrid-thinking multimodal large language models (MLLMs) allow a single model to alternate between deliberative thinking and latency-efficient non-thinking inference. Although these modes differ in reasoning budget, their delivered responses should satisfy the same…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "035e13abd8efb4c8",
-   "title": "NaviDC-OCR: Navigating Document Parsing Across Digital and Camera-Captured Documents",
-   "url": "https://arxiv.org/abs/2608.12898",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-19T04:00:00+00:00",
-   "summary": "arXiv:2608.12898v2 Announce Type: replace Abstract: Document parsing aims to transform unstructured documents into structured and machine-readable representations. Recent advances in Vision-Language Models (VLMs) have significantly advanced document parsing. However, existing approaches still face two major…",
-   "matched": [
-    "ocr"
-   ]
-  },
-  {
-   "uid": "ff44fbf8c7dc3718",
-   "title": "Qwen-Video-Edit: Instruction-Based Video Editing by Repurposing an Image Editing Model",
-   "url": "https://arxiv.org/abs/2608.14790",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-19T04:00:00+00:00",
-   "summary": "arXiv:2608.14790v2 Announce Type: replace Abstract: Instruction-based video editing is commonly built on video-pretrained generative backbones: a video diffusion transformer is adapted, at considerable cost, to condition on a source video and an editing instruction. In this report we explore a different route and show…",
-   "matched": [
-    "qwen"
-   ]
-  },
-  {
-   "uid": "045a9633f112f1d4",
-   "title": "Bootstrap Dynamic-Aware 3D Visual Representation for Scalable Robot Learning",
-   "url": "https://arxiv.org/abs/2512.00074",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-19T04:00:00+00:00",
-   "summary": "arXiv:2512.00074v4 Announce Type: replace-cross Abstract: Despite strong results on recognition and segmentation, current 3D visual pre-training methods often underperform on robotic manipulation. We attribute this gap to two factors: the lack of state-action-state dynamics modeling and the unnecessary redundancy of…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "f92763bd226bace9",
-   "title": "KAN We Flow? Advancing Robotic Manipulation with 3D Flow Matching via KAN & RWKV",
-   "url": "https://arxiv.org/abs/2602.01115",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-19T04:00:00+00:00",
-   "summary": "arXiv:2602.01115v3 Announce Type: replace-cross Abstract: Diffusion-based visuomotor policies excel at modeling action distributions but are inference-inefficient, since recursively denoising from noise to policy requires many steps and heavy UNet backbones, which hinders deployment on resource-constrained robots.…",
-   "matched": [
-    "inference",
-    "unet"
-   ]
-  },
-  {
-   "uid": "4e0d995f38be1092",
-   "title": "EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI",
-   "url": "https://arxiv.org/abs/2607.07459",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-19T04:00:00+00:00",
-   "summary": "arXiv:2607.07459v3 Announce Type: replace-cross Abstract: We present EmbodiedGen V2, a generative 3D world engine for building executable policy-ready environments for embodied intelligence. Sim-ready 3D asset generation has advanced rapidly, yet assembling such assets into policy-ready task environments remains…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "60dcd59856a7f502",
-   "title": "WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Efficient Autonomous Driving VLA",
-   "url": "https://arxiv.org/abs/2608.01035",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-19T04:00:00+00:00",
-   "summary": "arXiv:2608.01035v4 Announce Type: replace-cross Abstract: Vision-Language-Action (VLA) models have emerged as a prominent paradigm for end-to-end autonomous driving; however, their efficient deployment is severely constrained by high computational latency and exposure bias arising from sequential autoregressive…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "6de1ad89aa10e25c",
-   "title": "pydantic/pydantic-ai v2.32.0 — v2.32.0 (2026-08-18)",
-   "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.32.0",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-08-19T03:51:35+00:00",
-   "summary": "## What's Changed ### 🚀 Features * Suggest known model names for invalid identifiers by @dsfaccini in https://github.com/pydantic/pydantic-ai/pull/7325 * Support xAI attachment search lifecycle by @colesmcintosh in https://github.com/pydantic/pydantic-ai/pull/7156 * Surface OpenRouter web-search sources in `provider_details[\"annotations\"]` by @dsfaccini in…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "5c7568b20130ce88",
-   "title": "New midsize Qwen 3.8 model coming next week (hopefully) according to community manager!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs9zym/new_midsize_qwen_38_model_coming_next_week/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-08-19T02:44:37+00:00",
-   "summary": "Community manager mentioned this in the Qwen Ambassador Discord, put an X reaction on someone asking for 35B... and said We'll have a new midsize open weight model coming next week (hopfully), This midsize model won't provide early access due to the schedule Thinking it's going to be over 100B. Exciting!! submitted by…",
-   "matched": [
-    "qwen"
-   ]
-  },
-  {
-   "uid": "e12b90076fab7177",
-   "title": "I tested DFlash2 for Qwen3.8 27B on a 5090",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs43av/i_tested_dflash2_for_qwen38_27b_on_a_5090/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-08-18T22:26:53+00:00",
-   "summary": "Here's the DFlash2 announcement , and I was pretty excited for this after trying out DSpark on llama.cpp a few days ago and being somewhat disappointed that it wasn't really working. Anyways, I spent a while setting it up (you need to rebuild llama.cpp with pr #27342). Here's my config: -hf…",
-   "matched": [
-    "llama"
-   ]
-  },
-  {
-   "uid": "e2881bf840c3dffc",
-   "title": "ChatGPT Ads expands across Europe",
-   "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-   "source": "OpenAI News",
-   "category": "news",
-   "published": "2026-08-18T22:00:00+00:00",
-   "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "ec53fde0e2f5d24b",
-   "title": "Mojo🔥 is now open source",
-   "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
-   "source": "Simon Willison",
-   "category": "news",
-   "published": "2026-08-18T21:39:20+00:00",
-   "summary": "Mojo🔥 is now open source Mojo🔥 is now open source The Mojo programming language has been promising an open source release since May 2023 . Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under an Apache 2 license. When Mojo first…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "7217347a049c9f05",
-   "title": "DFlash 2 available for Qwen 3.8 27B and Muse Glimmer",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs2tsn/dflash_2_available_for_qwen_38_27b_and_muse/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-08-18T21:36:48+00:00",
-   "summary": "Apparently a second version of DFlash from the original authors of DFlash GGUF quants are already made available with an accompanying llama.cpp PR: https://github.com/ggml-org/llama.cpp/pull/27342 submitted by /u/rerri [link] [comments]",
-   "matched": [
-    "llama",
-    "qwen"
-   ]
-  },
-  {
-   "uid": "de4935e1fb63ac7b",
-   "title": "Claude Code teaching macOS to natively print to the HP Laser 1008a",
-   "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-   "source": "Hacker News (AI)",
-   "category": "news",
-   "published": "2026-08-18T21:14:21+00:00",
-   "summary": "Article URL: https://cdn.kuber.studio/chat/hp-laser-1008a-driver Comments URL: https://news.ycombinator.com/item?id=49352806 Points: 126 # Comments: 3",
-   "matched": [
-    "claude",
-    "claude code"
-   ]
-  },
-  {
-   "uid": "7c5da724c4f9a473",
-   "title": "anthropics/claude-agent-sdk-python v0.2.140",
-   "url": "https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.140",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-08-18T20:58:34+00:00",
-   "summary": "### New Features - **MCP 2.x support for in-process SDK MCP servers**: The SDK now supports `mcp` 2.x alongside 1.x (dependency widened to `mcp>=1.23.0,<3.0.0`). In-process servers are served over mcp's own in-memory transport instead of hand-rolled JSON-RPC dispatch, so hand-built `mcp.server.Server` instances now work at full fidelity — resources, prompts, and all result content types reach the…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "de8421abc9a0a1c5",
-   "title": "anthropics/claude-code v2.1.235",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.235",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-08-18T20:38:54+00:00",
-   "summary": "## What's changed - Added an optional `spellcheck` setting that underlines misspelled words in the prompt input as you type, using your installed `aspell`, `hunspell`, or `ispell` - Fixed whole-prompt-cache invalidation when a language server disconnected or reconnected mid-session - Fixed nested markdown list items misaligning at depth 3+ and added a hanging indent to wrapped list items in the…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "8ab815d9237932b6",
-   "title": "Alibaba's RISC-V CPU, XuanTie C950, Runs Qwen-3.8 27B at 30 tps",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs0wsl/alibabas_riscv_cpu_xuantie_c950_runs_qwen38_27b/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-08-18T20:24:39+00:00",
-   "summary": "Who needs GPUs? submitted by /u/DeltaSqueezer [link] [comments]",
-   "matched": [
-    "qwen"
-   ]
-  },
-  {
-   "uid": "3e1b7153aba1f461",
-   "title": "Strengthening democratic oversight in national security",
-   "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-   "source": "OpenAI News",
-   "category": "news",
-   "published": "2026-08-18T19:00:00+00:00",
-   "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "decc8cb1cf1577c5",
-   "title": "Ling-3.0 (BailingMoE3) lands in llama.cpp mainline - Quick benchmarks on Intel Arc B580",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrxoxy/ling30_bailingmoe3_lands_in_llamacpp_mainline/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-08-18T18:30:28+00:00",
-   "summary": "Finally llama.cpp now officially supports Ling-3.0! (Starting from build b10472 +) If you want to run them locally, bartowski has already released the GGUF imatrix quantizations for both models: - Ling-3.0-tiny (8B) - Ling-3.0-flash (127B) After quite a while, PR #26608 has officially been merged into master! There…",
-   "matched": [
-    "llama"
-   ]
   }
  ],
- "last_run": "2026-08-19T07:20:43.348553+00:00"
+ "last_run": "2026-08-19T17:50:37.987985+00:00"
 }
