@@ -1,5 +1,29 @@
 {
  "seen": [
+  "bb32fcd62c60a18e",
+  "c9fd137613014063",
+  "4e72d0602dc10e80",
+  "c0c30edf942064ef",
+  "84d6415c64780dd0",
+  "68e38ffb7e6c9e1a",
+  "11dee81a324ad510",
+  "07771ccef0bc3079",
+  "f300a5a31e58a6a1",
+  "9a6ee109ee6f29d1",
+  "cbb36f20d4855faa",
+  "542b6277bf6de5d8",
+  "7411645ca296187a",
+  "35018db19d88295f",
+  "17646ccd8f3eda02",
+  "3a26b92514eab0d8",
+  "3e9c67da44172da6",
+  "306a3af3db487b8d",
+  "a8eed94f2597b091",
+  "c16cbe54a28790cd",
+  "7b59432daeb8a971",
+  "07739d6d8588939d",
+  "3eb5eea7dd479bad",
+  "bc4b2a36f4ad3253",
   "aa1b610099ae6776",
   "c4008fb515454f27",
   "d4d7434ec434c586",
@@ -13,10 +37,14 @@
   "5ab00f46f4d81c49",
   "c029d82b8ebf5c22",
   "40a569aca2d59690",
+  "c793c4d568821f13",
   "e22fc60d501754d6",
   "6bd48481d940f678",
   "b4d4f07172902182",
   "21d385441d6524b7",
+  "6cc35504db4195e9",
+  "624df90c9acb5181",
+  "c6e353e18b049455",
   "095c377d5e0291e7",
   "8f29f7cb7e28c3e0",
   "ab699a4bdd8d4d4b",
@@ -91,37 +119,305 @@
   "77d6b38af9a5724d",
   "5725fc17ce986d04",
   "8fdd2391b845e656",
-  "b91f126eaf9b5e88",
-  "e20de0f9414c4635",
-  "7a135ede1a472d91",
-  "85cb737586172f4c",
-  "d73ca88a1a40cd04",
-  "728c1791ee09cb29",
-  "98abc56418ceff66",
-  "080c22abf35d922f",
-  "afc604092e773ab3",
-  "f4df5d73a41134f9",
-  "8ac58418c7f6ca03",
-  "e5c7495c3c66758f",
-  "5e6abde383ac523d",
-  "bd410f1e5938cf9b",
-  "ea77c59f2525cbde",
-  "73f17ff1e6b7e46e",
-  "264e1cceb49d05f1",
-  "e25aaf57fbebce4b",
-  "a310e99690a27a42",
-  "9d5b01e7fd5e6684",
-  "bf9a2c3a90aa05cf",
-  "af184853467914ad",
-  "ed8b5a9fbd4cbd1b",
-  "1a881c3b1e961537",
-  "9d350608eccef8e4",
-  "18f6258495a01da3",
-  "98bd8fa01d7d66b6",
-  "46a795466038356f",
-  "2609751c6f245bb8"
+  "b91f126eaf9b5e88"
  ],
  "items": [
+  {
+   "uid": "bb32fcd62c60a18e",
+   "title": "aaif-goose/goose",
+   "url": "https://github.com/aaif-goose/goose",
+   "source": "GitHub Trending — Rust",
+   "category": "repo",
+   "published": "2026-08-21T17:56:10.405652+00:00",
+   "summary": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM https://goose-docs.ai/ goose your native open source AI agent — desktop app, CLI, and API — for code, workflows, and everything in between goose is a general-purpose AI agent that runs on your machine.…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "c9fd137613014063",
+   "title": "pingdotgg/t3code",
+   "url": "https://github.com/pingdotgg/t3code",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-08-21T17:56:09.848770+00:00",
+   "summary": "https://t3.codes T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app ( iOS , Android ), web app and Electron-based desktop app . Works with your subscriptions on Claude Code, Codex, Cursor, Grok Build, and OpenCode. If they're set up…",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "4e72d0602dc10e80",
+   "title": "⭐ 46 · openma-ai/Martty (Rust)",
+   "url": "https://github.com/openma-ai/Martty",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-21T17:41:01+00:00",
+   "summary": "deepseek-harness-tui before. Self-Improvement TUI Plugin of DeepSeek Harness. Everything Here Is Also A Plugin. dsh-tui",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "c0c30edf942064ef",
+   "title": "⭐ 134 · bradeGithub/DSH-Plugins-Marketplace (JavaScript)",
+   "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-21T17:20:46+00:00",
+   "summary": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "84d6415c64780dd0",
+   "title": "⭐ 5409 · zhu1090093659/dsh-web-ui (TypeScript)",
+   "url": "https://github.com/zhu1090093659/dsh-web-ui",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-21T16:39:34+00:00",
+   "summary": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "68e38ffb7e6c9e1a",
+   "title": "Stop Making TUIs",
+   "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-08-21T16:07:32+00:00",
+   "summary": "Stop Making TUIs Thomas Ptacek advocates for building real native user interfaces for even the smallest of personal tools, because coding agents have reduced the cost of getting a usable-enough GUI up and running to almost nothing. I wrote about my vibe-coded bandwidth and GPU monitoring macOS task bar apps back in…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "11dee81a324ad510",
+   "title": "Quoting Matt Webb",
+   "url": "https://simonwillison.net/2026/Aug/21/matt-webb/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-08-21T15:06:26+00:00",
+   "summary": "After I released version 1.0, I figured I would have to do the rotations myself. So I sat down with ChatGPT and I didn’t get it to write the code, but I got it to educate me. With a patient, interactive tutor, I was able to finally do what I hadn’t by reading books and asking mathematician friends – I learnt how to…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "07771ccef0bc3079",
+   "title": "⭐ 168 · ZSeven-W/dsh-ios (TypeScript)",
+   "url": "https://github.com/ZSeven-W/dsh-ios",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-21T14:50:37+00:00",
+   "summary": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
+   "matched": [
+    "deepseek",
+    "ocr"
+   ]
+  },
+  {
+   "uid": "f300a5a31e58a6a1",
+   "title": "⭐ 174 · Dominic789654/awesome-deepseek-harness (TypeScript)",
+   "url": "https://github.com/Dominic789654/awesome-deepseek-harness",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-21T14:43:03+00:00",
+   "summary": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
+   "matched": [
+    "deepseek",
+    "mcp"
+   ]
+  },
+  {
+   "uid": "9a6ee109ee6f29d1",
+   "title": "ultralytics/ultralytics v8.4.126 — v8.4.126 - Make restricted checkpoint loading thread-safe and 40% faster, simplify RLE prior (#25885)",
+   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.126",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-08-21T14:14:00+00:00",
+   "summary": "## 🌟 Summary **v8.4.126 makes restricted checkpoint loading safer and up to 40% faster in concurrent environments, while simplifying RLE loss calculations and preserving backward compatibility.** ## 📊 Key Changes - 🔒 **Thread-safe restricted checkpoint loading** - Fixed a race condition when multiple threads loaded PyTorch checkpoints with restricted loading enabled. - The shared allow-list is…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "cbb36f20d4855faa",
+   "title": "⭐ 608 · Electricitysheep/dsh-handbook (HTML)",
+   "url": "https://github.com/Electricitysheep/dsh-handbook",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-21T13:51:12+00:00",
+   "summary": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "542b6277bf6de5d8",
+   "title": "DeepSeek Harness v0.1.1 released",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vugyfe/deepseek_harness_v011_released/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-21T13:51:00+00:00",
+   "summary": "https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.1-rc.1 The DeepSeek adapter adds the multimodal visual understanding model DeepSeek-V4-Flash-Vision-Exp. It also supports configuring native image requests. Commands such as /goal and /plan can accept text and image input, and the @ menu can…",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "7411645ca296187a",
+   "title": "Qwen 3.8 27b is strong even at Q3_xxs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vugryn/qwen_38_27b_is_strong_even_at_q3_xxs/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-21T13:43:39+00:00",
+   "summary": "So usually I avoid Q3 quants because I have had bad experiences with it, models were usually too degraded, so the smallest I normally do is Q4, since I only have rtx 4060 ti 16gb. But since there hasn't been a 35b-3ab released yet, I had to try it. I don't use LLMs in agentic workflows, just on Textgen since I'm not a…",
+   "matched": [
+    "qwen",
+    "agentic"
+   ]
+  },
+  {
+   "uid": "35018db19d88295f",
+   "title": "⭐ 223 · agentpit-io/hunter-community (Python)",
+   "url": "https://github.com/agentpit-io/hunter-community",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-21T12:41:34+00:00",
+   "summary": "Hunter Community Edition · your private financial AI team · open-source self-hosted · powered by opencode + MCP + multi-agent · 15 min docker start",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "17646ccd8f3eda02",
+   "title": "Buying a V100/older NVIDIA GPU? Run this to check for older memory issues",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuf4pb/buying_a_v100older_nvidia_gpu_run_this_to_check/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-21T12:34:49+00:00",
+   "summary": "I recently bought a 32GB V100 off eBay and thought I was all set with rudimentary tests showing zero issues. But then I started seeing weird VRAM-related errors in llama.cpp. I sic'ed Claude on it, to find that ECC was disabled and that can hide small RAM issues. I believe the aggregate ECC error counter can also be…",
+   "matched": [
+    "claude",
+    "llama"
+   ]
+  },
+  {
+   "uid": "3a26b92514eab0d8",
+   "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+   "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+   "source": "Google DeepMind Blog",
+   "category": "news",
+   "published": "2026-08-21T11:59:48+00:00",
+   "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "3e9c67da44172da6",
+   "title": "ultralytics/ultralytics v8.4.125 — v8.4.125 - Speed up initial model loading (#25883)",
+   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.125",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-08-21T10:26:05+00:00",
+   "summary": "## 🌟 Summary **Ultralytics 8.4.125 makes YOLO26 model startup significantly faster—up to 46% faster in fresh Python processes—while improving dependency loading and documentation consistency.** 🚀 ## 📊 Key Changes - ⚡ **Faster initial model loading** *(PR #25883 by @pderrenger)*: - TorchVision transforms are now imported only when a checkpoint actually contains them. - Matplotlib is loaded only…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "306a3af3db487b8d",
+   "title": "Ornith-1.5-35B-A3B-NInfer - 250 tok/s, 5-8k prefill, 5090",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuce59/ornith1535ba3bninfer_250_toks_58k_prefill_5090/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-21T10:21:21+00:00",
+   "summary": "I tried this model yesterday, and it felt to me like the best one I've tried for a local model for interactive use; the responses and reasoning are very fast, and it actually performs agentic tasks well. The speed is phenomenal. I am running this on Ninfer for Windows - https://github.com/natpate/ninfer-windows…",
+   "matched": [
+    "agentic"
+   ]
+  },
+  {
+   "uid": "a8eed94f2597b091",
+   "title": "⭐ 221 · V1ki/dsh-plugin-subscriptions (TypeScript)",
+   "url": "https://github.com/V1ki/dsh-plugin-subscriptions",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-21T09:52:58+00:00",
+   "summary": "Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys",
+   "matched": [
+    "claude",
+    "deepseek",
+    "llm"
+   ]
+  },
+  {
+   "uid": "c16cbe54a28790cd",
+   "title": "⭐ 2855 · yetone/cumora (TypeScript)",
+   "url": "https://github.com/yetone/cumora",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-21T09:52:33+00:00",
+   "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "7b59432daeb8a971",
+   "title": "I got fed up with locked-down autocomplete, so I forked Continue and stripped it down to just tab-completion. Any model, no subscription and no remote telemetry",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vubpn4/i_got_fed_up_with_lockeddown_autocomplete_so_i/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-21T09:45:18+00:00",
+   "summary": "I kept running into the same wall. Every agentic coding plugin ships an autocomplete, and almost all of them lock it down — no model choice, or a subscription, or both. I don't want a chat panel, I don't want an agent rewriting my repo. I want ghost text that finishes the line I'm typing, from a model I pick. So I…",
+   "matched": [
+    "agentic"
+   ]
+  },
+  {
+   "uid": "07739d6d8588939d",
+   "title": "⭐ 791 · 0xsline/awesome-deepseek-harness (Python)",
+   "url": "https://github.com/0xsline/awesome-deepseek-harness",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-21T09:34:05+00:00",
+   "summary": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "3eb5eea7dd479bad",
+   "title": "ggml-org/llama.cpp b10549",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10549",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-08-21T09:23:07+00:00",
+   "summary": "TP: enable tensor split for LFM2/LFM2MOE (#26993) Assisted-by: deepseek-v4-flash **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10549/llama-b10549-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "bc4b2a36f4ad3253",
+   "title": "DeepSeek-V4-Flash-Vision-Exp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vubb20/deepseekv4flashvisionexp/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-21T09:22:09+00:00",
+   "summary": "submitted by /u/Xhehab_ [link] [comments]",
+   "matched": [
+    "deepseek"
+   ]
+  },
   {
    "uid": "aa1b610099ae6776",
    "title": "yvgude/lean-ctx",
@@ -287,6 +583,18 @@
    ]
   },
   {
+   "uid": "c793c4d568821f13",
+   "title": "Qwen3.8-27B at 262K context on a Strix Halo + RTX 3090 Ti: 9.5 -> 153 tok/s, and it beats a dual-3090 vLLM box on HumanEval",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vu7yce/qwen3827b_at_262k_context_on_a_strix_halo_rtx/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-21T06:06:07+00:00",
+   "summary": "Spent a while treating layer placement, KV format and llama.cpp itself as experimental variables. 159 logged experiments. Numbers first, caveats after. Hardware: AMD Ryzen AI MAX+ 395 (Strix Halo, 128 GB unified) + RTX 3090 Ti on an eGPU link. One llama.cpp process, AMD on Vulkan, NVIDIA on CUDA, one 27B model split…",
+   "matched": [
+    "llama"
+   ]
+  },
+  {
    "uid": "e22fc60d501754d6",
    "title": "langfuse/langfuse v4.16.0",
    "url": "https://github.com/langfuse/langfuse/releases/tag/v4.16.0",
@@ -332,6 +640,42 @@
    "summary": "DeepSeek Harness session cost meter plugin: session/daily cost, budget, history, OpenCode Go quota, official & custom-provider balance, Codex-like token heatmap, peak/off-peak pricing with pre-switch popup & system-notification alerts, official price sync, 90+ model pricing catalog, Coding Plan…",
    "matched": [
     "deepseek"
+   ]
+  },
+  {
+   "uid": "6cc35504db4195e9",
+   "title": "New stealth model Ox Alpha look like glm or mimo new model",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vu620d/new_stealth_model_ox_alpha_look_like_glm_or_mimo/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-21T04:24:18+00:00",
+   "summary": "https://preview.redd.it/stgzmbpgnnkh1.jpg?width=2179 format=pjpg auto=webp s=19a4fd0e1786cbcac0967e1bf1ec4898447e989a https://preview.redd.it/paub9gylnnkh1.png?width=680 format=png auto=webp s=c13efb53356b1b7e7826aece96914cad9252240c Ox Alpha is a frontier model built for efficient coding, sustained agentic work, and…",
+   "matched": [
+    "agentic"
+   ]
+  },
+  {
+   "uid": "624df90c9acb5181",
+   "title": "Compress and Forget: bitsandbytes Quantization Amplifies Proactive Interference in LLMs",
+   "url": "https://arxiv.org/abs/2608.18578",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-08-21T04:00:00+00:00",
+   "summary": "arXiv:2608.18578v2 Announce Type: replace Abstract: Proactive interference (PI) is a documented failure mode in large language models in which retrieval of a repeatedly overwritten value degrades as prior overwrites accumulate, mirroring a classical phenomenon in human working memory. Post-training quantization (PTQ)…",
+   "matched": [
+    "quantization"
+   ]
+  },
+  {
+   "uid": "c6e353e18b049455",
+   "title": "Grading the Graders: Verification Autonomy Levels (L0-L5) for LLM Reasoning",
+   "url": "https://arxiv.org/abs/2608.19009",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-08-21T04:00:00+00:00",
+   "summary": "arXiv:2608.19009v2 Announce Type: replace Abstract: Large language models (LLMs) are increasingly paired with verifiers (step checkers, self-consistency filters, tool-based fact checkers, formal proof assistants) that claim to detect the model's errors. Yet the verification literature uses the word \"level\" to mean at…",
+   "matched": [
+    "llm"
    ]
   },
   {
@@ -1243,348 +1587,7 @@
    "matched": [
     "inference"
    ]
-  },
-  {
-   "uid": "e20de0f9414c4635",
-   "title": "Zoom-IQA: Image Quality Assessment with Reliable Region-Aware Reasoning",
-   "url": "https://arxiv.org/abs/2601.02918",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-21T04:00:00+00:00",
-   "summary": "arXiv:2601.02918v4 Announce Type: replace Abstract: Image Quality Assessment (IQA) is a long-standing problem in computer vision. Previous methods typically focus on predicting numerical scores without explanation or providing low-level descriptions lacking precise scores. Recent reasoning-based vision language models…",
-   "matched": [
-    "computer vision"
-   ]
-  },
-  {
-   "uid": "7a135ede1a472d91",
-   "title": "VISD: Enhancing Video Reasoning via Structured Self-Distillation",
-   "url": "https://arxiv.org/abs/2605.06094",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-08-21T04:00:00+00:00",
-   "summary": "arXiv:2605.06094v5 Announce Type: replace Abstract: Training VideoLLMs for complex reasoning remains challenging due to sparse sequence level rewards and the lack of fine grained credit assignment over long, temporally grounded reasoning trajectories. While reinforcement learning with verifiable rewards (RLVR)…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "85cb737586172f4c",
-   "title": "ggml-org/llama.cpp b10545",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10545",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-08-21T03:49:10+00:00",
-   "summary": "metal : clamp K extent in tensor API mat-mat kernel for K not a multiple of 32 (#27450) The Tensor API mat-mat path of kernel_mul_mm (GGML_METAL_HAS_TENSOR) fed a static K=32 tile to the matmul2d op on every iteration. On the last, partial K tile (ne00 % 32 != 0) the src1 slice extends past the K extent of the tensor, and the op reads those out-of-bounds elements (undefined behavior per the MSL…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "d73ca88a1a40cd04",
-   "title": "ggml-org/llama.cpp b10541",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10541",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-08-21T03:26:59+00:00",
-   "summary": "mtmd: add --mmproj-device argument (#23255) * feat: add --mmproj-device arg & backwards compatible MTMD_BACKEND_DEVICE env var * feat: load mmproj device backend immediately, add -mmdev shortflag * fix: its a pointer now get the name * clean up * gen docs * nits --------- Co-authored-by: Xuan Son Nguyen **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "728c1791ee09cb29",
-   "title": "ggml-org/llama.cpp b10539",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10539",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-08-21T03:04:13+00:00",
-   "summary": "vulkan: FA MMQ should use fp32 for Q quantization calculations (#27413) Codex found that qd could be a denorm and 1/qd would overflow. **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10539/llama-b10539-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "98abc56418ceff66",
-   "title": "pydantic/pydantic-ai v2.32.2 — v2.32.2 (2026-08-20)",
-   "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.32.2",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-08-21T02:56:32+00:00",
-   "summary": "## What's Changed ### 🐛 Bug Fixes * Await async callable instances in `pydantic_evals` tasks and the `evaluate` decorator by @pydanty[bot] in https://github.com/pydantic/pydantic-ai/pull/7535 * Fix `RunContext.cancel()` in realtime sessions by @adtyavrdhn in https://github.com/pydantic/pydantic-ai/pull/7528 * Recognize `m.youtube.com` URLs in `VideoUrl` by @uczltw6 in…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "080c22abf35d922f",
-   "title": "ggml-org/llama.cpp b10538",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10538",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-08-21T02:42:57+00:00",
-   "summary": "metal : dequant kv cache only for large batches (#27438) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10538/llama-b10538-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "afc604092e773ab3",
-   "title": "ggml-org/llama.cpp b10537",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10537",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-08-21T02:22:19+00:00",
-   "summary": "CI: Use LLVM's OpenMP over MSVC_DEBUG_non_redist on Windows (#26678) * CI: Use LLVM's OpenMP over MSFT_DEBUG_non_redist on Windows Currently, we ship the non-redist debug version of microsoft's libomp. This PR changes this to official LLVM's release, also packaging the license as needed. * Remove LLVM SHA from job name to increase legibility * Add temp validations to CI * Revert \"Add temp…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "f4df5d73a41134f9",
-   "title": "Qwen 3.8 27b - PI AGENT vs OPENCODE",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vu0u2v/qwen_38_27b_pi_agent_vs_opencode/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-08-21T00:19:37+00:00",
-   "summary": "https://www.reddit.com/r/LocalLLaMA/comments/1j7r47l/i_just_made_an_animation_of_a_ball_bouncing/ This post inspired me to make that test after a year ;) That is one of my many tests I make comparing output quality. What is more interesting using a PI Agent results are much better than an Opencode using a Qwen 3.8 27b…",
-   "matched": [
-    "qwen"
-   ]
-  },
-  {
-   "uid": "8ac58418c7f6ca03",
-   "title": "ChatGPT search now uses the site:operator at scale",
-   "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
-   "source": "Simon Willison",
-   "category": "news",
-   "published": "2026-08-20T23:57:32+00:00",
-   "summary": "ChatGPT search now uses the site:operator at scale Promptwatch is part of the emerging \"GEO\" space, for Generative Engine Optimization - the chatbot version of SEO, where companies offer tools and consulting to help your site increase its presence in replies to prompts inside tools like ChatGPT. The Promptwatch…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "e5c7495c3c66758f",
-   "title": "anthropics/claude-agent-sdk-python v0.2.143",
-   "url": "https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.143",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-08-20T20:48:58+00:00",
-   "summary": "### Internal/Other Changes - Updated bundled Claude CLI to version 2.1.238 --- **PyPI:** https://pypi.org/project/claude-agent-sdk/0.2.143/ ```bash pip install claude-agent-sdk==0.2.143 ```",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "5e6abde383ac523d",
-   "title": "anthropics/claude-code v2.1.238",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.238",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-08-20T20:33:51+00:00",
-   "summary": "## What's changed - Added a `keybindingFlavor` setting: set it to `\"readline\"` to make Ctrl+W in the prompt delete back to the previous whitespace, as in Bash; the default (`\"classic\"`) is unchanged - Plugin marketplaces: `headersHelper` on a url marketplace or a catalog entry runs a command that mints HTTP headers (e.g. a short-lived token) for catalog and same-origin archive fetches - A catalog…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "bd410f1e5938cf9b",
-   "title": "I pushed Qwen3.8-27B to 381 tps for a single request on a RTX 3090",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtup5s/i_pushed_qwen3827b_to_381_tps_for_a_single/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-08-20T20:15:04+00:00",
-   "summary": "Four days ago I released a hyper-optimized Qwen3.8-27B inference engine for an RTX 3090 (82 tps single request, 672 peak). Since then it went to ~114, then ~138 tps single-user with DFlash2 drafting and lookup-augmented drafting. Today it's ~133 tps on real chat prompts, 382 tps when the model reproduces its own…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "ea77c59f2525cbde",
-   "title": "anthropics/anthropic-sdk-python v1.0.0",
-   "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.0.0",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-08-20T19:58:48+00:00",
-   "summary": "## 1.0.0 (2026-08-20) Full Changelog: [v0.125.0...v1.0.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.125.0...v1.0.0) ### ⚠ BREAKING CHANGES * **client:** upgrade to httpx2 and some minor breaking changes. See MIGRATION.md for details ### Features * **client:** upgrade to httpx2 and some minor breaking changes. See MIGRATION.md for details…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "73f17ff1e6b7e46e",
-   "title": "NVIDIA dropped an NVIDIA-hosted CUDA MCP for AI-assisted CUDA operations, such as searching official, up-to-date documentation, writing optimized GPU code, and analyzing performance data",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vttie3/nvidia_dropped_an_nvidiahosted_cuda_mcp_for/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-08-20T19:31:44+00:00",
-   "summary": "submitted by /u/swagonflyyyy [link] [comments]",
-   "matched": [
-    "mcp"
-   ]
-  },
-  {
-   "uid": "264e1cceb49d05f1",
-   "title": "Ladies and gentlemen I present to you Qwen3.8 27b 1bit brain damage quant",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtr3h0/ladies_and_gentlemen_i_present_to_you_qwen38_27b/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-08-20T18:08:26+00:00",
-   "summary": "I wanted to just test the unsloth 1bit quant of qwen 3.8 27b as I have just 8gb vram and ngl it gave me a good laugh submitted by /u/Ok-Health-7096 [link] [comments]",
-   "matched": [
-    "qwen"
-   ]
-  },
-  {
-   "uid": "e25aaf57fbebce4b",
-   "title": "jlcodes99/cockpit-tools",
-   "url": "https://github.com/jlcodes99/cockpit-tools",
-   "source": "GitHub Trending — Rust",
-   "category": "repo",
-   "published": "2026-08-20T17:56:13.736770+00:00",
-   "summary": "🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up…",
-   "matched": [
-    "gemini"
-   ]
-  },
-  {
-   "uid": "a310e99690a27a42",
-   "title": "genlayerlabs/genlayer-project-boilerplate",
-   "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
-   "source": "GitHub Trending — TypeScript",
-   "category": "repo",
-   "published": "2026-08-20T17:56:13.221763+00:00",
-   "summary": "Sample GenLayer project About This project includes the boilerplate code for a GenLayer use case implementation, specifically a football bets game. What's included An example intelligent contract (Football Bets) with web access and LLM integration Direct mode tests — fast, in-memory unit tests with web/LLM mocking…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "9d5b01e7fd5e6684",
-   "title": "jundot/omlx",
-   "url": "https://github.com/jundot/omlx",
-   "source": "GitHub Trending — Python",
-   "category": "repo",
-   "published": "2026-08-20T17:56:12.766097+00:00",
-   "summary": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar https://omlx.ai oMLX LLM inference, optimized for your Mac Continuous batching and tiered KV caching, managed directly from your menu bar. junkim.dot@gmail.com · https://omlx.ai/me Install · Quickstart ·…",
-   "matched": [
-    "llm",
-    "inference"
-   ]
-  },
-  {
-   "uid": "bf9a2c3a90aa05cf",
-   "title": "mukul975/Anthropic-Cybersecurity-Skills",
-   "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-   "source": "GitHub Trending — Python",
-   "category": "repo",
-   "published": "2026-08-20T17:56:12.764319+00:00",
-   "summary": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0…",
-   "matched": [
-    "claude",
-    "anthropic",
-    "gemini",
-    "claude code"
-   ]
-  },
-  {
-   "uid": "af184853467914ad",
-   "title": "volcengine/OpenViking",
-   "url": "https://github.com/volcengine/OpenViking",
-   "source": "GitHub Trending — Python",
-   "category": "repo",
-   "published": "2026-08-20T17:56:12.763187+00:00",
-   "summary": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. https://openviking.ai/ OpenViking: The Context Database for AI Agents English / 中文 / 日本語 Website · Live Demo · GitHub · Issues · Docs 👋 Join our Community 📱 Lark Group · WeChat · Discord · X What is OpenViking OpenViking is an…",
-   "matched": [
-    "rag"
-   ]
-  },
-  {
-   "uid": "ed8b5a9fbd4cbd1b",
-   "title": "⭐ 81 · ustoppble/overclick (TypeScript)",
-   "url": "https://github.com/ustoppble/overclick",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-08-20T17:45:57+00:00",
-   "summary": "The open source task board where AI agents do the work. Self-hosted, MCP-native, zero data collection.",
-   "matched": [
-    "mcp"
-   ]
-  },
-  {
-   "uid": "1a881c3b1e961537",
-   "title": "ggml-org/llama.cpp b10517",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10517",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-08-20T17:43:32+00:00",
-   "summary": "vulkan : dequant q8_0 KV once in coopmat1 (#25494) * vulkan : dequant q8_0 KV once in coopmat1 Assisted-by: Claude (Opus 4.8) * vulkan : fall back instead of aborting when FA scratch exceeds maxStorageBufferRange * vulkan : require KV-cache layout in FA dequant path Assisted-by: Claude (Opus 4.8) * vulkan : skip FA dequant path on coopmat2 Assisted-by: Claude (Opus 4.8) * tests : add…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "9d350608eccef8e4",
-   "title": "⭐ 10603 · awesome-dsh-plugin/awesome-dsh-plugin (Python)",
-   "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-08-20T17:28:16+00:00",
-   "summary": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-   "matched": [
-    "deepseek"
-   ]
-  },
-  {
-   "uid": "18f6258495a01da3",
-   "title": "⭐ 2179 · ccch1mneyyy/dsh-TUI (TypeScript)",
-   "url": "https://github.com/ccch1mneyyy/dsh-TUI",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-08-20T17:20:04+00:00",
-   "summary": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。 DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
-   "matched": [
-    "claude",
-    "claude code"
-   ]
-  },
-  {
-   "uid": "98bd8fa01d7d66b6",
-   "title": "unslothai/unsloth v0.1.801-beta — Auto compaction (preview) + LAN Remote Access",
-   "url": "https://github.com/unslothai/unsloth/releases/tag/v0.1.801-beta",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-08-20T16:58:37+00:00",
-   "summary": "Thanks for the support for Qwen3.8-27B and Unsloth Desktop last week! For this release, we merged 200+ PRs to introduce many new features, fixes including: * **Auto Compaction (Experimental)** for longer chats beyond context limits * **Remote & LAN Access (Preview)** for easy network access without Cloudflare links * **Faster Chat** - Improved streaming performance, reduced UI lag, and smoother…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "46a795466038356f",
-   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-   "source": "Hugging Face Blog",
-   "category": "news",
-   "published": "2026-08-20T16:52:57+00:00",
-   "summary": "",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "2609751c6f245bb8",
-   "title": "Getting better at coding doesn't make a model better at everything else",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtoqr9/getting_better_at_coding_doesnt_make_a_model/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-08-20T16:43:50+00:00",
-   "summary": "A majority of users in this sub use LLMs for coding/agentic tasks and I see why a lot of value is put into them but many try to say Well coding has improved therefore it can just use tool calling and/or just look up what the user needs if there's a degradation for general knowledge/reasoning and that's just not the…",
-   "matched": [
-    "agentic"
-   ]
   }
  ],
- "last_run": "2026-08-21T07:23:51.794871+00:00"
+ "last_run": "2026-08-21T17:56:26.534810+00:00"
 }
