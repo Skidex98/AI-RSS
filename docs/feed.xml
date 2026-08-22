@@ -5,8 +5,98 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-08-22T07:09:28Z</updated>
+  <updated>2026-08-22T17:45:55Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10586 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10586"/>
+    <id>urn:uuid:d658804a02adbc14</id>
+    <updated>2026-08-22T16:03:58Z</updated>
+    <published>2026-08-22T16:03:58Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;mtmd: use ggml_rope_set_offset (#27521) * mtmd: use ggml_rope_set_offset * add comment **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10586/llama-b10586-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10586"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 More than just code review</title>
+    <link href="https://simonwillison.net/2026/Aug/22/more-than-just-code-review/"/>
+    <id>urn:uuid:83a3b544708f7a70</id>
+    <updated>2026-08-22T15:56:54Z</updated>
+    <published>2026-08-22T15:56:54Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Simon Willison&lt;/p&gt;&lt;p&gt;The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way. Sometimes this involves reviewing every line of code they have written, but there are other ways to…&lt;/p&gt;&lt;p&gt;&lt;a href="https://simonwillison.net/2026/Aug/22/more-than-just-code-review/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10585 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10585"/>
+    <id>urn:uuid:4f15ed028792cb71</id>
+    <updated>2026-08-22T15:40:46Z</updated>
+    <published>2026-08-22T15:40:46Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;common: add json.h abstraction (#27511) * add common/json * migrate common * adapt jinja * migrate server * big wip * migrate tests * wip * revert some excessive changes * wip * wip 2 * revert redundant changes * fix server crash * various fixes * fix ci * harden a bit * clean up * rm json-shim * add some comments * rm redundant decl **Website:** - **Attestations:** - **macOS/iOS:** - [macOS…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10585"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10584 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10584"/>
+    <id>urn:uuid:14f2f22c04377493</id>
+    <updated>2026-08-22T15:06:15Z</updated>
+    <published>2026-08-22T15:06:15Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;fit: also take into account n_streams (#27496) * fit: also take into account n_streams * server: make the draft context follow the target context With a non-unified KV cache the target context now holds n_ctx_train tokens per sequence, while the draft context was still created with n_ctx = 0 and fell back to n_ctx_train / n_streams per sequence. A slot filled beyond that point makes the draft…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10584"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 anthropics/claude-code v2.1.240</title>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.240"/>
+    <id>urn:uuid:22984f00f77d64ed</id>
+    <updated>2026-08-22T14:45:30Z</updated>
+    <published>2026-08-22T14:45:30Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's changed - Bug fixes and reliability improvements&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.240"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 154 · qiannianhuanxiang/DSHA (Java)</title>
+    <link href="https://github.com/qiannianhuanxiang/DSHA"/>
+    <id>urn:uuid:2ed7fba69d0f1e4b</id>
+    <updated>2026-08-22T14:42:32Z</updated>
+    <published>2026-08-22T14:42:32Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;DeepSeek Harness 安卓启动器：内置 proot+Ubuntu，免 ROOT 免 Termux 一键运行 deepseek-harness，多源测速/分步安装/WebUI 预览/设备 Shell 桥接&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/qiannianhuanxiang/DSHA"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10582 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10582"/>
+    <id>urn:uuid:47abf66c7f30dbaa</id>
+    <updated>2026-08-22T12:57:30Z</updated>
+    <published>2026-08-22T12:57:30Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;ci : Restore ROCm job for Ubuntu (#27399) * Revert "ci : disable ubuntu-rocm (#26969)" This reverts commit 9558fa44c92746a58dd07ad1bf0c889715b938a6. * ci: set ccache compiler_check=content for ROCm build The ROCm toolchain is pip-installed fresh on every run, so the clang binary's mtime changes each time. With ccache's default compiler_check=mtime that invalidates the whole cache and warm builds…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10582"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 1204 · cinderline/northcinder (JavaScript)</title>
+    <link href="https://github.com/cinderline/northcinder"/>
+    <id>urn:uuid:494d4e807a3e2af5</id>
+    <updated>2026-08-22T12:11:30Z</updated>
+    <published>2026-08-22T12:11:30Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Open-source MCP server for comparing products and asking the buyer before purchase.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/cinderline/northcinder"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10581 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10581"/>
+    <id>urn:uuid:6c166713756894fa</id>
+    <updated>2026-08-22T10:13:08Z</updated>
+    <published>2026-08-22T10:13:08Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;model : support DSpark for bailingmoe3 (#27508) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10581/llama-b10581-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10581"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Artificial Analysis "Intelligence": A meaningless benchmark</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1vv80xa/artificial_analysis_intelligence_a_meaningless/"/>
+    <id>urn:uuid:d1135407041e44ee</id>
+    <updated>2026-08-22T09:43:38Z</updated>
+    <published>2026-08-22T09:43:38Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;https://preview.redd.it/84zi5nsdawkh1.png?width=2368 format=png auto=webp s=1109e69db807b153064b1f5b61d22cf1e9fbca05 Another user posted the benchmarks for Qwen 3.8 27B today, and while I think Qwen 27B is a really powerful model, I can't help but notice just how meaningless these Artificial Analysis benchmarks are…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1vv80xa/artificial_analysis_intelligence_a_meaningless/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 vercel-labs/agent-browser</title>
     <link href="https://github.com/vercel-labs/agent-browser"/>
@@ -161,6 +251,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;mtmd: support webp via ffmpeg (#27520) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10573/llama-b10573-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10573"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 Sharp template to NInfer: -42% output tokens, same speed</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1vv3b6o/sharp_template_to_ninfer_42_output_tokens_same/"/>
+    <id>urn:uuid:7ba56ae8b910e7fc</id>
+    <updated>2026-08-22T05:12:58Z</updated>
+    <published>2026-08-22T05:12:58Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Sharp is u/peculiar-ragdoll 's system prompt that makes Qwen answer way more tersely without losing correctness. It's built on top of froggeric's fixed chat templates for Qwen; several fixes now in the v22.x templates (error-escalation tiers, false retry-loop kills, multi-system merging, correct tool-arg…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1vv3b6o/sharp_template_to_ninfer_42_output_tokens_same/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>📦 ⭐ 11271 · awesome-dsh-plugin/awesome-dsh-plugin (Python)</title>
     <link href="https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"/>
     <id>urn:uuid:9d350608eccef8e4</id>
@@ -177,6 +276,15 @@
     <published>2026-08-22T01:17:52Z</published>
     <category term="RELEASE"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;model: add dots3-note (#27060) * text: conversion * init impl * address review comments * fix rope * move to a new llama_kv_cache_dsa_iswa **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10569/llama-b10569-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10569"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 How to give a local LLM/agent access to a "real" web browser</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1vuykgj/how_to_give_a_local_llmagent_access_to_a_real_web/"/>
+    <id>urn:uuid:d7b8ab3f54f7ad7b</id>
+    <updated>2026-08-22T01:17:29Z</updated>
+    <published>2026-08-22T01:17:29Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I can't seem to find a good answer to this, my Hermes agent has access to Firecrawl and some other web scrapers for content extraction, but anyone know of a way to let a local LLM drive a real web browser? My wife asked me to have Hermes go and look at her LinkedIn profile, that's easy with a full web browser (just…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1vuykgj/how_to_give_a_local_llmagent_access_to_a_real_web/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📰 Qwen 3.8 27b - PI AGENT vs OPENCODE - another smaple</title>
@@ -204,6 +312,15 @@
     <published>2026-08-21T22:56:01Z</published>
     <category term="RELEASE"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;model: use ggml_rope_set_offset() (#27382) * model: use ggml_rope_set_offset() * partially apply to deepseek2 **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10568/llama-b10568-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10568"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 I'm really hoping we're in 2026's 2-month-gap between QwQ and Qwen3 right now</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1vutzeu/im_really_hoping_were_in_2026s_2monthgap_between/"/>
+    <id>urn:uuid:459b7280d85f62f2</id>
+    <updated>2026-08-21T21:58:51Z</updated>
+    <published>2026-08-21T21:58:51Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;QwQ was genuine next-gen performance usable on local hardware, but the massive required context (it's reasoning style was akin to if I say every possible word, I'll notice the right one! ) kinda made it unusable for agentic coding. It was ~2 months later that Qwen3-32B came out which delivered QwQ's peaks with usable…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1vutzeu/im_really_hoping_were_in_2026s_2monthgap_between/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📰 Qwen3.8-27B different thinking levels</title>
@@ -240,6 +357,24 @@
     <published>2026-08-21T19:54:23Z</published>
     <category term="RELEASE"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's changed - Cost estimates (`/cost`, status line, `--max-budget-usd`) now include the 1.1× US-only-inference premium for data-residency workspaces - Added the one-time fullscreen renderer offer on Bedrock, Vertex, Foundry and other previously excluded setups; new installs there now start in fullscreen - Added `/claude-api upgrade` to migrate Python projects from `anthropic` 0.x to 1.x,…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.239"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Quick impressions: A week of using Codex more than Claude</title>
+    <link href="https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/"/>
+    <id>urn:uuid:a2821ed86c1b200f</id>
+    <updated>2026-08-21T19:51:48Z</updated>
+    <published>2026-08-21T19:51:48Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/ Comments URL: https://news.ycombinator.com/item?id=49393051 Points: 93 # Comments: 104&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Qwen3.8-27B on an RTX 5060 Ti 16GB: IQ4 vs Q8, 64K context, MTP, vision, and agent benchmarks</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1vupiyh/qwen3827b_on_an_rtx_5060_ti_16gb_iq4_vs_q8_64k/"/>
+    <id>urn:uuid:dff34b4961018994</id>
+    <updated>2026-08-21T19:06:22Z</updated>
+    <published>2026-08-21T19:06:22Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I’ve been testing Qwen3.8-27B as a possible replacement for the Qwen3.5-9B that I have been running on RTX 5060Ti 16G. The goal was not just maximum tokens/sec, but useful context capacity, reliable tool calling, multi-turn behavior, and vision on a single 16GB GPU for true agentic usage. Its not perfect, but I have…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1vupiyh/qwen3827b_on_an_rtx_5060_ti_16gb_iq4_vs_q8_64k/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📦 ⭐ 88 · ustoppble/overclick (TypeScript)</title>
@@ -402,6 +537,15 @@
     <published>2026-08-21T14:43:03Z</published>
     <category term="REPO"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators &amp;amp; UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek, mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Dominic789654/awesome-deepseek-harness"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Claudette: Make Claude stop talking like a BuzzFeed article</title>
+    <link href="https://github.com/adnanakil/nobuzz/blob/main/README.md"/>
+    <id>urn:uuid:7598c692998439ce</id>
+    <updated>2026-08-21T14:31:52Z</updated>
+    <published>2026-08-21T14:31:52Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://github.com/adnanakil/nobuzz/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=49388752 Points: 335 # Comments: 218&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/adnanakil/nobuzz/blob/main/README.md"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>🚀 ultralytics/ultralytics v8.4.126 — v8.4.126 - Make restricted checkpoint loading thread-safe and 40% faster, simplify RLE prior (#25885)</title>
@@ -942,149 +1086,5 @@
     <published>2026-08-21T04:00:00Z</published>
     <category term="PAPER"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.19535v1 Announce Type: cross Abstract: Retrieval-augmented generation (RAG) improves language-model responses by grounding generation in external passages, which comes with overhead: retrieved context lengthens the prompt, increasing prefill work, KV-cache footprint, memory traffic, latency, and energy.…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: rag&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.19535"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Can Agent Memory Systems Track Evolving State?</title>
-    <link href="https://arxiv.org/abs/2608.19652"/>
-    <id>urn:uuid:0fe4cc89a7c5fa40</id>
-    <updated>2026-08-21T04:00:00Z</updated>
-    <published>2026-08-21T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.19652v1 Announce Type: cross Abstract: As LLM-based agents are deployed for longer and higher-stakes tasks, their memory systems continue to have crucial gaps. While existing memory benchmarks focus largely on recall-shaped tasks, we argue an effective memory system must track the evolving state of the…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.19652"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Truncate Bad, Upweight Good: BoN-Style Distillation via Rank-Based Classification</title>
-    <link href="https://arxiv.org/abs/2608.19748"/>
-    <id>urn:uuid:2d32bb49930ce9ac</id>
-    <updated>2026-08-21T04:00:00Z</updated>
-    <published>2026-08-21T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.19748v1 Announce Type: cross Abstract: Inference-time selection methods, such as Best-of-N, improve generation by sampling a pool of candidates and selecting the top-ranked completion according to a reward model. Distillation seeks to amortize this procedure into a single policy by replacing raw rewards…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.19748"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Credit Without Ground Truth: Auditing Step-Level Credit Assignment in LLM Agents Against Executed Replay</title>
-    <link href="https://arxiv.org/abs/2608.19760"/>
-    <id>urn:uuid:8d695eed21672e3e</id>
-    <updated>2026-08-21T04:00:00Z</updated>
-    <published>2026-08-21T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.19760v1 Announce Type: cross Abstract: Audited against causal ground truth from executed replay in a single-agent tool environment (ALFWorld), none of the step-level credit signals used to train LLM agents -- LLM-judge scores, outcome-conditioned logprob ratios, or the policy's own confidence -- identifies…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.19760"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 MileGPO: Milestone Inference with Local Evidence for Graph-Based Policy Optimization of Long-Horizon LLM Agents</title>
-    <link href="https://arxiv.org/abs/2608.19803"/>
-    <id>urn:uuid:a702a3e42950e41e</id>
-    <updated>2026-08-21T04:00:00Z</updated>
-    <published>2026-08-21T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.19803v1 Announce Type: cross Abstract: Credit assignment is challenging in long-horizon agentic reinforcement learning, where supervision often comes only from final rewards. Existing methods refine trajectory-level signals into step-level credits through step grouping or graph-based advantage estimation,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, inference, agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.19803"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents</title>
-    <link href="https://arxiv.org/abs/2608.19861"/>
-    <id>urn:uuid:10e5a839cc7f4bfb</id>
-    <updated>2026-08-21T04:00:00Z</updated>
-    <published>2026-08-21T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.19861v1 Announce Type: cross Abstract: Customer-service LLM agents must follow organizational policy when acting on a user's behalf. Compliance failures arise from either forbidden actions, such as granting an ineligible change, or omitted procedural requirements, such as identification or confirmation.…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.19861"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 EnvHarness: Awakening Static Worlds for Agent Learning</title>
-    <link href="https://arxiv.org/abs/2608.19880"/>
-    <id>urn:uuid:ab0321308121cf31</id>
-    <updated>2026-08-21T04:00:00Z</updated>
-    <published>2026-08-21T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.19880v1 Announce Type: cross Abstract: LLM agents learn by interacting with environments, yet these environments are hand-built and static: blind to an agent's weaknesses, and quickly left behind as it improves. While recent environment generation methods attempt to address this, they require…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.19880"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Reward-Guided Autoregressive Graph Generation for Efficient Multi-Agent Communication Topology Design</title>
-    <link href="https://arxiv.org/abs/2608.20099"/>
-    <id>urn:uuid:7da0e61953b95899</id>
-    <updated>2026-08-21T04:00:00Z</updated>
-    <published>2026-08-21T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.20099v1 Announce Type: cross Abstract: LLM-based Multi-Agent Systems (MAS) achieve strong performance on complex reasoning tasks by coordinating multiple agents, but at the cost of substantial token consumption. Recent work on automatic topology design, ARG-Designer, has reframed this problem as…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.20099"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use</title>
-    <link href="https://arxiv.org/abs/2608.20202"/>
-    <id>urn:uuid:7795c1349ea1d803</id>
-    <updated>2026-08-21T04:00:00Z</updated>
-    <published>2026-08-21T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.20202v1 Announce Type: cross Abstract: Memory has become a key component of large language models, enabling them to retain information and learn from long-term interactions. However, existing memory benchmarks mainly evaluate whether information is correctly extracted, stored, and retrieved, while largely…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.20202"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference</title>
-    <link href="https://arxiv.org/abs/2608.20210"/>
-    <id>urn:uuid:9d71794348eaf2f0</id>
-    <updated>2026-08-21T04:00:00Z</updated>
-    <published>2026-08-21T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.20210v1 Announce Type: cross Abstract: Small language models are usually built like large ones and then squeezed onto a CPU afterwards. We did the opposite: we fixed the target first, one user, one token at a time, 4-bit weights, ordinary CPU, and chose the architecture to suit it. The result keeps full…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.20210"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents</title>
-    <link href="https://arxiv.org/abs/2608.20274"/>
-    <id>urn:uuid:7f7e4dbc5fb0ab89</id>
-    <updated>2026-08-21T04:00:00Z</updated>
-    <published>2026-08-21T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.20274v1 Announce Type: cross Abstract: Large language model (LLM) agents can induce skills from completed tasks and reuse them later to grow more capable with experience. In practice, induced skills may transfer unreliably and can even harm the agent that retrieves them. When agent-induced skills transfer…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.20274"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement</title>
-    <link href="https://arxiv.org/abs/2608.20318"/>
-    <id>urn:uuid:b79c51eeb73bb49f</id>
-    <updated>2026-08-21T04:00:00Z</updated>
-    <published>2026-08-21T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.20318v1 Announce Type: cross Abstract: Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the next system inherits the improvement. That process is the training algorithm: a better objective or update rule improves the…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.20318"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction</title>
-    <link href="https://arxiv.org/abs/2608.20320"/>
-    <id>urn:uuid:49e3336100e736ac</id>
-    <updated>2026-08-21T04:00:00Z</updated>
-    <published>2026-08-21T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.20320v1 Announce Type: cross Abstract: Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent workflow integrating conversational data collection, structured data…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.20320"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 DiverValue-Bench: A Benchmark and Fine-Tuning Framework for Aligning Large Language Models with Diverse Human Values</title>
-    <link href="https://arxiv.org/abs/2509.08022"/>
-    <id>urn:uuid:dfb8cf7ebfd74ca2</id>
-    <updated>2026-08-21T04:00:00Z</updated>
-    <published>2026-08-21T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2509.08022v3 Announce Type: replace Abstract: Aligning large language models (LLMs) with diverse human values is essential for safe and effective deployment, yet existing benchmarks often overlook cultural and demographic variation. We introduce DiverValue-Bench, a population-aware benchmark for evaluating…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tuning&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2509.08022"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 TS-Reasoner: Aligning Time Series Foundation Models with LLM Reasoning</title>
-    <link href="https://arxiv.org/abs/2510.03519"/>
-    <id>urn:uuid:abc1497168b5a66d</id>
-    <updated>2026-08-21T04:00:00Z</updated>
-    <published>2026-08-21T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2510.03519v3 Announce Type: replace Abstract: Time series reasoning is crucial to decision-making in diverse domains, including finance, energy, and scientific discovery. While existing time series foundation models (TSFMs) can capture low-level dynamic patterns and provide accurate forecasting, further analysis…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2510.03519"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 When Contextual Inference Fails: Cancelability in Interactive Instruction Following</title>
-    <link href="https://arxiv.org/abs/2603.19997"/>
-    <id>urn:uuid:c0ee2bede94e86fa</id>
-    <updated>2026-08-21T04:00:00Z</updated>
-    <published>2026-08-21T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2603.19997v2 Announce Type: replace Abstract: We investigate the separation of literal interpretation from contextual inference in a collaborative block-building tasks, where an agent must resolve underspecified instructions using context. We adapt an existing two-speaker psycholinguistic paradigm into an…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2603.19997"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Doc-V*:Coarse-to-Fine Interactive Visual Reasoning for Multi-Page Document VQA</title>
-    <link href="https://arxiv.org/abs/2604.13731"/>
-    <id>urn:uuid:f664195f770f6e12</id>
-    <updated>2026-08-21T04:00:00Z</updated>
-    <published>2026-08-21T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2604.13731v2 Announce Type: replace Abstract: Multi-page Document Visual Question Answering requires reasoning over semantics, layouts, and visual elements in long, visually dense documents. Existing OCR-free methods face a trade-off between capacity and precision: end-to-end models scale poorly with document…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: ocr&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2604.13731"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
