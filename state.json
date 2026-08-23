@@ -1,5 +1,19 @@
 {
  "seen": [
+  "4c1c03232d6b7b86",
+  "4f7e26392b92924b",
+  "b70fbb7dd201287f",
+  "c3247d3be9d356d2",
+  "ba0ce1bdddad2a8c",
+  "b727f2d5ed352c24",
+  "336db1b764ff759d",
+  "41eefc4194ee91ae",
+  "52920d85b5a6fa81",
+  "08af0410e47aed4e",
+  "57119da7c3c4794f",
+  "4c532ec9da7c8557",
+  "21d385441d6524b7",
+  "26187140f20a8f27",
   "5192b26e42f54866",
   "9a484cf01f1e9e9f",
   "81ef4f2a5970818d",
@@ -11,8 +25,10 @@
   "f8a2183d4aa6169e",
   "5652ce24423db60c",
   "2a220b16973394dc",
+  "ac30235849d63c82",
   "e8b92436888c9b02",
   "f8003b0013b714e6",
+  "10e8270521067e1a",
   "a9c6115bed5f933c",
   "ef9f8719c8891d22",
   "aa7d2cec83678641",
@@ -25,6 +41,7 @@
   "40ba508b1bbcff85",
   "790c2bed5525dff2",
   "54d2b09a6736314b",
+  "f9305921ba25364c",
   "3f8b1c476206091b",
   "8f23f132584fd9f6",
   "edb0c81b18e93136",
@@ -85,6 +102,7 @@
   "0a4c6d2c796bd70e",
   "24fe8640df322d07",
   "84d6415c64780dd0",
+  "9836cb434806c172",
   "d8ee6f26978ffc33",
   "68e38ffb7e6c9e1a",
   "11dee81a324ad510",
@@ -101,27 +119,179 @@
   "3e9c67da44172da6",
   "306a3af3db487b8d",
   "a8eed94f2597b091",
-  "c16cbe54a28790cd",
-  "7b59432daeb8a971",
-  "07739d6d8588939d",
-  "3eb5eea7dd479bad",
-  "bc4b2a36f4ad3253",
-  "7625ab174c76b1ab",
-  "aa1b610099ae6776",
-  "c4008fb515454f27",
-  "d4d7434ec434c586",
-  "ea6e83bd4fed4e4d",
-  "3e4e826efb5a6c8a",
-  "0df615c119f8b3de",
-  "cb0199879ab35516",
-  "b18b533efd4deb94",
-  "8fb4e27c0e4f3897",
-  "ee15e037f3114c8c",
-  "5ab00f46f4d81c49",
-  "c029d82b8ebf5c22",
-  "40a569aca2d59690"
+  "c16cbe54a28790cd"
  ],
  "items": [
+  {
+   "uid": "4c1c03232d6b7b86",
+   "title": "ggml-org/llama.cpp b10599 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10599",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-08-23T17:39:41+00:00",
+   "summary": "test: move tools/parser to tests (#27548) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10599/llama-b10599-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "4f7e26392b92924b",
+   "title": "⭐ 3728 · xiaobright/dsh-anchored-standard (JavaScript)",
+   "url": "https://github.com/xiaobright/dsh-anchored-standard",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-23T17:23:42+00:00",
+   "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "b70fbb7dd201287f",
+   "title": "ggml-org/llama.cpp b10598 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10598",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-08-23T17:16:10+00:00",
+   "summary": "mtmd: use pillow-accurate algo, correct resize_algo for all models (#27594) * mtmd: use pillow-accurate resize algo, correct resize_algo for all models * speed optimization **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10598/llama-b10598-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "c3247d3be9d356d2",
+   "title": "⭐ 536 · duty1g/x64dbg-mcp-server (Zig)",
+   "url": "https://github.com/duty1g/x64dbg-mcp-server",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-23T16:59:33+00:00",
+   "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more. Built with…",
+   "matched": [
+    "mcp",
+    "model context protocol"
+   ]
+  },
+  {
+   "uid": "ba0ce1bdddad2a8c",
+   "title": "1/100 → 44/100: fine-tuning a 450M VLM on 50K browser screenshots",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw9k4k/1100_44100_finetuning_a_450m_vlm_on_50k_browser/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-23T15:04:50+00:00",
+   "summary": "submitted by /u/ButtercupLyn100 [link] [comments]",
+   "matched": [
+    "fine-tuning"
+   ]
+  },
+  {
+   "uid": "b727f2d5ed352c24",
+   "title": "Qwen 3.8 27B for actual local programming",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw8vuh/qwen_38_27b_for_actual_local_programming/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-23T14:38:07+00:00",
+   "summary": "Most YouTube benchmarks only show trivial tasks like generating landing pages or simple Three.js games. Is a local model like Qwen 3.8 27B actually capable of real-world systems programming—such as building GTK4 or Qt 6 applications in Rust or C++ with external libraries? Specifically, if I look up the exact…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "336db1b764ff759d",
+   "title": "⭐ 1161 · alchaincyf/deepseek-harness-orange-book (HTML)",
+   "url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-23T14:18:16+00:00",
+   "summary": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "41eefc4194ee91ae",
+   "title": "ggml-org/llama.cpp b10595 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10595",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-08-23T13:44:15+00:00",
+   "summary": "server : add LLAMA_SERVER_SLOTS_N_DIFF (#27600) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10595/llama-b10595-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "52920d85b5a6fa81",
+   "title": "ggml-org/llama.cpp b10594 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10594",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-08-23T13:21:44+00:00",
+   "summary": "common : skip device_info loop if it's not going to be printed (#26692) The device_info loop iterates over the discovered devices and gets the available and total memory counts. With the CUDA backend (and possibly others too) this requires creating a GPU context, which, in case of CUDA, results in a 550 MB VRAM allocation. For this information to be used in any way, the log verbosity must be set…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "08af0410e47aed4e",
+   "title": "ggml-org/llama.cpp b10593 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10593",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-08-23T11:40:07+00:00",
+   "summary": "DeepseekV4: fix rollback with multi-seq (#26756) * DeepseekV4: fix rollback with multi-seq * fix model loading * make pending rollback single use * only clear cache for seq_id for full load * add assert for compress ratio * make graph topology static * pass true instead of flags in clear_compressed * cont : clean-up + TODOs --------- Co-authored-by: Georgi Gerganov **Website:** -…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "57119da7c3c4794f",
+   "title": "Don't want to be this guy, but I need Qwen 3.8 35B A3B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw2cop/dont_want_to_be_this_guy_but_i_need_qwen_38_35b/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-23T09:13:39+00:00",
+   "summary": "Qwen 3.8 27B is great, however it takes me ages to do tasks on xhigh. I need Qwen 3.8 35B A3B. It'll be a little dumber but faster. I am also aware of the fact that 27B gets its intelligence from the long thinking time. I therefore assume that 35B would also be a long-thinking model, however running Qwen 3.8 27B over…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "4c532ec9da7c8557",
+   "title": "Qwen3.8-27B KLDs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw2ayp/qwen3827b_klds/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-23T09:10:44+00:00",
+   "summary": "I have been lurking on reddit for like 6 years, and this is the first time posting, so apologies for the mistakes. I'm not a native English speaker, so sorry for the bad English too. I used LLM to translate / refine my post, including images. This is my attempt to compare the Qwen3.8-27B quants. Qwen is a coding and…",
+   "matched": [
+    "qwen",
+    "llm"
+   ]
+  },
+  {
+   "uid": "21d385441d6524b7",
+   "title": "⭐ 167 · Han-1413141/dsh-cost-meter (JavaScript)",
+   "url": "https://github.com/Han-1413141/dsh-cost-meter",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-23T08:08:09+00:00",
+   "summary": "DeepSeek Harness session cost meter plugin: session/daily cost, budget, history, OpenCode Go quota, official & custom-provider balance, Codex-like token heatmap, peak/off-peak pricing with pre-switch popup & system-notification alerts, official price sync, 90+ model pricing catalog, Coding Plan…",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "26187140f20a8f27",
+   "title": "DeepSeek Harness is Insanely Good",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw10m3/deepseek_harness_is_insanely_good/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-23T07:55:30+00:00",
+   "summary": "I don't know about you guys, but Deep-seek harness is insane. It's not focused on being a coder agent, it's webUI made it very easy to just checkin from time to time, and the best part? Why it's better than Hermes? It wasn't frustrating at all to setup. ZERO. NADA. Progressive setup is such an improved UX. Why?…",
+   "matched": [
+    "deepseek"
+   ]
+  },
   {
    "uid": "5192b26e42f54866",
    "title": "us/crw",
@@ -264,6 +434,18 @@
    ]
   },
   {
+   "uid": "ac30235849d63c82",
+   "title": "Best harness for Qwen 3.8 27b ?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvzzlm/best_harness_for_qwen_38_27b/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-23T06:56:07+00:00",
+   "summary": "I’ve tried Open Code , Codex and Qwen Code and so far Qwen Code seems to work the best for me , the only complaint I have about it is that the CLI interface is a bit rough / sloppy . submitted by /u/HelloWorld-Print [link] [comments]",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
    "uid": "e8b92436888c9b02",
    "title": "⭐ 620 · vibeinging/dsh-desktop (JavaScript)",
    "url": "https://github.com/vibeinging/dsh-desktop",
@@ -287,6 +469,18 @@
     "gemini",
     "qwen",
     "ocr"
+   ]
+  },
+  {
+   "uid": "10e8270521067e1a",
+   "title": "# Qwen3.8-27B — One Week Later: The r/LocalLLaMA + r/LocalLLM Verdict",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvu15m/qwen3827b_one_week_later_the_rlocalllama/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-08-23T01:39:46+00:00",
+   "summary": "Companion to the Qwen 3.8 Release Megathread . Compiled from ~2,000 posts scanned across both subs, with deep reads of the 45 highest-signal threads (560 posts and comments), Aug 15–22, 2026, plus independent X benchmarks. Every number is attributed to the poster's stated hardware/runtime/quant. This community…",
+   "matched": [
+    "qwen"
    ]
   },
   {
@@ -432,6 +626,18 @@
    "summary": "Good afternoon, everyone! I wanted to show the work I've been doing around porting Ninfer over to the CMP170HX ( Github ) So, first, I do want to call out the amazing work that Neroued , Sergiuszm and specifically Don-Chad have all done, to not take away from vLLM, Llama.cpp and SGLang, but to enable local AI to…",
    "matched": [
     "llama"
+   ]
+  },
+  {
+   "uid": "f9305921ba25364c",
+   "title": "⭐ 126 · kgoedecke/doop (TypeScript)",
+   "url": "https://github.com/kgoedecke/doop",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-22T18:19:12+00:00",
+   "summary": "The open-source alternative to Paper.design — a multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+   "matched": [
+    "mcp"
    ]
   },
   {
@@ -1177,6 +1383,19 @@
    ]
   },
   {
+   "uid": "9836cb434806c172",
+   "title": "⭐ 816 · Anionex/dsh-vision-toolkit (TypeScript)",
+   "url": "https://github.com/Anionex/dsh-vision-toolkit",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-08-21T16:32:09+00:00",
+   "summary": "[dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+   "matched": [
+    "deepseek",
+    "ocr"
+   ]
+  },
+  {
    "uid": "d8ee6f26978ffc33",
    "title": "What’s the best local AI harness for coding + general use?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vukppf/whats_the_best_local_ai_harness_for_coding/",
@@ -1386,231 +1605,7 @@
     "claude",
     "claude code"
    ]
-  },
-  {
-   "uid": "7b59432daeb8a971",
-   "title": "I got fed up with locked-down autocomplete, so I forked Continue and stripped it down to just tab-completion. Any model, no subscription and no remote telemetry",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vubpn4/i_got_fed_up_with_lockeddown_autocomplete_so_i/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-08-21T09:45:18+00:00",
-   "summary": "I kept running into the same wall. Every agentic coding plugin ships an autocomplete, and almost all of them lock it down — no model choice, or a subscription, or both. I don't want a chat panel, I don't want an agent rewriting my repo. I want ghost text that finishes the line I'm typing, from a model I pick. So I…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "07739d6d8588939d",
-   "title": "⭐ 791 · 0xsline/awesome-deepseek-harness (Python)",
-   "url": "https://github.com/0xsline/awesome-deepseek-harness",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-08-21T09:34:05+00:00",
-   "summary": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-   "matched": [
-    "deepseek"
-   ]
-  },
-  {
-   "uid": "3eb5eea7dd479bad",
-   "title": "ggml-org/llama.cpp b10549",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10549",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-08-21T09:23:07+00:00",
-   "summary": "TP: enable tensor split for LFM2/LFM2MOE (#26993) Assisted-by: deepseek-v4-flash **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10549/llama-b10549-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "bc4b2a36f4ad3253",
-   "title": "DeepSeek-V4-Flash-Vision-Exp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vubb20/deepseekv4flashvisionexp/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-08-21T09:22:09+00:00",
-   "summary": "submitted by /u/Xhehab_ [link] [comments]",
-   "matched": [
-    "deepseek"
-   ]
-  },
-  {
-   "uid": "7625ab174c76b1ab",
-   "title": "Does PCIe matter much for inference?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vub1ff/does_pcie_matter_much_for_inference/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-08-21T09:06:54+00:00",
-   "summary": "Speaking of -sm tensor. I have 2x5060ti and i get some 40-50tps form 3.8 27B q6. I used HWinfo to see how saturated the PCIes are during inference are and as expected both the PCIe 5x16 slot and PCIe 4x4 were fully saturated. I cant help but feel like my 2nd gpu slot is a bottleneck (4x4), im considering getting a…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "aa1b610099ae6776",
-   "title": "yvgude/lean-ctx",
-   "url": "https://github.com/yvgude/lean-ctx",
-   "source": "GitHub Trending — Rust",
-   "category": "repo",
-   "published": "2026-08-21T07:23:37.956439+00:00",
-   "summary": "Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they touch, and proves what they save. 60–90% fewer tokens as the receipt. 76 MCP tools, 30+ agents, local-first.…",
-   "matched": [
-    "mcp"
-   ]
-  },
-  {
-   "uid": "c4008fb515454f27",
-   "title": "pola-rs/polars",
-   "url": "https://github.com/pola-rs/polars",
-   "source": "GitHub Trending — Rust",
-   "category": "repo",
-   "published": "2026-08-21T07:23:37.955065+00:00",
-   "summary": "Extremely fast Query Engine for DataFrames, written in Rust https://docs.pola.rs Documentation : Python - Rust - Node.js - R | Agents : Skill - MCP | User guide | Discord Polars: Extremely fast Query Engine for DataFrames Polars is an analytical query engine for DataFrames, written in Rust. It is designed to be fast,…",
-   "matched": [
-    "mcp"
-   ]
-  },
-  {
-   "uid": "d4d7434ec434c586",
-   "title": "rtk-ai/rtk",
-   "url": "https://github.com/rtk-ai/rtk",
-   "source": "GitHub Trending — Rust",
-   "category": "repo",
-   "published": "2026-08-21T07:23:37.945451+00:00",
-   "summary": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies https://www.rtk-ai.app High-performance CLI proxy that cuts up to 90% of the bash output your agent reads Website • Install • Troubleshooting • Architecture • Discord English • Francais • 中文 • 日本語 • 한국어…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "ea6e83bd4fed4e4d",
-   "title": "warpdotdev/warp",
-   "url": "https://github.com/warpdotdev/warp",
-   "source": "GitHub Trending — Rust",
-   "category": "repo",
-   "published": "2026-08-21T07:23:37.942491+00:00",
-   "summary": "Warp is an agentic development environment, born out of the terminal. https://warp.dev Website · Code · Agents · Terminal · Drive · Docs · How Warp Works Note OpenAI is the founding sponsor of the new, open-source Warp repository, and the new agentic management workflows are powered by GPT models. About Warp is an…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "3e4e826efb5a6c8a",
-   "title": "akitaonrails/ai-memory",
-   "url": "https://github.com/akitaonrails/ai-memory",
-   "source": "GitHub Trending — Rust",
-   "category": "repo",
-   "published": "2026-08-21T07:23:37.936671+00:00",
-   "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions.…",
-   "matched": [
-    "claude",
-    "claude code"
-   ]
-  },
-  {
-   "uid": "0df615c119f8b3de",
-   "title": "garrytan/gstack",
-   "url": "https://github.com/garrytan/gstack",
-   "source": "GitHub Trending — TypeScript",
-   "category": "repo",
-   "published": "2026-08-21T07:23:37.524952+00:00",
-   "summary": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA gstack \"I don't think I've typed like a line of code probably since December, basically, which is an extremely large change.\" — Andrej Karpathy , No Priors podcast, March 2026…",
-   "matched": [
-    "claude",
-    "claude code"
-   ]
-  },
-  {
-   "uid": "cb0199879ab35516",
-   "title": "tashfeenahmed/freellmapi",
-   "url": "https://github.com/tashfeenahmed/freellmapi",
-   "source": "GitHub Trending — TypeScript",
-   "category": "repo",
-   "published": "2026-08-21T07:23:37.523428+00:00",
-   "summary": "OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. https://freellmapi.co FreeLLMAPI 4 billion tokens per month. 29 free LLM…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "b18b533efd4deb94",
-   "title": "anthropics/claude-code",
-   "url": "https://github.com/anthropics/claude-code",
-   "source": "GitHub Trending — Python",
-   "category": "repo",
-   "published": "2026-08-21T07:23:37.088240+00:00",
-   "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. https://code.claude.com/docs/en/overview Claude Code Claude Code is an agentic…",
-   "matched": [
-    "claude",
-    "agentic",
-    "claude code"
-   ]
-  },
-  {
-   "uid": "8fb4e27c0e4f3897",
-   "title": "microsoft/agent-framework",
-   "url": "https://github.com/microsoft/agent-framework",
-   "source": "GitHub Trending — Python",
-   "category": "repo",
-   "published": "2026-08-21T07:23:37.085283+00:00",
-   "summary": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. https://aka.ms/agent-framework Welcome to Microsoft Agent Framework! Microsoft Agent Framework (MAF) is an open, multi-language framework for building production-grade AI agents and multi-agent…",
-   "matched": [
-    "agent framework"
-   ]
-  },
-  {
-   "uid": "ee15e037f3114c8c",
-   "title": "Osmantic/ODS",
-   "url": "https://github.com/Osmantic/ODS",
-   "source": "GitHub Trending — Python",
-   "category": "repo",
-   "published": "2026-08-21T07:23:37.083650+00:00",
-   "summary": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. https://discord.gg/qGVygYada3 ODS Osmantic Deployment System Turn your PC, Mac, or Linux box into a private AI server. AI server and homelab setup is rapidly becoming a solved problem. It…",
-   "matched": [
-    "llm",
-    "rag",
-    "inference"
-   ]
-  },
-  {
-   "uid": "5ab00f46f4d81c49",
-   "title": "Tencent/AI-Infra-Guard",
-   "url": "https://github.com/Tencent/AI-Infra-Guard",
-   "source": "GitHub Trending — Python",
-   "category": "repo",
-   "published": "2026-08-21T07:23:37.081887+00:00",
-   "summary": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation. https://tencent.github.io/AI-Infra-Guard/ 📖 Documentation | 🌐 🇨🇳 中文 · 🇯🇵 日本語 · 🇪🇸 Español · 🇩🇪 Deutsch · 🇫🇷 Français · 🇰🇷 한국어 · 🇧🇷 Português · 🇷🇺 Русский 🚀 AI Red Teaming…",
-   "matched": [
-    "llm",
-    "mcp"
-   ]
-  },
-  {
-   "uid": "c029d82b8ebf5c22",
-   "title": "⭐ 1044 · zouyuxuan122/Deepseek-Harness-EAC (JavaScript)",
-   "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-08-21T06:21:05+00:00",
-   "summary": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
-   "matched": [
-    "deepseek"
-   ]
-  },
-  {
-   "uid": "40a569aca2d59690",
-   "title": "⭐ 84 · jinzijian/EvoTrace (Python)",
-   "url": "https://github.com/jinzijian/EvoTrace",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-08-21T06:17:01+00:00",
-   "summary": "Compile real-world Claude Code and Codex trajectories into verified, tradable post-training assets.",
-   "matched": [
-    "claude",
-    "claude code"
-   ]
   }
  ],
- "last_run": "2026-08-23T07:10:28.779520+00:00"
+ "last_run": "2026-08-23T17:46:06.955469+00:00"
 }
