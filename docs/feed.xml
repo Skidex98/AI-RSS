@@ -5,8 +5,107 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-08-29T12:47:11Z</updated>
+  <updated>2026-08-29T19:54:47Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>📰 llama.cpp Open PRs list - CPU/RAM/Disk/Hybrid Related - Better for CPU-only &amp; Hybrid inference</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w1uu6d/llamacpp_open_prs_list_cpuramdiskhybrid_related/"/>
+    <id>urn:uuid:bc69515b9c7dd453</id>
+    <updated>2026-08-29T18:58:58Z</updated>
+    <published>2026-08-29T18:58:58Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Folks! We're just 50 PRs away from more faster inference . Hopefully by end of year. Experts!, please chip in there. List of Open/Ongoing PRs(and also Discussions) related to CPU/RAM/Disk/Hybrid: [Discussion] RFC: MoE expert cache, VRAM caching of hot CPU-resident experts with hybrid hit/miss execution #24528 AVX2:…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w1uu6d/llamacpp_open_prs_list_cpuramdiskhybrid_related/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10687 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10687"/>
+    <id>urn:uuid:4d21bf6a866fb660</id>
+    <updated>2026-08-29T18:23:05Z</updated>
+    <published>2026-08-29T18:23:05Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;opencl: use a better matmul path on two Adreno GPU generations (#27640) * opencl: default the Adreno xmem F16xF32 GEMM on for X2E kernel_mul_mm_f16_f32_l4_lm is the slowest matmul this backend has on Adreno: on the X2-90 it runs the gpt-oss-20b attention projections at roughly a quarter of what the tuned dense q4_0 GEMM reaches on the same device. That matters for any model whose non-expert…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10687"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ultralytics/ultralytics v8.4.134 — v8.4.134 - Reduce TaskAlignedAssigner OOM recovery cost (#25990)</title>
+    <link href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.134"/>
+    <id>urn:uuid:2f07a01291e5828a</id>
+    <updated>2026-08-29T18:07:00Z</updated>
+    <published>2026-08-29T18:07:00Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## 🌟 Summary **v8.4.134 makes crowded-object training more resilient to GPU memory limits and increases the default hyperparameter search budget from 10 to 300 trials.** 🚀 ## 📊 Key Changes - **Faster TaskAlignedAssigner OOM recovery** 🧠 - When GPU memory runs out during target assignment, Ultralytics now retries the work **one image at a time on the GPU** instead of moving the entire operation to…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.134"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10686 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10686"/>
+    <id>urn:uuid:df825fe6596df852</id>
+    <updated>2026-08-29T16:46:00Z</updated>
+    <published>2026-08-29T16:46:00Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;metal : assert shared memory padding (#27951) * metal : assert shared memory padding * cont : add ref **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10686/llama-b10686-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) -…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10686"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10685 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10685"/>
+    <id>urn:uuid:ae1c48fd538ccd2c</id>
+    <updated>2026-08-29T16:23:58Z</updated>
+    <published>2026-08-29T16:23:58Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;metal : add remaining fa-vec tunings for M4 Pro (#27915) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10685/llama-b10685-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10685"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10684 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10684"/>
+    <id>urn:uuid:4cab7177243ffca0</id>
+    <updated>2026-08-29T15:57:32Z</updated>
+    <published>2026-08-29T15:57:32Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;sycl: make --fit respect --fit-target better (#27629) improve the --fit algorithm to take into account the actual peak required VRAM for a given context size on a SYCL backend. This includes both properly accounting for how much VRAM is required when the allocated context is fully used (which makes the reported context drop below what it did before, but stop it OOMing) as well as preventing some…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10684"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10683 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10683"/>
+    <id>urn:uuid:e77d716ca1e9510e</id>
+    <updated>2026-08-29T15:25:27Z</updated>
+    <published>2026-08-29T15:25:27Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;vulkan: combine duplicated fastdiv functions, rename the one optimizing small divs (#27526) * vulkan: combine duplicated fastdiv functions, rename the one optimizing small divs * remove one more fastdiv **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10683/llama-b10683-bin-macos-arm64.tar.gz) - macOS Apple…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10683"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ultralytics/ultralytics v8.4.133 — v8.4.133 - Improve hyperparameter Tuner mutation convergence (#25984)</title>
+    <link href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.133"/>
+    <id>urn:uuid:e28187768d924f5d</id>
+    <updated>2026-08-29T12:53:59Z</updated>
+    <published>2026-08-29T12:53:59Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## 🌟 Summary **Ultralytics 8.4.133 improves hyperparameter tuning convergence, speeds up inference preprocessing, expands detection metrics, and simplifies edge-device setup.** 🚀 ## 📊 Key Changes - **Smarter hyperparameter tuning — PR #25984 by @glenn-jocher** - Replaces coordinate-by-coordinate crossover with **fitness-weighted selection of complete, high-performing configurations**. - Preserves…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.133"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Qwen 3.8 27B at 50 tok/s with 100k Context on a 16GB GPU! (beellama.cpp)</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w1lq7u/qwen_38_27b_at_50_toks_with_100k_context_on_a/"/>
+    <id>urn:uuid:c61987854a3cdaa0</id>
+    <updated>2026-08-29T12:50:05Z</updated>
+    <published>2026-08-29T12:50:05Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I wanted to share my successful setup for running a Qwen 3.8 27B model with a massive context window on a consumer 16GB GPU (RTX 4070 Ti SUPER). The goal was to fit everything into VRAM without sacrificing quality or speed. 🧠 Key Components Model: Qwen3.8-27B-i1-IQ4_XS-GGUF-Smaller from jrell on Hugging Face . It's a…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen, context window&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w1lq7u/qwen_38_27b_at_50_toks_with_100k_context_on_a/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 How important is it for Chinese LLMs to reach the Opus 4.8 level?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w1l3a2/how_important_is_it_for_chinese_llms_to_reach_the/"/>
+    <id>urn:uuid:eecc2c34221f28db</id>
+    <updated>2026-08-29T12:19:44Z</updated>
+    <published>2026-08-29T12:19:44Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;In mid-August, Ramp published spending data collected from 70,000 U.S. companies: Fable 5 ,the most powerful and expensive model in Anthropic’s lineup, accounts for just 11% of what those businesses spend on the company’s tools. The remaining 79% is worth its weight in gold. With the new releases from Qwen and GLM, we…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic, qwen, opus, fable&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w1l3a2/how_important_is_it_for_chinese_llms_to_reach_the/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 An official 1-bit quant for Hy4??? 👀</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w1kt83/an_official_1bit_quant_for_hy4/"/>
+    <id>urn:uuid:b37baef5963c4ea7</id>
+    <updated>2026-08-29T12:05:52Z</updated>
+    <published>2026-08-29T12:05:52Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Has anyone tried it? The results in their tweet look very promising! Sadly, I don’t have enough RAM yet… Accuracy barely moves vs BF16 📊 MCP Atlas 83.7→83.2 📊 SWE-Bench multi 82.9→81.3 📊 MRCR 81.3→81.1 📊 IFBench 73.5→72.5 https://x.com/TencentHunyuan/status/2093572224342954019 EDIT: Alright, 2.38-bit bpw, just labeled…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w1kt83/an_official_1bit_quant_for_hy4/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📰 If your t/s is low enough, you can see speculative decoding with your own eyes</title>
     <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w1je5d/if_your_ts_is_low_enough_you_can_see_speculative/"/>
@@ -33,6 +132,15 @@
     <published>2026-08-29T07:17:09Z</published>
     <category term="NEWS"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Announcement: https://www.tbench.ai/news/terminal-bench-4-0 Leaderboard: https://www.tbench.ai/ Imo the best aspect in their announcement is their focus on rapidly iterating on TerminalBench to keep the pace up with new model releases to fight benchmark saturation. On a similar note, what cheaper/smaller alternatives…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fable&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w1fpxi/terminal_bench_40_just_dropped_glm53_is_at_the/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Qwen3.8-Flash-Next + MTP on Strix Halo: Vulkan Runtime Notes</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w1d3zl/qwen38flashnext_mtp_on_strix_halo_vulkan_runtime/"/>
+    <id>urn:uuid:87561267d669ac92</id>
+    <updated>2026-08-29T04:54:41Z</updated>
+    <published>2026-08-29T04:54:41Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Below are the benchmark results for running Qwen3.8-Flash-Next on Strix Halo using the Vulkan backend of llama.cpp, combined with MTP model. Hardware Item Details CPU AMD Ryzen AI MAX+ 395 (16C/32T) GPU Radeon 8060S (integrated, RADV STRIX_HALO) RAM 128GB unified memory Software Item Details OS Ubuntu 26.04.1 LTS /…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w1d3zl/qwen38flashnext_mtp_on_strix_halo_vulkan_runtime/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📰 Saved my fiances phone with qwen 3.8 27b</title>
@@ -483,6 +591,15 @@
     <published>2026-08-28T14:30:22Z</published>
     <category term="RELEASE"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;metal : add fa-vec tunings for M4 (#27875) This adds fa_vec_tuned_table records for Apple M4 to ggml-metal-tuning.cpp. Includes F16, Q4_0, Q4_1, Q5_0, Q5_1, and Q8_0. (M4, 10 GPU Cores) Co-authored-by: Strongtut **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10673/llama-b10673-bin-macos-arm64.tar.gz) -…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10673"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 125 · JordyZomer/lemmalog (Rust)</title>
+    <link href="https://github.com/JordyZomer/lemmalog"/>
+    <id>urn:uuid:787a81249500571f</id>
+    <updated>2026-08-28T13:53:35Z</updated>
+    <published>2026-08-28T13:53:35Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/JordyZomer/lemmalog"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📰 how to setup llama.cpp and blender to make lovely 3d stuff together</title>
@@ -969,122 +1086,5 @@
     <published>2026-08-28T04:00:00Z</published>
     <category term="PAPER"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2608.12196v2 Announce Type: replace Abstract: Purpose: Deep learning-based medical image segmentation has achieved remarkable success, yet purely data-driven approaches often fail to exploit the rich mathematical structure inherent in medical images. We investigate whether explicit mathematical inductive biases,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.12196"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 VIG: Visual Information Gain as a Reward Signal for Multimodal Chain-of-Thought Compression</title>
-    <link href="https://arxiv.org/abs/2608.21883"/>
-    <id>urn:uuid:dc02c97a30c1e14a</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2608.21883v2 Announce Type: replace Abstract: Multimodal large reasoning models often rely on long Chain-of-Thought (CoT) traces in which a substantial fraction of tokens, such as repeated visual descriptions, self-reflection, and other visually-disengaged filler, inflate inference cost without contributing to…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.21883"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Curating Same-Family Neural Networks for LLM-Guided Model Improvement: A Controlled Case Study</title>
-    <link href="https://arxiv.org/abs/2607.05704"/>
-    <id>urn:uuid:bd4d9e97ff0fcc77</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2607.05704v2 Announce Type: replace-cross Abstract: Neural-network repositories contain executable models, recipes, input transformations, and measured accuracies. We study whether one same-family experiment can be curated as prompt guidance for LLM-based improvement of a low-performing target under equal…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.05704"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Pre-training Visual Dexterity in Simulation</title>
-    <link href="https://arxiv.org/abs/2608.15917"/>
-    <id>urn:uuid:5b8938ccd18a602f</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2608.15917v2 Announce Type: replace-cross Abstract: Large-scale pre-training has made robot policy fine-tuning increasingly data-efficient, but this progress has largely been driven by datasets and embodiments built around simple parallel-jaw grippers. Dexterous, multi-fingered hands remain comparatively…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tuning&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.15917"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 TreeGraft: Adaptive Multi-Drafter Grafting for Tree-Based Speculative Decoding</title>
-    <link href="https://arxiv.org/abs/2608.26112"/>
-    <id>urn:uuid:f0c04042fbb06247</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26112v1 Announce Type: new Abstract: Speculative decoding accelerates large language model inference through a draft-then-verify paradigm. Building on this, tree-structured methods improve inference by organizing proposals into multiple candidate paths, increasing the accepted length. However, existing…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26112"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Natural-Language Policies to Executable Decisions: An Interpretable Large Language Model Framework</title>
-    <link href="https://arxiv.org/abs/2608.26124"/>
-    <id>urn:uuid:778f2211eded2737</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26124v1 Announce Type: new Abstract: Pricing automation in large-scale tourism is challenging because travel orders are highly unstructured, while pricing policies are complex, rapidly evolving, and inherently open-ended. Traditional rule engines are brittle and costly to maintain, whereas unconstrained LLM…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26124"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 TelecomGPT-R1: A Unified Open-Source Reasoner for the Telecom Stack</title>
-    <link href="https://arxiv.org/abs/2608.26126"/>
-    <id>urn:uuid:fa7f7bd2d6531030</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26126v1 Announce Type: new Abstract: Telecommunications is a high-leverage domain for large language model (LLM)-based reasoning because routine engineering workflows require joint grounding in normative specifications, operational telemetry, vendor-specific fault evidence, and exact RF/network…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26126"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Agents Don't Paginate: First-Chunk Selection for LLM Tool Responses</title>
-    <link href="https://arxiv.org/abs/2608.26130"/>
-    <id>urn:uuid:9a46629214412b3d</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26130v1 Announce Type: new Abstract: Coding agents built on large language models (LLMs), such as Claude Code, Cursor, OpenAI Codex, GitHub Copilot, and Aider, receive tool responses that routinely exceed the agent's per-turn token budget. The standard remedy, pagination, is available in every protocol that…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, llm, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26130"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Interpretable, Fairly Evaluated Automated L2 Speaking Assessment that Beats the Single-Human Ceiling and Why Pause Encoding Does Not Change LLM Fluency Scores</title>
-    <link href="https://arxiv.org/abs/2608.26137"/>
-    <id>urn:uuid:5bf1916ad14b4838</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26137v1 Announce Type: new Abstract: Second-language (L2) English learners can rarely rehearse speaking with a partner. Speaking is also the most anxiety-laden skill. These gaps drive a fast-growing market for automated speaking practice and scoring. But an automated score is trustworthy only if it is…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26137"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Affix Cache for Diffusion Large Language Models</title>
-    <link href="https://arxiv.org/abs/2608.26140"/>
-    <id>urn:uuid:7a6c5f887309c6a4</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26140v1 Announce Type: new Abstract: Diffusion Large Language Models (DLLMs) enable non-autoregressive decoding and bidirectional context modeling, but efficient inference remains challenging. Unlike autoregressive systems, whose key-value (KV) cache can be reused for shared prefixes, DLLMs couple the KV…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26140"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Position Is All You Need: A Free Lunch Token Compression Strategy for MLLM-based Referring Expression Segmentation</title>
-    <link href="https://arxiv.org/abs/2608.26142"/>
-    <id>urn:uuid:735683dbc4337a11</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26142v1 Announce Type: new Abstract: Referring Expression Segmentation (RES) aims to generate pixel-wise segmentation masks from complex and implicit textual queries. While recent advances in Multimodal Large Language Models (MLLMs) have substantially boosted RES performance, their prohibitive computational…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26142"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Self-Generated Text Recognition: Quality Heuristics, Cross-Task Transfer, and Downstream Bias in LLM Evaluation</title>
-    <link href="https://arxiv.org/abs/2608.26159"/>
-    <id>urn:uuid:0fad7664d3d8e295</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26159v1 Announce Type: new Abstract: Self-Generated Text Recognition (SGTR)--the ability of an LLM to identify its own outputs--poses risks to AI safeguards that rely on LLMs as evaluators or monitors. Specifically, an LLM may recognize outputs from other copies of the same model and make biased judgments…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26159"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Lost in Compression: A Controlled Cross-Lingual Audit of Extractive Prompt Compressors</title>
-    <link href="https://arxiv.org/abs/2608.26175"/>
-    <id>urn:uuid:dda61b1353fa1bd8</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26175v1 Announce Type: new Abstract: Extractive prompt compression promises to cut LLM inference costs by removing low-information tokens, and learned compressors such as LLMLingua-2 report strong results on English benchmarks. Most other languages already pay a token premium: the same content costs…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26175"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Investigating the Influence of Prompt and Response Languages on LLM Content Generation</title>
-    <link href="https://arxiv.org/abs/2608.26186"/>
-    <id>urn:uuid:1da848d27d3ba668</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26186v1 Announce Type: new Abstract: This study examines how prompt and response language influence the behavior of large language models. Using five models, we evaluated answers to 68 non translation questions across four language conditions: English to English, English to Norwegian, Norwegian to…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26186"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
