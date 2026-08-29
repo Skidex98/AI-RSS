@@ -5,8 +5,71 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-08-29T01:05:11Z</updated>
+  <updated>2026-08-29T12:47:11Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>📰 If your t/s is low enough, you can see speculative decoding with your own eyes</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w1je5d/if_your_ts_is_low_enough_you_can_see_speculative/"/>
+    <id>urn:uuid:126328e953a90007</id>
+    <updated>2026-08-29T10:51:58Z</updated>
+    <published>2026-08-29T10:51:58Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;The other day I was trying out a distillation of DS4 Pro, and it came with MTP. It was slow as hell on my hardware, barely 2-3 t/s, BUT the speed got bumps every once in a while, and I noticed it was in moments like: United States of America First law of thermodynamics The enshittification of the internet Basically,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w1je5d/if_your_ts_is_low_enough_you_can_see_speculative/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Different Qwen thinking levels</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w1gm8y/different_qwen_thinking_levels/"/>
+    <id>urn:uuid:0dfccfee6a4191d9</id>
+    <updated>2026-08-29T08:09:36Z</updated>
+    <published>2026-08-29T08:09:36Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;submitted by /u/Tall_Abrocoma_3533 [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w1gm8y/different_qwen_thinking_levels/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Terminal Bench 4.0 just dropped, GLM-5.3 is at the same level as Fable 5, accounting for margin of error</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w1fpxi/terminal_bench_40_just_dropped_glm53_is_at_the/"/>
+    <id>urn:uuid:3c878fd558fa29c3</id>
+    <updated>2026-08-29T07:17:09Z</updated>
+    <published>2026-08-29T07:17:09Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Announcement: https://www.tbench.ai/news/terminal-bench-4-0 Leaderboard: https://www.tbench.ai/ Imo the best aspect in their announcement is their focus on rapidly iterating on TerminalBench to keep the pace up with new model releases to fight benchmark saturation. On a similar note, what cheaper/smaller alternatives…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fable&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w1fpxi/terminal_bench_40_just_dropped_glm53_is_at_the/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Saved my fiances phone with qwen 3.8 27b</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w1cbb0/saved_my_fiances_phone_with_qwen_38_27b/"/>
+    <id>urn:uuid:e6ec49df9f1c9c42</id>
+    <updated>2026-08-29T04:12:59Z</updated>
+    <published>2026-08-29T04:12:59Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;this model is really something incredible, saved us like 600 dollars. my fiance is always breaking her electronics and then getting me to fix them. The other day she brought me her phone and it was stuck in a boot loop that wouldn't post. tried normal stuff, managed to get it to fastboot but the recovery mode wouldn't…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w1cbb0/saved_my_fiances_phone_with_qwen_38_27b/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 50% tg increase with offloading "hot" experts to VRAM</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w1996t/50_tg_increase_with_offloading_hot_experts_to_vram/"/>
+    <id>urn:uuid:ad40eb2c4ed5ec65</id>
+    <updated>2026-08-29T01:42:09Z</updated>
+    <published>2026-08-29T01:42:09Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I got a 50% performance boost (20 t/s - 30 t/s) in llama.cpp for MoE models that don’t fit entirely in VRAM—in my case, Qwen 3.8 Flash Next. The idea is simple: instead of offloading entire layers to the GPU, I offload only the “hot” experts. I found that certain groups of experts remain relatively stable across…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama, qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w1996t/50_tg_increase_with_offloading_hot_experts_to_vram/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 pydantic/pydantic-ai v2.36.0 — v2.36.0 (2026-08-28)</title>
+    <link href="https://github.com/pydantic/pydantic-ai/releases/tag/v2.36.0"/>
+    <id>urn:uuid:ce86f6cc18b4850b</id>
+    <updated>2026-08-29T01:25:08Z</updated>
+    <published>2026-08-29T01:25:08Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's Changed ### ⚠️ Compatibility Notes * Add `--mcp-config` support and tool-call streaming to `clai` by @Kludex in https://github.com/pydantic/pydantic-ai/pull/1374 ### 🚀 Features * Add `@durable_operation` for capabilities and a public backend API for third-party durable execution engines by @DouweM in https://github.com/pydantic/pydantic-ai/pull/6696 * Give instruction parts a stable…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/pydantic/pydantic-ai/releases/tag/v2.36.0"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 use llms to auto annotation your dataset locally</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w18v86/use_llms_to_auto_annotation_your_dataset_locally/"/>
+    <id>urn:uuid:0bf908d7cdc2e150</id>
+    <updated>2026-08-29T01:23:13Z</updated>
+    <published>2026-08-29T01:23:13Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;hi i make tool for this called llmog it's purpose to make llms free to - auto annotation datasets - reclassification existing yolo datasets running totally local using llama cpp or vllm or use external api you'd rather click than code. 🔗 GitHub: mohamed-em2m/llmog: framework for using llms on object grounding You can…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w18v86/use_llms_to_auto_annotation_your_dataset_locally/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 ai-dynamo/dynamo</title>
     <link href="https://github.com/ai-dynamo/dynamo"/>
@@ -96,6 +159,42 @@
     <published>2026-08-29T01:04:55Z</published>
     <category term="REPO"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/K-Dense-AI/scientific-agent-skills"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Qwen 3.8 Flash Next ngram look up table offloaded to SSD and streamed in SGLang</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w18b1k/qwen_38_flash_next_ngram_look_up_table_offloaded/"/>
+    <id>urn:uuid:270ef0f1b2c1ae8b</id>
+    <updated>2026-08-29T00:56:57Z</updated>
+    <published>2026-08-29T00:56:57Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Have anyone tried this yet? Looks promising, seems too good to be true with no performance loss. submitted by /u/Easy_Werewolf7903 [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w18b1k/qwen_38_flash_next_ngram_look_up_table_offloaded/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 AtomicChat/Qwen3.8-Flash-Next-GGUF is Really Good</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w17zbg/atomicchatqwen38flashnextgguf_is_really_good/"/>
+    <id>urn:uuid:f84645abba6ce297</id>
+    <updated>2026-08-29T00:41:27Z</updated>
+    <published>2026-08-29T00:41:27Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;specs hardware: M4 Max 128GB Studio inference engine: llama.cpp (qwen4exp branch) judge: claude-opus-4-6 AtomicChat/Qwen3.8-Flash-Next-GGUF Qwen3.8-Flash-Next is a great model I benched in my previous post , but it is very tight, since all n-grams / PLE are loaded along with the experts, taking 106GB, leaving very…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, llama, opus, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w17zbg/atomicchatqwen38flashnextgguf_is_really_good/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Is it worth running Qwen 3.8 Flash Next on 4x3090 vs 27B?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w16kts/is_it_worth_running_qwen_38_flash_next_on_4x3090/"/>
+    <id>urn:uuid:031a176cd98bad68</id>
+    <updated>2026-08-28T23:38:37Z</updated>
+    <published>2026-08-28T23:38:37Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Can someone please tell me if it's worth running Qwen 3.8 Flash Next on 4x3090 yet over 27B? 27B is good but damn it is indecisive. I am getting frustrated watching it get so close to solving a problem, only to do another 2 hours of let me just check/prove/etc It looks like a 4 bit quant of Flash Next should fit with…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w16kts/is_it_worth_running_qwen_38_flash_next_on_4x3090/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 I accidentally turned LLM memory into program analysis</title>
+    <link href="https://pwning.systems/posts/llm-memory-program-analysis/"/>
+    <id>urn:uuid:ccd0414c4768b449</id>
+    <updated>2026-08-28T23:27:45Z</updated>
+    <published>2026-08-28T23:27:45Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 180 # Comments: 45&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://pwning.systems/posts/llm-memory-program-analysis/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📦 ⭐ 3214 · yetone/cumora (TypeScript)</title>
@@ -431,6 +530,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's Changed ### Features * feat(worker): export dashboards and widgets in the core data S3 export by @nmtrang29 in https://github.com/langfuse/langfuse/pull/16621 * feat(mcp): expose v4 migration data by @maxdeichmann in https://github.com/langfuse/langfuse/pull/16671 * feat(evals): allow restoring evaluator versions by @wochinge in https://github.com/langfuse/langfuse/pull/16674 *…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/langfuse/langfuse/releases/tag/v4.23.0"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 Pentagon's blacklisting of Anthropic was unlawful, US judge rules</title>
+    <link href="https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/"/>
+    <id>urn:uuid:e9e1e4a4dbab3d75</id>
+    <updated>2026-08-28T11:25:30Z</updated>
+    <published>2026-08-28T11:25:30Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/ Comments URL: https://news.ycombinator.com/item?id=49477055 Points: 324 # Comments: 3&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>📰 Qwen3.8-Flash-Next (UD-IQ4_XS) on 2x RTX 3060 + 7800X3D, from initial 36 tps prefill to 400 tps and other benchmarks (-sm tensor trap) + VRAM/RAM usage</title>
     <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w0na2z/qwen38flashnext_udiq4_xs_on_2x_rtx_3060_7800x3d/"/>
     <id>urn:uuid:c0f23864580f79f5</id>
@@ -447,6 +555,15 @@
     <published>2026-08-28T09:43:02Z</published>
     <category term="NEWS"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;submitted by /u/peculiar-ragdoll [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w0lz7e/claude_mods_didnt_like_that_somehow/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Our decision on Cursor following its acquisition by SpaceX</title>
+    <link href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"/>
+    <id>urn:uuid:2448851d3d2e2ee3</id>
+    <updated>2026-08-28T06:00:00Z</updated>
+    <published>2026-08-28T06:00:00Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📰 I reverse-engineered an NPU vendor's engine format (int8 weights stored as two nibble planes) to run GGUFs with no model conversion — now 1.5× faster than the vendor's own runtime</title>
@@ -969,122 +1086,5 @@
     <published>2026-08-28T04:00:00Z</published>
     <category term="PAPER"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26186v1 Announce Type: new Abstract: This study examines how prompt and response language influence the behavior of large language models. Using five models, we evaluated answers to 68 non translation questions across four language conditions: English to English, English to Norwegian, Norwegian to…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26186"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Comparing Chunking and Embedding Strategies for Turkish RAG Systems</title>
-    <link href="https://arxiv.org/abs/2608.26192"/>
-    <id>urn:uuid:4c58a7ad83b81c0b</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26192v1 Announce Type: new Abstract: How documents are segmented into retrievable chunks and how those chunks are embedded strongly affect Retrieval-Augmented Generation (RAG) quality, yet neither has been systematically studied for morphologically rich languages such as Turkish. We compare Turkish document…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: rag, embedding&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26192"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 A Reranker for Orchestrating Heterogeneous Speech and Text Retrievers</title>
-    <link href="https://arxiv.org/abs/2608.26194"/>
-    <id>urn:uuid:a2e684301d7120ba</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26194v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) systems have attracted significant interest for their ability to mitigate hallucinations in Large Language Models (LLMs). Although knowledge databases for RAG are increasingly diversifying to include various modalities such as speech…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: rag&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26194"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 When Is Noise Response Universal? Tokenization as the Hidden Variable in Language Models</title>
-    <link href="https://arxiv.org/abs/2608.26319"/>
-    <id>urn:uuid:e35880f177d6bc92</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26319v1 Announce Type: new Abstract: The performance of textual neural models often degrades when their inputs are corrupted by noise such as typos, OCR errors, or dropped words. We study the degradation rate across neural models, both sentence embeddings and decoder-only LLMs, and find that how consistent…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: ocr&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26319"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 MoganColBERT-TR: A Late-Interaction Multi-Vector Retrieval Model for Turkish</title>
-    <link href="https://arxiv.org/abs/2608.26344"/>
-    <id>urn:uuid:19d418cd0e791ed0</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26344v1 Announce Type: new Abstract: We previously reported a ModernBERT encoder trained from scratch for Turkish (MoganBERT-TR) and a single-vector embedding model built on top of it (MoganBERT-embed). This work introduces the third model in that lineage: MoganColBERT-TR, a multi-vector retrieval model…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: embedding&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26344"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Cross-lingual Representation Learning via Centroid Intervention Fusion</title>
-    <link href="https://arxiv.org/abs/2608.26357"/>
-    <id>urn:uuid:7c3802bd7f7ee413</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26357v1 Announce Type: new Abstract: Large language models (LLMs) exhibit uneven multilingual performance, especially when dealing with low-resource languages. Inference-time intervention offers a lightweight way to improve cross-lingual transfer by modifying the hidden states produced by the LLMs during…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26357"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Knowledge-Verified Emergent Deception in LLM Agents Under Conflicting Incentives</title>
-    <link href="https://arxiv.org/abs/2608.26372"/>
-    <id>urn:uuid:2afa4b23a25e5082</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26372v1 Announce Type: new Abstract: Large language models are increasingly deployed as autonomous agents serving users on behalf of companies, placing them in settings where user and deployer interests can conflict. When an agent knows that a user is owed something its deployer would prefer to deny, does…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26372"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Why RAGs Hallucinate: Penalty-Aware Evaluation of Retrieval-Augmented Generation Systems with Knowledge-Gap Canaries</title>
-    <link href="https://arxiv.org/abs/2608.26385"/>
-    <id>urn:uuid:67b7cd0368bac70d</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26385v1 Announce Type: new Abstract: Volume-based accuracy rewards retrieval-augmented generation (RAG) systems for guessing: a system that answers everything outscores one that declines when its knowledge base cannot support an answer. Building on the confidence-target analysis of Kalai et al. (2025), we…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: rag&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26385"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 LowRankArena: A Standardized Evaluation Platform for SVD-Based LLM Compression</title>
-    <link href="https://arxiv.org/abs/2608.26389"/>
-    <id>urn:uuid:a057c604bc282806</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26389v1 Announce Type: new Abstract: SVD-based low-rank compression has become a fast-growing direction for reducing the memory and computational cost of large language models (LLMs). However, meaningful comparison across existing studies remains difficult as prior evaluations use varied benchmarks,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26389"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Multi-Expert Conformal Risk Control for Pairwise LLM Judging in Open-Ended Dialogue</title>
-    <link href="https://arxiv.org/abs/2608.26529"/>
-    <id>urn:uuid:7d3c9e0539b68c71</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26529v1 Announce Type: new Abstract: In this paper, we explore multi-expert Conformal Risk Control (CRC) algorithms for pairwise LLM-as-a-Judge evaluation in open-ended dialogue. Our core insight is that multi-expert aggregation offers a complementary remedy to CRC: whereas CRC controls risk at the decision…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26529"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 SPEAR: Distilling Domain-Adaptive Reasoning Skeletons via Sequential Symbolic Alignment in Reinforcement Learning</title>
-    <link href="https://arxiv.org/abs/2608.26550"/>
-    <id>urn:uuid:3d40678786405855</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26550v1 Announce Type: new Abstract: Reinforcement learning-based knowledge distillation has the potential to transfer complex reasoning from teacher to student models, yet it currently faces a critical dilemma: researchers must choose between sparse outcome-based rewards, which provide insufficient logical…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26550"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 SPT: Skills as Pre-Training Data for Agentic Language Models</title>
-    <link href="https://arxiv.org/abs/2608.26563"/>
-    <id>urn:uuid:59344b4e68df31ca</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26563v1 Announce Type: new Abstract: Agentic (tool-using) language models are mainly trained on tool-call traces and agent trajectories during post-training. These data provide direct behavioral supervision, but producing them requires task environments, execution, and verification, making broad tool and…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26563"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Dependency-Aware Revocable Decoding for Efficient Diffusion Large Language Model Inference</title>
-    <link href="https://arxiv.org/abs/2608.26574"/>
-    <id>urn:uuid:62cbe16ba065dd90</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26574v1 Announce Type: new Abstract: Diffusion large language models (dLLMs) offer a promising alternative to autoregressive generation by decoding multiple tokens in parallel through iterative denoising. However, increasing decoding parallelism often degrades generation quality, as early errors can…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26574"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Double Trouble: Bilingual Pretraining Leaves Language-Conditioned Effects in Shared-Language Representations</title>
-    <link href="https://arxiv.org/abs/2608.26576"/>
-    <id>urn:uuid:2f680583cd9cd916</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.26576v1 Announce Type: new Abstract: When researchers compare multilingual models for probing, interpretability, or cross-lingual transfer, they often align embedding spaces and assume that shared-language representations are comparable. We show that this assumption can be premature for decoder-only models.…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: embedding&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26576"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
