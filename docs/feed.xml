@@ -5,8 +5,143 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-08-30T12:07:38Z</updated>
+  <updated>2026-08-30T19:57:22Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>📰 Demo of local document extraction (52 pages) using Arctic Embed and Bonsai 8B on an Iphone 16 (KernelAI app)</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w2qe1t/demo_of_local_document_extraction_52_pages_using/"/>
+    <id>urn:uuid:a4ea96064ae8dc49</id>
+    <updated>2026-08-30T19:09:57Z</updated>
+    <published>2026-08-30T19:09:57Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Hello everyone, Just sharing this cool and useful feature in the KernelAI mobille app. It works on pretty much any model, and the ability to run both an 8B model + extraction is pretty impressive. For IOS 26 folks, you can use this with the Apple foundation model that does not need any installation. Try it out! FYI…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: document extraction&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w2qe1t/demo_of_local_document_extraction_52_pages_using/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10701 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10701"/>
+    <id>urn:uuid:10e3ebaf293245e7</id>
+    <updated>2026-08-30T18:56:31Z</updated>
+    <published>2026-08-30T18:56:31Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;dflash: pass missing NVFP4 scales to attention operations (#28000) - DFlash2 NVFP4 draft models produced almost no accepted speculative tokens because the Q, K, V, and output projection scales were not passed to the corresponding graph operations. **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10701"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10700 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10700"/>
+    <id>urn:uuid:5e63eb38939e6400</id>
+    <updated>2026-08-30T18:33:56Z</updated>
+    <published>2026-08-30T18:33:56Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;common: rename --tensor-read-lazy to --lazy-mode, add -lzm shorthand (#27969) Rename the --tensor-read-lazy CLI argument to --lazy-mode, to match the internal lazy_mode parameter, and add a -lzm shorthand. Sync the READMEs. Assisted-by: pi:llama.cpp/Qwen3.8-27B **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10700"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10699 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10699"/>
+    <id>urn:uuid:a106111f90e0a70f</id>
+    <updated>2026-08-30T18:07:35Z</updated>
+    <published>2026-08-30T18:07:35Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;ggml : add ggml_backend_op_alloc_size_may_expand, use it in RPC (#27960) some backends (Metal, SYCL, WebGPU) require additional memory for fleeting data for certain ops, which is reflected in their get_alloc_size implementations. add ggml_backend_op_alloc_size_may_expand() to the backend utils, listing these ops, and assert in ggml_backend_buft_get_alloc_size that a backend expanding the alloc…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10699"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Qwen 3.8 Flash Next locally on simple mobile phone at 3.5 tok/s</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w2nz07/qwen_38_flash_next_locally_on_simple_mobile_phone/"/>
+    <id>urn:uuid:f6e2c5be32007a11</id>
+    <updated>2026-08-30T17:39:30Z</updated>
+    <published>2026-08-30T17:39:30Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Qwen 3.8 Flash Next (80gb) now at 3.5 tok/s on 12gb mid range android phone thanks to some optimizations and with a low quantization on dense part. I don't want to promote the project, but simply show that it's possible on a $400–$500 phone submitted by /u/dai_app [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen, quantization&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w2nz07/qwen_38_flash_next_locally_on_simple_mobile_phone/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Qwen Flash Q4_K_M on 4080 + 64GB DDR5 at ~8tk/s 98304 CTX.</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w2nr6e/qwen_flash_q4_k_m_on_4080_64gb_ddr5_at_8tks_98304/"/>
+    <id>urn:uuid:1633e0a636c2926c</id>
+    <updated>2026-08-30T17:31:09Z</updated>
+    <published>2026-08-30T17:31:09Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Managed to cram a 182B model into my small setup. The trick is to offload ngrams into SSD which allows to fit the rest of the model. Believe it or not, this is faster and more intelligent than Qwen3.8 27B. This is great for small GPU users because usually we are locked out of 27B. Note before running this command,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w2nr6e/qwen_flash_q4_k_m_on_4080_64gb_ddr5_at_8tks_98304/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Unpopular opinion Qwen 3.8 is hard to understand</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w2ncr5/unpopular_opinion_qwen_38_is_hard_to_understand/"/>
+    <id>urn:uuid:b6a6c06519712287</id>
+    <updated>2026-08-30T17:15:49Z</updated>
+    <published>2026-08-30T17:15:49Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I find both Qwen 3.8 27b and Qwen 3.8 Flash Next difficult to read. Here's some examples of what I mean: **Model-visible tool set per turn** (assembled by the host at provider-request time): persona tool allowlist ∩ session tool surface ∩ tools not `deny`-classified under the active permission profile. In the above,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w2ncr5/unpopular_opinion_qwen_38_is_hard_to_understand/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 194 · panxunying/ai-coding-welfare (JavaScript)</title>
+    <link href="https://github.com/panxunying/ai-coding-welfare"/>
+    <id>urn:uuid:9b194d0fcc1434fa</id>
+    <updated>2026-08-30T16:42:32Z</updated>
+    <published>2026-08-30T16:42:32Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;AI Coding 福利站导航：免费白嫖 Claude Code / Codex 的中转站与公益站合集，含额度、模型、价格自动更新与一键配置脚本&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/panxunying/ai-coding-welfare"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10698 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10698"/>
+    <id>urn:uuid:4d44125bb558fd64</id>
+    <updated>2026-08-30T14:47:27Z</updated>
+    <published>2026-08-30T14:47:27Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;rpc: fix apple rdma error spew on teardown (#27908) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10698/llama-b10698-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10698"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10697 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10697"/>
+    <id>urn:uuid:b225cf6d186e8d97</id>
+    <updated>2026-08-30T14:24:14Z</updated>
+    <published>2026-08-30T14:24:14Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;metal: add fa-vec tunings for M3 Ultra (#27999) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10697/llama-b10697-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10697"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Uncensored Multi-Model Releases, LongCat-Flash-Lite-Sparse with MTPs and LSAs, Qwen3.8-27B with MTPs, Qwen3.5-122B-A10B with MTPs, Qwen3-Coder-Next and Laguna-S2.1 with Vision, All Available in GGUF…</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w2iqos/uncensored_multimodel_releases/"/>
+    <id>urn:uuid:2a4f4235f7f26c67</id>
+    <updated>2026-08-30T14:16:07Z</updated>
+    <published>2026-08-30T14:16:07Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Been working really hard for the past month to bring to the community all these models, the hardest was for sure LongCat-Flash-Lite-Sparse who required TONS of work, first I needed to have Heretic support created for it from scratch and had to create support for it on llama.cpp too, quite difficult and time consuming…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w2iqos/uncensored_multimodel_releases/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Got MiniMax H3 video generation running in TensorSharp</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w2ip5z/got_minimax_h3_video_generation_running_in/"/>
+    <id>urn:uuid:d1febe6c789a5bd0</id>
+    <updated>2026-08-30T14:14:25Z</updated>
+    <published>2026-08-30T14:14:25Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I’ve been experimenting with MiniMax H3 and finally have video generation working in TensorSharp. TensorSharp started primarily as a local GGUF/LLM inference engine, so getting a video-generation pipeline working in the same runtime has been an interesting change of direction. The attached demo is image-to-video: an…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w2ip5z/got_minimax_h3_video_generation_running_in/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 126 · omaekumiko2-create/kru (Rust)</title>
+    <link href="https://github.com/omaekumiko2-create/kru"/>
+    <id>urn:uuid:8f109540b552cba2</id>
+    <updated>2026-08-30T14:07:47Z</updated>
+    <published>2026-08-30T14:07:47Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Local-first MCP password and credential manager for AI agents. Use passwords, API keys, SSH identities, and TOTP without exposing hidden plaintext to the model.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/omaekumiko2-create/kru"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Claude Session URL appended to commit messages and PR descriptions by default</title>
+    <link href="https://github.com/anthropics/claude-code/issues/66504"/>
+    <id>urn:uuid:a07f5877db34b0be</id>
+    <updated>2026-08-30T12:50:54Z</updated>
+    <published>2026-08-30T12:50:54Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://github.com/anthropics/claude-code/issues/66504 Comments URL: https://news.ycombinator.com/item?id=49498201 Points: 152 # Comments: 176&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/anthropics/claude-code/issues/66504"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 {INTRESTING PAPER BASED ON HBF}2607.10186] FlashAccel: Leveraging High-Bandwidth Flash (HBF) for High-Throughput LLM Inference</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w2gmn5/intresting_paper_based_on_hbf260710186_flashaccel/"/>
+    <id>urn:uuid:8bf8f9e51a05ef79</id>
+    <updated>2026-08-30T12:45:10Z</updated>
+    <published>2026-08-30T12:45:10Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;HBF gives 8x - 16x more capacity than HBM at same cost, and with bandwidth till 3 tb/s. submitted by /u/9r4n4y [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w2gmn5/intresting_paper_based_on_hbf260710186_flashaccel/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 FalkorDB/FalkorDB</title>
     <link href="https://github.com/FalkorDB/FalkorDB"/>
@@ -206,6 +341,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Simon Willison&lt;/p&gt;&lt;p&gt;Introducing Hy4 Preview New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face . This is a big size increase from their previous Hy3 in July, which was 295B, 21B active, 256,000 context, 598GB. I…&lt;/p&gt;&lt;p&gt;&lt;a href="https://simonwillison.net/2026/Aug/29/hy4/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 Nemotron-3.5-Lightning at 11.77 GiB, a 16 GB option for a model that didn't have one</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w21d86/nemotron35lightning_at_1177_gib_a_16_gb_option/"/>
+    <id>urn:uuid:17bb6b5e00eab1c9</id>
+    <updated>2026-08-29T23:27:11Z</updated>
+    <published>2026-08-29T23:27:11Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;TL;DR: Every public low-bit GGUF of this model is secretly ~4.70 bpw. Shim the rows to 256 and it becomes a real 3.07 bpw / 11.77 GiB file that runs 262K context on 16GB. Needs patched llama.cpp — not LM Studio or Ollama. In the AtomicChat HuggingFace repo it says There is currently no good 16 GB option for this…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w21d86/nemotron35lightning_at_1177_gib_a_16_gb_option/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>📰 Humaneval benchmark for Deepseek V4 Flash 0731 vs GLM5.3 Flash on 2x DGX Spark setup</title>
     <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w215qm/humaneval_benchmark_for_deepseek_v4_flash_0731_vs/"/>
     <id>urn:uuid:011a20621e7c7670</id>
@@ -213,6 +357,15 @@
     <published>2026-08-29T23:18:13Z</published>
     <category term="NEWS"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I have a 2 DGX Spark setup recently and I have been happily running Deepseek V4 Flash 0731. Since the release of GLM5.3 Flash and Qwen 3.8 Flash Next this week, a lot of folks are still waiting to see what model to run given their own hardware situations. I am very interested in running a GLM model locally and looks…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen, deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w215qm/humaneval_benchmark_for_deepseek_v4_flash_0731_vs/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 102 · Vuk97/forward-implementation-first (Shell)</title>
+    <link href="https://github.com/Vuk97/forward-implementation-first"/>
+    <id>urn:uuid:c49cc21c0354b6f0</id>
+    <updated>2026-08-29T23:16:16Z</updated>
+    <published>2026-08-29T23:16:16Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Vuk97/forward-implementation-first"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>🚀 ultralytics/ultralytics v8.4.135 — v8.4.135 - Respect dataset object counts when selecting max_det (#25993)</title>
@@ -872,6 +1025,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;see here or read the following: ### I've found this workaround/complete setup: - git clone https://projects.blender.org/lab/blender_mcp.git - cd blender_mcp - uv --directory ./mcp/ run blender-mcp --transport http --port 9191 (this last command raise the error relative to this issue because mcp v2 is installed) - uv…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama, mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w0r66e/how_to_setup_llamacpp_and_blender_to_make_lovely/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📦 ⭐ 689 · kacperkapusciak/goldie (TypeScript)</title>
+    <link href="https://github.com/kacperkapusciak/goldie"/>
+    <id>urn:uuid:e02efa4cc950b707</id>
+    <updated>2026-08-28T13:38:20Z</updated>
+    <published>2026-08-28T13:38:20Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;✨ agentic app store previews and screenshots&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/kacperkapusciak/goldie"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>🚀 langfuse/langfuse v4.24.0</title>
     <link href="https://github.com/langfuse/langfuse/releases/tag/v4.24.0"/>
     <id>urn:uuid:cec87c888d3c5419</id>
@@ -924,167 +1086,5 @@
     <published>2026-08-28T10:55:24Z</published>
     <category term="NEWS"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;TL;DR: llama.cpp with --load-mode mmap used 21-32 GB of RAM, with ik_llama.cpp using 106-108 GB. -sm tensor killed my prefill, changing to -sm layer went from 36 tps to 135 tps. After that, -ubatch 2048 pushed it up to 400 tps at -c 131072 . I can't fit -ubatch 2048 at -c 262144 , which is why it caps out for me at…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w0na2z/qwen38flashnext_udiq4_xs_on_2x_rtx_3060_7800x3d/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 claude mods didn't like that, somehow 🤷‍♀️</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w0lz7e/claude_mods_didnt_like_that_somehow/"/>
-    <id>urn:uuid:85051092337723d0</id>
-    <updated>2026-08-28T09:43:02Z</updated>
-    <published>2026-08-28T09:43:02Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;submitted by /u/peculiar-ragdoll [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w0lz7e/claude_mods_didnt_like_that_somehow/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Our decision on Cursor following its acquisition by SpaceX</title>
-    <link href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"/>
-    <id>urn:uuid:2448851d3d2e2ee3</id>
-    <updated>2026-08-28T06:00:00Z</updated>
-    <published>2026-08-28T06:00:00Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 I reverse-engineered an NPU vendor's engine format (int8 weights stored as two nibble planes) to run GGUFs with no model conversion — now 1.5× faster than the vendor's own runtime</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w0hrrn/i_reverseengineered_an_npu_vendors_engine_format/"/>
-    <id>urn:uuid:55670551d400cd39</id>
-    <updated>2026-08-28T05:33:52Z</updated>
-    <published>2026-08-28T05:33:52Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I've been running Qwen3-0.6B on the M5Stack LLM-8850 card (Axera AX8850 NPU, 24 TOPS, 8GB LPDDR4x) hosted by a Raspberry Pi 5 — as a llama.cpp backend. The problem: the vendor stack requires converting every model through their compiler, and their closed runtime gets 13.5–14.5 t/s. I wanted llama.cpp to just work:…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama, llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w0hrrn/i_reverseengineered_an_npu_vendors_engine_format/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Ornith 1.5 is actually pretty good</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1w0gk2z/ornith_15_is_actually_pretty_good/"/>
-    <id>urn:uuid:a2848a6cccb500b3</id>
-    <updated>2026-08-28T04:29:03Z</updated>
-    <published>2026-08-28T04:29:03Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;hey guys i recently started using ornith 1.5 to rapidly test some tools im working on since qwen 3.8 27b was too slow for my testing loop. This model is actually really good. im getting around 130 tokens / second with mtp and its very good at tool calling. i feel like this is qwen 3.8 35b , its basically what it could…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w0gk2z/ornith_15_is_actually_pretty_good/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Systematic Literature Review of Machine Learning Models and Applications for Text Recognition</title>
-    <link href="https://arxiv.org/abs/2608.26500"/>
-    <id>urn:uuid:13cdb3ca3fb9ec45</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2608.26500v1 Announce Type: new Abstract: Optical Character Recognition (OCR) for text recognition using machine vision has significantly improved, particularly when handling heterogeneous textual data. Traditional OCR models struggle with script variations, writing styles, and degraded documents. Advancements…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: ocr&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26500"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 HUG-VIS: A Multimodal Benchmark for Human-centered Understanding and Generation in Visual Intelligence</title>
-    <link href="https://arxiv.org/abs/2608.26517"/>
-    <id>urn:uuid:ae78a4c594464654</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2608.26517v1 Announce Type: new Abstract: Visual intelligence seeks to perceive, interpret, and synthesize the visual world and is central to modern computer vision. Human-centered visual intelligence is especially demanding because it studies people as expressive, socially situated subjects whose meaning is…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: computer vision&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26517"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 FAN-LoRA: A Fourier-Adaptive Nonlinear Low-Rank Adaptor for Medical Foundation Model Domain Adaptation</title>
-    <link href="https://arxiv.org/abs/2608.26531"/>
-    <id>urn:uuid:0e9de1ac00ae8d69</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2608.26531v1 Announce Type: new Abstract: The advent of vision foundation models, notably the Segment Anything Model (SAM), has catalyzed significant advancements in natural image segmentation. However, their direct transfer to medical imaging remains severely bottlenecked by profound domain gaps, such as…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: lora, segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26531"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 FU-Mamba: A Frequency-Enhanced Dynamic Scanning Framework for Oralscan Image Segmentation</title>
-    <link href="https://arxiv.org/abs/2608.26607"/>
-    <id>urn:uuid:c6de447c9d694ea4</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2608.26607v1 Announce Type: new Abstract: Oralscan image segmentation is essential for computer-aided diagnosis and treatment planning in digital dentistry. However, existing visual state space models (SSMs) often rely on manually designed scanning orders to flatten image patches into sequences, which disrupts…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26607"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Text-to-seed generation: Training-free open-vocabulary seeded semantic segmentation via re-purposing diffusion as text-guided seed generator</title>
-    <link href="https://arxiv.org/abs/2608.26624"/>
-    <id>urn:uuid:c0d6b0eddf1dda12</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2608.26624v1 Announce Type: new Abstract: Open-vocabulary semantic segmentation (OVSS) aims to segment image regions corresponding to arbitrary text queries. Although the Segment Anything Model (SAM) is a powerful foundation model for segmentation, its standalone performance on OVSS remains limited. Existing…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26624"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Reason in the Words You Speak: Idiolectal Paraphrasing Off-Policy Traces for Reasoning Distillation in VideoLLMs</title>
-    <link href="https://arxiv.org/abs/2608.26684"/>
-    <id>urn:uuid:4918ba45a2397d7b</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2608.26684v1 Announce Type: new Abstract: Recent large language models achieve strong performance on complex reasoning tasks, where reinforcement learning with Group Relative Policy Optimization (GRPO) has emerged as a leading paradigm for optimizing models on self-generated trajectories. However, the on-policy…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26684"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Parameter Efficient Continual Learning for Sparse Event-Based Transformers</title>
-    <link href="https://arxiv.org/abs/2608.26720"/>
-    <id>urn:uuid:c848913249673a81</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2608.26720v1 Announce Type: new Abstract: Robotic and edge intelligence systems operate in dynamic environments where data arrives continuously, requiring models to adapt while preserving previously learned knowledge under strict memory and energy constraints. While parameter-efficient fine-tuning has shown…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tuning&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26720"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 G2D: Generative-to-Discriminative Collaborative Inference for Zero-Shot Image Classification</title>
-    <link href="https://arxiv.org/abs/2608.26744"/>
-    <id>urn:uuid:ecae0680cfd04fdd</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2608.26744v1 Announce Type: new Abstract: Zero-shot classification needs efficient label retrieval and fine-grained visual reasoning, yet discriminative and generative vision-language models fail in complementary ways.When CLIP's top-1 prediction is wrong, the correct label often remains in its top-$K$…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26744"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Cross-Architecture Knowledge Distillation from a Vision Foundation Model to a Lightweight Visual State Space Model for Tea Leaf Disease Classification</title>
-    <link href="https://arxiv.org/abs/2608.26771"/>
-    <id>urn:uuid:a34418cb39472b05</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2608.26771v1 Announce Type: new Abstract: Automated tea leaf disease classification supports precision agriculture, yet deploying accurate models on edge devices remains challenging under tight compute budgets. Self-supervised vision foundation models such as DINOv2 provide strong features but are too large for…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26771"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Thinking on Shots: Consistent Multi-Shot Video Editing with Agentic Reasoning</title>
-    <link href="https://arxiv.org/abs/2608.26809"/>
-    <id>urn:uuid:24215a6c7c5f7d05</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2608.26809v1 Announce Type: new Abstract: While generative AI has significantly advanced video editing, existing methods primarily focus on single-shot or short video clips. Editing long videos with multiple instructions remains a formidable challenge. Naive chunking strategies, e.g., fixed-duration…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26809"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 LLaVAFlow: Preserving Latent Alignment Flow for Parameter-Efficient Multimodal Fine-Tuning</title>
-    <link href="https://arxiv.org/abs/2608.26820"/>
-    <id>urn:uuid:61f2d649c100c736</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2608.26820v1 Announce Type: new Abstract: While Multimodal Large Language Models (MLLMs) exhibit strong generalization, visual instruction tuning for downstream tasks inevitably causes catastrophic forgetting, impairing overall generalization. While existing methods regulate weight updates to reduce forgetting,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tuning&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26820"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 From Reasoning to Pixels: Grounded Medical Multimodal LLMs for VQA and Segmentation</title>
-    <link href="https://arxiv.org/abs/2608.26856"/>
-    <id>urn:uuid:b938b15d0c1224d6</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2608.26856v1 Announce Type: new Abstract: Although Multimodal Large Language Models (MLLMs) have demonstrated impressive performance in Medical Visual Question Answering (Med-VQA), their reliance on global image features often lacks precise pixel-level grounding, thereby limiting clinical trustworthiness. To…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26856"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher</title>
-    <link href="https://arxiv.org/abs/2608.26872"/>
-    <id>urn:uuid:e9f69577051e45d8</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2608.26872v1 Announce Type: new Abstract: On-policy distillation (OPD), which leverages a pre-trained, specialized teacher model to provide dense supervisory signals, has achieved significant success in Large Language Models (LLMs) and has recently been adapted to flow matching models. However, this paradigm…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26872"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Geo-LoRA: Geometry-Aware Subspace Evolution for Low-Rank Adaptation in Continual Learning</title>
-    <link href="https://arxiv.org/abs/2608.26960"/>
-    <id>urn:uuid:8f2bcdc7dc29e402</id>
-    <updated>2026-08-28T04:00:00Z</updated>
-    <published>2026-08-28T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2608.26960v1 Announce Type: new Abstract: Rehearsal-free class-incremental learning (CIL) with LoRA adapters remains challenging because the low-rank subspaces updated across tasks evolve without geometric control, causing unstable shared representations and repetitive collapse of task-specific updates into…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: lora&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.26960"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
