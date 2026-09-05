@@ -1,5 +1,30 @@
 {
  "seen": [
+  "3a9f572d412c4820",
+  "3e4e826efb5a6c8a",
+  "3ba63d61176bd48e",
+  "3c40b3b1a0dd615f",
+  "0a6cfa93208ef76c",
+  "600c2a134e600660",
+  "b18b533efd4deb94",
+  "9202bf218bb50f93",
+  "4fc268bb2fe4ed4d",
+  "28a394320fe42faf",
+  "6f65c8bd93df1ad0",
+  "41cc8a204d762441",
+  "7a3f0c5de941a07f",
+  "85dba56fb0ce5361",
+  "be509bd945906fc0",
+  "87364a50a6d65f15",
+  "3229003cf9be156b",
+  "182a5194dd770880",
+  "5b10eb7994a4614f",
+  "22f5c299fdec4a8c",
+  "0424c3762a9e8e36",
+  "ee58a11658736a6c",
+  "d7767569de7b4746",
+  "00d687ad36ad2790",
+  "af6eb19a311fd70b",
   "e5b44a600947456e",
   "70e0965b360d595f",
   "3fc2f292db2d3e26",
@@ -14,6 +39,7 @@
   "1df50ab9d1e9d78b",
   "d29b89176f6292f0",
   "63e0fd9550b6c552",
+  "b2e690972356c005",
   "2800b8bba94abaf0",
   "d5b9903dfc36e3ef",
   "21b9252fa30e4006",
@@ -93,35 +119,326 @@
   "84da436c6203c5a1",
   "52cfc4f8a2fc00dd",
   "444d6cef49bde801",
-  "a68ca431054f9e49",
-  "0d053a76c14f0ea0",
-  "18f72bbe1f4943bc",
-  "9bb8b51a21cbac50",
-  "66c1d148a49e4400",
-  "32ded3a10d85ce0c",
-  "ceaabdb3229d5005",
-  "f7fa96e67616562e",
-  "b1ad56b0342cb882",
-  "cad9a0aebe72b11e",
-  "ada534260608e7c6",
-  "77cff3ace1c7cb01",
-  "3f4f296f44582d05",
-  "2544bf9915976622",
-  "0d5aea0e2b60d892",
-  "3f585a871da0b898",
-  "077322e447b40c8c",
-  "b7ae35e94a461483",
-  "cd78c713736c7ca3",
-  "5688a891e2136bd6",
-  "9849e32bf5de6d1d",
-  "4595c0f38a85864c",
-  "d84441bdb753085d",
-  "8adc66147fcb981f",
-  "0e7f27fa90e1f302",
-  "138025c1d7df7d5e",
-  "051df2ec66e6fbfb"
+  "a68ca431054f9e49"
  ],
  "items": [
+  {
+   "uid": "3a9f572d412c4820",
+   "title": "farion1231/cc-switch",
+   "url": "https://github.com/farion1231/cc-switch",
+   "source": "GitHub Trending — Rust",
+   "category": "repo",
+   "published": "2026-09-05T10:49:49.489033+00:00",
+   "summary": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io https://ccswitch.io CC Switch The All-in-One Manager for Claude Code, Claude Desktop, Codex, Gemini CLI, Grok Build, OpenCode, OpenClaw Hermes Agent 🌐 The Only…",
+   "matched": [
+    "claude",
+    "gemini",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "3e4e826efb5a6c8a",
+   "title": "akitaonrails/ai-memory",
+   "url": "https://github.com/akitaonrails/ai-memory",
+   "source": "GitHub Trending — Rust",
+   "category": "repo",
+   "published": "2026-09-05T10:49:49.479308+00:00",
+   "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Why…",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "3ba63d61176bd48e",
+   "title": "langgenius/dify",
+   "url": "https://github.com/langgenius/dify",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-09-05T10:49:49.112132+00:00",
+   "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. https://dify.ai Dify Cloud · Self-hosting · Documentation · Dify edition overview Dify is an…",
+   "matched": [
+    "rag",
+    "agentic"
+   ]
+  },
+  {
+   "uid": "3c40b3b1a0dd615f",
+   "title": "humanlayer/skills",
+   "url": "https://github.com/humanlayer/skills",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-09-05T10:49:49.109779+00:00",
+   "summary": "skills Claude Code skills from HumanLayer . Installation npx skills add humanlayer/skills --skill SKILLNAME Available Skills improve-claude-md Rewrites your CLAUDE.md using important if blocks to improve instruction adherence. npx skills add humanlayer/skills --skill improve-claude-md Then in your project:…",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "0a6cfa93208ef76c",
+   "title": "huangruiteng/loopx",
+   "url": "https://github.com/huangruiteng/loopx",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-09-05T10:49:48.713742+00:00",
+   "summary": "Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses. https://my.feishu.cn/wiki/DPdLwMajaiEmWHky7jhcPOtEnEf LoopX The open, provider-neutral, stateful control plane for long-horizon agents. Runs on top of any agent harness — Codex App, Claude Code, Cursor, dsh, or…",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "600c2a134e600660",
+   "title": "NVIDIA/SkillSpector",
+   "url": "https://github.com/NVIDIA/SkillSpector",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-09-05T10:49:48.711450+00:00",
+   "summary": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them. https://docs.nvidia.com/skills/scanning-agent-skills SkillSpector Security scanner for AI agent…",
+   "matched": [
+    "claude",
+    "mcp",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "b18b533efd4deb94",
+   "title": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-09-05T10:49:48.705350+00:00",
+   "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. https://code.claude.com/docs/en/overview Claude Code Claude Code is an agentic…",
+   "matched": [
+    "claude",
+    "agentic",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "9202bf218bb50f93",
+   "title": "Sumanth077/Hands-On-AI-Engineering",
+   "url": "https://github.com/Sumanth077/Hands-On-AI-Engineering",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-09-05T10:49:48.703189+00:00",
+   "summary": "A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases. https://aiengineering.beehiiv.com 🚀 Hands-On AI Engineering A curated collection of practical, production-ready AI projects across multiple modalities, including language models, multimodal models, OCR…",
+   "matched": [
+    "rag",
+    "ocr"
+   ]
+  },
+  {
+   "uid": "4fc268bb2fe4ed4d",
+   "title": "radixark/miles",
+   "url": "https://github.com/radixark/miles",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-09-05T10:49:48.700716+00:00",
+   "summary": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime. https://miles.radixark.com Enterprise-Grade Reinforcement Learning for Large-Scale Model Post-Training | Website | Documentation | Quick Start | Supported Models | Miles Diffusion |…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "28a394320fe42faf",
+   "title": "ggml-org/llama.cpp b10819 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10819",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-05T10:36:39+00:00",
+   "summary": "metal : fix memory leak in early return (#28399) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10819/llama-b10819-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "6f65c8bd93df1ad0",
+   "title": "ggml-org/llama.cpp b10818 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10818",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-05T09:56:20+00:00",
+   "summary": "sycl : fix test-backend-ops CI break && restore Kronecker product FWHT support (#28016) (#28254) * Reapply \"sycl : add Kronecker product FWHT support for sizes 384, 640, 768, 12…\" (#28184) This reverts commit c845263f8b7d60113e213a3bd2d5cc6472ccf204. * tests : fix unused variable M in test-backend-ops * tests: fix trailing space error and isolate kronecker tests for sycl backend only **Website:**…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "41cc8a204d762441",
+   "title": "ggml-org/llama.cpp b10817 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10817",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-05T09:27:03+00:00",
+   "summary": "sycl: attribute device allocations by site (GGML_SYCL_MEMTRACE) (#27631) define two new environment variables to better understand how much memory is being allocated, and when. This has been invaluable in inproving the --fit algorithm, and is likely to be useful when debugging other memory-related issues. `-lv 4` will be required to enable the following: GGML_SYCL_MEMTRACE=1 will show per-site…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "7a3f0c5de941a07f",
+   "title": "Qwen3.8 27b for agentic coding and next .... what?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7tndw/qwen38_27b_for_agentic_coding_and_next_what/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-05T07:11:20+00:00",
+   "summary": "First, I'd like to thank the Qwen and Unsloth teams for the Qwen3.8 27b UD Q4_K_XL. Fits the poor 24GB of 3090 VRAM with 100k context at Q8 and works phenomenally well! Imho if theres anything that can threaten Anthropic/OpenAI profits is not another frontier model but actually these small ones you can run fast…",
+   "matched": [
+    "anthropic",
+    "qwen",
+    "agentic"
+   ]
+  },
+  {
+   "uid": "85dba56fb0ce5361",
+   "title": "I've found myself using Local LLM's like 3D printers.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7thwv/ive_found_myself_using_local_llms_like_3d_printers/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-05T07:03:10+00:00",
+   "summary": "Anyone who has a 3D printer and get use of it finds it incredibly useful for those odd jobs around the house, a missing bracket, a cable router, steam deck holder and so on. In the past if I was missing an app or useful software, a game I'd do the lazy thing, even though I can and have coded in the past, its effort…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "be509bd945906fc0",
+   "title": "⭐ 99 · nickname21kmr/gameops-investigator (Python)",
+   "url": "https://github.com/nickname21kmr/gameops-investigator",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-09-05T01:07:41+00:00",
+   "summary": "Evidence-first game operations incident investigation agent with read-only MCP tools and reproducible evaluations.",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "87364a50a6d65f15",
+   "title": "pydantic/pydantic-ai v2.40.0 — v2.40.0 (2026-09-04)",
+   "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.40.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-05T00:09:37+00:00",
+   "summary": "## What's Changed ### 🚀 Features * Add `pydantic_ai.prices.update_in_background()` by @adtyavrdhn in https://github.com/pydantic/pydantic-ai/pull/4841 * Handle barge-in in the session: `handle_barge_in=True`, `interrupt(played_bytes=...)`, and `played_audio_bytes` by @DouweM in https://github.com/pydantic/pydantic-ai/pull/7870 * Add `provider_factory` to `infer_realtime_model` by @DouweM in…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "3229003cf9be156b",
+   "title": "The Pelican comparison grid for Astra is pretty interesting",
+   "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-09-04T23:59:05+00:00",
+   "summary": "I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I rendered those pelicans in a comparison grid with GPT-5.6 Sol, Terra, and Luna, and beyond being fun the…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "182a5194dd770880",
+   "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+   "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-09-04T23:38:50+00:00",
+   "summary": "Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90 Comments URL: https://news.ycombinator.com/item?id=49571465 Points: 145 # Comments: 63",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "5b10eb7994a4614f",
+   "title": "ultralytics/ultralytics v8.4.140 — v8.4.140 - Fix grayscale TIFF training channel mismatch (#26061)",
+   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.140",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-04T22:51:25+00:00",
+   "summary": "## 🌟 Summary **v8.4.140** improves training reliability and model-state preservation, led by a fix for grayscale TIFF datasets that could previously crash YOLO26 segmentation training. ## 📊 Key Changes - 🖼️ **Fixed grayscale TIFF channel handling** *(PR #26061, @glenn-jocher)* Single-frame grayscale TIFF images now respect the requested color format. This prevents three-channel models from…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "22f5c299fdec4a8c",
+   "title": "⭐ 284 · useagenthq/useagent (TypeScript)",
+   "url": "https://github.com/useagenthq/useagent",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-09-04T22:47:15+00:00",
+   "summary": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "0424c3762a9e8e36",
+   "title": "anthropics/anthropic-sdk-python v1.4.0",
+   "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.4.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-04T22:20:20+00:00",
+   "summary": "## 1.4.0 (2026-09-04) Full Changelog: [v1.3.0...v1.4.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.3.0...v1.4.0) ### Features * **api:** add Claude Tag category and user breakdowns to usage reports ([9fce1e4](https://github.com/anthropics/anthropic-sdk-python/commit/9fce1e4994e113c35f4a7116d0c5eb90367b9c66)) * **api:** add named types for organization compliance settings state…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "ee58a11658736a6c",
+   "title": "anthropics/claude-code v2.1.261",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.261",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-04T19:58:10+00:00",
+   "summary": "## What's changed - Added an \"Organization policy\" line to `/status` and `claude doctor` that says why your organization's policy could not be loaded, such as a proxy not passing the endpoint through - Added `bashOutputMaxChars` and `taskOutputMaxChars` settings to raise how much command and background-task output Claude receives inline before it is saved to a file, up to 128K characters - Added…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "d7767569de7b4746",
+   "title": "ggml-org/llama.cpp b10816 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10816",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-04T19:57:56+00:00",
+   "summary": "metal : add remaining fa-vec tunings for M3 (#28396) * addition of m3 in fa_vec_tuned_table * adding q4_0,q4_1,q5_0,q5_1 in ggml-metal-tuning * Fix formatting in ggml-metal-tuning.cpp **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10816/llama-b10816-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64,…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "00d687ad36ad2790",
+   "title": "ggml-org/llama.cpp v0.4.0",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.4.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-04T19:56:47+00:00",
+   "summary": "## Overview llama.cpp 0.4.0 adds initial Qwen3.8-Flash-Next and Nemotron-3-Puzzle support, on-demand tensor reading, per-slot server context limits, video input options, and a ggml update to 0.23.0 with major sparse flash attention and RDMA work. ### API changes - Added `llama_lazy_mode` and `lazy_mode` ([#27794](https://github.com/ggml-org/llama.cpp/pull/27794)). - Added `max_buf_size` to…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "af6eb19a311fd70b",
+   "title": "⭐ 488 · codejunkie99/fable-orchestrator (Shell)",
+   "url": "https://github.com/codejunkie99/fable-orchestrator",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-09-04T19:50:23+00:00",
+   "summary": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
+   "matched": [
+    "gpt-5",
+    "deepseek",
+    "fable"
+   ]
+  },
   {
    "uid": "e5b44a600947456e",
    "title": "vercel-labs/agent-browser",
@@ -291,6 +608,18 @@
    "summary": "Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being trained by OpenAI. This time it was agents engaged in some sort of web research benchmark, so they had (supposedly)…",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "b2e690972356c005",
+   "title": "Nobody is saying why OpenAI and Anthropic had outages",
+   "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-09-04T17:29:22+00:00",
+   "summary": "https://archive.ph/3zcMG Comments URL: https://news.ycombinator.com/item?id=49567594 Points: 195 # Comments: 4",
+   "matched": [
+    "anthropic"
    ]
   },
   {
@@ -1277,326 +1606,7 @@
    "matched": [
     "rag"
    ]
-  },
-  {
-   "uid": "0d053a76c14f0ea0",
-   "title": "EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering",
-   "url": "https://arxiv.org/abs/2509.25175",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2509.25175v3 Announce Type: replace Abstract: Large language model (LLM) steering has emerged as a promising paradigm for controlling model behavior at inference time through targeted manipulation of hidden states, offering a lightweight alternative to expensive retraining. However, existing steering frameworks…",
-   "matched": [
-    "llm",
-    "inference"
-   ]
-  },
-  {
-   "uid": "18f72bbe1f4943bc",
-   "title": "User Perceptions vs. Proxy LLM Judges: Privacy and Helpfulness in LLM Responses to Privacy-Sensitive Scenarios",
-   "url": "https://arxiv.org/abs/2510.20721",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2510.20721v4 Announce Type: replace Abstract: Large language models (LLMs) are rapidly being adopted for tasks like drafting emails, summarizing meetings, and answering health questions. In these settings, users may need to share private information (e.g., contact details, health records). To evaluate LLMs'…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "9bb8b51a21cbac50",
-   "title": "Towards Multi-modal Multi-turn Safety: From Agentic Interaction to Strategic Alignment",
-   "url": "https://arxiv.org/abs/2601.04736",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2601.04736v2 Announce Type: replace Abstract: Despite remarkable capability in multi-modal understanding, deploying Multi-modal Large Language Models (MLLMs) in open-ended conversational scenarios introduces safety risks that remain poorly addressed by existing alignment methods. Unlike simple malicious visual…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "66c1d148a49e4400",
-   "title": "HOMURA: Taming the Sand-Glass for Time-Constrained LLM Translation via Reinforcement Learning",
-   "url": "https://arxiv.org/abs/2601.10187",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2601.10187v3 Announce Type: replace Abstract: Large Language Models (LLMs) have achieved remarkable strides in multilingual translation but are hindered by a systemic cross-lingual verbosity bias, rendering them unsuitable for strict time-constrained tasks like subtitling and dubbing. Current prompt-engineering…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "32ded3a10d85ce0c",
-   "title": "The Age of Curiosity Meets the Age of AI: Benchmarking Child Safety in Large Language Models",
-   "url": "https://arxiv.org/abs/2605.25510",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2605.25510v3 Announce Type: replace Abstract: Children increasingly have access to Large Language Models (LLMs), which may expose them to responses that are developmentally inappropriate or require age-sensitive safety, guidance, and boundaries. Existing LLM safety evaluations largely focus on general…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "ceaabdb3229d5005",
-   "title": "EmoDistill: Offline Emotion Skill Distillation for Language Model Agents in Adversarial Negotiation",
-   "url": "https://arxiv.org/abs/2605.26785",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2605.26785v2 Announce Type: replace Abstract: Post-trained LLMs are often optimized to produce helpful, polite, and accommodating responses. In adversarial negotiation, however, such behavior can become a vulnerability: emotionally framed language may influence an agent's bargaining decisions in ways that…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "f7fa96e67616562e",
-   "title": "Skill-Conditioned Gated Self-Distillation for LLM Reasoning",
-   "url": "https://arxiv.org/abs/2605.28791",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2605.28791v4 Announce Type: replace Abstract: On-policy self-distillation (SD) improves LLM reasoning by using teacher-side privileged information (PI) to turn sparse verifier outcomes into dense token-level supervision. Existing methods usually assume trusted PI, such as reference answers or successful traces.…",
-   "matched": [
-    "llm",
-    "distillation"
-   ]
-  },
-  {
-   "uid": "b1ad56b0342cb882",
-   "title": "Fixing FOLIO and MALLS: Verified Annotations and an LLM-assisted Framework to Focus Human Relabeling",
-   "url": "https://arxiv.org/abs/2606.02837",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2606.02837v2 Announce Type: replace Abstract: Accurate translation from Natural Language to First-Order Logic (NL-to-FOL) underpins neurosymbolic AI systems and Natural Language Inference (NLI), making the quality of NL-to-FOL benchmarks essential---yet these datasets have never been rigorously audited. Our…",
-   "matched": [
-    "llm",
-    "inference"
-   ]
-  },
-  {
-   "uid": "cad9a0aebe72b11e",
-   "title": "EDIT: Evidence-Diagnosed Intervention Training for Rule-Faithful LLM Grading",
-   "url": "https://arxiv.org/abs/2606.06350",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2606.06350v2 Announce Type: replace Abstract: Reliable rubric grading requires more than accurate score prediction. Each judgement must be grounded in the mark scheme and evidence from the student answer. Existing credit-assignment and intervention methods, primarily designed for self-contained reasoning tasks…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "ada534260608e7c6",
-   "title": "Learning What Not to Forget: Long-Horizon Agent Memory from a Few Kilobytes of Learning",
-   "url": "https://arxiv.org/abs/2606.20954",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2606.20954v2 Announce Type: replace Abstract: Long-running language-model systems accumulate interaction history that outgrows the context window, so they must continually evict. When an eviction policy drops a task-critical detail, for example an access token issued at login or a path the next call needs, the…",
-   "matched": [
-    "context window"
-   ]
-  },
-  {
-   "uid": "77cff3ace1c7cb01",
-   "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
-   "url": "https://arxiv.org/abs/2607.13027",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2607.13027v2 Announce Type: replace Abstract: Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent systems run on desktops or servers, which support tool use and task…",
-   "matched": [
-    "llm",
-    "agent framework",
-    "tool use"
-   ]
-  },
-  {
-   "uid": "3f4f296f44582d05",
-   "title": "TRACE: A Self-Evolving Skill Bank for Consistent, Limit-Aware LLM Agents",
-   "url": "https://arxiv.org/abs/2608.22793",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2608.22793v2 Announce Type: replace Abstract: Reliable deployment of LLM agents in user-facing products depends not on raw task-solving ability but on consistency and limit-awareness: behaving the same way across repeated trials, and recognizing when a request cannot, or cannot yet, be safely fulfilled.…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "2544bf9915976622",
-   "title": "Budget-Aware Compression Pipeline for Single-GPU LLM Inference: Methods, Trade-offs, and Coupling Effects",
-   "url": "https://arxiv.org/abs/2608.30076",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2608.30076v2 Announce Type: replace Abstract: Single-GPU deployment of 70B-parameter language models on an NVIDIA GPU is constrained by device memory, long-context throughput, and engineering integration cost. We cast single-GPU inference as a budget-aware design problem over these three axes and study how…",
-   "matched": [
-    "llm",
-    "inference"
-   ]
-  },
-  {
-   "uid": "0d5aea0e2b60d892",
-   "title": "Grammar-Aligned Decoding",
-   "url": "https://arxiv.org/abs/2405.21047",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2405.21047v4 Announce Type: replace-cross Abstract: Large Language Models (LLMs) struggle with reliably generating highly structured outputs, such as program code, mathematical formulas, or well-formed markup. Constrained decoding approaches mitigate this problem by greedily restricting what tokens an LLM can…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "3f585a871da0b898",
-   "title": "LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models",
-   "url": "https://arxiv.org/abs/2503.03313",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2503.03313v4 Announce Type: replace-cross Abstract: Text-Attributed Graphs (TAGs), where each node is associated with text descriptions, are ubiquitous in real-world scenarios. They typically exhibit distinctive structure and domain-specific knowledge, motivating the development of a Graph Foundation Model (GFM)…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "077322e447b40c8c",
-   "title": "CoMAP: Co-Evolving World Models and Agent Policies for LLM Agents",
-   "url": "https://arxiv.org/abs/2606.02372",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2606.02372v2 Announce Type: replace-cross Abstract: Equipping language agents with world models enables them to anticipate environment dynamics and evaluate candidate actions before execution. However, existing textual world models are typically fixed after training, preventing them from adapting to the…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "b7ae35e94a461483",
-   "title": "TEVI: Text-Conditioned Editing of Visual Representations via Sparse Autoencoders for Improved Vision-Language Alignment",
-   "url": "https://arxiv.org/abs/2606.07451",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2606.07451v2 Announce Type: replace-cross Abstract: Vision-language models such as CLIP are highly useful for diverse tasks due to their shared image-text embedding space. Despite this, the image and text embeddings are often poorly aligned, affecting downstream performance. Recent work has hypothesized that…",
-   "matched": [
-    "embedding"
-   ]
-  },
-  {
-   "uid": "cd78c713736c7ca3",
-   "title": "LLMZero: Discovering Adaptive Training Strategies for RL Post-Training via LLM Agents",
-   "url": "https://arxiv.org/abs/2606.18388",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2606.18388v2 Announce Type: replace-cross Abstract: RL post-training strategies are dataset-dependent and reveal a recurring empirical pattern: capacity parameters accumulate monotonically across stages, while regularization parameters predominantly oscillate in response to shifting training dynamics. This…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "5688a891e2136bd6",
-   "title": "Structured Inference with Large Language Gibbs",
-   "url": "https://arxiv.org/abs/2606.19264",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2606.19264v2 Announce Type: replace-cross Abstract: The knowledge encoded in large language models (LLMs) can serve as a substrate for structured reasoning over variables describing a complex world, but accessing this knowledge in a probabilistically coherent manner poses a difficult inference problem. We…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "9849e32bf5de6d1d",
-   "title": "Beyond Compilation: Evaluating Faithful Natural-Language-to-Lean Statement Formalization",
-   "url": "https://arxiv.org/abs/2606.31002",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2606.31002v2 Announce Type: replace-cross Abstract: Lean verifies that a generated declaration is well typed, but not that it expresses the statement a user intended. We study two questions for autoformalization without canonical Lean targets: whether LLM judges can provide a usable proxy for human semantic…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "4595c0f38a85864c",
-   "title": "IDSPACE: A Novel Document Generator for Reliable Evaluation of Digital Identity Verification Systems [Extended Technical Report]",
-   "url": "https://arxiv.org/abs/2609.03052",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.03052v1 Announce Type: new Abstract: As services move online, trust institutions such as banks, lenders, and governments must verify the identity of remote users. Fraud detection tools are widely available, but evaluating and fine-tuning them remains difficult because identity documents are sensitive and…",
-   "matched": [
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "d84441bdb753085d",
-   "title": "Position: Unlabeled IS NOT Equal to No Human Supervision in Visual Learning",
-   "url": "https://arxiv.org/abs/2609.03077",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.03077v1 Announce Type: new Abstract: This position paper argues that the absence of labels does not imply the absence of human supervision in visual learning, and urges the research community to identify sources of supervision more explicitly. Many recent methods in computer vision build upon…",
-   "matched": [
-    "computer vision"
-   ]
-  },
-  {
-   "uid": "8adc66147fcb981f",
-   "title": "Exemplar: Classical Priors Complement Frozen Features for Few-Shot Microscopy Segmentation at Native Resolution",
-   "url": "https://arxiv.org/abs/2609.03080",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.03080v1 Announce Type: new Abstract: Segmenting a new biomedical dataset usually means a domain-specific model trained on substantial annotation, or a foundation model steered at inference time. We present Exemplar, a few-shot segmenter that fuses a frozen DINOv3 backbone with a fixed bank of classical…",
-   "matched": [
-    "inference",
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "0e7f27fa90e1f302",
-   "title": "WireSeg-32K: A Physics-Grounded Synthetic Dataset for Wire Instance Segmentation",
-   "url": "https://arxiv.org/abs/2609.03102",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.03102v1 Announce Type: new Abstract: Deformable linear objects such as wires and cables are difficult to segment because they are thin, highly deformable, and frequently self-occluded, while large-scale instance-level annotations are expensive to obtain in real scenes. Existing resources either focus on…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "138025c1d7df7d5e",
-   "title": "SLIDEFORGE: An LLM Agent for Controllable Editing of Slides as Structured Artifacts",
-   "url": "https://arxiv.org/abs/2609.03109",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.03109v1 Announce Type: new Abstract: Current AI agents compellingly describe slides. However, AI-assisted slide editing requires more than understanding: the output must retain layout, style, component structure, and native editability. Towards, AI-assisted slide editing, existing agents operate on…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "051df2ec66e6fbfb",
-   "title": "VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement",
-   "url": "https://arxiv.org/abs/2609.03153",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.03153v1 Announce Type: new Abstract: Visual fluency in generated video does not imply physical reliability, and a scalar quality score alone is incapable of indicating the obligation a clip violates or the moment it fails. We present VeriPhy, an auditable physical-verification system in which a text-only…",
-   "matched": [
-    "agentic"
-   ]
   }
  ],
- "last_run": "2026-09-04T19:47:10.434819+00:00"
+ "last_run": "2026-09-05T10:50:03.043826+00:00"
 }
