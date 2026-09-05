@@ -1,5 +1,13 @@
 {
  "seen": [
+  "9a93b070e10180a4",
+  "c7b8e93ecca37dd1",
+  "4f39265fd5194462",
+  "ff76f6354dfd1141",
+  "36c3712c92ab8b75",
+  "f76513aad2bab8af",
+  "d2fd0d3230b83a83",
+  "21c981be11c03957",
   "3a9f572d412c4820",
   "3e4e826efb5a6c8a",
   "3ba63d61176bd48e",
@@ -10,6 +18,7 @@
   "9202bf218bb50f93",
   "4fc268bb2fe4ed4d",
   "28a394320fe42faf",
+  "2dab04e765329f8c",
   "6f65c8bd93df1ad0",
   "41cc8a204d762441",
   "7a3f0c5de941a07f",
@@ -110,18 +119,106 @@
   "0e3fec42ed719e57",
   "21dddd5e7aedb722",
   "fd6ae1909cabb97b",
-  "13fa21287f6aa83e",
-  "57ffe1ece08b0e46",
-  "8d39aa7a3a7c44c7",
-  "5b9762c901543398",
-  "b4d08c303fdf5d3b",
-  "e81165323f6cd56e",
-  "84da436c6203c5a1",
-  "52cfc4f8a2fc00dd",
-  "444d6cef49bde801",
-  "a68ca431054f9e49"
+  "13fa21287f6aa83e"
  ],
  "items": [
+  {
+   "uid": "9a93b070e10180a4",
+   "title": "Any resource on using Blender with local models, and which models work best?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w86wqp/any_resource_on_using_blender_with_local_models/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-05T17:29:50+00:00",
+   "summary": "Hey all, I've seen some really fun looking things with people having their local models drive Blender to create pretty cool looking world scenes. Is there a good tutorial on setting up Blender yo be driven by your model? For example, what programming harness, do you use a MCP and which? Which model would work best?…",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "c7b8e93ecca37dd1",
+   "title": "ultralytics/ultralytics v8.4.141 — v8.4.141 - Update Axelera SDK to 1.8.0 and support batched inference (#26065)",
+   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.141",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-05T17:08:17+00:00",
+   "summary": "## 🌟 Summary **Ultralytics 8.4.141 updates Axelera support to Voyager SDK 1.8.0, adds batched inference, and improves model compatibility, dependency management, and CI reliability.** 🚀 ## 📊 Key Changes - **Axelera integration upgraded to Voyager SDK 1.8.0** 🔧 - Export and inference now use matching `axelera-devkit` and `axelera-rt` 1.8.0 packages. - Axelera export environments move to **Python…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "4f39265fd5194462",
+   "title": "Otaku — an LLM frontend",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w85blf/otaku_an_llm_frontend/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-05T16:29:27+00:00",
+   "summary": "Otaku is an LLM frontend, primarily designed for roleplay, an alternative to SillyTavern and the like. However, It also works for general-purpose chat with local backends (including Ollama) or cloud models, the way Open WebUI is used, once lore extraction is switched off in the settings. Otaku offers two interfaces: a…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "ff76f6354dfd1141",
+   "title": "Using Blender with coding agents on macOS",
+   "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-09-05T15:51:09+00:00",
+   "summary": "TIL: Using Blender with coding agents on macOS I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: install the full Mac application from blender.org and run a prompt like this: Use the already install /Applications/Blender to render a scene of a…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "36c3712c92ab8b75",
+   "title": "gfx906-llama-cpp: New PP/TG gains for MI50/MI60/Radeon VII/AMD GCN",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w82kpd/gfx906llamacpp_new_pptg_gains_for_mi50mi60radeon/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-05T14:42:21+00:00",
+   "summary": "Time for another update! We have been busy and managed to improve the gains substantially (mostly from exploring existing llama cpp PRs and adopting relevant things). Among other things the README.md was also appended to provide a better overall picture of what’s in the fork, why and from whom. metric upstream t/s…",
+   "matched": [
+    "llama"
+   ]
+  },
+  {
+   "uid": "f76513aad2bab8af",
+   "title": "NInfer vs llama.cpp vs vLLM: quality + speed comparison for Qwen3.8-27B NVFP4 on RTX 5090",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w821fg/ninfer_vs_llamacpp_vs_vllm_quality_speed/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-05T14:20:25+00:00",
+   "summary": "I've been running Qwen3.8-27B as a local inference server for a production content intelligence pipeline (HVAC industry stuff, lots of long-context retrieval and structured extraction). I have been watching other redditors post their custom configurations, and I wanted to share what I tested to optimize for a single…",
+   "matched": [
+    "llama",
+    "inference"
+   ]
+  },
+  {
+   "uid": "d2fd0d3230b83a83",
+   "title": "Qwen3.8-Flash-Next (UD-Q4_K_XL) on a single RTX 3090 24GB + 128GB DDR4, is this config optimal?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7zz1o/qwen38flashnext_udq4_k_xl_on_a_single_rtx_3090/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-05T12:52:58+00:00",
+   "summary": "Qwen3.8-Flash-Next (UD-Q4_K_XL) on a single RTX 3090 24GB + 128GB DDR4 — is this config optimal? Hardware CPU: Intel Core i5-12600K RAM: 128 GB DDR4 @ 3600 MHz GPU: NVIDIA RTX 3090, 24 GB VRAM OS: Windows 11 llama.cpp: freshly compiled from today's master (build b10794, Sep 4 2026) Model Qwen3.8-Flash-Next, UD-Q4_K_XL…",
+   "matched": [
+    "llama"
+   ]
+  },
+  {
+   "uid": "21c981be11c03957",
+   "title": "local vibecoding with Qwen 3.8 27B and Godot",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7xso4/local_vibecoding_with_qwen_38_27b_and_godot/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-05T11:07:16+00:00",
+   "summary": "OK, you guys want to start with local vibecoding but don't know how. In the discussions, you recommended that I use Godot. I downloaded it without knowing what it was. I was expecting a library, but it was an .exe file. So I started pi with Qwen 3.8 27B and told it to explore this topic without my help. I needed to…",
+   "matched": [
+    "qwen"
+   ]
+  },
   {
    "uid": "3a9f572d412c4820",
    "title": "farion1231/cc-switch",
@@ -251,6 +348,18 @@
    "summary": "metal : fix memory leak in early return (#28399) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10819/llama-b10819-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "2dab04e765329f8c",
+   "title": "Qwen3.8 27B on Strix - the optimized setup",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7wte4/qwen38_27b_on_strix_the_optimized_setup/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-05T10:13:14+00:00",
+   "summary": "Ever since u/jfowers_amd has asked me to help with the Lemonade project (and provided some hardware to test on), I've been trying my best to optimize llama.cpp for AMD setups. This has led me in some very weird pathways where I wasn't expecting to go, but in the end I'm happy to share an optimized setup for the most…",
+   "matched": [
+    "llama"
    ]
   },
   {
@@ -1496,117 +1605,7 @@
    "matched": [
     "inference"
    ]
-  },
-  {
-   "uid": "57ffe1ece08b0e46",
-   "title": "Speak for Me: Giving LLMs the Situational Awareness to Participate in a Meeting",
-   "url": "https://arxiv.org/abs/2609.03923",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.03923v1 Announce Type: cross Abstract: In online meeting delegation, LLM agents fail to recognize when to speak. With no structured way to track stances, coverage, and floor, they miss the moments where they should contribute. Prompt-only delegates stay silent on 51.4% of the absent participant's talking…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "8d39aa7a3a7c44c7",
-   "title": "Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO",
-   "url": "https://arxiv.org/abs/2609.03941",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.03941v1 Announce Type: cross Abstract: RL-based post-training for reasoning models is increasingly bottlenecked by repeated fresh rollout generation, particularly in agentic settings where environment interaction dominates wall-clock cost. Replay can reduce this burden by reusing past trajectories, but…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "5b9762c901543398",
-   "title": "Instruction Duplication as an Inference-Time Control Primitive",
-   "url": "https://arxiv.org/abs/2609.04024",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.04024v1 Announce Type: cross Abstract: Procedural instruction following is a basic requirement for controllable language-model systems, especially when generated trajectories are inspected or repaired downstream. We introduce instruction duplication, a minimal black-box inference-time control that repeats…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "b4d08c303fdf5d3b",
-   "title": "The Dice Roll Method: A Standardized Protocol for Repeated-Query Auditing of Large Language Model Brand Recommendations",
-   "url": "https://arxiv.org/abs/2609.04047",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.04047v1 Announce Type: cross Abstract: Background: Researchers increasingly use repeated identical prompts to audit stochastic variation in large language model (LLM) brand recommendations, yet no standardized protocol exists for setting iteration counts, selecting stability metrics, or establishing…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "e81165323f6cd56e",
-   "title": "CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation",
-   "url": "https://arxiv.org/abs/2609.04083",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.04083v1 Announce Type: cross Abstract: MLLM-based embedding models remain limited in compositional retrieval, often failing to distinguish scenes containing the same concepts but different attribute-object bindings. Yet the same backbone can resolve such distinctions when used as a cross-attentive reranker,…",
-   "matched": [
-    "distillation",
-    "embedding"
-   ]
-  },
-  {
-   "uid": "84da436c6203c5a1",
-   "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
-   "url": "https://arxiv.org/abs/2609.04172",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.04172v1 Announce Type: cross Abstract: On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of training data unclear. We examine this role at the data-minimal limit by…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "52cfc4f8a2fc00dd",
-   "title": "AgentRM: Enhancing Agent Generalization with Reward Modeling",
-   "url": "https://arxiv.org/abs/2502.18407",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2502.18407v2 Announce Type: replace Abstract: Existing LLM-based agents have achieved strong performance on held-in tasks, but their generalizability to unseen tasks remains poor. Hence, some recent work focus on fine-tuning the policy model with more diverse tasks to improve the generalizability. In this work,…",
-   "matched": [
-    "llm",
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "444d6cef49bde801",
-   "title": "Human Psychometric Questionnaires Mischaracterize LLM Behavior",
-   "url": "https://arxiv.org/abs/2509.10078",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2509.10078v5 Announce Type: replace Abstract: We examine whether human psychometric questionnaires can serve as reliable tools for characterizing and predicting LLM behavior in everyday user interactions. We analyze eight open-source LLMs by comparing their value and personality profiles derived from two…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "a68ca431054f9e49",
-   "title": "Causal-Counterfactual RAG: The Integration of Causal-Counterfactual Reasoning into RAG",
-   "url": "https://arxiv.org/abs/2509.14435",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2509.14435v3 Announce Type: replace Abstract: Large language models (LLMs) have transformed natural language processing (NLP), enabling diverse applications by integrating large-scale pre-trained knowledge. However, their static knowledge limits dynamic reasoning over external information, especially in…",
-   "matched": [
-    "rag"
-   ]
   }
  ],
- "last_run": "2026-09-05T10:50:03.043826+00:00"
+ "last_run": "2026-09-05T19:15:23.439641+00:00"
 }
