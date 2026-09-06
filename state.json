@@ -1,5 +1,16 @@
 {
  "seen": [
+  "f955d2a98db03562",
+  "0d094b142b2b38cc",
+  "f050add3f1a80e6b",
+  "e78010afbafb6cad",
+  "8a821c0dea2cfa1f",
+  "d7c25f6b20421551",
+  "06a335af77b6304b",
+  "13359fa16acb30d3",
+  "0829595add0c9eea",
+  "fec6e6299ef07244",
+  "6653f9d9847e3994",
   "7d5dd8b1f9720c85",
   "e25aaf57fbebce4b",
   "5b9165e37730d163",
@@ -8,11 +19,17 @@
   "528ceb67be454e88",
   "f00904cfd1b362cf",
   "296908c3afa8831a",
+  "574da7912d7df68b",
+  "c53f95410e913b5c",
   "5c7eb4dfea20074b",
   "5890bfbd49e9d4ae",
   "ad30388858a433fe",
+  "79e027be90408e60",
+  "269a493483231c19",
+  "27d3744fe81caa8c",
   "e9d403ba0344bc43",
   "e04dd90a5f179fdc",
+  "97e7697caf0fef05",
   "9ee62854d72086de",
   "0aca85e9f30e0632",
   "c593e5538a8fadb3",
@@ -102,26 +119,145 @@
   "072174abaa8f0abf",
   "c0c182d461045929",
   "0adcefcac1ba7ae7",
-  "0814126f00f37a79",
-  "cb0556cccbc3f2ed",
-  "9c8278f7e90d92a5",
-  "4ce6264dde61973f",
-  "934f78a6af4fd209",
-  "fc0a488387843225",
-  "5c23d42dc4c9e6c9",
-  "735e31efc922d295",
-  "624f95be9ea0353a",
-  "6c00e94c186dad08",
-  "c6978b478ba7c275",
-  "88fcebdfbac8b71c",
-  "985c2bdf3fe59742",
-  "69b884856df4426f",
-  "141d3b3176b76700",
-  "7c909c20dc562522",
-  "3b0933d920ca8c72",
-  "646fad475a53bb56"
+  "0814126f00f37a79"
  ],
  "items": [
+  {
+   "uid": "f955d2a98db03562",
+   "title": "Expert expansion with llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9404e/expert_expansion_with_llamacpp/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-06T18:27:45+00:00",
+   "summary": "With the help of Glm 5.3 flash I built a custom branch of llama.cpp in order to support Expert expansion with MOE models, I've tested only on metal and It works better than my DS4 version , i need feedback from other platforms, and different models. moex-expansion submitted by /u/Specific-Tax-6700 [link] [comments]",
+   "matched": [
+    "llama"
+   ]
+  },
+  {
+   "uid": "0d094b142b2b38cc",
+   "title": "2x R9700, 64 GB DDR5 is an absolute beast machine with vLLM Radiance / R9V and Qwen 3.8 27b and Flash next",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w92x3j/2x_r9700_64_gb_ddr5_is_an_absolute_beast_machine/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-06T17:48:00+00:00",
+   "summary": "I've been tinkering with local LLMs since the beginning of the year when I had an Intel Arc B580 and 32 GB of DDR5. Curiosity got the best of me and I bought the first R9700 about half a year ago, also because I wanted to upgrade my gaming graphics for 4k. As the 5090 was about 3 times as expensive, I had a sweet spot…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "f050add3f1a80e6b",
+   "title": "ggml-org/llama.cpp b10826 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10826",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-06T16:40:14+00:00",
+   "summary": "cuda: fixes races in mmid and mmf (#28475) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10826/llama-b10826-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "e78010afbafb6cad",
+   "title": "[Model] Support for Spark2_5ForCausalLM implementation by KnightYao · Pull Request #27868 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w90zdc/model_support_for_spark2_5forcausallm/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-06T16:36:52+00:00",
+   "summary": "https://huggingface.co/XHToken/Spark-X2.5-4B-GGUF https://huggingface.co/XHToken/Spark-X2.5-1.7B-GGUF from XHToken: We are introducing Spark-X2.5-4B and Spark-X2.5-1.7B, two compact, general-purpose language models designed to make capable AI more practical, efficient, and accessible. The models deliver strong…",
+   "matched": [
+    "llama"
+   ]
+  },
+  {
+   "uid": "8a821c0dea2cfa1f",
+   "title": "Using GPT Astra to teach Qwen Next how to sculpt in 3D in Blender.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w90igd/using_gpt_astra_to_teach_qwen_next_how_to_sculpt/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-06T16:19:19+00:00",
+   "summary": "Instead of distillation, fine-tuning, etc., I found a faster approach: having Codex+Astra to teach OpenCode + MCP Blender to make the modifications. Goal: achieve the same result using specific skills and steps. Astra is phenomenal, just as phenomenal as it is at quickly burning through your Pro quota. Qwen Next is a…",
+   "matched": [
+    "qwen",
+    "fine-tuning",
+    "distillation",
+    "mcp"
+   ]
+  },
+  {
+   "uid": "d7c25f6b20421551",
+   "title": "The purpose of DNS is to spread scams",
+   "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-09-06T14:40:07+00:00",
+   "summary": "The purpose of DNS is to spread scams Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on people at a terrifyingly high rate\". On this Interisle report ( via Andrew Campling ), Terence says: It says 85 million new…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "06a335af77b6304b",
+   "title": "ggml-org/llama.cpp b10825 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10825",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-06T13:22:26+00:00",
+   "summary": "grammar : fix max repetition threshold (#28469) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10825/llama-b10825-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "13359fa16acb30d3",
+   "title": "8 uncensored Qwen 3.8 27B variants, one base, 167 GPU hours - Abliterlitics",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8vx6w/8_uncensored_qwen_38_27b_variants_one_base_167/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-06T13:15:22+00:00",
+   "summary": "This comparison was requested by a few people, and certainly we were all eager to see the final results. The comparison had taken 11 days and the GPU was crunching numbers for ~167 hours. We've been comparing different abliterated models from huggingface to see if they really are what they claim to be. So far the…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "0829595add0c9eea",
+   "title": "⭐ 616 · vinzdg/codenotch (Swift)",
+   "url": "https://github.com/vinzdg/codenotch",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-09-06T12:05:14+00:00",
+   "summary": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "fec6e6299ef07244",
+   "title": "ggml-org/llama.cpp b10823 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10823",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-06T11:57:39+00:00",
+   "summary": "common: add --log-jsonl (#28437) * common: add --log-jsonl * rename unknown to none **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10823/llama-b10823-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "6653f9d9847e3994",
+   "title": "ggml-org/llama.cpp b10822 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10822",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-06T11:30:39+00:00",
+   "summary": "ui : embed assets directly with CMake (#28445) Remove the build-time C++ helper and external gzip dependency, simplifying cross-compilation. Keep the generated C++ in templates for readability and preserve fully embedded UI assets. Signed-off-by: Adrien Gallouët **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…",
+   "matched": [
+    "*"
+   ]
+  },
   {
    "uid": "7d5dd8b1f9720c85",
    "title": "ai-dynamo/dynamo",
@@ -226,6 +362,30 @@
    ]
   },
   {
+   "uid": "574da7912d7df68b",
+   "title": "48 tg/s 440 prefill on my grandma's cluster (2xP40) (sort of)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8sqp3/48_tgs_440_prefill_on_my_grandmas_cluster_2xp40/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-06T10:38:48+00:00",
+   "summary": "TL;DR: switching KV cache to f16 may give a boost in speed if using MTP and ngrams. I have a self-built AI mega-cluster with 2x P40s on a cheap Chinese motherboard and a Xeon CPU (around $1,100 to build, including water cooling for the GPUs). I was normally getting up to 15 tk/s with Qwen 3.8 27B Dense using a tensor…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "c53f95410e913b5c",
+   "title": "LLM regression in reading comprehension?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8s8bn/llm_regression_in_reading_comprehension/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-06T10:10:38+00:00",
+   "summary": "I only use free tiers of these large models to offset compute while my own system runs and for different points of view, since what pops ups suggestions seems to vary a lot sometimes, even when building based on the latest research. But now I've really struck out with GLM 5.3. So far it feels like an regression over…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
    "uid": "5c7eb4dfea20074b",
    "title": "ggml-org/llama.cpp b10821 (pre)",
    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10821",
@@ -264,6 +424,42 @@
    ]
   },
   {
+   "uid": "79e027be90408e60",
+   "title": "Which qwen for vllm?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8rhv0/which_qwen_for_vllm/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-06T09:29:05+00:00",
+   "summary": "Hugging face has over 300 versions of qwen3.8-27b. I have no idea how to identify the beat model to download and use. Should I sort by “most likes” or “most downloads”? Is there any sort of other guidance on which model to select? I’m finally getting my local linux box up and running and just realized that actually…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "269a493483231c19",
+   "title": "There's No Limit to How Bad Code Can Get",
+   "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-09-06T09:08:06+00:00",
+   "summary": "My comment on There s No Limit to How Bad Code Can Get Lobste.rs. [In reply to a comment about burning it down to start from scratch when technical debt becomes overwhelming] In my experience it's so rare for that to work. You announce the old thing is irrecoverably drowning in tech debt. You spin up a team to rewrite…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "27d3744fe81caa8c",
+   "title": "An Alien Mind",
+   "url": "https://openai.com/index/an-alien-mind",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-09-06T09:00:00+00:00",
+   "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
    "uid": "e9d403ba0344bc43",
    "title": "Quoting Zach Kehs",
    "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
@@ -287,6 +483,18 @@
     "qwen",
     "llm",
     "inference"
+   ]
+  },
+  {
+   "uid": "97e7697caf0fef05",
+   "title": "Research acceleration: The view inside OpenAI",
+   "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-09-06T08:00:00+00:00",
+   "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+   "matched": [
+    "*"
    ]
   },
   {
@@ -1412,213 +1620,7 @@
    "matched": [
     "fine-tuning"
    ]
-  },
-  {
-   "uid": "cb0556cccbc3f2ed",
-   "title": "ViSAR: Training-Free Adaptive-$k$ Retrieval for Visual Document Question Answering",
-   "url": "https://arxiv.org/abs/2609.02486",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.02486v2 Announce Type: replace-cross Abstract: Document Visual Question Answering (DocVQA) often leverages Retrieval-Augmented Generation (RAG), where late-interaction encoders are commonly used to identify document pages relevant to a user query, before answer generation by a Large Vision-Language Model…",
-   "matched": [
-    "rag"
-   ]
-  },
-  {
-   "uid": "9c8278f7e90d92a5",
-   "title": "Where Does Harness-Optimization Value Live? Localized Gains and the Budget-Splitting Trap in Self-Evolving LLM Agents",
-   "url": "https://arxiv.org/abs/2609.02889",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.02889v1 Announce Type: new Abstract: A growing body of work improves frozen large language models (LLMs) as agents by evolving their harness: the textual scaffolding around the model, including persona, strategy, format rules, and control heuristics. Existing reflective prompt-evolution methods usually…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "4ce6264dde61973f",
-   "title": "Bounded Personas Match Retrieval on Classification but Not Regression for a Frozen Agent",
-   "url": "https://arxiv.org/abs/2609.02890",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.02890v1 Announce Type: new Abstract: A personalized language agent must convert a user's interaction history into behavior on each new request at inference time. Two strategies dominate. Retrieval pulls a few of the user's most relevant past items into the prompt, which is accurate but pays a per-query…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "934f78a6af4fd209",
-   "title": "Probe Generalization as Subspace Selection for OOD Deception Detection",
-   "url": "https://arxiv.org/abs/2609.02893",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.02893v1 Announce Type: new Abstract: Linear probes can be used to detect behaviors and concepts inside language model activations, but may fail to transfer to out-of-distribution examples. When studying the generalization performance of Llama-3.1-8B-Instruct probes over 3 held-out deception detection…",
-   "matched": [
-    "llama"
-   ]
-  },
-  {
-   "uid": "fc0a488387843225",
-   "title": "R$^{2}$Adapter: A Routing and Rewriting Adapter for Efficient Hybrid RAG",
-   "url": "https://arxiv.org/abs/2609.02894",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.02894v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) has become a prevailing paradigm for enhancing Large Language Models (LLMs) with non-parametric knowledge. Vanilla RAG efficiently handles simple queries but struggles with relational or multi-hop reasoning. Graph-based RAG alleviates…",
-   "matched": [
-    "rag"
-   ]
-  },
-  {
-   "uid": "5c23d42dc4c9e6c9",
-   "title": "Margins, Not Windows: Training-Free Per-Step Lossy Speculative Decoding",
-   "url": "https://arxiv.org/abs/2609.02897",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.02897v1 Announce Type: new Abstract: Speculative decoding accelerates LLM inference by drafting candidate tokens and verifying them in parallel. Tree-attention drafters such as EAGLE-3 are widely adopted, yet typically hold two decisions fixed: (1) a strict token-match verification rule and (2) a static…",
-   "matched": [
-    "llm",
-    "inference"
-   ]
-  },
-  {
-   "uid": "735e31efc922d295",
-   "title": "Distilled Rapid Embedding Transfer (DRET): Parameter-Efficient Biomedical Domain Adaptation via Priority-Based Embedding Transfer",
-   "url": "https://arxiv.org/abs/2609.02898",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.02898v1 Announce Type: new Abstract: Large domain-specific language models such as BioBERT and ClinicalBERT achieve strong performance on biomedical NLP tasks, but their computational demands make them impractical for many real-world deployments. General-purpose, parameter-efficient models such as…",
-   "matched": [
-    "embedding"
-   ]
-  },
-  {
-   "uid": "624f95be9ea0353a",
-   "title": "Contamination Inflates Scores but Rarely Reorders Large Language Model Leaderboards",
-   "url": "https://arxiv.org/abs/2609.02899",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.02899v1 Announce Type: new Abstract: Benchmark contamination, the leakage of test items into training data, is widely described as a threat to the reliability of large language model (LLM) leaderboards. We argue that this concern conflates two distinct questions: whether contamination inflates absolute…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "6c00e94c186dad08",
-   "title": "Judging LLM-as-a-Judge: Concerning Rubric Artifacts in LLM-based Automated Text Generation Evaluation",
-   "url": "https://arxiv.org/abs/2609.02942",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.02942v1 Announce Type: new Abstract: LLM-as-a-Judge pipelines are increasingly used to evaluate AI-generated text, based on the assumption that judgments arise from reasoning over candidate responses with respect to a rubric. We show that this assumption warrants further scrutiny. Classifiers trained only…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "c6978b478ba7c275",
-   "title": "Large Language Models in Resolving Contextual Knowledge Conflicts",
-   "url": "https://arxiv.org/abs/2609.03148",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.03148v1 Announce Type: new Abstract: Most prior works focused on conflicts between an LLM's internal parametric knowledge and externally provided context. In contrast, we investigate how LLMs handle conflicts that arise within contextual knowledge itself. We introduce a taxonomy of six types of contextual…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "88fcebdfbac8b71c",
-   "title": "No country for old linguists: LLM-brain alignment underdetermines neural computation",
-   "url": "https://arxiv.org/abs/2609.03160",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.03160v1 Announce Type: new Abstract: Nastase et al. (2026) argue that large language models (LLMs) may illuminate language processing because both rely on distributed, context-sensitive representations shaped by statistical learning. Their rejection of simple cortical \"boxology\" is persuasive, and they…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "985c2bdf3fe59742",
-   "title": "Jina-OCR-v1: Efficient Document Parsing with Speculative Decoding and Dense Verifiable Rewards",
-   "url": "https://arxiv.org/abs/2609.03181",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.03181v1 Announce Type: new Abstract: We present Jina-OCR-v1, an end-to-end document parsing model built to serve on low-budget GPUs. It combines the compressed-vision encoder and the 3B mixture-of-experts decoder of DeepSeek-OCR, which activates about 570M parameters per token, with a FastMTP speculative…",
-   "matched": [
-    "deepseek",
-    "ocr"
-   ]
-  },
-  {
-   "uid": "69b884856df4426f",
-   "title": "MemoryLACE: Memory Lifecycle-Aware Consolidation and Evidence Retrieval",
-   "url": "https://arxiv.org/abs/2609.03201",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.03201v1 Announce Type: new Abstract: Long-term LLM agents must preserve information across interactions while distinguishing repeated evidence, historical states, updates, and unresolved contradictions. Existing textual memory systems retrieve semantically relevant memories efficiently but often leave these…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "141d3b3176b76700",
-   "title": "SWIM: Student Writing Simulation via Proficiency-Conditioned Generation",
-   "url": "https://arxiv.org/abs/2609.03215",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.03215v1 Announce Type: new Abstract: Writing proficiency manifests in how students develop content, organize ideas, choose words, and use language. Despite growing interest in LLM-based student simulation, whether LLMs can reproduce such multidimensional variation in extended writing remains largely…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "7c909c20dc562522",
-   "title": "The Analyst in the Prompt: Role, Retrieval, and Memory Biases in LLM Financial Analysis",
-   "url": "https://arxiv.org/abs/2609.03218",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.03218v1 Announce Type: new Abstract: Large Language Models (LLMs) increasingly use user context such as memory, profiles, and role prompts to personalize their responses. This personalization can affect evidence-based judgment: the same evidence may lead to different conclusions under different user…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "3b0933d920ca8c72",
-   "title": "Counterfactual Fairness Audits of Multi-Step Clinical LLM Agents Require a Measured Per-Action Instability Floor",
-   "url": "https://arxiv.org/abs/2609.03221",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.03221v1 Announce Type: new Abstract: Counterfactual audits are the standard tool for checking whether a clinical agent treats demographically distinct but clinically identical patients differently. They report a flip rate: how often an action changes when only the patient descriptor changes. We show that…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "646fad475a53bb56",
-   "title": "SGD-KV: Summarization Guided KV Cache Compression",
-   "url": "https://arxiv.org/abs/2609.03235",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-04T04:00:00+00:00",
-   "summary": "arXiv:2609.03235v1 Announce Type: new Abstract: Large language models (LLMs) face severe memory bottlenecks in long-context inference due to the linearly growing size of key-value (KV) caches. Existing KV cache compression techniques typically rely on simple heuristics, overlooking the distinct functional roles of…",
-   "matched": [
-    "inference"
-   ]
   }
  ],
- "last_run": "2026-09-06T11:13:35.265671+00:00"
+ "last_run": "2026-09-06T19:24:17.028464+00:00"
 }
