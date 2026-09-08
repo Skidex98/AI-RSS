@@ -5,8 +5,197 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-09-08T11:34:32Z</updated>
+  <updated>2026-09-08T20:05:20Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>📦 ⭐ 613 · tigerless-labs/agent-memory (Python)</title>
+    <link href="https://github.com/tigerless-labs/agent-memory"/>
+    <id>urn:uuid:2d4b8435741f25e1</id>
+    <updated>2026-09-08T19:41:35Z</updated>
+    <published>2026-09-08T19:41:35Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/tigerless-labs/agent-memory"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 159 · noskillish/bankmcp (TypeScript)</title>
+    <link href="https://github.com/noskillish/bankmcp"/>
+    <id>urn:uuid:355c1d52b29e932e</id>
+    <updated>2026-09-08T18:24:21Z</updated>
+    <published>2026-09-08T18:24:21Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/noskillish/bankmcp"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10867 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10867"/>
+    <id>urn:uuid:d3b295e9537e1db6</id>
+    <updated>2026-09-08T17:31:06Z</updated>
+    <published>2026-09-08T17:31:06Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;llama: disable lazy tensor loading by default on iGPUs (#28326) * llama: add lazy mode auto, fix iGPU regression * revert changes except disabling lazy load on iGPUs in AUTO **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10867/llama-b10867-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10867"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Qwen/Qwen-Drive-1.0-4B · Hugging Face</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wauxg9/qwenqwendrive104b_hugging_face/"/>
+    <id>urn:uuid:41f07db0ffd76728</id>
+    <updated>2026-09-08T17:27:16Z</updated>
+    <published>2026-09-08T17:27:16Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I don't think anyone posted about this here, but Qwen released a finetuned version of 3.5 4 for driving. The full Bf16 checkpoint is 9B. This is a very interesting development of Chinese AI labs tackle self driving next with open weight models. Edit: the HF repo links to the github repo, which in the citation links to…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wauxg9/qwenqwendrive104b_hugging_face/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ultralytics/ultralytics v8.4.144 — v8.4.144 - Fix model loading, numerical edge cases, and CI setup (#26106)</title>
+    <link href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.144"/>
+    <id>urn:uuid:fb1ce700d0c05788</id>
+    <updated>2026-09-08T17:11:50Z</updated>
+    <published>2026-09-08T17:11:50Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## 🌟 Summary **v8.4.144 improves model reliability, numerical stability, inference precision, and deployment workflows without changing model architectures.** 🚀 ## 📊 Key Changes - **More reliable model YAML loading** 🧩 Explicitly requested files such as `custom26n.yaml` are now loaded before attempting a scale-unified fallback like `custom26.yaml`. This prevents custom model definitions from…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.144"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Show HN: LLM Attention Visualization</title>
+    <link href="https://ishamf.dev/p/llm-attention-visualizer/"/>
+    <id>urn:uuid:e77d6e753c4eff64</id>
+    <updated>2026-09-08T16:59:41Z</updated>
+    <published>2026-09-08T16:59:41Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068 Points: 64 # Comments: 12&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ishamf.dev/p/llm-attention-visualizer/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Are there any (small, ~10B) models that you would say are a good collaborator?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wau1zt/are_there_any_small_10b_models_that_you_would_say/"/>
+    <id>urn:uuid:767d305a8913291a</id>
+    <updated>2026-09-08T16:56:55Z</updated>
+    <published>2026-09-08T16:56:55Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Most of the new ~30B (and now ~10B, thankfully for my GPU) models we see score really high on benchmarks, but I feel like they don't push back on dumb ideas enough. I think most people don't being like told by an LLM that the premise is flawed but I certainly do. In my opinion they are optimised for like one-shotting…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wau1zt/are_there_any_small_10b_models_that_you_would_say/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 inclusionAI/Ling-3.0-flash-VL · Hugging Face</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wasdnn/inclusionailing30flashvl_hugging_face/"/>
+    <id>urn:uuid:2c1eaa1b4a9f5d98</id>
+    <updated>2026-09-08T15:57:12Z</updated>
+    <published>2026-09-08T15:57:12Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Ling-3.0-flash-VL inherits the language, reasoning, and long-context capabilities of Ling-3.0-flash, while extending them with native image and video understanding. The model has 124B total parameters, with only 5.5B parameters activated per token, and supports a context window of up to 1M tokens. The architecture of…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: context window&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wasdnn/inclusionailing30flashvl_hugging_face/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10865 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10865"/>
+    <id>urn:uuid:b6b838b6d9c07dd9</id>
+    <updated>2026-09-08T15:11:37Z</updated>
+    <published>2026-09-08T15:11:37Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;Revert "ggml-cuda : restore prop.integrated on HIP builds (#24233)" (#28604) This reverts commit c7d8722922a2599dc4d77f8808d8e6c2fde5e7a2. **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10865/llama-b10865-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10865"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10864 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10864"/>
+    <id>urn:uuid:0c6b008c9e8ae1e3</id>
+    <updated>2026-09-08T14:31:22Z</updated>
+    <published>2026-09-08T14:31:22Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;server : apply checkpoint min-step eviction only when the checkpoint list is full (#28302) The spacing eviction in create_checkpoint() keeps the oldest checkpoint and erases every later one within checkpoint_min_step of it. For prompts shorter than checkpoint_min_step this drops the checkpoint at n_tokens - 4 that the next request resumes from, so hybrid/recurrent models re-prefill from the…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10864"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Qwen3-0.6B (400 MB) on a Samsung Note 8 (2017) phone drives a real desktop Chrome</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wapzjg/qwen306b_400_mb_on_a_samsung_note_8_2017_phone/"/>
+    <id>urn:uuid:4af04b1503ab1664</id>
+    <updated>2026-09-08T14:29:24Z</updated>
+    <published>2026-09-08T14:29:24Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Up front: I'm one of the people building the page-perception layer used here. We started by testing small local models. The result turned out to be more interesting than the original test. 12 small models, 3 verifiable tasks, logs, and offline replay. Setup: Galaxy Note 8 (2017, Android 9, 6 GB), llama.cpp in Termux,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wapzjg/qwen306b_400_mb_on_a_samsung_note_8_2017_phone/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic</title>
+    <link href="https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"/>
+    <id>urn:uuid:d022b2dbe8188f66</id>
+    <updated>2026-09-08T14:23:07Z</updated>
+    <published>2026-09-08T14:23:07Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hugging Face Blog&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 unslothai/unsloth v0.1.807-beta — Large Perf Improvements + Fixes</title>
+    <link href="https://github.com/unslothai/unsloth/releases/tag/v0.1.807-beta"/>
+    <id>urn:uuid:f77136282351132c</id>
+    <updated>2026-09-08T14:21:12Z</updated>
+    <published>2026-09-08T14:21:12Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;This is a large performance and reliability + bug fix release for Unsloth ## Highlights * AMD uses Vulkan by default - 20% perf boost for prefill, decoding vs ROCM * Windows llama-server.exe is now signed, reducing false positives for SAC * AMD gibberish issues in Strix, iGPUs fixed in (upstream - reported to AMD) * Over 200+ bug fixes, 50% smaller binaries and performance improvements * Updated…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/unslothai/unsloth/releases/tag/v0.1.807-beta"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome</title>
+    <link href="https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"/>
+    <id>urn:uuid:69a6dff164ab81f4</id>
+    <updated>2026-09-08T14:00:15Z</updated>
+    <published>2026-09-08T14:00:15Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Google DeepMind Blog&lt;/p&gt;&lt;p&gt;AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.&lt;/p&gt;&lt;p&gt;&lt;a href="https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 100 · nickname21kmr/gameops-investigator (Python)</title>
+    <link href="https://github.com/nickname21kmr/gameops-investigator"/>
+    <id>urn:uuid:be509bd945906fc0</id>
+    <updated>2026-09-08T13:59:41Z</updated>
+    <published>2026-09-08T13:59:41Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Evidence-first game operations incident investigation agent with read-only MCP tools and reproducible evaluations.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/nickname21kmr/gameops-investigator"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10863 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10863"/>
+    <id>urn:uuid:1f47feb0d6a28be7</id>
+    <updated>2026-09-08T13:58:40Z</updated>
+    <published>2026-09-08T13:58:40Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;metal : fix idle threads in mul_mv_iq3_xxs for ne00 **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10863/llama-b10863-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10863"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 The Work Now Within Reach</title>
+    <link href="https://openai.com/index/the-work-now-within-reach"/>
+    <id>urn:uuid:6adf535a2ee77d6e</id>
+    <updated>2026-09-08T13:00:00Z</updated>
+    <published>2026-09-08T13:00:00Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/the-work-now-within-reach"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 langfuse/langfuse v4.32.0</title>
+    <link href="https://github.com/langfuse/langfuse/releases/tag/v4.32.0"/>
+    <id>urn:uuid:cd185b1c04571951</id>
+    <updated>2026-09-08T12:53:51Z</updated>
+    <published>2026-09-08T12:53:51Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's Changed ### Features * feat(preview): alert when a labeled preview is not serving by @LysanderKie in https://github.com/langfuse/langfuse/pull/17136 * feat(worker): emit export data-freshness lag distribution by @niklassemmler in https://github.com/langfuse/langfuse/pull/17177 ### Fixes / Improvements * fix(datasets): read v4 dataset metrics when preview is enabled by @wochinge in…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/langfuse/langfuse/releases/tag/v4.32.0"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10859 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10859"/>
+    <id>urn:uuid:5f2a6eddef8839d4</id>
+    <updated>2026-09-08T12:35:03Z</updated>
+    <published>2026-09-08T12:35:03Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;llama : add missing headers (#28566) * fix compile-error: add missing header Bug: #28557 Signed-off-by: Pepper Gray * fix compile-error: add missing header Bug: #28559 Signed-off-by: Pepper Gray * fix compile-error: add missing header Bug: #28560 Signed-off-by: Pepper Gray * fix compile-error: add missing header Bug: #28561 Signed-off-by: Pepper Gray * fix compile-error: add missing header Bug:…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10859"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 DeepSeek Flash 4.1 is already being tested via API and rolling out.</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wan3nl/deepseek_flash_41_is_already_being_tested_via_api/"/>
+    <id>urn:uuid:2b289fee3c395fa5</id>
+    <updated>2026-09-08T12:31:05Z</updated>
+    <published>2026-09-08T12:31:05Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Translation: Internal beta testing for an intermediate version of DeepSeek V4.1 Flash is now open; you are welcome to try it out. It adopts a new model architecture featuring native multimodal support, stronger capabilities, faster speeds, and lower costs. Keep your base_url unchanged and set the model name to…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wan3nl/deepseek_flash_41_is_already_being_tested_via_api/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 langfuse/langfuse v4.31.0</title>
+    <link href="https://github.com/langfuse/langfuse/releases/tag/v4.31.0"/>
+    <id>urn:uuid:8cefb9b46c53731f</id>
+    <updated>2026-09-08T11:36:56Z</updated>
+    <published>2026-09-08T11:36:56Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's Changed ### Features * feat(analytics): instrument the rebuilt experiments UI by @nkabardin in https://github.com/langfuse/langfuse/pull/16919 * feat(traces): show cost source in breakdown tooltip by @hassiebp in https://github.com/langfuse/langfuse/pull/17051 * feat(api)!: remove unstable evaluation endpoints by @wochinge in https://github.com/langfuse/langfuse/pull/17056 *…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/langfuse/langfuse/releases/tag/v4.31.0"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 vllm-project/agentic-api</title>
     <link href="https://github.com/vllm-project/agentic-api"/>
@@ -71,6 +260,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT CK, Shodan, VirusTotal, and more. https://www.mahipal.engineer/CVE-MCP-Server/ 🛡️ CVE MCP Server AI-powered security intelligence at your fingertips — 28 tools + a one-call triage_cve…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/mukul975/cve-mcp-server"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 Introducing ChatGPT Images 2.5</title>
+    <link href="https://openai.com/index/introducing-chatgpt-images-2-5"/>
+    <id>urn:uuid:0a7182d36e37c0da</id>
+    <updated>2026-09-08T11:30:00Z</updated>
+    <published>2026-09-08T11:30:00Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/introducing-chatgpt-images-2-5"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>📦 ⭐ 478 · okf-memory/okf-agent-memory (Go)</title>
     <link href="https://github.com/okf-memory/okf-agent-memory"/>
     <id>urn:uuid:c694f9cab030aa1a</id>
@@ -116,6 +314,24 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;opencl: properly handle non-contiguous inputs to conv2d (#28503) * opencl: fix conv2d non-contiguous strides * opencl: format **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10855/llama-b10855-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10855"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 On the Navier–Stokes Millennium Prize Problem</title>
+    <link href="https://openai.com/index/navier-stokes-solution"/>
+    <id>urn:uuid:b803da5692eb2718</id>
+    <updated>2026-09-08T10:00:00Z</updated>
+    <published>2026-09-08T10:00:00Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/navier-stokes-solution"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Funding grants for new research into AI and teen development</title>
+    <link href="https://openai.com/index/teen-development-research-grants"/>
+    <id>urn:uuid:627e4f4e8a5e11dd</id>
+    <updated>2026-09-08T09:00:00Z</updated>
+    <published>2026-09-08T09:00:00Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/teen-development-research-grants"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>📦 ⭐ 102 · Albertchamberlain/Awesome-OKF (Python)</title>
     <link href="https://github.com/Albertchamberlain/Awesome-OKF"/>
     <id>urn:uuid:32bcfb061501d31c</id>
@@ -143,6 +359,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Nanako0129/sepia"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 Multi-Agents LLM Financial Trading Framework</title>
+    <link href="https://github.com/TauricResearch/TradingAgents"/>
+    <id>urn:uuid:ff6833a022d267f0</id>
+    <updated>2026-09-08T05:20:23Z</updated>
+    <published>2026-09-08T05:20:23Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://github.com/TauricResearch/TradingAgents Comments URL: https://news.ycombinator.com/item?id=49605822 Points: 111 # Comments: 74&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/TauricResearch/TradingAgents"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>📰 Voice conversations between Gemma4 12B and E2B on GPU and Jetson Orin</title>
     <link href="https://www.reddit.com/r/LocalLLaMA/comments/1waefz4/voice_conversations_between_gemma4_12b_and_e2b_on/"/>
     <id>urn:uuid:c597ea7c5c0e73b9</id>
@@ -150,6 +375,15 @@
     <published>2026-09-08T04:36:49Z</published>
     <category term="NEWS"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Gemma 4 12B runs on an RTX PRO 4500 Blackwell. Gemma 4 E2B run on a Jetson Orin NX 16GB; similar performance is expected on a Jetson Orin Nano Super 8GB. Both systems use a reSpeaker Flex 4-mic array and a 3W speaker. Inference is handled by Cortexist Little Gemma, a small LLM engine written in C for CUDA devices. On…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1waefz4/voice_conversations_between_gemma4_12b_and_e2b_on/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 The VMs Powering Mobile Agents (Instinct, Claude Code)</title>
+    <link href="https://rohanadwankar.github.io/posts/platforms.html"/>
+    <id>urn:uuid:d81053c3f75a0ce7</id>
+    <updated>2026-09-08T04:36:26Z</updated>
+    <published>2026-09-08T04:36:26Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://rohanadwankar.github.io/posts/platforms.html Comments URL: https://news.ycombinator.com/item?id=49605644 Points: 65 # Comments: 26&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://rohanadwankar.github.io/posts/platforms.html"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>🚀 pydantic/pydantic-ai v2.41.0 — v2.41.0 (2026-09-07)</title>
@@ -186,6 +420,24 @@
     <published>2026-09-08T00:40:49Z</published>
     <category term="RELEASE"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;hexagon: add RELU and LEAKY_RELU ops (#28585) * hexagon: add RELU op * hexagon: add LEAKY_RELU op too **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10852/llama-b10852-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) -…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10852"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 OpenAI expands initiatives to support journalism from classrooms to newsrooms</title>
+    <link href="https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"/>
+    <id>urn:uuid:3fa41fb18af75542</id>
+    <updated>2026-09-08T00:00:00Z</updated>
+    <published>2026-09-08T00:00:00Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 1Password increases engineering productivity 21% with Codex</title>
+    <link href="https://openai.com/index/1password"/>
+    <id>urn:uuid:973a2c5280333fd1</id>
+    <updated>2026-09-08T00:00:00Z</updated>
+    <published>2026-09-08T00:00:00Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/1password"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📰 llm 0.35</title>
@@ -638,6 +890,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Back to reading about LLMs as agents on your phone doing GUI tasks! This time I read about MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments and this paper forms the basis of the benchmark I am currently making because it involves two new innovations: User…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w9kfs3/lit_review_on_benchmarking_llms_running_in_your/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 Coop – Isolated VM Environments for Running Claude Code and Codex</title>
+    <link href="https://github.com/trailofbits/coop"/>
+    <id>urn:uuid:fdbd79872394f92f</id>
+    <updated>2026-09-07T04:18:28Z</updated>
+    <published>2026-09-07T04:18:28Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://github.com/trailofbits/coop Comments URL: https://news.ycombinator.com/item?id=49593842 Points: 66 # Comments: 16&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/trailofbits/coop"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>📄 MedProb: Probing Internal Representations of Vision-Language Models for Medical Question Answering</title>
     <link href="https://arxiv.org/abs/2609.04336"/>
     <id>urn:uuid:7db1cb5331ae0df5</id>
@@ -825,266 +1086,5 @@
     <published>2026-09-07T04:00:00Z</published>
     <category term="PAPER"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.04280v1 Announce Type: cross Abstract: Modern LLM-based agents operate through a harness of tools, reusable skills, and specialist agents that shapes what they observe and what they can do. In practice, this harness continually evolves as new capabilities are added. We introduce EVOHARNESSBENCH, a benchmark…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.04280"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation</title>
-    <link href="https://arxiv.org/abs/2609.04298"/>
-    <id>urn:uuid:4b0af7ed7abfdddf</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.04298v1 Announce Type: cross Abstract: Evaluating agents on the growing number of agentic benchmarks is challenging because they often require complex environments and agent integrations. We introduce Harbor Adapters, a unified evaluation infrastructure for agentic benchmarks. Our work makes three…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.04298"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 A Removal Based Approach to Improve LLM Faithfulness at Test-Time</title>
-    <link href="https://arxiv.org/abs/2609.04343"/>
-    <id>urn:uuid:ce500fe0293c1bb1</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.04343v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used for consequential decisions, making their explanations an important tool for auditing model behavior. Unfortunately, these explanations can be unfaithful, failing to reflect the actual reasoning underlying the model's…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.04343"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Conformity Breaks Conformal Prediction</title>
-    <link href="https://arxiv.org/abs/2609.04445"/>
-    <id>urn:uuid:5fcc4234e7c4dffa</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.04445v1 Announce Type: cross Abstract: A conformal certificate can be valid when an LLM answers alone and invalid when the same LLM sees peers that unanimously assert a wrong answer. The question is unchanged; the model's score for the correct answer changes. We call this a score-mechanism shift: clean…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.04445"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Uncertainty Signals for Network Intent Translation: Risk Ranking and Ambiguity Localization</title>
-    <link href="https://arxiv.org/abs/2609.04486"/>
-    <id>urn:uuid:cb864316f88b4196</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.04486v1 Announce Type: cross Abstract: Intent-based networking realization starts by translating high-level intents into low-level network configurations. Recent approaches have shifted toward LLM-based translation. Despite promising results, most studies focus on translation accuracy and overlook risks…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.04486"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Rethinking Indirect Prompt Injection as a Test-Time Search Problem</title>
-    <link href="https://arxiv.org/abs/2609.04495"/>
-    <id>urn:uuid:9e165ebc97a647b0</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.04495v1 Announce Type: cross Abstract: We formulate indirect prompt injection as a test-time search over a task-dependent attack surface induced by the environment, user task, and injection task. To operationalize this formulation, we introduce an agentic attacker with a dedicated search harness that…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.04495"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Retinal OCTA Phenotyping with LLM Reporting for Alzheimer's Disease</title>
-    <link href="https://arxiv.org/abs/2609.04689"/>
-    <id>urn:uuid:3209716dd5fd9bc6</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.04689v1 Announce Type: cross Abstract: Early identification of Alzheimer's disease (AD) remains challenging because established assessment methods can be costly, resource-intensive, or unsuitable for population-scale screening. Optical coherence tomography angiography (OCTA) provides non-invasive…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.04689"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Persistent Teacher Anchoring for Tool-Using Agents</title>
-    <link href="https://arxiv.org/abs/2609.04773"/>
-    <id>urn:uuid:ea26d6c0c70457a8</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.04773v1 Announce Type: cross Abstract: Distillation is common in LLM post-training, where on-policy knowledge distillation (OPKD) uses student-generated trajectories to prepare the student for downstream RL. At each state, the student matches a next-token distribution supplied by the teacher. As the rollout…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.04773"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 BeaconKV: Key-Value Cache Compression Guided by Beacon Queries for Efficient Large Reasoning Model Inference</title>
-    <link href="https://arxiv.org/abs/2609.04971"/>
-    <id>urn:uuid:7b385bf43275f5e8</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.04971v1 Announce Type: cross Abstract: Large Reasoning Models (LRMs) achieve superior problem-solving through extended Chain-of-Thought (CoT) generation, but the resulting key-value (KV) cache grows linearly with sequence length and creates severe memory bottlenecks, often exceeding GPU capacity for long…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.04971"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Moral Competence Before Moral Content: Why LLM Agents Lack the Prerequisites for Coherent Alignment</title>
-    <link href="https://arxiv.org/abs/2609.05036"/>
-    <id>urn:uuid:e09e3cdb602715a3</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.05036v1 Announce Type: cross Abstract: AI alignment requires AI systems to adhere to human norms, values, or intentions. Under value pluralism there is no correct target, but a shared prerequisite is that the system's behavior expresses a coherent policy: a mapping from situations to verdicts that is…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.05036"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Repeated Queries Exhaust an LLM's Brand Recommendations but Not Its Sources</title>
-    <link href="https://arxiv.org/abs/2609.05059"/>
-    <id>urn:uuid:47c363c2afa1925d</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.05059v1 Announce Type: cross Abstract: Whether repeated identical buying questions exhaust a language model's brand recommendations depends on retrieval. Across 300 question-engine cells (50 questions, six engines, 15 runs each, open extraction over 1,470 adjudicated organizations), the five engines…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.05059"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Technical Manual for a Toolkit for Measuring Contextual Individuation in Transformer Language Models</title>
-    <link href="https://arxiv.org/abs/2609.05333"/>
-    <id>urn:uuid:adbc62b705f2fd1d</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.05333v1 Announce Type: cross Abstract: A transformer language model assigns a single, context-independent vector to a word type at its embedding layer, yet is widely believed to individuate that word's occurrences by context in its later layers. Testing this belief cleanly requires a construct that holds…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: embedding&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.05333"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability</title>
-    <link href="https://arxiv.org/abs/2609.05339"/>
-    <id>urn:uuid:20c6f8e8c46ebaa5</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.05339v1 Announce Type: cross Abstract: Model upgrades are routine; memory migrations are not. An agent can keep the same memory store and still forget: a new model may interpret old notes differently, mixed embedding versions may break retrieval, and repair may fail without the original evidence. We compare…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: embedding&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.05339"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe</title>
-    <link href="https://arxiv.org/abs/2609.05395"/>
-    <id>urn:uuid:b6296879da52d818</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.05395v1 Announce Type: cross Abstract: Data-sovereignty regulations increasingly require public institutions to deploy open-source, on-premise LLM agents that chain multiple tool-calls across live government APIs. However, open-source models consistently underperform in this multi-step setting, and no…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.05395"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 ConfRAG: Confidence-Guided Retrieval-Augmenting Generation</title>
-    <link href="https://arxiv.org/abs/2506.07309"/>
-    <id>urn:uuid:8ad7f79d2470423d</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2506.07309v3 Announce Type: replace Abstract: Can Large Language Models (LLMs) be trained to avoid hallucinating factual statements, and can Retrieval-Augmented Generation (RAG) be triggered only when necessary to reduce retrieval and computation costs? In this work, we address both challenges simultaneously. We…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: rag&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2506.07309"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 QoNext: Towards Next-generation QoE for Foundation Models</title>
-    <link href="https://arxiv.org/abs/2509.21889"/>
-    <id>urn:uuid:bfaea67d7a0f05d6</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2509.21889v3 Announce Type: replace Abstract: Existing evaluations of foundation models predominantly focus on output correctness, treating interaction as a static exchange of information. However, such perspectives overlook the essence of the LLM-driven conversational experience, which is determined not only by…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2509.21889"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Exploring Solution Divergence and Its Effect on Large Language Model Problem Solving</title>
-    <link href="https://arxiv.org/abs/2509.22480"/>
-    <id>urn:uuid:44acd5b2d42515f5</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2509.22480v2 Announce Type: replace Abstract: Large language models (LLMs) have been widely used for problem-solving tasks. Most recent work improves their performance through supervised fine-tuning (SFT) with labeled data or reinforcement learning (RL) from task feedback. In this paper, we study a new…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tuning&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2509.22480"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 TeleTables: A Benchmark for Large Language Models in Telecom Table Interpretation</title>
-    <link href="https://arxiv.org/abs/2601.04202"/>
-    <id>urn:uuid:5029db375b37d501</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2601.04202v2 Announce Type: replace Abstract: Large Language Models (LLMs) are increasingly applied to telecom engineering tasks, yet perform poorly on 3GPP specifications. These standards encode much of their technical information in complex tables, but LLM knowledge and interpretation of such tables remain…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2601.04202"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 PROMPT2BOX:Improving LLM Weakness Discovery and Specificity Estimation by Uncovering Entailment Structure among Prompts</title>
-    <link href="https://arxiv.org/abs/2603.21438"/>
-    <id>urn:uuid:ef073a4a3f29df21</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2603.21438v3 Announce Type: replace Abstract: To discover the weaknesses of LLMs, researchers often embed prompts into a vector space and cluster them to extract insightful patterns. However, vector embeddings primarily capture topical similarity; as a result, prompts that share a topic but differ in…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2603.21438"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Towards Generalization of Block Attention via Automatic Segmentation and Block Distillation</title>
-    <link href="https://arxiv.org/abs/2605.15913"/>
-    <id>urn:uuid:a08dc9e3b610dcd7</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2605.15913v5 Announce Type: replace Abstract: Block attention, which processes the input as separate blocks that cannot attend to one another, offers significant potential to improve KV cache reuse in long-context scenarios such as Retrieval-Augmented Generation (RAG). However, its broader application is…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: rag, distillation, segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2605.15913"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 CacheWeaver: Cache-Aware Evidence Ordering for Efficient Grounded RAG Inference</title>
-    <link href="https://arxiv.org/abs/2606.19667"/>
-    <id>urn:uuid:2f65bf59ea677b5e</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2606.19667v2 Announce Type: replace Abstract: Retrieval-Augmented Generation (RAG) improves factual grounding, but it also lengthens prompts and raises prefill cost. Prefix caching in serving engines such as vLLM reduces this cost only when requests share the same token prefix. In grounded generation, however,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: rag, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2606.19667"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Robust Text Watermarking for Large Language Models via Dual Semantic Embeddings</title>
-    <link href="https://arxiv.org/abs/2606.31602"/>
-    <id>urn:uuid:5340018a022b8ced</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2606.31602v3 Announce Type: replace Abstract: This work presents Dual-Embedding Watermarking (DEW), a semantic watermarking scheme for large language models (LLMs) that leverages contextual and token-level embeddings to enhance robustness against paraphrasing and translation. DEW utilizes a signal-processing…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: embedding&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2606.31602"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Estimating Uncertainty from Reasoning: A Large-Scale Study of Multi- and Crosslingual MCQA Performance in LLMs</title>
-    <link href="https://arxiv.org/abs/2607.06327"/>
-    <id>urn:uuid:dce991e9b374dd72</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.06327v3 Announce Type: replace Abstract: Uncertainty estimation (UE) enables LLM-powered systems to recognize when to abstain, yet existing research has predominantly focused on English. We present the first large-scale evaluation of UE methods across 22 languages, spanning high-, mid-, and low-resource…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.06327"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 From Plausible to Actionable: A Position on LLM Self-Explanations</title>
-    <link href="https://arxiv.org/abs/2607.15957"/>
-    <id>urn:uuid:5fd14450b78d022b</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.15957v2 Announce Type: replace Abstract: Large Language Models (LLMs) can generate natural language explanations that rationalize their own decisions, a phenomenon commonly referred to as self-explanations. Such explanations have emerged as a promising direction for explainable artificial intelligence…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.15957"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Not All LLM Reasoning is Visible in the Chain-of-Thought</title>
-    <link href="https://arxiv.org/abs/2607.22925"/>
-    <id>urn:uuid:f89485c1b1ea3ff1</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.22925v2 Announce Type: replace Abstract: A key question for AI safety is whether a language model expresses all of its reasoning in its output tokens. We demonstrate a concrete failure mode where frontier models exhibit invisible reasoning by leveraging semantically irrelevant filler tokens to improve…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.22925"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Revisiting Lossy Verification in Speculative Decoding: Mechanisms, Trade-offs, and Failure Modes</title>
-    <link href="https://arxiv.org/abs/2607.26627"/>
-    <id>urn:uuid:b1ae6bd024aa4a40</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.26627v2 Announce Type: replace Abstract: Speculative Decoding (SD) accelerates large language model inference by allowing a lightweight draft model to propose tokens that are subsequently verified in parallel by a larger target model. Recent approaches introduce lossy verification schemes to further improve…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.26627"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Search-G1: Grounded Search Agents via Representation-Based Intrinsic Rewards</title>
-    <link href="https://arxiv.org/abs/2608.07531"/>
-    <id>urn:uuid:45b417083630ed2a</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.07531v3 Announce Type: replace Abstract: Search-augmented language agents should retrieve external information only when necessary and ground their answers in retrieved evidence. Existing external rewards provide either sparse outcome supervision or richer feedback from process annotations and LLM judges.…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.07531"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Counterfactual Fairness Audits of Multi-Step Clinical LLM Agents Require a Measured Per-Action Instability Floor</title>
-    <link href="https://arxiv.org/abs/2609.03221"/>
-    <id>urn:uuid:3b0933d920ca8c72</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.03221v2 Announce Type: replace Abstract: Counterfactual audits are the standard tool for checking whether a clinical agent treats demographically distinct but clinically identical patients differently. They report a flip rate: how often an action changes when only the patient descriptor changes. We show…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.03221"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR</title>
-    <link href="https://arxiv.org/abs/2609.04108"/>
-    <id>urn:uuid:2067ff37c7af162f</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.04108v2 Announce Type: replace Abstract: Reinforcement learning with verifiable rewards (RLVR) and on-policy distillation (OPD) have emerged as two dominant methods for post-training reasoning LLMs. Prior work uses OPD's dense token-level supervision to complement the sparse RL reward, fusing the two…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.04108"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 YOLO with Kolmogorov-Arnold networks and vision-language foundation models for interpretable object detection with trustworthy multimodal AI in computer vision perception</title>
-    <link href="https://arxiv.org/abs/2603.23037"/>
-    <id>urn:uuid:588ec320ff12d26e</id>
-    <updated>2026-09-07T04:00:00Z</updated>
-    <published>2026-09-07T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2603.23037v2 Announce Type: replace-cross Abstract: The trustworthy object detection capabilities of a novel Kolmogorov-Arnold network framework are examined here. The approach addresses a key limitation in computer vision for vehicle detection perception, and beyond. These systems offer limited transparency…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: computer vision&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2603.23037"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
