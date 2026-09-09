@@ -1,5 +1,24 @@
 {
  "seen": [
+  "dd6c42fcf93ee07f",
+  "0899e30e7b13a953",
+  "c0768b825a06f07c",
+  "7cb008debf9abd4e",
+  "fb8d5d74421bc012",
+  "e2f9203846019122",
+  "09aa18d8baf36092",
+  "d028dcc3b8a03d17",
+  "b048e68c7ee902aa",
+  "03287b8b6d473cc5",
+  "22f5c299fdec4a8c",
+  "b0c8831cb5335298",
+  "ab11a50cfa4f4ca7",
+  "fefbe102074ae3bf",
+  "227e9f91bd506fba",
+  "a8940eaa0730efa0",
+  "e45d42505d532ce0",
+  "e938e9db418cf84e",
+  "a8088aec959bd30d",
   "17557d899c122547",
   "08f2108aedc68cb0",
   "d0823b67c82d86aa",
@@ -7,6 +26,7 @@
   "a7a4b8dae3131374",
   "beba65b7c08d0311",
   "4a91a4558e5afa0a",
+  "1df3ddb6fd863851",
   "17883b379a98ff0f",
   "b116aec01831f1af",
   "b0dfbdc4cfefc65d",
@@ -17,12 +37,14 @@
   "fe1d1c65a0c4f19b",
   "26d8adf57e2ad144",
   "ecb2b639020ea916",
+  "aa6156919a01dd8b",
   "459ee1be6b0725d7",
   "bda658fd29d8ad73",
   "47b420e7df292b0b",
   "828df001cc41df9f",
   "1fd053cbd6a2b2aa",
   "d795c74daabe71fb",
+  "57f7dde5cbfa2444",
   "b995ddf57661e515",
   "991ff4bd7feaebe1",
   "f3fcf7a7fb911dca",
@@ -97,31 +119,241 @@
   "71b738d86aa2a753",
   "9e5b97686e2e20cb",
   "7c91da97f6bfd784",
-  "e68ac88d54783d7d",
-  "e840f462ed8c5339",
-  "9004300fa38a07b5",
-  "a1ae37307a7b63e0",
-  "216c35b5e4143812",
-  "f8b59f002c8e47dd",
-  "fc9ea05d2502aab1",
-  "160f193eb0d045bd",
-  "8a3f860186406397",
-  "ca0c3c71c8ee8eee",
-  "43d5322e3d1ce9e7",
-  "c51e9116e7a8e555",
-  "4b66e01d5845b450",
-  "030454d4b64551cd",
-  "ea7478613e662bf2",
-  "3c82cf51b3c8ef48",
-  "a8f96c88034181a6",
-  "d8f7ce3ec055665b",
-  "727db80dc467f9e1",
-  "74cab1e117c86b73",
-  "79f057a7e44113f8",
-  "fce463b5323785c7",
-  "aea04b7f7c38b5b8"
+  "e68ac88d54783d7d"
  ],
  "items": [
+  {
+   "uid": "dd6c42fcf93ee07f",
+   "title": "Don't let FOMO win if you're interested in local llm from a hobby/learning aspect",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbufx5/dont_let_fomo_win_if_youre_interested_in_local/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-09T18:48:27+00:00",
+   "summary": "Just a reminder for those out there itching to get into local llms - don't let FOMO or gear acquisition syndrom take over. No matter the hobby, it's so easy to get stuck in a trap where we buy more trying to do more only to realize we've lost the fun in it all or even the notion of learning. Obviously, if you're into…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "0899e30e7b13a953",
+   "title": "ultralytics/ultralytics v8.4.146 — v8.4.146 - Fix RT-DETR inference for small and dynamic inputs (#26120)",
+   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.146",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-09T17:37:43+00:00",
+   "summary": "## 🌟 Summary Ultralytics **v8.4.146** improves RT-DETR reliability across small inputs, dynamic exports, and tracking, while updating export portability, Windows training behavior, data downloads, and GPU container environments. 🚀 ## 📊 Key Changes - **🛠️ RT-DETR inference fixes** - Prevents failures when small images produce fewer anchors than the configured query count. - Keeps query counts,…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "c0768b825a06f07c",
+   "title": "ggml-org/llama.cpp b10883 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10883",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-09T17:29:28+00:00",
+   "summary": "vulkan: use spec constant for matrix matrix multiplication A-type (#25773) * vulkan: use spec constant for mul mat type_a vulkan: use map for mul_mm shapes cleanup fix indentation fix cm2 and shmem init fix cm2 spec constants fix cm2 bindings consolidate shmem tables and reduce size by type spec constant fix compiler warning fix missing Q2_0 type fix unused warning when integer dot glslc support…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "7cb008debf9abd4e",
+   "title": "Paul Christiano joins OpenAI Foundation Board",
+   "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-09-09T17:00:00+00:00",
+   "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "fb8d5d74421bc012",
+   "title": "langfuse/langfuse v4.33.0",
+   "url": "https://github.com/langfuse/langfuse/releases/tag/v4.33.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-09T16:04:02+00:00",
+   "summary": "## What's Changed ### Features * feat(public-api): optional startTime on GET /observations/{id} by @niklassemmler in https://github.com/langfuse/langfuse/pull/17193 * feat(filters): surface has:/-has: while typing a nullable field name by @nkabardin in https://github.com/langfuse/langfuse/pull/16725 * feat(web): add source promt name to playground window content by @tobi12345 in…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "e2f9203846019122",
+   "title": "Mention if a \"new model\" is a finetune",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbpf6i/mention_if_a_new_model_is_a_finetune/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-09T15:51:51+00:00",
+   "summary": "A few posts tagged with new model present models that are finetunes. My opinion : I'd rather have the new model tag reserved for new major releases, like a new Qwen model, Deepseek V4 - Deepseek V4.1, etc., that involved a new pretrain or intensive post-training (in opposition to a small finetune). Otherwise, maybe…",
+   "matched": [
+    "qwen",
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "09aa18d8baf36092",
+   "title": "huggingface/transformers v5.17.0 — Release 5.17.0",
+   "url": "https://github.com/huggingface/transformers/releases/tag/v5.17.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-09T15:42:45+00:00",
+   "summary": "# Release v5.17.0 ## New Model additions ### HYV4 Hy4-Preview is a 780B-parameter mixture-of-experts language model that activates 49B parameters per token. Each MoE layer holds 256 routed experts plus one always-active shared expert and routes every token to 8 of them. The context window is 1M tokens. The architecture combines four features: - **Multi-head Latent Attention (MLA)** compresses…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "d028dcc3b8a03d17",
+   "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+   "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+   "source": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-09-09T15:36:24+00:00",
+   "summary": "",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "b048e68c7ee902aa",
+   "title": "ggml-org/llama.cpp b10881 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10881",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-09T15:32:07+00:00",
+   "summary": "vulkan: Convert FILL to distribute workgroups in 2D to avoid exceeding maxComputeWorkGroupCount (#28592) * divide workload to 2D This is to workaround FILL exceeding maxComputeWorkGroupCount for Intel GPUs on Qwen 3.8 flash next * minor change * Fixed comment **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "03287b8b6d473cc5",
+   "title": "unslothai/unsloth v0.1.808-beta — Large Performance Gains + Fixes",
+   "url": "https://github.com/unslothai/unsloth/releases/tag/v0.1.808-beta",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-09T15:18:29+00:00",
+   "summary": "This is a large performance and reliability + bug fix release for Unsloth ## Highlights * 1.2-1.7x faster diffusion. AMD 20% perf boost vs ROCM via Vulkan * 2x faster updating, remove SAC + AV false positives for Windows * Blender MCP, detect Hermes, AMD gibberish fixed (reported to AMD) * Over 250+ bug fixes, 60% smaller binaries and performance improvements * Strix iGPU BIOS popup - 3x faster…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "22f5c299fdec4a8c",
+   "title": "⭐ 284 · useagenthq/useagent (TypeScript)",
+   "url": "https://github.com/useagenthq/useagent",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-09-09T14:49:22+00:00",
+   "summary": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "b0c8831cb5335298",
+   "title": "⭐ 633 · hkqr/my-free-code (Python)",
+   "url": "https://github.com/hkqr/my-free-code",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-09-09T14:31:55+00:00",
+   "summary": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "ab11a50cfa4f4ca7",
+   "title": "Qwen3.8-27B-Uncensored-Genesis-V1-GGUF",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbmo0k/qwen3827buncensoredgenesisv1gguf/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-09T14:09:31+00:00",
+   "summary": "Model available here: Qwen3.8-27B-Uncensored-Genesis-V1-MTP-GGUF This model is a practical realisation of things described in this paper, but adapted by me for machine learning: https://arxiv.org/pdf/1311.0851v1 I am trying to solve the problem: why LLM models even for simple questions write walls of text during…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "fefbe102074ae3bf",
+   "title": "1-bit 27B in the browser: 25–30 tok/s on a 6 GB RTX 3060 Laptop (WebGPU, no install)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbm50k/1bit_27b_in_the_browser_2530_toks_on_a_6_gb_rtx/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-09T13:49:13+00:00",
+   "summary": "mentria.ai is a browser inference engine I've been building solo, from scratch in WebGPU/WGSL. This week it crossed a milestone I had been chasing for a while: a 27B one-bit model answering at up to 30 tokens/s on an RTX 3060 Laptop GPU with 6 GB of VRAM, in Chrome, from a web page. No install, no server, nothing…",
+   "matched": [
+    "inference"
+   ]
+  },
+  {
+   "uid": "227e9f91bd506fba",
+   "title": "ggml-org/llama.cpp b10878 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10878",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-09T13:23:44+00:00",
+   "summary": "llama : use int32_t for llama_sampler_chain_n return type (#28631) Contributes to #4574 Co-authored-by: linsen **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10878/llama-b10878-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "a8940eaa0730efa0",
+   "title": "ggml-org/llama.cpp b10877 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10877",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-09T12:53:34+00:00",
+   "summary": "CUDA: size routed MoE MMQ N-tiles from typical expert width on RDNA3 (#28552) Recreated from #24546 --------- Co-authored-by: Carl Philipp Klemm * CUDA: pick MMQ tile size against ncols_opt set on the host side Assisted-by: Claude Fable 5.1 Claude-Session: https://claude.ai/code/session_011SYPfRhKoUpU3gMsGxq6go --------- Co-authored-by: ravel7524 Co-authored-by: Carl Philipp Klemm **Website:** -…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "e45d42505d532ce0",
+   "title": "GLM 5.3 Flash Q4 @ 60tps / 550tps on M3 Ultra",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbkpnw/glm_53_flash_q4_60tps_550tps_on_m3_ultra/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-09T12:51:21+00:00",
+   "summary": "I have been a dwarfstar fan for awhile and I really liked glm 5.3 flash but needed it to be materially faster to feel good using it. In the screenshot you can see the outcome of using the model with a claude code harness at ~200k depth, with many tool calls and averaging over 38tps output. Yes, I put 60tps in the…",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "e938e9db418cf84e",
+   "title": "ultralytics/ultralytics v8.4.145 — v8.4.145 - Bump to 8.4.145 for login failure exit status (#26117)",
+   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.145",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-09T12:16:01+00:00",
+   "summary": "## 🌟 Summary Improves Platform login reliability in **Ultralytics 8.4.145** by reporting authentication and connection failures with a proper non-zero exit status, making command-line automation more dependable. ✅ ## 📊 Key Changes - 🔐 **Login failures now exit with status 1** - Invalid API keys and rejected authentication requests now terminate with an error instead of only displaying a warning.…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "a8088aec959bd30d",
+   "title": "ggml-org/llama.cpp b10876 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10876",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-09T11:45:32+00:00",
+   "summary": "CUDA: replace GGML_FA_ALL_QUANTS with GGML_FA_QUANTS, more control over what is compiled (#28079) * CUDA: add configurable FA quant combinations Assisted-by: Codex * remove all flags but , add runtime fallback with warning for uncompiled combination * Update docs/build.md Co-authored-by: Johannes Gäßler * apply code review comments --------- Co-authored-by: Johannes Gäßler **Website:** -…",
+   "matched": [
+    "*"
+   ]
+  },
   {
    "uid": "17557d899c122547",
    "title": "Tencent/teamai-cli",
@@ -211,6 +443,18 @@
    "summary": "args: officially deprecate --mmap|mlock|dio (#28334) Signed-off-by: Aaron Teo **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10875/llama-b10875-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "1df3ddb6fd863851",
+   "title": "DeepSeek-V4-Flash-Vision-Exp (285B MoE) on 10-12x RTX 3090 — spec decoding, vision",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbi5u1/deepseekv4flashvisionexp_285b_moe_on_1012x_rtx/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-09T10:50:10+00:00",
+   "summary": "Running the full deepseek-ai/DeepSeek-V4-Flash-Vision-Exp on consumer Ampere — 10-12x RTX 3090, SM86-compatible vLLM build. 285B MoE, FP4 experts + FP8 attention, 157 GB weights. Highlights: - **60+ tok/s** decode, DSpark spec (k=3) on 10 GPUs (TP2xPP5), at a 240 W cap - **120+ tok/s** on 12 GPUs (TP4xPP3) - **Vision…",
+   "matched": [
+    "deepseek"
    ]
   },
   {
@@ -334,6 +578,18 @@
    ]
   },
   {
+   "uid": "aa6156919a01dd8b",
+   "title": "GitHub - coder543/minnow: Fast LLaDA2.2 inference server",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb8gp5/github_coder543minnow_fast_llada22_inference/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-09T02:09:06+00:00",
+   "summary": "submitted by /u/coder543 [link] [comments]",
+   "matched": [
+    "inference"
+   ]
+  },
+  {
    "uid": "459ee1be6b0725d7",
    "title": "Qwen3.8-Flash-Next on MLX-serve, 1m context is released!",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb7p70/qwen38flashnext_on_mlxserve_1m_context_is_released/",
@@ -404,6 +660,18 @@
    "summary": "On the Navier–Stokes Millennium Prize Problem Impressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier–Stokes existence and smoothness problem , one of the seven Millennium Prize Problems that have been subject to a $1,000,000 prize since May 24th, 2000. The discovery is…",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "57f7dde5cbfa2444",
+   "title": "Best vision models under 6B?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb527l/best_vision_models_under_6b/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-08T23:40:25+00:00",
+   "summary": "Looking into tiny models that have some kind of vision Smart for General stuff + Vision, something like Qwen 3.5 4B or MiniCPM-V-4.6 submitted by /u/FerLuisxd [link] [comments]",
+   "matched": [
+    "qwen"
    ]
   },
   {
@@ -1332,278 +1600,7 @@
    "matched": [
     "deepseek"
    ]
-  },
-  {
-   "uid": "e840f462ed8c5339",
-   "title": "ggml-org/llama.cpp b10842 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10842",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-09-07T18:13:50+00:00",
-   "summary": "ggml: add gfx90c HIP support (#26454) * ggml: add gfx90c HIP support * ggml: make gfx90c HIP support compliant with specifications **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10842/llama-b10842-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "9004300fa38a07b5",
-   "title": "ultralytics/ultralytics v8.4.143 — v8.4.143 - Add INT8 quantization-aware training via quantize=8 in train mode (#26083)",
-   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.143",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-09-07T17:49:27+00:00",
-   "summary": "## 🌟 Summary **v8.4.143 introduces INT8 quantization-aware training for YOLO26, improves deployment and evaluation workflows, and delivers a broad documentation and integration refresh.** 🚀 ## 📊 Key Changes - **🧠 INT8 quantization-aware training (QAT) — PR #26083** - Adds support for `quantize=8` during `train` mode. - Fine-tunes pretrained weights while simulating INT8 quantization, allowing the…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "a1ae37307a7b63e0",
-   "title": "I REALLY hope the new gemma 5 family sticks to the \"chat model first\" philsophy and doesn't fall into the Qwen trap",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9ylhh/i_really_hope_the_new_gemma_5_family_sticks_to/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-09-07T17:30:30+00:00",
-   "summary": "It just seems every local 30b class model is just trying so hard to be the next Qwen that they all just kinda blend into a mass of code focused models. I really like how gemma 4 31b turned out with it feeling a lot less robotic and more creative than other models even knowing obscure lore from random media. I just…",
-   "matched": [
-    "qwen"
-   ]
-  },
-  {
-   "uid": "216c35b5e4143812",
-   "title": "Mercator ↔ Equal Earth",
-   "url": "https://simonwillison.net/2026/Sep/7/equal-earth/",
-   "source": "Simon Willison",
-   "category": "news",
-   "published": "2026-09-07T16:24:16+00:00",
-   "summary": "Tool: Mercator ↔ Equal Earth I got curious about the Equal Earth map projection that was recently voted on at the UN so I had GPT-6 Astra (medium) in ChatGPT Work build me this animated transition between Mercator and Equal Earth using D3. Tags: geospatial , d3 , vibe-coding , gpt-6-astra",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "f8b59f002c8e47dd",
-   "title": "modelcontextprotocol/python-sdk v2.2.0",
-   "url": "https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.2.0",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-09-07T15:53:57+00:00",
-   "summary": "`pip install -U mcp`. Docs: https://py.sdk.modelcontextprotocol.io/ A few defaults changed in this release. If you run a server or client on 2.x, skim these first: ## Behaviour changes **HTTP client redirects are only followed within the endpoint's origin** (#3397) - `Client(\"https://...\")`, `streamable_http_client` and `sse_client` follow a redirect only if it stays on the same scheme, host and…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "fc9ea05d2502aab1",
-   "title": "Are you running Qwen 3.8 27b or Qwen Flash Next?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9v6qp/are_you_running_qwen_38_27b_or_qwen_flash_next/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-09-07T15:25:18+00:00",
-   "summary": "Curious about what people are preferring, if you have the hardware. I have m3 Max 96gb and both run, and largely feel identical, but prefill on qwen 27b is faster. Is there anything / anyone working on anything to improve pp with mlx? Branching question: is anyone working on a harness that works with no reasoning?…",
-   "matched": [
-    "qwen"
-   ]
-  },
-  {
-   "uid": "160f193eb0d045bd",
-   "title": "ggml-org/llama.cpp b10840 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10840",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-09-07T14:31:44+00:00",
-   "summary": "CUDA: branchless Q4_K/Q5_K unpack to speed up mmvq, L2 prefetch on DGX Spark (#26705) * Update Q4_K and Q5_K to use branchless computation, which stops the scale unpack being re-executed for every column in mmvq, improving perf at batch sizes > 1 * Gating the change off from DGX Spark due to no gain * Adding prefetch gated to Spark, making branchless change in Q4_K and Q5_K general and modifying…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "8a3f860186406397",
-   "title": "Why are the SOTA open-weight models scoring (relatively) low scores on AA-Omniscience Index",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9t83y/why_are_the_sota_openweight_models_scoring/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-09-07T14:09:45+00:00",
-   "summary": "https://preview.redd.it/qwmh23nfr3oh1.png?width=1062 format=png auto=webp s=4741852dc3f5e7d86ae85281b089b2a325a1804a I mean they aren't that low but seeing them much lower than Gemini-3.* flash surprises me submitted by /u/the-grand-finale [link] [comments]",
-   "matched": [
-    "gemini"
-   ]
-  },
-  {
-   "uid": "ca0c3c71c8ee8eee",
-   "title": "modelcontextprotocol/python-sdk v1.30.0",
-   "url": "https://github.com/modelcontextprotocol/python-sdk/releases/tag/v1.30.0",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-09-07T14:03:59+00:00",
-   "summary": "Maintenance release of the 1.x line. 2.x is the current line; 1.x docs are at https://py.sdk.modelcontextprotocol.io/v1/. A few defaults changed in this release. If you run a server or client on 1.x, skim these first: ## Behaviour changes **HTTP client redirects are only followed within the endpoint's origin** (#3448) - `streamable_http_client` and `sse_client` follow a redirect only if it stays…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "43d5322e3d1ce9e7",
-   "title": "mixelpixx/Konnect",
-   "url": "https://github.com/mixelpixx/Konnect",
-   "source": "GitHub Trending — Rust",
-   "category": "repo",
-   "published": "2026-09-07T12:54:43.045738+00:00",
-   "summary": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing Konnect *BETA Release AI-assisted PCB design for KiCAD 10. Konnect is a native KiCAD plugin — a single Rust…",
-   "matched": [
-    "claude",
-    "llm"
-   ]
-  },
-  {
-   "uid": "c51e9116e7a8e555",
-   "title": "cocoindex-io/cocoindex",
-   "url": "https://github.com/cocoindex-io/cocoindex",
-   "source": "GitHub Trending — Rust",
-   "category": "repo",
-   "published": "2026-09-07T12:54:43.042151+00:00",
-   "summary": "Incremental engine for long horizon agents 🌟 Star if you like it! https://cocoindex.io Your agents deserve fresh context. Star us ❤️ → · · · CocoIndex turns codebases, meeting notes, inboxes, Slack, PDFs, and videos into live, continuously fresh context for your AI agents and LLM apps to reason over effectively — with…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "4b66e01d5845b450",
-   "title": "KnockOutEZ/wigolo",
-   "url": "https://github.com/KnockOutEZ/wigolo",
-   "source": "GitHub Trending — TypeScript",
-   "category": "repo",
-   "published": "2026-09-07T12:54:42.699364+00:00",
-   "summary": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. https://knockoutez.github.io/wigolo/ Local-first web intelligence for AI agents — no keys, no cloud, no metered bill. works with Claude Code · Cursor · Codex · Gemini CLI ·…",
-   "matched": [
-    "claude",
-    "gemini",
-    "mcp",
-    "claude code"
-   ]
-  },
-  {
-   "uid": "030454d4b64551cd",
-   "title": "ahujasid/blender-mcp",
-   "url": "https://github.com/ahujasid/blender-mcp",
-   "source": "GitHub Trending — Python",
-   "category": "repo",
-   "published": "2026-09-07T12:54:42.040950+00:00",
-   "summary": "Community plugin to control Blender 3D with any LLM of your choice https://mcp-for-blender.com/ MCP for Blender Connect Blender to any LLM Disclaimer: This is a third-party integration and not made by Blender Prompt-assisted 3D modeling, scene creation, and manipulation — driven by AI. Website · Full Tutorial ·…",
-   "matched": [
-    "llm",
-    "mcp"
-   ]
-  },
-  {
-   "uid": "ea7478613e662bf2",
-   "title": "sooryathejas/METATRON",
-   "url": "https://github.com/sooryathejas/METATRON",
-   "source": "GitHub Trending — Python",
-   "category": "repo",
-   "published": "2026-09-07T12:54:42.040026+00:00",
-   "summary": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS) METATRON AI-powered penetration testing assistant using local LLM on linux (Parrot OS) 🔱 METATRON AI-Powered Penetration Testing Assistant 📌 What is Metatron? Metatron is a CLI-based AI penetration testing assistant that runs entirely on…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "3c82cf51b3c8ef48",
-   "title": "⭐ 283 · datawhalechina/zero-to-sglang (?)",
-   "url": "https://github.com/datawhalechina/zero-to-sglang",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-09-07T12:49:51+00:00",
-   "summary": "面向大模型开发者的 SGLang 系统化开源教程：从推理基础与环境搭建开始，逐步学习模型部署、结构化生成、服务开发和性能优化， 结合实战案例带你从 0 到 1 掌握 SGLang，构建高性能 LLM 推理应用",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "a8f96c88034181a6",
-   "title": "9 easy steps for llama.cpp, a local model, Freecad (and pi coding agent) to generate solid objects that sound mechanically good and can be also be 3D printed/milled",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9r73k/9_easy_steps_for_llamacpp_a_local_model_freecad/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-09-07T12:45:58+00:00",
-   "summary": "Quick setup on linux: STEP 0: install/download llama.cpp, Freecad, your favourite gguf model - possibly with multimedia image reading capabilities (I've used Qwen3.8-27B-UD-Q4_K_M and relative mmproj-F16 quantized by Unsloth), uv (, pi.dev) STEP 1: $ cd /your/path/to/ (i.e. where to install) STEP 2: $ git clone…",
-   "matched": [
-    "llama"
-   ]
-  },
-  {
-   "uid": "d8f7ce3ec055665b",
-   "title": "⭐ 95 · bsab/italia-mcp-servers (Python)",
-   "url": "https://github.com/bsab/italia-mcp-servers",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-09-07T12:41:03+00:00",
-   "summary": "Catalogo curato dei server MCP (Model Context Protocol) italiani — dati pubblici, legal-tech, fatturazione, PA e altro.",
-   "matched": [
-    "mcp",
-    "model context protocol"
-   ]
-  },
-  {
-   "uid": "727db80dc467f9e1",
-   "title": "⭐ 79 · bsab/france-mcp-servers (Python)",
-   "url": "https://github.com/bsab/france-mcp-servers",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-09-07T12:34:31+00:00",
-   "summary": "A curated catalog of Model Context Protocol servers for French data, laws, and services.",
-   "matched": [
-    "mcp",
-    "model context protocol"
-   ]
-  },
-  {
-   "uid": "74cab1e117c86b73",
-   "title": "⭐ 86 · RankSpotAI/awesome-seo-mcp (Python)",
-   "url": "https://github.com/RankSpotAI/awesome-seo-mcp",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-09-07T12:14:48+00:00",
-   "summary": "A curated list of MCP servers for SEO. Search Console, keywords, backlinks, crawling, SERPs and AI search visibility, verified with install details and auth requirements.",
-   "matched": [
-    "mcp"
-   ]
-  },
-  {
-   "uid": "79f057a7e44113f8",
-   "title": "ggml-org/llama.cpp b10839 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10839",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-09-07T11:14:21+00:00",
-   "summary": "vulkan: support type-aligned GET_ROWS (#28253) * vulkan: fall back to CPU for GET_ROWS with misaligned offsets The Vulkan GET_ROWS shader asserts when a tensor's backing-buffer offset plus view_offs is misaligned w.r.t. minStorageBufferOffsetAlignment (see init_pushconst_tensor_offsets). Previously this caused a hard crash on models using ggml_view + ggml_get_rows (e.g. Qwen3-TTS, Qwen3-VL).…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "fce463b5323785c7",
-   "title": "Qwen Next on 24 + 64 GB VRAM?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9p7vy/qwen_next_on_24_64_gb_vram/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-09-07T11:10:26+00:00",
-   "summary": "Hey all, I now have a 3090 24GB + a CMP 170HX unlocked with 64GB. I also have 64 GB DDR4. Can I run Qwen 3.8 Next in any possible configuration with both GPUs and perhaps offloading remaining stuff to DRAM? Is there a way I can get acceptable speeds? The only bottleneck with the CMP 170HX is the PCIe speed (2.0 @ 4x),…",
-   "matched": [
-    "qwen"
-   ]
-  },
-  {
-   "uid": "aea04b7f7c38b5b8",
-   "title": "⭐ 1008 · 2akouwu/reverify (Python)",
-   "url": "https://github.com/2akouwu/reverify",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-09-07T10:12:07+00:00",
-   "summary": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
-   "matched": [
-    "mcp"
-   ]
   }
  ],
- "last_run": "2026-09-09T11:42:23.707277+00:00"
+ "last_run": "2026-09-09T19:57:14.229143+00:00"
 }
