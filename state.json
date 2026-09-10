@@ -1,5 +1,30 @@
 {
  "seen": [
+  "36213f9f2e0c0cfe",
+  "d4d7434ec434c586",
+  "318ad11799c39e8f",
+  "528ceb67be454e88",
+  "17557d899c122547",
+  "9202bf218bb50f93",
+  "beba65b7c08d0311",
+  "aa03090a523a2817",
+  "d35f1ceefca28aa7",
+  "a1d2fc0f26289928",
+  "a85aa7145cdd34d9",
+  "f72b33a7c50d2dac",
+  "faf276784784f982",
+  "bab054e8a19f97b6",
+  "f36fed373886eb29",
+  "6baf1c7e0d9b9356",
+  "77d908695e5742b5",
+  "6d1a490f5a8dac36",
+  "3ac798c38f9ab2d9",
+  "631ad0996fb828cd",
+  "7a459ed9abe249d5",
+  "78c99818bda054ae",
+  "e9b8285edaaab775",
+  "f0ef08ba14b64012",
+  "a2f5dcde7ca9415d",
   "3e4e826efb5a6c8a",
   "6c16b0c4a6fd58e1",
   "e5b44a600947456e",
@@ -12,15 +37,23 @@
   "57842598cae94fd4",
   "6450ce2b2e286244",
   "f311047902915a96",
+  "1f686dad3667a2e2",
   "3cd3cd5ea0f5f100",
+  "c4d4760f52d08dfd",
   "d5aab39797470718",
   "4c3d443736d59b5d",
   "76535c1a3fd9c7a3",
   "e9081b83a4efe758",
   "a83900db67a6e5f2",
+  "2d4b8435741f25e1",
+  "c694f9cab030aa1a",
   "ca254dbc0b4772aa",
+  "b33b50b8a73ae953",
+  "fb28a2bf060f2704",
   "58228ddb890cfc9e",
+  "0829595add0c9eea",
   "aa67b01b4da535a8",
+  "1df50ab9d1e9d78b",
   "2d4126881d6d2ebc",
   "96e553a4b7c78db9",
   "a0ad0275cf45cca5",
@@ -86,42 +119,317 @@
   "235bc09c80f086d3",
   "5f5ab0d6af20d304",
   "c792cd89cc80289c",
-  "8890217ef1c48fa7",
-  "5facd6897d3d63c1",
-  "76fda7faf3e2c08e",
-  "6ba1bf326996d5cf",
-  "c618ae821150a15f",
-  "28ce88e5475a49e9",
-  "a0c8047c33050158",
-  "3c1b1b18557d24aa",
-  "67a56356dfc0fd46",
-  "b85d5bdc34c0fb31",
-  "89caff95a11b6897",
-  "611780c54872dcc0",
-  "f6b9ec86b59016c2",
-  "5e418570695644e6",
-  "ef10dca5515b5733",
-  "2d16037f81317d2d",
-  "e077028a8db69260",
-  "caf84d600958166f",
-  "c56f9022a2f2fa25",
-  "9e507864620c4205",
-  "2c2a4bbe8804cdf2",
-  "bb49b17e92fa576b",
-  "de20de339487a469",
-  "464e4c6d6ff066f5",
-  "dac2ea7b3563f5d1",
-  "fa5c6cc1f3b8b65e",
-  "4f9aee7e8bc4577b",
-  "d37d9dd58e40c53f",
-  "eb24b84e006d98dc",
-  "24c20d1b06bf219b",
-  "c7a24c7560c932d7",
-  "868f3f5e7682f5bb",
-  "fad93e83c8bdadb5",
-  "6d9ee918e1fcb88e"
+  "8890217ef1c48fa7"
  ],
  "items": [
+  {
+   "uid": "36213f9f2e0c0cfe",
+   "title": "huggingface/funes",
+   "url": "https://github.com/huggingface/funes",
+   "source": "GitHub Trending — Rust",
+   "category": "repo",
+   "published": "2026-09-10T19:56:36.812508+00:00",
+   "summary": "Durable, searchable memory of your past agent sessions. funes Durable memory for your AI coding agents. funes indexes your past sessions across Claude Code, Codex, pi, and Hermes and lets any agent recall the past decisions, rationale, and findings. Your memory is a dataset you can publish to the Hugging Face Hub —…",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "d4d7434ec434c586",
+   "title": "rtk-ai/rtk",
+   "url": "https://github.com/rtk-ai/rtk",
+   "source": "GitHub Trending — Rust",
+   "category": "repo",
+   "published": "2026-09-10T19:56:36.790964+00:00",
+   "summary": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies https://www.rtk-ai.app High-performance CLI proxy that cuts up to 90% of the bash output your agent reads Website • Install • Troubleshooting • Architecture • Discord English • Francais • 中文 • 日本語 • 한국어…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "318ad11799c39e8f",
+   "title": "mksglu/context-mode",
+   "url": "https://github.com/mksglu/context-mode",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-09-10T19:56:36.148410+00:00",
+   "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. https://context-mode.com Context Mode The other half of the context problem. Used across teams at The Problem Every MCP tool call dumps raw data…",
+   "matched": [
+    "context window",
+    "mcp"
+   ]
+  },
+  {
+   "uid": "528ceb67be454e88",
+   "title": "ruvnet/ruflo",
+   "url": "https://github.com/ruvnet/ruflo",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-09-10T19:56:36.138876+00:00",
+   "summary": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated https://Cognitum.One Ruflo An agent…",
+   "matched": [
+    "claude",
+    "rag",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "17557d899c122547",
+   "title": "Tencent/teamai-cli",
+   "url": "https://github.com/Tencent/teamai-cli",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-09-10T19:56:36.128533+00:00",
+   "summary": "Make Every Team AI Native TeamAI — Make Every Team AI Native English | 简体中文 TeamAI manages your team's skills, rules, MCP, and knowledge across Claude Code, Codex, CodeBuddy, WorkBuddy, OpenCode, Cursor, and other AI agents. Contributors Thanks to everyone who has contributed to TeamAI! Made with contrib.rocks . Quick…",
+   "matched": [
+    "claude",
+    "mcp",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "9202bf218bb50f93",
+   "title": "Sumanth077/Hands-On-AI-Engineering",
+   "url": "https://github.com/Sumanth077/Hands-On-AI-Engineering",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-09-10T19:56:35.565136+00:00",
+   "summary": "A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases. https://aiengineering.beehiiv.com 🚀 Hands-On AI Engineering A curated collection of practical, production-ready AI projects across multiple modalities, including language models, multimodal models, OCR…",
+   "matched": [
+    "rag",
+    "ocr"
+   ]
+  },
+  {
+   "uid": "beba65b7c08d0311",
+   "title": "TauricResearch/TradingAgents",
+   "url": "https://github.com/TauricResearch/TradingAgents",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-09-10T19:56:35.533510+00:00",
+   "summary": "TradingAgents: Multi-Agents LLM Financial Trading Framework https://arxiv.org/pdf/2412.20138 Deutsch | Español | français | 日本語 | 한국어 | Português | Русский | 中文 TradingAgents: Multi-Agents LLM Financial Trading Framework News [2026-08] TradingAgents v0.4.0 released with look-ahead / point-in-time fixes across FRED…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "aa03090a523a2817",
+   "title": "⭐ 665 · Vincentwei1021/anything2explainer (TypeScript)",
+   "url": "https://github.com/Vincentwei1021/anything2explainer",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-09-10T19:27:26+00:00",
+   "summary": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "d35f1ceefca28aa7",
+   "title": "New tensor type layouts for my GGUF uploads",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcsj6v/new_tensor_type_layouts_for_my_gguf_uploads/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-10T19:05:03+00:00",
+   "summary": "Hey all, long time no post. Figured I'd pop my head in to point you towards a blog post I just published about research I had performed and changes I'm making to the shape of models I post, you can read it here: https://huggingface.co/blog/bartowski/per-tensor-layout-maps-for-gguf-quantization I won't try to claim…",
+   "matched": [
+    "quantization"
+   ]
+  },
+  {
+   "uid": "a1d2fc0f26289928",
+   "title": "ggml-org/llama.cpp b10900 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10900",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-10T19:00:20+00:00",
+   "summary": "vulkan: use add_alloc_dep to enable topk_moe fusion for prefill (#28422) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10900/llama-b10900-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "a85aa7145cdd34d9",
+   "title": "⭐ 120 · punkpeye/awesome-remote-mcp-servers (?)",
+   "url": "https://github.com/punkpeye/awesome-remote-mcp-servers",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-09-10T18:42:08+00:00",
+   "summary": "A collection of remote MCP servers.",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "f72b33a7c50d2dac",
+   "title": "ggml-org/llama.cpp b10899 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10899",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-10T18:33:48+00:00",
+   "summary": "vulkan: small M matrix optimizations for qwen (#28457) * vulkan: optimize m=1 mul_mat by swapping A/B * vulkan: Improve small M perf Allow split_k with small M. Make small vs med tile selection (for coopmat2) depend on M, not just N. **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "faf276784784f982",
+   "title": "ggml-org/llama.cpp b10897 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10897",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-10T17:59:13+00:00",
+   "summary": "ci : Update WoA CUDA 13.4 release to use 13.4.1 GA redistributables (#28687) - Move Windows ARM64 CUDA 13.4 builds from the Developer Preview archives to the 13.4.1 GA redistributables **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10897/llama-b10897-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64,…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "bab054e8a19f97b6",
+   "title": "OUI-1: a model that generates bespoke UI elements",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcqa03/oui1_a_model_that_generates_bespoke_ui_elements/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-10T17:46:43+00:00",
+   "summary": "so i saw that openui.com released OUI-1, a model fine-tuned on DiffusionGemma. the training dataset uses OpenUI-Lang, a custom DSL (domain-specific language), instead of plain HTML, Markdown, or React code. what makes it interesting is that you can already get a regular LLM to use OpenUI-Lang through a system prompt,…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "f36fed373886eb29",
+   "title": "anthropics/anthropic-sdk-python v1.5.0",
+   "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.5.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-10T17:45:22+00:00",
+   "summary": "## 1.5.0 (2026-09-10) Full Changelog: [v1.4.0...v1.5.0](https://github.com/anthropics/anthropic-sdk-python/compare/v1.4.0...v1.5.0) ### Features * **api:** add auto mode tool permissions for Managed Agents ([62aa21b](https://github.com/anthropics/anthropic-sdk-python/commit/62aa21bb10c5d058d44ac969b06421f169495bee)) * **api:** add content_too_large web_fetch tool error code…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "6baf1c7e0d9b9356",
+   "title": "CyberTiel 35B-A3B’s uncensored 4-bit quant beats Opus 4.6 medium cleanly on real codebase issues, in 27% of the time Qwen3.8-27b medium takes.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcpppm/cybertiel_35ba3bs_uncensored_4bit_quant_beats/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-10T17:26:47+00:00",
+   "summary": "The downside of uncensoring a model is that it is known to potentially damage it, but CyberTiel is an even more capable software engineer than its censored TielCoder base, while allowing offensive security research. This was achieved by quantizing with an improved imatrix, baked from a curated corpus of cybersecurity-…",
+   "matched": [
+    "opus"
+   ]
+  },
+  {
+   "uid": "77d908695e5742b5",
+   "title": "DeepSeek V4.1 Flash is available in HuggingChat",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcng44/deepseek_v41_flash_is_available_in_huggingchat/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-10T16:05:49+00:00",
+   "summary": "submitted by /u/paf1138 [link] [comments]",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "6d1a490f5a8dac36",
+   "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+   "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-09-10T16:00:00+00:00",
+   "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "3ac798c38f9ab2d9",
+   "title": "ggml-org/llama.cpp b10896 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10896",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-10T15:42:27+00:00",
+   "summary": "spec: fix failed to decode mtmd chunk with DFlash (#28587) * speculative: fix failed to decode mtmd chunk with DFlash When using DFlash w/ vision models, the drafter memory fails to allocate new tokens because images report a fixed offset. Stop copying them to allow the drafter to continue. * address PR feedback limit M-RoPE skip to images only, allow audio to pass through. Clean up comments to…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "631ad0996fb828cd",
+   "title": "Now everyone can put data to work",
+   "url": "https://openai.com/index/put-data-to-work",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-09-10T15:00:00+00:00",
+   "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "7a459ed9abe249d5",
+   "title": "ggml-org/llama.cpp b10894 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10894",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-10T13:51:23+00:00",
+   "summary": "models: clean up some dead switch branches in old models (#28669) Some of these if statements were copypastaed in a former refactor and never cleaned up to remove the cases that could never happen anymore. The only thing that's shared between these relatives anymore is llama_model_bert::graph::graph, so the rest of the code doesn't need the conditionals. **Website:** - **Attestations:** -…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "78c99818bda054ae",
+   "title": "Harness does matter",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcj5q3/harness_does_matter/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-10T13:25:29+00:00",
+   "summary": "I was not aware that the harness makes such a big difference. DeepSeek V4.1 Flash submitted by /u/Specific-Rub-7250 [link] [comments]",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "e9b8285edaaab775",
+   "title": "What to run at 128GB VRAM?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcib2s/what_to_run_at_128gb_vram/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-10T12:50:24+00:00",
+   "summary": "Long time lurker, but I'm finally upgrading to 128GB VRAM, and I'm trying to figure out what to run. I had been leaning towards Qwen3.8 Flash-Next at ~Q4, and I generally prefer to not run anything below Q4. But I feel like the reception to Flash-Next has been a bit meh , so I'm considering GLM 5.3 at ~Q2 or Deepseek…",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "f0ef08ba14b64012",
+   "title": "⭐ 101 · Atomburstofficial/geiger (JavaScript)",
+   "url": "https://github.com/Atomburstofficial/geiger",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-09-10T12:28:18+00:00",
+   "summary": "A Geiger counter for AI agents — one read-only command that inventories every agent, MCP server, plugin, and AI extension on a machine",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "a2f5dcde7ca9415d",
+   "title": "GigaChat-3.5-Reasoning",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wchl1x/gigachat35reasoning/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-10T12:19:06+00:00",
+   "summary": "Hey y'all! We've released a new model in our lineup: GigaChat-3.5 Reasoning. It's a 432B-A28B MoE with Gated DeltaNet for long-context efficiency. We trained domain experts (code, math, general, etc.) with CISPO and then distilled them into a single model via on-policy distillation. In our evals the resulting model…",
+   "matched": [
+    "distillation"
+   ]
+  },
   {
    "uid": "3e4e826efb5a6c8a",
    "title": "akitaonrails/ai-memory",
@@ -276,6 +584,19 @@
    ]
   },
   {
+   "uid": "1f686dad3667a2e2",
+   "title": "Deepseek V4.1 Flash Release Video [Made with Deepseek V4.1 Flash]",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcgdz8/deepseek_v41_flash_release_video_made_with/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-10T11:23:39+00:00",
+   "summary": "I like to benchmark new models that come out on motion videos. So here's a test I did for deepseek v4.1 flash. And I have to say flash has probably graduated from being a Luna class model to nearly an Opus class model with this release, at least with motion videos. Prev. example I did with Kimi k3(altho in that case I…",
+   "matched": [
+    "deepseek",
+    "opus"
+   ]
+  },
+  {
    "uid": "3cd3cd5ea0f5f100",
    "title": "ggml-org/llama.cpp b10889 (pre)",
    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10889",
@@ -285,6 +606,18 @@
    "summary": "memory : avoid allocating V cache for indexer (it's not used) (#28330) Co-authored-by: Stanisław Szymczyk **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10889/llama-b10889-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) -…",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "c4d4760f52d08dfd",
+   "title": "guide to using reasoning_effort on deepseek v4.1 flash",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcesmy/guide_to_using_reasoning_effort_on_deepseek_v41/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-10T10:01:12+00:00",
+   "summary": "submitted by /u/incarnadine72 [link] [comments]",
+   "matched": [
+    "deepseek"
    ]
   },
   {
@@ -348,6 +681,31 @@
    ]
   },
   {
+   "uid": "2d4b8435741f25e1",
+   "title": "⭐ 829 · tigerless-labs/agent-memory (Python)",
+   "url": "https://github.com/tigerless-labs/agent-memory",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-09-10T08:18:56+00:00",
+   "summary": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "c694f9cab030aa1a",
+   "title": "⭐ 547 · okf-memory/okf-agent-memory (Go)",
+   "url": "https://github.com/okf-memory/okf-agent-memory",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-09-10T07:03:21+00:00",
+   "summary": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
    "uid": "ca254dbc0b4772aa",
    "title": "Deepseek v4.1 flash finally has engrams, what do you expect from 4.1 pro?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcbm3p/deepseek_v41_flash_finally_has_engrams_what_do/",
@@ -358,6 +716,30 @@
    "matched": [
     "deepseek",
     "fable"
+   ]
+  },
+  {
+   "uid": "b33b50b8a73ae953",
+   "title": "Introducing ChatGPT for Financial Services",
+   "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-09-10T07:00:00+00:00",
+   "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "fb28a2bf060f2704",
+   "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+   "url": "https://openai.com/index/expanding-ai-access-us-government",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-09-10T07:00:00+00:00",
+   "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+   "matched": [
+    "*"
    ]
   },
   {
@@ -373,6 +755,19 @@
    ]
   },
   {
+   "uid": "0829595add0c9eea",
+   "title": "⭐ 1370 · vinzdg/codenotch (Swift)",
+   "url": "https://github.com/vinzdg/codenotch",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-09-10T06:37:35+00:00",
+   "summary": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
    "uid": "aa67b01b4da535a8",
    "title": "DeepSeek V4.1 Flash: Stronger, Faster, More Accessible",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcb0o3/deepseek_v41_flash_stronger_faster_more_accessible/",
@@ -382,6 +777,19 @@
    "summary": "Original Source from DeepSeek WeChat Official Account: https://mp.weixin.qq.com/s/qg0NU3NNUbp1co2PdkAPAg Today we're officially releasing the DeepSeek V4.1 Flash model. It is the smallest model in our brand-new model architecture series, with native multimodal visual understanding. The new architecture was designed…",
    "matched": [
     "deepseek"
+   ]
+  },
+  {
+   "uid": "1df50ab9d1e9d78b",
+   "title": "⭐ 2524 · Nanako0129/sepia (Python)",
+   "url": "https://github.com/Nanako0129/sepia",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-09-10T06:16:00+00:00",
+   "summary": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+   "matched": [
+    "claude",
+    "claude code"
    ]
   },
   {
@@ -1184,408 +1592,7 @@
    "matched": [
     "remote sensing"
    ]
-  },
-  {
-   "uid": "5facd6897d3d63c1",
-   "title": "LightMedSeg-ISLES: Stroke Lesion Segmentation with 81x Fewer Parameters than nnU-Net",
-   "url": "https://arxiv.org/abs/2609.09634",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.09634v1 Announce Type: new Abstract: Large networks and ensembles often lead medical image segmentation challenges, but their storage and inference demands complicate deployment. We present LightMedSeg-ISLES, a 1.26-million-parameter pipeline for T1-weighted stroke lesion segmentation in ISLES'26. On a…",
-   "matched": [
-    "inference",
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "76fda7faf3e2c08e",
-   "title": "MethaneFuse: Learning from Multi-Sensor Satellite Observations for Methane Plume Detection",
-   "url": "https://arxiv.org/abs/2609.09762",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.09762v1 Announce Type: new Abstract: Methane plume detection from satellite imagery is constrained by incomplete observations: public satellites provide complementary spatial, spectral, and atmospheric evidence, but real plume cases rarely contain fully paired multi-sensor measurements because of revisit…",
-   "matched": [
-    "satellite imagery"
-   ]
-  },
-  {
-   "uid": "6ba1bf326996d5cf",
-   "title": "Freezing of Gait Prediction Under Spatial Occlusion: An IMU-Supervised Cross-Modal Distillation Approach",
-   "url": "https://arxiv.org/abs/2609.09826",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.09826v1 Announce Type: new Abstract: Parkinson's disease is a progressive neurodegenerative disorder characterised by gradual deterioration of movement control. Automated freezing-of-gait (FOG) detection supports the objective assessment of gait-related motor impairment. Two common approaches are used for…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "c618ae821150a15f",
-   "title": "Pretraining and Distillation Matter More Than Architecture Family for Label-Free Single-Cell Classification",
-   "url": "https://arxiv.org/abs/2609.09863",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.09863v1 Announce Type: new Abstract: Choosing a deep learning architecture for label-free single-cell classification remains an open question, with microscopy benchmarks reporting conflicting conclusions about CNNs versus transformers. We present a controlled benchmark on LIVECell phase-contrast microscopy…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "28ce88e5475a49e9",
-   "title": "From Pixels to Hierarchical Sequences: Quadtree Mask Encoding for Vision-Language Binary Change Detection",
-   "url": "https://arxiv.org/abs/2609.09876",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.09876v1 Announce Type: new Abstract: Dense change detection in remote sensing requires vision-language models (VLMs) to compare bi-temporal images and generate accurate pixel-level masks. Existing VLMs are largely confined to change captioning outputs, and the few that produce pixel-level masks still rely…",
-   "matched": [
-    "remote sensing"
-   ]
-  },
-  {
-   "uid": "a0c8047c33050158",
-   "title": "CLFTv2: Efficient Camera-LiDAR Fusion for Semantic Segmentation via Hierarchical Feature Pyramids",
-   "url": "https://arxiv.org/abs/2609.09881",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.09881v1 Announce Type: new Abstract: Semantic segmentation for autonomous driving requires reliable detection of vulnerable road users (VRUs) despite heavy class imbalance. We introduce CLFTv2, a hierarchical camera-LiDAR fusion framework replacing global ViT attention with a Swin-based multi-scale encoder…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "3c1b1b18557d24aa",
-   "title": "Albedo Estimation via Latent Bridge Matching",
-   "url": "https://arxiv.org/abs/2609.09884",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.09884v1 Announce Type: new Abstract: Recent advances in Intrinsic Image Decomposition (IID) have increasingly relied on generative models. However, progress remains limited by three key challenges: (a) insufficient physical consistency, (b) high computational cost at inference time, and (c) limited…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "67a56356dfc0fd46",
-   "title": "Multimodal Emotion Recognition in Conversations via Class-Wise Adaptive Modality Fusion and Affective Geometry",
-   "url": "https://arxiv.org/abs/2609.09924",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.09924v1 Announce Type: new Abstract: Emotion Recognition in Conversations (ERC) requires integrating heterogeneous textual, audio, and visual cues while accounting for conversational context and emotional dynamics. We extend the Self-Distillation Transformer architecture for ERC with appearance+geometry…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "b85d5bdc34c0fb31",
-   "title": "From Few-Shot Segmentation to Clinician-in-the-Loop Medical Image Analysis",
-   "url": "https://arxiv.org/abs/2609.10001",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.10001v1 Announce Type: new Abstract: Few-shot medical image segmentation (FSMIS) seeks to delineate unseen structures from a small support set, but its standard formulation fixes task-defining evidence before inference. This assumption is fragile when query cases exhibit acquisition shift, atypical…",
-   "matched": [
-    "inference",
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "89caff95a11b6897",
-   "title": "Elastoformer: Enabling Dynamic Adaptivity via Elastic Model Transformation",
-   "url": "https://arxiv.org/abs/2609.10018",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.10018v1 Announce Type: new Abstract: EdgeAI systems are increasingly employing computer vision applications to enable intelligent, on-device decision-making in real-time. However, these deployments face highly dynamic operational conditions, with fluctuating constraints on latency, power availability, and…",
-   "matched": [
-    "computer vision"
-   ]
-  },
-  {
-   "uid": "611780c54872dcc0",
-   "title": "ScopeMamba-YOLO: Widening the Perceptual Scope Inward and Outward for Small Object Detection in Remote Sensing Imagery",
-   "url": "https://arxiv.org/abs/2609.10156",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.10156v1 Announce Type: new Abstract: Small object detection in unmanned aerial vehicle (UAV) and remote sensing imagery requires preserving high-resolution detail while modeling long-range context. Adding a stride-4 detection level and removing the stride-32 stage benefits tiny targets but weakens…",
-   "matched": [
-    "remote sensing"
-   ]
-  },
-  {
-   "uid": "f6b9ec86b59016c2",
-   "title": "When Fusion Fails: Corruption-Aware Rebalanced Fusion for Multi-Modal Medical Image Segmentation",
-   "url": "https://arxiv.org/abs/2609.10261",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.10261v1 Announce Type: new Abstract: Multi-modal medical image segmentation leverages complementary diagnostic information, yet fusion can underperform single-modality baselines when spatially aligned inputs differ in quality. Here, \"corruption\" primarily denotes resolution-induced degradation rather than…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "5e418570695644e6",
-   "title": "Isotropic Embedding Perturbations for Robust Vision Language Encoders",
-   "url": "https://arxiv.org/abs/2609.10292",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.10292v1 Announce Type: new Abstract: Data augmentation is fundamental to training modern deep vision and multimodal models. While individual methods, such as RandAug, CutMix, Mixup, RandErase, and DropPath, offer strong regularization effects, their combined use has saturated in performance due to…",
-   "matched": [
-    "embedding"
-   ]
-  },
-  {
-   "uid": "ef10dca5515b5733",
-   "title": "TRACE: Trajectory-robust Admission with Evidence Ordering for Efficient GUI Agents",
-   "url": "https://arxiv.org/abs/2609.10297",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.10297v1 Announce Type: new Abstract: GUI agents accumulate high-resolution screenshots as the trajectory unfolds, increasing inference latency and memory usage. Training-free visual token pruning can reduce this cost, but cache reuse introduces a fundamental constraint. Once tokens are discarded, the…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "2d16037f81317d2d",
-   "title": "Decoupled Self-Forcing Distillation for Streaming Talking Head Generation",
-   "url": "https://arxiv.org/abs/2609.10317",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.10317v1 Announce Type: new Abstract: Streaming talking-head generation produces each frame as its driving audio arrives, yet fidelity and efficiency have so far pulled in opposite directions: end-to-end methods condition a video diffusion model on audio directly and achieve high quality but only at large…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "e077028a8db69260",
-   "title": "Beyond One-Size-Fits-All: Sample-Adaptive Strategy Routing for Vision Token Pruning in MLLMs",
-   "url": "https://arxiv.org/abs/2609.10346",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.10346v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) process hundreds or thousands of visual tokens per image, incurring prohibitive inference costs. While existing vision token pruning methods mitigate this overhead, they implicitly assume that a single fixed pruning strategy can…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "caf84d600958166f",
-   "title": "Beyond Weak Labels: Prompt-Guided Local Refinement for Weakly Supervised Water Segmentation in High-Resolution Multispectral Imagery",
-   "url": "https://arxiv.org/abs/2609.10371",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.10371v1 Announce Type: new Abstract: High-resolution water mapping supports environmental monitoring and related applications, but accurate pixel-level labels are difficult and costly to produce. Official hydrographic vectors provide scalable weak supervision, but they contain artifacts like boundary noise,…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "c56f9022a2f2fa25",
-   "title": "Enhanced Deformable Convolution with Center-invariant Offset and Edge-aware Mask",
-   "url": "https://arxiv.org/abs/2609.10387",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.10387v1 Announce Type: new Abstract: Deformable convolution networks have recently become popular for many computer vision tasks, especially for semantic segmentation, because of their exceptional capabilities in dynamic spatial modeling. However, due to the dense deformable offsets and the lack of…",
-   "matched": [
-    "segmentation",
-    "computer vision"
-   ]
-  },
-  {
-   "uid": "9e507864620c4205",
-   "title": "Cross-Model Agreement as a Deployment-Time Reliability Signal for Automatic Polyp Segmentation",
-   "url": "https://arxiv.org/abs/2609.10495",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.10495v1 Announce Type: new Abstract: In real-time colonoscopy, ground-truth annotations are unavailable at inference, so polyp segmentation models can fail silently. We propose Referee-Based Quality Estimation (RBQE), a reference-free framework measuring agreement between a primary segmentation model and an…",
-   "matched": [
-    "inference",
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "2c2a4bbe8804cdf2",
-   "title": "Control Copy-Paste: Controllable Diffusion-Based Augmentation Method for Remote Sensing Few-Shot Object Detection",
-   "url": "https://arxiv.org/abs/2507.21816",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2507.21816v1 Announce Type: cross Abstract: Few-shot object detection (FSOD) for optical remote sensing images aims to detect rare objects with only a few annotated bounding boxes. The limited training data makes it difficult to represent the data distribution of realistic remote sensing scenes, which results in…",
-   "matched": [
-    "remote sensing"
-   ]
-  },
-  {
-   "uid": "bb49b17e92fa576b",
-   "title": "Diverse Instance Generation via Diffusion Models for Enhanced Few-Shot Object Detection in Remote Sensing Images",
-   "url": "https://arxiv.org/abs/2511.18031",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2511.18031v1 Announce Type: cross Abstract: Few-shot object detection (FSOD) aims to detect novel instances with only a limited number of labeled training samples, presenting a challenge that is particularly prominent in numerous remote sensing applications such as endangered species monitoring and disaster…",
-   "matched": [
-    "remote sensing"
-   ]
-  },
-  {
-   "uid": "de20de339487a469",
-   "title": "Semigroup-JEPA: Latent Dynamics Consistency for Zero-Shot Physics Generalization",
-   "url": "https://arxiv.org/abs/2609.10464",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.10464v1 Announce Type: cross Abstract: Joint-Embedding Predictive Architecture (JEPA) world models learn a compact latent representation of the world that supports prediction and planning, but their capability to learn physics and generate physically realistic dynamics remains hitherto untested. In this…",
-   "matched": [
-    "embedding"
-   ]
-  },
-  {
-   "uid": "464e4c6d6ff066f5",
-   "title": "LSP-DETR: Efficient and Scalable Nuclei Segmentation in Whole-Slide Images",
-   "url": "https://arxiv.org/abs/2601.03163",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2601.03163v2 Announce Type: replace Abstract: Background and Objective: Precise and scalable instance segmentation of cell nuclei is a fundamental prerequisite for computational pathology, yet gigapixel whole-slide images (WSIs) pose significant computational challenges. While patch-based processing is standard…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "dac2ea7b3563f5d1",
-   "title": "RadJEPA: Radiology Encoder for Chest X-Rays via Joint Embedding Predictive Architecture",
-   "url": "https://arxiv.org/abs/2601.15891",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2601.15891v4 Announce Type: replace Abstract: Vision-language pretraining has driven progress in medical image representation learning, but it depends on paired image-text data and can inherit reporting bias from clinical narratives. We study whether language-free predictive pretraining can produce an image…",
-   "matched": [
-    "embedding"
-   ]
-  },
-  {
-   "uid": "fa5c6cc1f3b8b65e",
-   "title": "Federated Learning for Cross-Modality Medical Image Segmentation via Augmentation-Driven Generalization",
-   "url": "https://arxiv.org/abs/2602.20773",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2602.20773v2 Announce Type: replace Abstract: Purpose: Developing generalizable medical image segmentation models is challenging because imaging data are distributed across institutions and differ in modality and acquisition protocol. Federated learning (FL) enables collaborative training without centralizing…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "4f9aee7e8bc4577b",
-   "title": "Low-Dose CT for Stroke Diagnosis: A Dual-Pipeline Deep Learning Framework for Portable Neuroimaging",
-   "url": "https://arxiv.org/abs/2603.26764",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2603.26764v3 Announce Type: replace Abstract: Portable CT scanners may support earlier stroke assessment, but reduced photon counts introduce noise that affects image quality and may alter automated classification. We compared direct classification of simulated low-dose slices with residual U-Net denoising…",
-   "matched": [
-    "u-net"
-   ]
-  },
-  {
-   "uid": "d37d9dd58e40c53f",
-   "title": "Leveraging Visual Signals for Robust Token-Level Uncertainty in Vision-Language Generation",
-   "url": "https://arxiv.org/abs/2605.27136",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2605.27136v2 Announce Type: replace Abstract: Uncertainty quantification (UQ) remains a critical challenge in Large Vision Language Models (LVLMs) for reliable predictions and real-world deployment. However, most existing methods are adapted from the LLM literature and primarily focus on the language modality,…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "eb24b84e006d98dc",
-   "title": "FiberTune: Preserving Action-Fiber Visual Residuals in Vision-Language-Action Fine-Tuning",
-   "url": "https://arxiv.org/abs/2606.08653",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2606.08653v2 Announce Type: replace Abstract: Action-supervised fine-tuning of vision-language-action (VLA) policies fits demonstrations effectively but constrains only the directions that change predicted actions, leaving visual structure consistent across action-equivalent states free to collapse. We formalize…",
-   "matched": [
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "24c20d1b06bf219b",
-   "title": "TurboT2VA: Fast Large-Scale Text-to-Video-Audio Generation via Score-Regularized Consistency Distillation",
-   "url": "https://arxiv.org/abs/2608.24674",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2608.24674v3 Announce Type: replace Abstract: Joint text-to-video-audio generation produces synchronized visual and acoustic content, but the long sampling trajectories and heterogeneous multimodal computation of large models make inference prohibitively expensive. We present TurboT2VA, a distillation and…",
-   "matched": [
-    "distillation",
-    "inference"
-   ]
-  },
-  {
-   "uid": "c7a24c7560c932d7",
-   "title": "Where to Look Matters: On-Policy Self-Distillation for Long-Video Understanding",
-   "url": "https://arxiv.org/abs/2608.25356",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2608.25356v2 Announce Type: replace Abstract: Vision-language models (VLMs) have made substantial progress in long-video understanding, with standard backbone models typically answering questions from frames sampled across the full video. However, as videos become longer, the full-video context inevitably…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "868f3f5e7682f5bb",
-   "title": "RoLA: Rotary-Positioned Low-Rank Linear Attention for Efficient Diffusion Transformers",
-   "url": "https://arxiv.org/abs/2609.06712",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.06712v2 Announce Type: replace Abstract: Diffusion Transformers (DiTs) achieve strong video generation quality, but their dense spatiotemporal self-attention scales quadratically with sequence length and quickly becomes the dominant inference bottleneck. Sparse low-rank hybrids alleviate this cost by…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "fad93e83c8bdadb5",
-   "title": "CGSM: Concept-Guided Segmentation Model for Precise Pulmonary Lesion Delineation",
-   "url": "https://arxiv.org/abs/2609.07004",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.07004v2 Announce Type: replace Abstract: Accurate segmentation of pulmonary lesions is essential for effective clinical diagnosis and treatment strategies. Existing segmentation approaches often lack task-specific semantic guidance, as text-based annotations typically offer coarse localization of lesions,…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "6d9ee918e1fcb88e",
-   "title": "ReactVAU: A Slow-Fast Decoupled Framework for Streaming Video Anomaly Understanding",
-   "url": "https://arxiv.org/abs/2609.07941",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-09-10T04:00:00+00:00",
-   "summary": "arXiv:2609.07941v2 Announce Type: replace Abstract: In this paper, we propose ReactVAU, a Slow-Fast Decoupled Framework for real-time streaming Video Anomaly Understanding (VAU). Existing VAU methods rely on offline inference with global temporal sampling, which violates causality and prevents deployment in live…",
-   "matched": [
-    "inference"
-   ]
   }
  ],
- "last_run": "2026-09-10T11:39:58.292358+00:00"
+ "last_run": "2026-09-10T19:56:50.754302+00:00"
 }
