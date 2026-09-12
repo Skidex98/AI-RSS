@@ -1,6 +1,16 @@
 {
  "seen": [
   "72b364eb1b4d1a07",
+  "aa03090a523a2817",
+  "a5f3ae0268158ec2",
+  "2be768e580f1f4d8",
+  "9dac15d038b59db4",
+  "8d033b7640a5b4f5",
+  "b0a948752e198b57",
+  "4dba27b3e4ff288f",
+  "57dc7e85c856128b",
+  "d98dd2735026aa98",
+  "ddd275c8ea5edd67",
   "5b9165e37730d163",
   "b2f6b15e30aa6d00",
   "626b60b9cdb8c4d0",
@@ -14,9 +24,11 @@
   "02fe47cb8a18c328",
   "f00904cfd1b362cf",
   "1b6a09654d93270d",
+  "7ef5da84ddfa898b",
   "6ab1210d11e806a4",
   "f0ef08ba14b64012",
   "4a3def2c388b660f",
+  "c5b2232de5e74db6",
   "ae589d76cc7813f2",
   "bd2f34741ecb3645",
   "71b965df44794c44",
@@ -107,19 +119,7 @@
   "2d302031dd8429eb",
   "7247dbb96b032cfb",
   "de832b32ddbfbb0e",
-  "bd69e2e8dc3799e5",
-  "35c803efb455256b",
-  "18f96c9e8d7da80f",
-  "42c3bcf16185eb49",
-  "40043a9eaff36746",
-  "d30b3e6339feaec9",
-  "216036d493ea8d3a",
-  "ceccc92d68ec3861",
-  "0eec432822446b73",
-  "9d27ef47182ce4a1",
-  "93838959c73985c7",
-  "4c7ddb7cd68d2185",
-  "c69dbbf40cf67082"
+  "bd69e2e8dc3799e5"
  ],
  "items": [
   {
@@ -132,6 +132,128 @@
    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "aa03090a523a2817",
+   "title": "⭐ 1046 · Vincentwei1021/anything2explainer (TypeScript)",
+   "url": "https://github.com/Vincentwei1021/anything2explainer",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-09-12T18:41:03+00:00",
+   "summary": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "a5f3ae0268158ec2",
+   "title": "Quoting Paul Ford",
+   "url": "https://simonwillison.net/2026/Sep/12/paul-ford/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-09-12T18:00:21+00:00",
+   "summary": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making truly cutting-edge software still requires humans to think and work together, to maximize their skill sets and to practice their…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "2be768e580f1f4d8",
+   "title": "For those of you forced to only use open models from Western labs in production, what are you deploying?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wegs2w/for_those_of_you_forced_to_only_use_open_models/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-12T16:17:59+00:00",
+   "summary": "First off, I know that GLM, Qwen, and DeepSeek absolutely dominate in terms of SOTA Open Source models, and that’s what I use in my personal projects and for school, however, I’m also responsible for deploying local AI on my organization’s H100s, and we are forbidden by management from running any Chinese models. This…",
+   "matched": [
+    "qwen",
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "9dac15d038b59db4",
+   "title": "ultralytics/ultralytics v8.4.150 — v8.4.150 - Speed up restricted loading and restore fused checkpoints (#26155)",
+   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.150",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-12T15:11:19+00:00",
+   "summary": "## 🌟 Summary **v8.4.150 improves secure checkpoint loading, restores compatibility with fused YOLOE models, and adds performance and documentation updates across Ultralytics.** 🚀 ## 📊 Key Changes - **⚡ Faster restricted checkpoint loading — PR #26155 by @glenn-jocher** - Resolves only the model classes actually referenced by a checkpoint instead of importing and scanning every supported model…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "8d033b7640a5b4f5",
+   "title": "This draft model is OP on 16 GB cards for Qwen 3.8 27b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weersc/this_draft_model_is_op_on_16_gb_cards_for_qwen_38/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-12T14:57:22+00:00",
+   "summary": "https://huggingface.co/HermiHg/Qwen3.8-27B-DFlash2-Q2_K_S-MIX-GGUF I used this draft model with https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF with the IQ3_XXS with 128k context and I saw it averaging about 60 tokens per second tg speed on the 16 GB RX 9070 XT. This is much better than using the built in…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "b0a948752e198b57",
+   "title": "ggml-org/llama.cpp b10931 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10931",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-12T14:48:43+00:00",
+   "summary": "ui : add cache (#28802) Signed-off-by: Adrien Gallouët **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10931/llama-b10931-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "4dba27b3e4ff288f",
+   "title": "ggml-org/llama.cpp b10930 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10930",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-12T13:01:59+00:00",
+   "summary": "server : allow model downloads at model limit fix issue #26809 (#28530) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10930/llama-b10930-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "57dc7e85c856128b",
+   "title": "bartowski/Qwen3.8-27B-GGUF · Hugging Face - Updated (Per-tensor layout)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1webfsq/bartowskiqwen3827bgguf_hugging_face_updated/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-12T12:32:37+00:00",
+   "summary": "Blog Post : Per-tensor layout maps for GGUF quantization Reddit thread : New tensor type layouts for my GGUF uploads EDIT : Model card has updated things such as Graph, table, text, etc., submitted by /u/pmttyji [link] [comments]",
+   "matched": [
+    "quantization"
+   ]
+  },
+  {
+   "uid": "d98dd2735026aa98",
+   "title": "ggml-org/llama.cpp b10929 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10929",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-12T12:28:32+00:00",
+   "summary": "ggml-cuda: hip add specific config table for AMD GCN (#27841) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10929/llama-b10929-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "ddd275c8ea5edd67",
+   "title": "Anybody use frontier models like Astra/Fable for planning/judging, and qwen3.8 as the main workhorse? Curious to hear about your setups!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1web1jd/anybody_use_frontier_models_like_astrafable_for/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-12T12:13:51+00:00",
+   "summary": "Hey everyone! I'm curious to hear from people that use a combination of cloud-based frontier models and local ones for development. I'm planning to set something similar up and wanted to hear about actual examples of this in action. Currently my plan is to use my chatgpt plus subscription purely for planning and…",
+   "matched": [
+    "fable"
    ]
   },
   {
@@ -296,6 +418,18 @@
    ]
   },
   {
+   "uid": "7ef5da84ddfa898b",
+   "title": "I am impressed and I owe you one, Qwen 3.8 flash next (vision)!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we9mv0/i_am_impressed_and_i_owe_you_one_qwen_38_flash/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-12T11:02:03+00:00",
+   "summary": "I have enabled the vision for the CIRU Strix UL4 quant of Qwen 3.8 flash next (others quants likely perform very similar) and tried it on a few things, then wanted to show my partner how great it works and she asked it it could identify plants. So I took a photo from a plant that we recently got as a gift from family…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
    "uid": "6ab1210d11e806a4",
    "title": "ggml-org/llama.cpp b10927 (pre)",
    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10927",
@@ -329,6 +463,18 @@
    "summary": "syscl : Handle (fail gracefully) unsupported tq1_0 quants (#28681) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10926/llama-b10926-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "c5b2232de5e74db6",
+   "title": "ggml-cuda: hip: add missing AMD GCN MMQ config by thelittlefireman · Pull Request #27841 · ggml-org/llama.cpp - PP improvements for RDNA2(MI50, MI60)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we8elm/ggmlcuda_hip_add_missing_amd_gcn_mmq_config_by/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-12T09:53:22+00:00",
+   "summary": "PP improvements for RDNA2(MI50, MI60 are included in benchmarks). Check bottom comments of PR to see updated pp t/s stats. submitted by /u/pmttyji [link] [comments]",
+   "matched": [
+    "llama"
    ]
   },
   {
@@ -1452,154 +1598,7 @@
    "matched": [
     "fine-tune"
    ]
-  },
-  {
-   "uid": "35c803efb455256b",
-   "title": "RAG-Safety-Bench: Reliable Evaluation of Retrieval-Augmented LLM Safety",
-   "url": "https://arxiv.org/abs/2609.11758",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.11758v1 Announce Type: new Abstract: Allowing large language models (LLMs) to retrieve information from a set of trusted documents can increase reliability and reduce hallucination. However, recent work has demonstrated that retrieval-augmented generation (RAG) can have unintended side effects on the…",
-   "matched": [
-    "llm",
-    "rag"
-   ]
-  },
-  {
-   "uid": "18f96c9e8d7da80f",
-   "title": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
-   "url": "https://arxiv.org/abs/2609.10824",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.10824v1 Announce Type: cross Abstract: Before an LLM agent tackles tasks in a new environment, it can inspect available corpora and tools and construct reusable resources such as indices, scripts, or procedural guidance. Most automated adaptation methods, however, rely on task examples, trajectories, or…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "42c3bcf16185eb49",
-   "title": "Story Imprinting: AI Assistants Absorb Traits from Human Characters They Resemble",
-   "url": "https://arxiv.org/abs/2609.10883",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.10883v1 Announce Type: cross Abstract: Language models are trained to implement a helpful AI Assistant character (e.g., Claude). We explore how finetuning on synthetic stories affects this character. Does it change the Assistant's behavior in multi-turn conversations with users, a format quite different…",
-   "matched": [
-    "claude",
-    "finetuning"
-   ]
-  },
-  {
-   "uid": "40043a9eaff36746",
-   "title": "Empirical Evaluation of Membership Inference Attacks on NLP Text Classifiers: A Baseline Study on SST-2",
-   "url": "https://arxiv.org/abs/2609.10935",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.10935v1 Announce Type: cross Abstract: Membership inference attacks (MIAs) try to determine whether a specific record was used to train a model, a privacy risk that matters in natural language processing (NLP), where training data can contain sensitive user text. This paper presents a controlled benchmark…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "d30b3e6339feaec9",
-   "title": "KuaiRP Series Role-playing Models Technical Report",
-   "url": "https://arxiv.org/abs/2609.11127",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.11127v1 Announce Type: cross Abstract: This paper introduces the complete technical solution for the KuaiRP series of role-playing models. We aim to achieve four core objectives for a dedicated role-playing model: simplified prompt engineering, highly stable output quality, built-in domain world knowledge,…",
-   "matched": [
-    "prompt engineering"
-   ]
-  },
-  {
-   "uid": "216036d493ea8d3a",
-   "title": "REVA: Reusable Evidence View Aggregation for Context-Efficient RAG Serving",
-   "url": "https://arxiv.org/abs/2609.11209",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.11209v1 Announce Type: cross Abstract: Retrieval-augmented generation (RAG) improves knowledge-intensive large language model (LLM) applications by conditioning generation on retrieved documents, but longer contexts increase latency, key-value (KV) cache memory, and token cost. Post-retrieval compression…",
-   "matched": [
-    "llm",
-    "rag"
-   ]
-  },
-  {
-   "uid": "ceccc92d68ec3861",
-   "title": "Xiaomi-CocktailASR-1 Technical Report",
-   "url": "https://arxiv.org/abs/2609.11274",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.11274v1 Announce Type: cross Abstract: Recently, large language model (LLM) based ASR models have achieved significant progress, yet they generally lack support for multi-speaker scenarios, where the cocktail party problem remains a critical bottleneck for further advancing ASR. Existing TS-ASR methods,…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "0eec432822446b73",
-   "title": "VikingRAG: Accurate and Token-efficient Retrieval-augmented Generation over Structured Documents",
-   "url": "https://arxiv.org/abs/2609.11390",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.11390v1 Announce Type: cross Abstract: State-of-the-art retrieval-augmented generation (RAG) methods exploit document structures to acquire sufficient evidence, but often incur substantial token costs. To reduce structural-context tokens without compromising high RAG accuracy, we present {\\sf VikingRAG}, a…",
-   "matched": [
-    "rag"
-   ]
-  },
-  {
-   "uid": "9d27ef47182ce4a1",
-   "title": "Why Does Post-Training Quantization Work?",
-   "url": "https://arxiv.org/abs/2609.11716",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.11716v1 Announce Type: cross Abstract: Post-training quantization compresses large language models (LLMs) by storing their weights at reduced precision, and each quantized weight introduces an error into the hidden states. Naively, these errors should accumulate with depth and corrupt next-token prediction;…",
-   "matched": [
-    "quantization"
-   ]
-  },
-  {
-   "uid": "93838959c73985c7",
-   "title": "A Unified Per-Token Gating Family for On-Policy Distillation: FKL/RKL Mixing with Multi-Channel and Bias Coefficients",
-   "url": "https://arxiv.org/abs/2609.11768",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.11768v1 Announce Type: cross Abstract: Per-token gating of forward/reverse KL losses has become a standard technique for on-policy knowledge distillation (OPD), but existing methods such as EOPD (Jin et al., 2026) and ToDi (Jung et al., 2025) each fix a single gating signal and a single gating direction,…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "4c7ddb7cd68d2185",
-   "title": "Whisper-Based Speech Transcription from Videos Across Multiple Languages for Cross-Cultural Understanding",
-   "url": "https://arxiv.org/abs/2609.11772",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.11772v1 Announce Type: cross Abstract: Cross-cultural understanding has become increasingly important in today's highly connected, cross-national world. The success of LLM-based technologies is now driving the development of automated tools to aid understanding for nonnative people trying to succeed in…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "c69dbbf40cf67082",
-   "title": "SpecGuard: Inference-Time Backdoor Detection For Free",
-   "url": "https://arxiv.org/abs/2609.11799",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.11799v1 Announce Type: cross Abstract: Large language models are often fine-tuned, shared, or downloaded from third parties, so a deployed model may carry a hidden backdoor that behaves normally on benign inputs but switches to attacker-controlled behavior when a secret trigger appears. While backdoors can…",
-   "matched": [
-    "inference"
-   ]
   }
  ],
- "last_run": "2026-09-12T11:05:00.485982+00:00"
+ "last_run": "2026-09-12T19:33:24.217203+00:00"
 }
