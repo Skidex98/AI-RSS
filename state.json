@@ -1,6 +1,28 @@
 {
  "seen": [
   "72b364eb1b4d1a07",
+  "b408f7ff729062b2",
+  "641ae7284fce1544",
+  "9d5b01e7fd5e6684",
+  "e2bbf2f6f538a172",
+  "f89d09d03d3c6b34",
+  "2324bf5d450d8450",
+  "c443ff4fba94d795",
+  "f473fed80fb0e7da",
+  "53d19dc66e2c8572",
+  "8c784aada82f2340",
+  "1d225abb79a7e4c0",
+  "1782e8b40be5109c",
+  "72c5e6fd1f558710",
+  "c6598e3601375bc1",
+  "96e51e4fd3007c44",
+  "1d0890a8b0269a48",
+  "da6961e15536b0ce",
+  "b24548a738dcf5fc",
+  "bfa327baa6f28b0c",
+  "469c6eb3275d36fc",
+  "4aaa0937890fed22",
+  "dd959f8a59056f8a",
   "aa03090a523a2817",
   "a5f3ae0268158ec2",
   "2be768e580f1f4d8",
@@ -97,29 +119,7 @@
   "d8f7ce3ec055665b",
   "89d112e0531e97c1",
   "8952cd755f053d9a",
-  "1afb8477b0756869",
-  "be509bd945906fc0",
-  "2e9a762d4c76ef01",
-  "d32c026d3b2d0172",
-  "2ba55ebf8138c393",
-  "a8354930f0b2f9d7",
-  "4b0af7ed7abfdddf",
-  "994b78a876b6c62f",
-  "712a3eeff97f3062",
-  "4f1ccb186d3f5ded",
-  "5c276f5b8a2f8c7e",
-  "58ab545aeb87810f",
-  "b03791d275c3cb91",
-  "ab9d5d364d0ecf8c",
-  "3ce262f41837be9c",
-  "7646e7fab7703e47",
-  "a1407bf11aa268fe",
-  "6a8d8d1f87aeb705",
-  "9282f9b7e266918f",
-  "2d302031dd8429eb",
-  "7247dbb96b032cfb",
-  "de832b32ddbfbb0e",
-  "bd69e2e8dc3799e5"
+  "1afb8477b0756869"
  ],
  "items": [
   {
@@ -130,6 +130,285 @@
    "category": "news",
    "published": "2026-09-14T00:00:00+00:00",
    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "b408f7ff729062b2",
+   "title": "wonderwhy-er/DesktopCommanderMCP",
+   "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-09-13T12:11:56.292174+00:00",
+   "summary": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities https://desktopcommander.app/ Desktop Commander MCP Search, update, manage files and run terminal commands with AI Work with code and text, run processes, and automate tasks, going far beyond other AI…",
+   "matched": [
+    "claude",
+    "mcp"
+   ]
+  },
+  {
+   "uid": "641ae7284fce1544",
+   "title": "BuilderIO/agent-native",
+   "url": "https://github.com/BuilderIO/agent-native",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-09-13T12:11:56.288256+00:00",
+   "summary": "A framework for building agentic apps https://www.agent-native.com Agent-Native Agent-Native is an open-source TypeScript framework for building agents that pair autonomous work with a purpose-built UI. Define each capability once as an action : the agent uses it as a tool, and the UI calls it from code. Quick start…",
+   "matched": [
+    "agentic"
+   ]
+  },
+  {
+   "uid": "9d5b01e7fd5e6684",
+   "title": "jundot/omlx",
+   "url": "https://github.com/jundot/omlx",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-09-13T12:11:55.812437+00:00",
+   "summary": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar https://omlx.ai oMLX LLM inference, optimized for your Mac Continuous batching and tiered KV caching, managed directly from your menu bar. junkim.dot@gmail.com · https://omlx.ai/me Install · Quickstart ·…",
+   "matched": [
+    "llm",
+    "inference"
+   ]
+  },
+  {
+   "uid": "e2bbf2f6f538a172",
+   "title": "google-gemini/gemini-skills",
+   "url": "https://github.com/google-gemini/gemini-skills",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-09-13T12:11:55.809789+00:00",
+   "summary": "Skills for the Gemini API, SDK and model/agent interactions https://ai.google.dev/gemini-api/docs Gemini API skills A library of skills for the Gemini API, SDK and model interactions. About LLMs have fixed knowledge, being trained at a specific point in time. Software dev is fast paced and changes often, where new…",
+   "matched": [
+    "gemini"
+   ]
+  },
+  {
+   "uid": "f89d09d03d3c6b34",
+   "title": "virgiliojr94/book-to-skill",
+   "url": "https://github.com/virgiliojr94/book-to-skill",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-09-13T12:11:55.805274+00:00",
+   "summary": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. book-to-skill English · Русский · 简体中文 Turn any technical book, document folder, or collection of sources into a unified agent skill — ready to study, reference, and use while you work in GitHub Copilot CLI, Amp,…",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "2324bf5d450d8450",
+   "title": "multimodal-art-projection/YuE",
+   "url": "https://github.com/multimodal-art-projection/YuE",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-09-13T12:11:55.801738+00:00",
+   "summary": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. https://map-yue2.github.io/ Looking for the original YuE? Its code, documentation, and license are preserved on the YuE-v1 branch . YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality Compose in…",
+   "matched": [
+    "agentic"
+   ]
+  },
+  {
+   "uid": "c443ff4fba94d795",
+   "title": "SnailSploit/Claude-Red",
+   "url": "https://github.com/SnailSploit/Claude-Red",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-09-13T12:11:55.800432+00:00",
+   "summary": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. claude-red Offensive security skills…",
+   "matched": [
+    "claude"
+   ]
+  },
+  {
+   "uid": "f473fed80fb0e7da",
+   "title": "Shubhamsaboo/awesome-llm-apps",
+   "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-09-13T12:11:55.799166+00:00",
+   "summary": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. https://www.theunwindai.com Awesome LLM Apps 100+ open-source AI agents, agent skills, and RAG apps. Hand-built, tested end-to-end, Apache-2.0. Clone it, ship it, sell it - 100% free and open-source Works with Claude, Gemini, GPT, DeepSeek, Llama, Qwen…",
+   "matched": [
+    "claude",
+    "gemini",
+    "llama",
+    "qwen",
+    "deepseek",
+    "llm",
+    "rag"
+   ]
+  },
+  {
+   "uid": "53d19dc66e2c8572",
+   "title": "ggml-org/llama.cpp b10941 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10941",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-13T10:34:11+00:00",
+   "summary": "tests : reduce FA test sizes (#28842) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10941/llama-b10941-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "8c784aada82f2340",
+   "title": "The Local LLM community feels like the golden era of the internet all over again",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf3i1m/the_local_llm_community_feels_like_the_golden_era/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-13T09:56:52+00:00",
+   "summary": "Lately because of the current hardware shortage, unfortunately or fortunately, we can’t just throw infinite cloud compute at our problems, but we’re forced to actually care about what’s happening under the hood. We’re tweaking inference engines, learning quantization math, and optimizing architecture just to squeeze…",
+   "matched": [
+    "llm",
+    "quantization",
+    "inference"
+   ]
+  },
+  {
+   "uid": "1d225abb79a7e4c0",
+   "title": "How does Qwen 3.8 27B compare on low thinking mode to the older 3.6 models?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf39vc/how_does_qwen_38_27b_compare_on_low_thinking_mode/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-13T09:43:20+00:00",
+   "summary": "Since we know Qwen 3.8 27B thinks quite long, but gives at least a good one-shot result where you can leave it to do everything on it own, how does it compare to the older series of models for very simple tasks where you don't want to think so long? The only fine-tune of Qwen 3.6 I genuinely enjoyed was the…",
+   "matched": [
+    "qwen",
+    "fine-tune"
+   ]
+  },
+  {
+   "uid": "1782e8b40be5109c",
+   "title": "ggml-org/llama.cpp b10938 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10938",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-13T06:45:18+00:00",
+   "summary": "vulkan: workaround NV queuesubmit driver bug (#28830) There is a driver bug where two queues on the same VkDevice simultaneously submitting can break some internal synchronization. Until it's fixed, add a mutex around queuesubmit. **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "72c5e6fd1f558710",
+   "title": "Is there still strong interest in a dense 9b model?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wezm58/is_there_still_strong_interest_in_a_dense_9b_model/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-13T06:08:46+00:00",
+   "summary": "I have a full model, it's ready to train. It's ~9b parameters. 9.4b to be more exact. That includes a 1/2/3 Engram table, Moonshot's AttnRes modeling, and RoPE / NoPE layering at 3:1 as more or less validated by most major labs. It uses the Llama 3 series tokenizer and LM Head as an initial start. The data fed in is…",
+   "matched": [
+    "llama"
+   ]
+  },
+  {
+   "uid": "c6598e3601375bc1",
+   "title": "ggml-org/llama.cpp b10937 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10937",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-13T05:14:47+00:00",
+   "summary": "opencl: apply the noshuffle row-alignment rule to q4_K, q5_K and q8_0, not just q6_K (#28575) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10937/llama-b10937-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "96e51e4fd3007c44",
+   "title": "I built a serverless hosting platform for LoRA adapters with vLLM",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weum85/i_built_a_serverless_hosting_platform_for_lora/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-13T01:50:07+00:00",
+   "summary": "It’s always bothered me that after fine-tuning a model for a project, there isn’t a particularly easy way to host it without either running it locally and keeping a GPU on 24/7 or paying for an entire GPU server. There are managed options for LoRA serving on top of vLLM (AWS), but you generally still end up paying for…",
+   "matched": [
+    "fine-tuning",
+    "lora"
+   ]
+  },
+  {
+   "uid": "1d0890a8b0269a48",
+   "title": "ggml-org/llama.cpp b10936 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10936",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-13T01:07:38+00:00",
+   "summary": "chat : improve parsing of complex types in qwen3-coder (#28742) * chat : improve schema support in qwen3 parser * cont : clean up grammar a bit **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10936/llama-b10936-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "da6961e15536b0ce",
+   "title": "ggml-org/llama.cpp b10935 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10935",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-13T00:39:34+00:00",
+   "summary": "common: add LOG_JSON macro to log structured data (#28586) * add LOG_JSON macro * fit: add demo LOG_JSON **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10935/llama-b10935-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) -…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "b24548a738dcf5fc",
+   "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+   "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-09-12T23:56:42+00:00",
+   "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at my address . Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and produced exactly what I'd asked for, as both an embedded visualization and downloadable GPX file and…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "bfa327baa6f28b0c",
+   "title": "What pi.dev plugin do you suggest for context, compaction and memory management of local models?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weolwq/what_pidev_plugin_do_you_suggest_for_context/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-12T21:19:58+00:00",
+   "summary": "I have been battling with my Qwen3.8:27b setup on my rtx 5080 16gb. I am using llama.cpp to run a nvfp4 version of qwen3.8:27b llama-b10699-bin-win-cuda-13.3-x64\\llama-server.exe -hf williamliao/Qwen3.8-27B-NVFP4-GGUF:NVFP4 --jinja --chat-template-file d:\\qwen\\chat_template.jinja --reasoning-format deepseek --host…",
+   "matched": [
+    "llama",
+    "qwen",
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "469c6eb3275d36fc",
+   "title": "California Brown Pelican",
+   "url": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-09-12T21:16:09+00:00",
+   "summary": "California Brown Pelican, in San Mateo County, CA, US The Pacifica Pier shut down at the start of June after a crack in the concrete walkway made access to the pier unsafe. It has since been entirely taken over by pelicans! Tags: wildlife",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "4aaa0937890fed22",
+   "title": "Qwen3.8 Flash Next now at 1.2k t/s prefill on Strix Halo",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weobt6/qwen38_flash_next_now_at_12k_ts_prefill_on_strix/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-12T21:08:52+00:00",
+   "summary": "As you all know, Qwen3.8 Flash Next on mainline llama.cpp is still in a pretty experimental stage, but a lot of community forks are trying to get it to work better. There's also a closed-source solution called Halogen ( https://github.com/peonist-ai/halogen-flash-server ) that boasted 1.2k t/s prefill numbers when the…",
+   "matched": [
+    "llama"
+   ]
+  },
+  {
+   "uid": "dd959f8a59056f8a",
+   "title": "anthropics/claude-code v2.1.270",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.270",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-12T19:45:44+00:00",
+   "summary": "## What's changed - Fixed read-only git commands in Bash unexpectedly asking for permission after a session had been running for a while (regression in 2.1.269)",
    "matched": [
     "*"
    ]
@@ -1330,275 +1609,7 @@
    "matched": [
     "claude"
    ]
-  },
-  {
-   "uid": "be509bd945906fc0",
-   "title": "⭐ 76 · nickname21kmr/gameops-investigator (Python)",
-   "url": "https://github.com/nickname21kmr/gameops-investigator",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-09-11T06:59:31+00:00",
-   "summary": "Evidence-first game operations incident investigation agent with read-only MCP tools and reproducible evaluations.",
-   "matched": [
-    "mcp"
-   ]
-  },
-  {
-   "uid": "2e9a762d4c76ef01",
-   "title": "ggml-org/llama.cpp b10903 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10903",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-09-11T06:33:01+00:00",
-   "summary": "vulkan: fix data race and OOB access in argsort(large) (#28705) argsort had a data race in the inner loop, which VVL caught. But I don't think this was causing failures in practice. argsort_large has OOB accesses which might explain the failures in CI, but I couldn't reproduce it locally and I don't think it's a convincing explanation of the failures. **Website:** - **Attestations:** -…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "d32c026d3b2d0172",
-   "title": "ggml-org/llama.cpp b10902 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10902",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-09-11T05:53:49+00:00",
-   "summary": "opencl: add A8 Q4_0 mm binary kernel support (#28268) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10902/llama-b10902-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "2ba55ebf8138c393",
-   "title": "ultralytics/ultralytics v8.4.147 — v8.4.147 - Apply Albumentations to grayscale images (#26133)",
-   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.147",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-09-11T04:46:38+00:00",
-   "summary": "## 🌟 Summary **Ultralytics v8.4.147 improves preprocessing for grayscale images, strengthens SAM segmentation behavior, and refreshes Platform, installation, and CI documentation.** 🚀 ## 📊 Key Changes - **🖼️ Albumentations now supports grayscale images** - Albumentations preprocessing runs on images with either **1 channel (grayscale)** or **3 channels (color)**. - Images with unsupported channel…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "a8354930f0b2f9d7",
-   "title": "SalamandraTA at WMT 2026 Terminology Shared Task: Hard Examples Are Better Teachers",
-   "url": "https://arxiv.org/abs/2609.09999",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.09999v2 Announce Type: replace Abstract: Terminology-aware translation asks for more than a correct translation: the output must use the exact terms a glossary prescribes. The standard recipe, fine-tuning on glossary-annotated translation pairs, hides an inefficiency: for most examples the glossary…",
-   "matched": [
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "4b0af7ed7abfdddf",
-   "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
-   "url": "https://arxiv.org/abs/2609.04298",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.04298v3 Announce Type: replace-cross Abstract: Evaluating agents on the growing number of agentic benchmarks is challenging because they often require complex environments and agent integrations. We introduce Harbor Adapters, a unified evaluation infrastructure for agentic benchmarks. Our work makes three…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "994b78a876b6c62f",
-   "title": "Larger Context Window, Fewer Overcorrections: Optimizing Prompts and Batching for Minimal-Edit Grammatical Error Correction",
-   "url": "https://arxiv.org/abs/2609.10810",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.10810v1 Announce Type: new Abstract: Minimal-edit Grammatical Error Correction (GEC) is a challenging task for zero- and few-shot prompted Large Language Models (LLMs), which systematically overcorrect and degrade $F_{0.5}$ by rewriting well-formed spans. While fine-tuning provides an effective solution, it…",
-   "matched": [
-    "fine-tuning",
-    "context window"
-   ]
-  },
-  {
-   "uid": "712a3eeff97f3062",
-   "title": "Detectable Only Where It Is Confounded: What Verified Duplication Counts Say About Membership Evidence in Language Models",
-   "url": "https://arxiv.org/abs/2609.10830",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.10830v1 Announce Type: new Abstract: When a language model finds a sentence unusually cheap to predict, it is tempting to conclude that the sentence was in its training data. Almost every published test of that inference has had to guess which sentences were in the training data, the members, and which were…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "4f1ccb186d3f5ded",
-   "title": "LLM-Anchored Paralinguistic Enrichment for Alzheimer's Disease Detection",
-   "url": "https://arxiv.org/abs/2609.10896",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.10896v1 Announce Type: new Abstract: Speech-based automatic detection of Alzheimer's disease (AD) provides a non-invasive and scalable approach to early cognitive screening. AD affects both lexical-semantic organization and speech production, including atypical pauses and word elongations. However, existing…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "5c276f5b8a2f8c7e",
-   "title": "SearchAtlas: Analyzing Agentic Search Strategies via Evidential Query Graphs",
-   "url": "https://arxiv.org/abs/2609.10901",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.10901v1 Announce Type: new Abstract: LLM search agents are often evaluated on final-answer accuracy, overlooking the process. Analyzing a search strategy requires understanding how credible evidence is retrieved to address question constraints. This valuable information is buried in raw search trajectories…",
-   "matched": [
-    "llm",
-    "agentic"
-   ]
-  },
-  {
-   "uid": "58ab545aeb87810f",
-   "title": "Robust Multimodal Sentiment Analysis with Incomplete Modalities via Semantic-aware Completeness based Reconstruction",
-   "url": "https://arxiv.org/abs/2609.10950",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.10950v1 Announce Type: new Abstract: Recent multimodal sentiment analysis studies increasingly adopt text-centric fusion approaches to exploit the rich sentiment information inherent in the textual modality. However, these approaches often suffer from performance degradation during inference due to…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "b03791d275c3cb91",
-   "title": "Rethinking Verbalized Confidence for LLM-as-a-Judge: A Compatibility Shift on Post-2025 Proprietary Models",
-   "url": "https://arxiv.org/abs/2609.10996",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.10996v1 Announce Type: new Abstract: Verbalized confidence, long dismissed as overconfident, coarse, and prone to round-number clustering, is now the more robust soft-scoring mechanism for LLM-as-a-Judge on top-tier proprietary models. Across SummEval, AggreFact, and HelpSteer2, spanning up to 18 LLMs, we…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "ab9d5d364d0ecf8c",
-   "title": "K/V-Cache Interventions Dissociate Representation Alignment from Persona Expression in Decoder-Only Language Models",
-   "url": "https://arxiv.org/abs/2609.11020",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.11020v1 Announce Type: new Abstract: We study K/V-cache interventions -- transplanting a target-conditioned K/V trajectory into a source-persona generation -- as a structured surface for persona control in decoder-only language models. Across 13 intervention configurations applied to Llama-3.1-8B for a…",
-   "matched": [
-    "llama"
-   ]
-  },
-  {
-   "uid": "3ce262f41837be9c",
-   "title": "When Noise Fabricates Bias: The Fragility of LLM-as-a-Judge Bias Measurement under Noisy Text",
-   "url": "https://arxiv.org/abs/2609.11067",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.11067v1 Announce Type: new Abstract: Large language models are increasingly used as judges to measure social bias in text, yet the passages they judge are often noisy, containing typos, informal spelling, and broken punctuation. The consequences of such surface noise for social bias measurement remain…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "7646e7fab7703e47",
-   "title": "ProMediConv: Benchmarking Proactive Conversational Agents in Legal Dispute Mediation",
-   "url": "https://arxiv.org/abs/2609.11101",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.11101v1 Announce Type: new Abstract: Dispute mediation is essential for maintaining social harmony and resilience, yet developing skilled mediators is costly and time-consuming. Existing LLM-based mediation research remains limited by unrealistic task formulations, low-fidelity datasets, and coarse…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "a1407bf11aa268fe",
-   "title": "Overview of the NLPCC 2026 Shared Task 11: Agent-Based Experiment Reproduction from Scientific Papers",
-   "url": "https://arxiv.org/abs/2609.11117",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.11117v1 Announce Type: new Abstract: Reproducibility is essential to scientific progress, yet the growing volume and complexity of scientific publications make exhaustive manual verification increasingly impractical. Although recent advances in large language model (LLM) agents enable automated experiment…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "6a8d8d1f87aeb705",
-   "title": "Can LLMs Normalize Databases? A Benchmark and Multi-Agent Framework for Schema Normalization",
-   "url": "https://arxiv.org/abs/2609.11141",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.11141v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly used to generate structured outputs, but their reliability remains unclear when those outputs must satisfy database-level constraints. We study this issue through database normalization, involving reasoning about functional…",
-   "matched": [
-    "agent framework"
-   ]
-  },
-  {
-   "uid": "9282f9b7e266918f",
-   "title": "FlexComp: One Model for Every Ratio in Context Compression",
-   "url": "https://arxiv.org/abs/2609.11192",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.11192v1 Announce Type: new Abstract: Soft context compression condenses a context into a few memory tokens that a frozen LLM consumes in place of the raw text, but existing compressors fix the compression ratio at training and inference: each deployed ratio requires a separately trained model, and the…",
-   "matched": [
-    "llm",
-    "inference"
-   ]
-  },
-  {
-   "uid": "2d302031dd8429eb",
-   "title": "E-CONAN (Entailment, CONtradition And Neutral) Benchmarks: Arabic Textual Entailment and Natural Inference Datasets",
-   "url": "https://arxiv.org/abs/2609.11334",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.11334v1 Announce Type: new Abstract: Natural Language Inference processes pairs of sentences to extract their semantic relations. NLI has been a hot research topic, integrated as a main component in other NLP applications. Despite significant advancements in textual inference across various languages all…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "7247dbb96b032cfb",
-   "title": "Structured Transforms for Low-Overhead Quantization of Language Models",
-   "url": "https://arxiv.org/abs/2609.11687",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.11687v1 Announce Type: new Abstract: We revisit Kashin-decomposition-based weight quantization for large language models and propose an improved algorithm with stronger convergence properties and structured, efficient orthogonal transforms. The method retains the core factorization of each weight into two…",
-   "matched": [
-    "quantization"
-   ]
-  },
-  {
-   "uid": "de832b32ddbfbb0e",
-   "title": "Negative Self-Distillation: Learning to Reason by Avoiding Flaws",
-   "url": "https://arxiv.org/abs/2609.11699",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.11699v1 Announce Type: new Abstract: On-Policy Self-Distillation (OPSD) has emerged as a popular paradigm for large language model (LLM) self-improvement, allowing models to act as their own teachers by leveraging privileged information such as ground-truth solutions. However, recent findings indicate that…",
-   "matched": [
-    "llm",
-    "distillation"
-   ]
-  },
-  {
-   "uid": "bd69e2e8dc3799e5",
-   "title": "The Eloquence submission for Task 2 of the Interspeech 2026 MLC-SLM challenge",
-   "url": "https://arxiv.org/abs/2609.11724",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-11T04:00:00+00:00",
-   "summary": "arXiv:2609.11724v1 Announce Type: new Abstract: This paper details the Eloquence team's approach to Task 2 of the 2nd MLC-SLM challenge at Interspeech 2026, which involves multilingual Multiple-Choice Question Answering (MCQA) across 21 languages. Three approaches are explored. First, we fine-tune Voxtral-Mini-3B via…",
-   "matched": [
-    "fine-tune"
-   ]
   }
  ],
- "last_run": "2026-09-12T19:33:24.217203+00:00"
+ "last_run": "2026-09-13T12:12:12.499936+00:00"
 }
