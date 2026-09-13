@@ -5,7 +5,7 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-09-13T12:12:12Z</updated>
+  <updated>2026-09-13T19:38:50Z</updated>
   <author><name>ai-digest</name></author>
   <entry>
     <title>📰 Perplexity trusts GPT-6 Astra with end-to-end systems</title>
@@ -15,6 +15,132 @@
     <published>2026-09-14T00:00:00Z</published>
     <category term="NEWS"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/perplexity-improving-accuracy-with-astra"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10948 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10948"/>
+    <id>urn:uuid:4fed2dc531703ce3</id>
+    <updated>2026-09-13T19:08:25Z</updated>
+    <published>2026-09-13T19:08:25Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;tests : exclude HY_V4 from WebGPU test-llama-archs tests (#28855) Co-authored-by: Stanisław Szymczyk **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10948/llama-b10948-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) -…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10948"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Aurora1.0-150M Releases!</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wfg0sb/aurora10150m_releases/"/>
+    <id>urn:uuid:c9e1194fff4d7e2c</id>
+    <updated>2026-09-13T18:46:19Z</updated>
+    <published>2026-09-13T18:46:19Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;The first generation of our 150M model has just been released Its performance is similar to that of GPT2-Small The benchmarks: PIQA: 62.24% Hellaswag: 32.20% Arc-Easy: 44.91% Arc-Challenge: 25.00% Arithmark 3.0: 33.90% CapitalBench: 36.55% It was trained on 7B tokens, using an RTX Pro 6000 an example inference script…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wfg0sb/aurora10150m_releases/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10947 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10947"/>
+    <id>urn:uuid:d17c29d85040b6af</id>
+    <updated>2026-09-13T18:43:33Z</updated>
+    <published>2026-09-13T18:43:33Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;models : guard the expert FFN size fallback in nemotron-h against a zero divisor (#28779) The NextN/MTP tail loop derives the expert FFN size as n_ff/n_expert_used when expert_feed_forward_length gives nothing for the layer. Both values come from per-layer arrays that legitimately hold 0 on layers that are not MoE, so a checkpoint whose predict layers hold 0 in both divides by zero and dies with…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10947"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 I have just moved from MacBook M5 pro 48 GB to RTX3090</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wffgdh/i_have_just_moved_from_macbook_m5_pro_48_gb_to/"/>
+    <id>urn:uuid:a64cf9ad4a6af4ab</id>
+    <updated>2026-09-13T18:25:26Z</updated>
+    <published>2026-09-13T18:25:26Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Using the RTX3090 on a linux machine I built for it and running Qwen 3.8 27B getting average 100t/s compared to my MacBook 20t/s I think I can finally get rid of my Claude subscription, this is good enough for me. I am a software dev and I can get what I need from this set up and be more productive. I am using the…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wffgdh/i_have_just_moved_from_macbook_m5_pro_48_gb_to/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10946 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10946"/>
+    <id>urn:uuid:3528ed52f500d2db</id>
+    <updated>2026-09-13T18:19:18Z</updated>
+    <published>2026-09-13T18:19:18Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;ggml-cpu(s390x): guard VXE-only repack helpers (#28775) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10946/llama-b10946-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10946"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Talk me out of buying a 3rd Spark</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wfefc4/talk_me_out_of_buying_a_3rd_spark/"/>
+    <id>urn:uuid:7db07ff48a50f0c0</id>
+    <updated>2026-09-13T17:47:36Z</updated>
+    <published>2026-09-13T17:47:36Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Does anyone think the gurus on the DGX Spark forum are going to figure out how to magically fit DeepSeek 4.1 Flash on a 2x cluster, or is it only possible on 3 or 4 Sparks? submitted by /u/Porespellar [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wfefc4/talk_me_out_of_buying_a_3rd_spark/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 3k$ 128GB VRAM + 256GB RAM DDR4 Server</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wfe9zt/3k_128gb_vram_256gb_ram_ddr4_server/"/>
+    <id>urn:uuid:6e03296fce503e69</id>
+    <updated>2026-09-13T17:42:07Z</updated>
+    <published>2026-09-13T17:42:07Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I finished my home inference server. First I tried Lenovo p620 workstation and while it’s a good value overall it pissed me off with a ton of proprietary Lenovo shit to deal with and I return it in the end. Components: 4xV620 - 1400$ 256GB DDR4 RDIMM 2666 - 610$ Huanandzhi D12D - 410$ EPYC 7452 - 170$ PSU ASRock 1600…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wfe9zt/3k_128gb_vram_256gb_ram_ddr4_server/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models</title>
+    <link href="https://twitter.com/DavidSacks/status/2098973625252708460"/>
+    <id>urn:uuid:6de6a2c01c25cb39</id>
+    <updated>2026-09-13T16:52:33Z</updated>
+    <published>2026-09-13T16:52:33Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://twitter.com/DavidSacks/status/2098973625252708460 Comments URL: https://news.ycombinator.com/item?id=49685991 Points: 135 # Comments: 101&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://twitter.com/DavidSacks/status/2098973625252708460"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Migration from Claude Code to a private local harness. Questions.</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wfcewd/migration_from_claude_code_to_a_private_local/"/>
+    <id>urn:uuid:e11042da1a6b0eaf</id>
+    <updated>2026-09-13T16:32:34Z</updated>
+    <published>2026-09-13T16:32:34Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I'll start by saying I'm not talking about the models themselves, I'm aware that I can't come close to something like Fable's intelligence locally. Just wanted to get that out of the way. Basically. Over the last year I've gotten quite comfortable with claude code, and it seems likely there were be a gradual cost rug…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, fable, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wfcewd/migration_from_claude_code_to_a_private_local/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b10944 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10944"/>
+    <id>urn:uuid:09ebcd6c8d9e8e05</id>
+    <updated>2026-09-13T16:12:26Z</updated>
+    <published>2026-09-13T16:12:26Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;sycl : Fix get mem error (#28227) * fix for unsupport zes API * optimize the code * adjust the log level * rm unused head files * Update docs/backend/SYCL.md Co-authored-by: Titaniumtown * fix the error to detect level zero SDK/dev package, stop build after detect the error * update the message * fix the build error when missed to install level zero dev package * rm GGML_SYCL_DEV_DEBUG, mv read…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10944"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Hoping for Optimized Smarter Upcoming Models .... Like DeepSeek-V4.1-Flash( KVCache + Engram) in Small/Medium/Big sizes</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wfbnhc/hoping_for_optimized_smarter_upcoming_models_like/"/>
+    <id>urn:uuid:0f15204b07dbdfcf</id>
+    <updated>2026-09-13T16:03:44Z</updated>
+    <published>2026-09-13T16:03:44Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;It's still a dream for many folks to run medium size(30B range) models @ Q8 with Unquantized KVCache (256K Context) on their GPUs. It would be awesome to have DeepSeek-V4.1-Flash's KVCache + Engram for all Upcoming models. Even for big models. Engram - Heard that approximately 1/3-1/2 of Model size. Might come in…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wfbnhc/hoping_for_optimized_smarter_upcoming_models_like/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Qwen 3.8 27B UD-IQ4_XS even faster on 16GB CUDA</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wfba8g/qwen_38_27b_udiq4_xs_even_faster_on_16gb_cuda/"/>
+    <id>urn:uuid:26b166f2053a3829</id>
+    <updated>2026-09-13T15:50:25Z</updated>
+    <published>2026-09-13T15:50:25Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;This is an evolution on top of Raymond's KV cache streaming fork - all credits to what enabled this goes to him. The basic idea behind what he enabled was a pool of memory in VRAM that is used differently depending on the phase (prompt processing or decoding) and when total used context is larger than what fits in…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wfba8g/qwen_38_27b_udiq4_xs_even_faster_on_16gb_cuda/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 My experience building 64GB VRAM AI SWE assistant/agent PC</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wf8ur9/my_experience_building_64gb_vram_ai_swe/"/>
+    <id>urn:uuid:f2dc9f2836e35c9c</id>
+    <updated>2026-09-13T14:16:21Z</updated>
+    <published>2026-09-13T14:16:21Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I'm not fond of having an irreplaceable subscription on some OpenAI and Anthropic and being eventually being unable to do my job without using tools from some sketchy corporation, so I kinda turned my attention to local models. I periodically tried and found some usefulness in them, but this year I started to notice…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wf8ur9/my_experience_building_64gb_vram_ai_swe/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Houthis used Claude Code to develop missile guidance software: Anthropic</title>
+    <link href="https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo"/>
+    <id>urn:uuid:7c693a26bc6ad968</id>
+    <updated>2026-09-13T14:15:40Z</updated>
+    <published>2026-09-13T14:15:40Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo Comments URL: https://news.ycombinator.com/item?id=49684266 Points: 84 # Comments: 81&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, anthropic, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📦 wonderwhy-er/DesktopCommanderMCP</title>
@@ -179,6 +305,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Simon Willison&lt;/p&gt;&lt;p&gt;Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at my address . Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and produced exactly what I'd asked for, as both an embedded visualization and downloadable GPX file and…&lt;/p&gt;&lt;p&gt;&lt;a href="https://simonwillison.net/2026/Sep/12/astra-running-routes/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 AgentsDock: An IDE designed for agentic AI research</title>
+    <link href="https://agentsdock.net/"/>
+    <id>urn:uuid:462e1c1d29f899a9</id>
+    <updated>2026-09-12T23:45:58Z</updated>
+    <published>2026-09-12T23:45:58Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://agentsdock.net/ Comments URL: https://news.ycombinator.com/item?id=49678435 Points: 78 # Comments: 32&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://agentsdock.net/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>📰 What pi.dev plugin do you suggest for context, compaction and memory management of local models?</title>
     <link href="https://www.reddit.com/r/LocalLLaMA/comments/1weolwq/what_pidev_plugin_do_you_suggest_for_context/"/>
     <id>urn:uuid:bfa327baa6f28b0c</id>
@@ -231,6 +366,15 @@
     <published>2026-09-12T18:00:21Z</published>
     <category term="NEWS"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Simon Willison&lt;/p&gt;&lt;p&gt;For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making truly cutting-edge software still requires humans to think and work together, to maximize their skill sets and to practice their…&lt;/p&gt;&lt;p&gt;&lt;a href="https://simonwillison.net/2026/Sep/12/paul-ford/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Anthropic boss Dario Amodei calls for AI development to slow down</title>
+    <link href="https://www.bbc.com/news/articles/c14dpgm0rg4o"/>
+    <id>urn:uuid:4cfcbc603ac2d4dd</id>
+    <updated>2026-09-12T16:56:52Z</updated>
+    <published>2026-09-12T16:56:52Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://www.bbc.com/news/articles/c14dpgm0rg4o Comments URL: https://news.ycombinator.com/item?id=49674395 Points: 54 # Comments: 107&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.bbc.com/news/articles/c14dpgm0rg4o"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📰 For those of you forced to only use open models from Western labs in production, what are you deploying?</title>
@@ -942,149 +1086,5 @@
     <published>2026-09-11T11:40:52Z</published>
     <category term="REPO"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;Build voice agents with open-source models Speech To Speech: Build voice agents with open-source models A low-latency, fully modular voice-agent pipeline: VAD - STT - LLM - TTS , exposed through the core OpenAI Realtime GA event set over WebSocket and WebRTC . Every component is swappable. The LLM slot speaks…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/huggingface/speech-to-speech"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 gpustack/gpustack</title>
-    <link href="https://github.com/gpustack/gpustack"/>
-    <id>urn:uuid:c943a4dce3a6578a</id>
-    <updated>2026-09-11T11:40:52Z</updated>
-    <published>2026-09-11T11:40:52Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;A GPU cluster manager for high-performance AI model serving (vLLM, SGLang) and on-demand SSH-accessible GPU instances. https://gpustack.ai English | 简体中文 | 日本語 Overview GPUStack is an open-source GPU cluster manager for AI model serving and GPU instance provisioning. It configures and orchestrates inference engines —…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/gpustack/gpustack"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Moonshot serves Claude instead of Kimi and collects exchanges for model training</title>
-    <link href="https://twitter.com/DavidAgranovich/status/2098168522862215449"/>
-    <id>urn:uuid:91be0380af316629</id>
-    <updated>2026-09-11T11:36:24Z</updated>
-    <published>2026-09-11T11:36:24Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;https://xcancel.com/DavidAgranovich/status/20981685228622154... Comments URL: https://news.ycombinator.com/item?id=49656698 Points: 53 # Comments: 57&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://twitter.com/DavidAgranovich/status/2098168522862215449"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b10907 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10907"/>
-    <id>urn:uuid:93d291883a287c1f</id>
-    <updated>2026-09-11T11:10:30Z</updated>
-    <published>2026-09-11T11:10:30Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;model : fix MTP context kv cache allocation for deepseek2, glm4moe, … (#28630) * model : fix MTP context kv cache allocation for deepseek2, glm4moe, cohere2moe architectures (#28626) * model: add inverse architecture gating and comprehensive architecture testing for mtp layer filtering * model : slim NextN filter comment, drop test-llama-archs changes **Website:** - **Attestations:** -…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10907"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Claude is only available to people over 18 years</title>
-    <link href="https://support.claude.com/en/articles/15171100-age-assurance-on-claude"/>
-    <id>urn:uuid:ef046b2e64a78f54</id>
-    <updated>2026-09-11T10:48:00Z</updated>
-    <published>2026-09-11T10:48:00Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude Comments URL: https://news.ycombinator.com/item?id=49656225 Points: 449 # Comments: 504&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://support.claude.com/en/articles/15171100-age-assurance-on-claude"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 7900 XTX + 32/64GB RAM for Qwen 3.8 Flash Next?</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wdclxn/7900_xtx_3264gb_ram_for_qwen_38_flash_next/"/>
-    <id>urn:uuid:2301a715068c725b</id>
-    <updated>2026-09-11T10:40:25Z</updated>
-    <published>2026-09-11T10:40:25Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Planning to build a PC mainly for local LLMs/coding agents. I keep seeing 3090 + Qwen 3.8 Flash Next benchmarks, but could not find enough info for the 7900 XTX 24GB . 3090s are hard to find where I live, while newer Nvidia GPUs are too expensive, so I am considering a 7900 XTX as the GPU choice. Anyone running Qwen…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wdclxn/7900_xtx_3264gb_ram_for_qwen_38_flash_next/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b10906 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10906"/>
-    <id>urn:uuid:796ed7de4f607413</id>
-    <updated>2026-09-11T10:40:18Z</updated>
-    <published>2026-09-11T10:40:18Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;server: fix speculation after an image (#28715) * server: fix speculation after an image Pass the actual position to the drafter after an image, instead of the token count. Affects every drafter, not just DFlash. * rename draft n_past to pos0 n_past is used to denote number of tokens and this parameter is meant to be a position **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10906"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Rapidly scaling online storage to serve over 1 billion ChatGPT users</title>
-    <link href="https://openai.com/index/scaling-storage-one-billion-users-part-one"/>
-    <id>urn:uuid:73abed25292da421</id>
-    <updated>2026-09-11T10:00:00Z</updated>
-    <published>2026-09-11T10:00:00Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/scaling-storage-one-billion-users-part-one"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 1456 · vinzdg/codenotch (Swift)</title>
-    <link href="https://github.com/vinzdg/codenotch"/>
-    <id>urn:uuid:0829595add0c9eea</id>
-    <updated>2026-09-11T09:41:25Z</updated>
-    <published>2026-09-11T09:41:25Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/vinzdg/codenotch"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b10905 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b10905"/>
-    <id>urn:uuid:9139a0bd3f4b3f22</id>
-    <updated>2026-09-11T09:38:25Z</updated>
-    <published>2026-09-11T09:38:25Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;CUDA/HIP: Flash Attention tuning (gfx1201) (#28102) * HIP: enable mma FA for head size 256 on RDNA4, tune configs Assisted-by: Claude Assisted-by: Codex * HIP: prefer whole-tile FA grids over stream-k on AMD WMMA Assisted-by: Claude Assisted-by: Codex * revise stream_k logic * revise kernel selection logic --------- Co-authored-by: Johannes Gäßler **Website:** - **Attestations:** - **macOS/iOS:**…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b10905"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 CUDA/HIP: Flash Attention tuning (gfx1201) by pwilkin · Pull Request #28102 · ggml-org/llama.cpp</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wdbal8/cudahip_flash_attention_tuning_gfx1201_by_pwilkin/"/>
-    <id>urn:uuid:aa91222f98544834</id>
-    <updated>2026-09-11T09:27:58Z</updated>
-    <published>2026-09-11T09:27:58Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Nice pp improvements for RDNA4(R9700) 3.5(RX 9060 XT, 8060S). More good numbers on large context. PR has detailed benchmarks. u/ilintar 👍 submitted by /u/pmttyji [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wdbal8/cudahip_flash_attention_tuning_gfx1201_by_pwilkin/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Spomin - Live KV cache compaction (Experimental for Qwen)</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wdaq1v/spomin_live_kv_cache_compaction_experimental_for/"/>
-    <id>urn:uuid:cfca5e42f7c5f681</id>
-    <updated>2026-09-11T08:55:35Z</updated>
-    <published>2026-09-11T08:55:35Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I’ve been building Spomin , a router that replaces context with summaries directly in the KV cache. The goal is to keep long running sessions going without repeatedly stopping for full compaction and reprocessing the context that remains. It uses my llama.cpp fork -…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama, qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wdaq1v/spomin_live_kv_cache_compaction_experimental_for/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 127 · xiaYuTian11/maskit (Python)</title>
-    <link href="https://github.com/xiaYuTian11/maskit"/>
-    <id>urn:uuid:1545d6d2e3d96fad</id>
-    <updated>2026-09-11T08:53:30Z</updated>
-    <published>2026-09-11T08:53:30Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;数据面具 Data Maskit — 专为大模型打造的本地隐私脱敏网关（请求自动打码，回复流式还原；支持 Cursor / Claude Code / Codex / Pi 等任意可配 Base URL 工具）&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/xiaYuTian11/maskit"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 97 · bsab/italia-mcp-servers (Python)</title>
-    <link href="https://github.com/bsab/italia-mcp-servers"/>
-    <id>urn:uuid:d8f7ce3ec055665b</id>
-    <updated>2026-09-11T08:34:05Z</updated>
-    <published>2026-09-11T08:34:05Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Catalogo curato dei server MCP (Model Context Protocol) italiani — dati pubblici, legal-tech, fatturazione, PA e altro.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp, model context protocol&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/bsab/italia-mcp-servers"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 langfuse/langfuse v4.34.0</title>
-    <link href="https://github.com/langfuse/langfuse/releases/tag/v4.34.0"/>
-    <id>urn:uuid:89d112e0531e97c1</id>
-    <updated>2026-09-11T08:17:01Z</updated>
-    <published>2026-09-11T08:17:01Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's Changed ### Features * feat(api): say legacy endpoints delay data by about 10 minutes by @maxdeichmann in https://github.com/langfuse/langfuse/pull/17260 * feat(api): attach _deprecation to successful legacy ingestion writes by @maxdeichmann in https://github.com/langfuse/langfuse/pull/17261 * feat(sessions): Redesigned timeline by @bezbac in…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/langfuse/langfuse/releases/tag/v4.34.0"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 What can you run on 8GB VRAM?</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wd96dk/what_can_you_run_on_8gb_vram/"/>
-    <id>urn:uuid:8952cd755f053d9a</id>
-    <updated>2026-09-11T07:23:05Z</updated>
-    <published>2026-09-11T07:23:05Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Can you still do something with a 2050 or something like it? I mean for office work, loading embedding, reranking and chat models not at the same time but is anyone still using smaller models and have any good ones come out? I feel like small models are abandoned, I don’t care much for world knowledge, I want tool use…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: embedding, tool use&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wd96dk/what_can_you_run_on_8gb_vram/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 2728 · anthropics/commerce-agents (Python)</title>
-    <link href="https://github.com/anthropics/commerce-agents"/>
-    <id>urn:uuid:1afb8477b0756869</id>
-    <updated>2026-09-11T07:03:32Z</updated>
-    <published>2026-09-11T07:03:32Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/anthropics/commerce-agents"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

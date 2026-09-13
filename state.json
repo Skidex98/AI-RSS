@@ -1,6 +1,20 @@
 {
  "seen": [
   "72b364eb1b4d1a07",
+  "4fed2dc531703ce3",
+  "c9e1194fff4d7e2c",
+  "d17c29d85040b6af",
+  "a64cf9ad4a6af4ab",
+  "3528ed52f500d2db",
+  "7db07ff48a50f0c0",
+  "6e03296fce503e69",
+  "6de6a2c01c25cb39",
+  "e11042da1a6b0eaf",
+  "09ebcd6c8d9e8e05",
+  "0f15204b07dbdfcf",
+  "26b166f2053a3829",
+  "f2dc9f2836e35c9c",
+  "7c693a26bc6ad968",
   "b408f7ff729062b2",
   "641ae7284fce1544",
   "9d5b01e7fd5e6684",
@@ -19,12 +33,14 @@
   "1d0890a8b0269a48",
   "da6961e15536b0ce",
   "b24548a738dcf5fc",
+  "462e1c1d29f899a9",
   "bfa327baa6f28b0c",
   "469c6eb3275d36fc",
   "4aaa0937890fed22",
   "dd959f8a59056f8a",
   "aa03090a523a2817",
   "a5f3ae0268158ec2",
+  "4cfcbc603ac2d4dd",
   "2be768e580f1f4d8",
   "9dac15d038b59db4",
   "8d033b7640a5b4f5",
@@ -103,23 +119,7 @@
   "7f123890bf3cd538",
   "217a721d36f3cc48",
   "e772f67a79d63020",
-  "1e985fa2f54520c2",
-  "c943a4dce3a6578a",
-  "91be0380af316629",
-  "93d291883a287c1f",
-  "ef046b2e64a78f54",
-  "2301a715068c725b",
-  "796ed7de4f607413",
-  "73abed25292da421",
-  "0829595add0c9eea",
-  "9139a0bd3f4b3f22",
-  "aa91222f98544834",
-  "cfca5e42f7c5f681",
-  "1545d6d2e3d96fad",
-  "d8f7ce3ec055665b",
-  "89d112e0531e97c1",
-  "8952cd755f053d9a",
-  "1afb8477b0756869"
+  "1e985fa2f54520c2"
  ],
  "items": [
   {
@@ -132,6 +132,179 @@
    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "4fed2dc531703ce3",
+   "title": "ggml-org/llama.cpp b10948 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10948",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-13T19:08:25+00:00",
+   "summary": "tests : exclude HY_V4 from WebGPU test-llama-archs tests (#28855) Co-authored-by: Stanisław Szymczyk **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10948/llama-b10948-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) -…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "c9e1194fff4d7e2c",
+   "title": "Aurora1.0-150M Releases!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfg0sb/aurora10150m_releases/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-13T18:46:19+00:00",
+   "summary": "The first generation of our 150M model has just been released Its performance is similar to that of GPT2-Small The benchmarks: PIQA: 62.24% Hellaswag: 32.20% Arc-Easy: 44.91% Arc-Challenge: 25.00% Arithmark 3.0: 33.90% CapitalBench: 36.55% It was trained on 7B tokens, using an RTX Pro 6000 an example inference script…",
+   "matched": [
+    "inference"
+   ]
+  },
+  {
+   "uid": "d17c29d85040b6af",
+   "title": "ggml-org/llama.cpp b10947 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10947",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-13T18:43:33+00:00",
+   "summary": "models : guard the expert FFN size fallback in nemotron-h against a zero divisor (#28779) The NextN/MTP tail loop derives the expert FFN size as n_ff/n_expert_used when expert_feed_forward_length gives nothing for the layer. Both values come from per-layer arrays that legitimately hold 0 on layers that are not MoE, so a checkpoint whose predict layers hold 0 in both divides by zero and dies with…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "a64cf9ad4a6af4ab",
+   "title": "I have just moved from MacBook M5 pro 48 GB to RTX3090",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wffgdh/i_have_just_moved_from_macbook_m5_pro_48_gb_to/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-13T18:25:26+00:00",
+   "summary": "Using the RTX3090 on a linux machine I built for it and running Qwen 3.8 27B getting average 100t/s compared to my MacBook 20t/s I think I can finally get rid of my Claude subscription, this is good enough for me. I am a software dev and I can get what I need from this set up and be more productive. I am using the…",
+   "matched": [
+    "claude",
+    "qwen"
+   ]
+  },
+  {
+   "uid": "3528ed52f500d2db",
+   "title": "ggml-org/llama.cpp b10946 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10946",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-13T18:19:18+00:00",
+   "summary": "ggml-cpu(s390x): guard VXE-only repack helpers (#28775) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10946/llama-b10946-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "7db07ff48a50f0c0",
+   "title": "Talk me out of buying a 3rd Spark",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfefc4/talk_me_out_of_buying_a_3rd_spark/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-13T17:47:36+00:00",
+   "summary": "Does anyone think the gurus on the DGX Spark forum are going to figure out how to magically fit DeepSeek 4.1 Flash on a 2x cluster, or is it only possible on 3 or 4 Sparks? submitted by /u/Porespellar [link] [comments]",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "6e03296fce503e69",
+   "title": "3k$ 128GB VRAM + 256GB RAM DDR4 Server",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfe9zt/3k_128gb_vram_256gb_ram_ddr4_server/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-13T17:42:07+00:00",
+   "summary": "I finished my home inference server. First I tried Lenovo p620 workstation and while it’s a good value overall it pissed me off with a ton of proprietary Lenovo shit to deal with and I return it in the end. Components: 4xV620 - 1400$ 256GB DDR4 RDIMM 2666 - 610$ Huanandzhi D12D - 410$ EPYC 7452 - 170$ PSU ASRock 1600…",
+   "matched": [
+    "inference"
+   ]
+  },
+  {
+   "uid": "6de6a2c01c25cb39",
+   "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+   "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-09-13T16:52:33+00:00",
+   "summary": "Article URL: https://twitter.com/DavidSacks/status/2098973625252708460 Comments URL: https://news.ycombinator.com/item?id=49685991 Points: 135 # Comments: 101",
+   "matched": [
+    "anthropic"
+   ]
+  },
+  {
+   "uid": "e11042da1a6b0eaf",
+   "title": "Migration from Claude Code to a private local harness. Questions.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfcewd/migration_from_claude_code_to_a_private_local/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-13T16:32:34+00:00",
+   "summary": "I'll start by saying I'm not talking about the models themselves, I'm aware that I can't come close to something like Fable's intelligence locally. Just wanted to get that out of the way. Basically. Over the last year I've gotten quite comfortable with claude code, and it seems likely there were be a gradual cost rug…",
+   "matched": [
+    "claude",
+    "fable",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "09ebcd6c8d9e8e05",
+   "title": "ggml-org/llama.cpp b10944 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10944",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-13T16:12:26+00:00",
+   "summary": "sycl : Fix get mem error (#28227) * fix for unsupport zes API * optimize the code * adjust the log level * rm unused head files * Update docs/backend/SYCL.md Co-authored-by: Titaniumtown * fix the error to detect level zero SDK/dev package, stop build after detect the error * update the message * fix the build error when missed to install level zero dev package * rm GGML_SYCL_DEV_DEBUG, mv read…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "0f15204b07dbdfcf",
+   "title": "Hoping for Optimized Smarter Upcoming Models .... Like DeepSeek-V4.1-Flash( KVCache + Engram) in Small/Medium/Big sizes",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfbnhc/hoping_for_optimized_smarter_upcoming_models_like/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-13T16:03:44+00:00",
+   "summary": "It's still a dream for many folks to run medium size(30B range) models @ Q8 with Unquantized KVCache (256K Context) on their GPUs. It would be awesome to have DeepSeek-V4.1-Flash's KVCache + Engram for all Upcoming models. Even for big models. Engram - Heard that approximately 1/3-1/2 of Model size. Might come in…",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "26b166f2053a3829",
+   "title": "Qwen 3.8 27B UD-IQ4_XS even faster on 16GB CUDA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfba8g/qwen_38_27b_udiq4_xs_even_faster_on_16gb_cuda/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-13T15:50:25+00:00",
+   "summary": "This is an evolution on top of Raymond's KV cache streaming fork - all credits to what enabled this goes to him. The basic idea behind what he enabled was a pool of memory in VRAM that is used differently depending on the phase (prompt processing or decoding) and when total used context is larger than what fits in…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "f2dc9f2836e35c9c",
+   "title": "My experience building 64GB VRAM AI SWE assistant/agent PC",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf8ur9/my_experience_building_64gb_vram_ai_swe/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-13T14:16:21+00:00",
+   "summary": "I'm not fond of having an irreplaceable subscription on some OpenAI and Anthropic and being eventually being unable to do my job without using tools from some sketchy corporation, so I kinda turned my attention to local models. I periodically tried and found some usefulness in them, but this year I started to notice…",
+   "matched": [
+    "anthropic"
+   ]
+  },
+  {
+   "uid": "7c693a26bc6ad968",
+   "title": "Houthis used Claude Code to develop missile guidance software: Anthropic",
+   "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-09-13T14:15:40+00:00",
+   "summary": "Article URL: https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo Comments URL: https://news.ycombinator.com/item?id=49684266 Points: 84 # Comments: 81",
+   "matched": [
+    "claude",
+    "anthropic",
+    "claude code"
    ]
   },
   {
@@ -364,6 +537,18 @@
    ]
   },
   {
+   "uid": "462e1c1d29f899a9",
+   "title": "AgentsDock: An IDE designed for agentic AI research",
+   "url": "https://agentsdock.net/",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-09-12T23:45:58+00:00",
+   "summary": "Article URL: https://agentsdock.net/ Comments URL: https://news.ycombinator.com/item?id=49678435 Points: 78 # Comments: 32",
+   "matched": [
+    "agentic"
+   ]
+  },
+  {
    "uid": "bfa327baa6f28b0c",
    "title": "What pi.dev plugin do you suggest for context, compaction and memory management of local models?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weolwq/what_pidev_plugin_do_you_suggest_for_context/",
@@ -436,6 +621,18 @@
    "summary": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making truly cutting-edge software still requires humans to think and work together, to maximize their skill sets and to practice their…",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "4cfcbc603ac2d4dd",
+   "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+   "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-09-12T16:56:52+00:00",
+   "summary": "Article URL: https://www.bbc.com/news/articles/c14dpgm0rg4o Comments URL: https://news.ycombinator.com/item?id=49674395 Points: 54 # Comments: 107",
+   "matched": [
+    "anthropic"
    ]
   },
   {
@@ -1412,204 +1609,7 @@
    "matched": [
     "llm"
    ]
-  },
-  {
-   "uid": "c943a4dce3a6578a",
-   "title": "gpustack/gpustack",
-   "url": "https://github.com/gpustack/gpustack",
-   "source": "GitHub Trending — Python",
-   "category": "repo",
-   "published": "2026-09-11T11:40:52.718066+00:00",
-   "summary": "A GPU cluster manager for high-performance AI model serving (vLLM, SGLang) and on-demand SSH-accessible GPU instances. https://gpustack.ai English | 简体中文 | 日本語 Overview GPUStack is an open-source GPU cluster manager for AI model serving and GPU instance provisioning. It configures and orchestrates inference engines —…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "91be0380af316629",
-   "title": "Moonshot serves Claude instead of Kimi and collects exchanges for model training",
-   "url": "https://twitter.com/DavidAgranovich/status/2098168522862215449",
-   "source": "Hacker News (AI)",
-   "category": "news",
-   "published": "2026-09-11T11:36:24+00:00",
-   "summary": "https://xcancel.com/DavidAgranovich/status/20981685228622154... Comments URL: https://news.ycombinator.com/item?id=49656698 Points: 53 # Comments: 57",
-   "matched": [
-    "claude"
-   ]
-  },
-  {
-   "uid": "93d291883a287c1f",
-   "title": "ggml-org/llama.cpp b10907 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10907",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-09-11T11:10:30+00:00",
-   "summary": "model : fix MTP context kv cache allocation for deepseek2, glm4moe, … (#28630) * model : fix MTP context kv cache allocation for deepseek2, glm4moe, cohere2moe architectures (#28626) * model: add inverse architecture gating and comprehensive architecture testing for mtp layer filtering * model : slim NextN filter comment, drop test-llama-archs changes **Website:** - **Attestations:** -…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "ef046b2e64a78f54",
-   "title": "Claude is only available to people over 18 years",
-   "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-   "source": "Hacker News (AI)",
-   "category": "news",
-   "published": "2026-09-11T10:48:00+00:00",
-   "summary": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude Comments URL: https://news.ycombinator.com/item?id=49656225 Points: 449 # Comments: 504",
-   "matched": [
-    "claude"
-   ]
-  },
-  {
-   "uid": "2301a715068c725b",
-   "title": "7900 XTX + 32/64GB RAM for Qwen 3.8 Flash Next?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdclxn/7900_xtx_3264gb_ram_for_qwen_38_flash_next/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-09-11T10:40:25+00:00",
-   "summary": "Planning to build a PC mainly for local LLMs/coding agents. I keep seeing 3090 + Qwen 3.8 Flash Next benchmarks, but could not find enough info for the 7900 XTX 24GB . 3090s are hard to find where I live, while newer Nvidia GPUs are too expensive, so I am considering a 7900 XTX as the GPU choice. Anyone running Qwen…",
-   "matched": [
-    "qwen"
-   ]
-  },
-  {
-   "uid": "796ed7de4f607413",
-   "title": "ggml-org/llama.cpp b10906 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10906",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-09-11T10:40:18+00:00",
-   "summary": "server: fix speculation after an image (#28715) * server: fix speculation after an image Pass the actual position to the drafter after an image, instead of the token count. Affects every drafter, not just DFlash. * rename draft n_past to pos0 n_past is used to denote number of tokens and this parameter is meant to be a position **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "73abed25292da421",
-   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-   "source": "OpenAI News",
-   "category": "news",
-   "published": "2026-09-11T10:00:00+00:00",
-   "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "0829595add0c9eea",
-   "title": "⭐ 1456 · vinzdg/codenotch (Swift)",
-   "url": "https://github.com/vinzdg/codenotch",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-09-11T09:41:25+00:00",
-   "summary": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
-   "matched": [
-    "claude",
-    "claude code"
-   ]
-  },
-  {
-   "uid": "9139a0bd3f4b3f22",
-   "title": "ggml-org/llama.cpp b10905 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10905",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-09-11T09:38:25+00:00",
-   "summary": "CUDA/HIP: Flash Attention tuning (gfx1201) (#28102) * HIP: enable mma FA for head size 256 on RDNA4, tune configs Assisted-by: Claude Assisted-by: Codex * HIP: prefer whole-tile FA grids over stream-k on AMD WMMA Assisted-by: Claude Assisted-by: Codex * revise stream_k logic * revise kernel selection logic --------- Co-authored-by: Johannes Gäßler **Website:** - **Attestations:** - **macOS/iOS:**…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "aa91222f98544834",
-   "title": "CUDA/HIP: Flash Attention tuning (gfx1201) by pwilkin · Pull Request #28102 · ggml-org/llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdbal8/cudahip_flash_attention_tuning_gfx1201_by_pwilkin/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-09-11T09:27:58+00:00",
-   "summary": "Nice pp improvements for RDNA4(R9700) 3.5(RX 9060 XT, 8060S). More good numbers on large context. PR has detailed benchmarks. u/ilintar 👍 submitted by /u/pmttyji [link] [comments]",
-   "matched": [
-    "llama"
-   ]
-  },
-  {
-   "uid": "cfca5e42f7c5f681",
-   "title": "Spomin - Live KV cache compaction (Experimental for Qwen)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdaq1v/spomin_live_kv_cache_compaction_experimental_for/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-09-11T08:55:35+00:00",
-   "summary": "I’ve been building Spomin , a router that replaces context with summaries directly in the KV cache. The goal is to keep long running sessions going without repeatedly stopping for full compaction and reprocessing the context that remains. It uses my llama.cpp fork -…",
-   "matched": [
-    "llama",
-    "qwen"
-   ]
-  },
-  {
-   "uid": "1545d6d2e3d96fad",
-   "title": "⭐ 127 · xiaYuTian11/maskit (Python)",
-   "url": "https://github.com/xiaYuTian11/maskit",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-09-11T08:53:30+00:00",
-   "summary": "数据面具 Data Maskit — 专为大模型打造的本地隐私脱敏网关（请求自动打码，回复流式还原；支持 Cursor / Claude Code / Codex / Pi 等任意可配 Base URL 工具）",
-   "matched": [
-    "claude",
-    "claude code"
-   ]
-  },
-  {
-   "uid": "d8f7ce3ec055665b",
-   "title": "⭐ 97 · bsab/italia-mcp-servers (Python)",
-   "url": "https://github.com/bsab/italia-mcp-servers",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-09-11T08:34:05+00:00",
-   "summary": "Catalogo curato dei server MCP (Model Context Protocol) italiani — dati pubblici, legal-tech, fatturazione, PA e altro.",
-   "matched": [
-    "mcp",
-    "model context protocol"
-   ]
-  },
-  {
-   "uid": "89d112e0531e97c1",
-   "title": "langfuse/langfuse v4.34.0",
-   "url": "https://github.com/langfuse/langfuse/releases/tag/v4.34.0",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-09-11T08:17:01+00:00",
-   "summary": "## What's Changed ### Features * feat(api): say legacy endpoints delay data by about 10 minutes by @maxdeichmann in https://github.com/langfuse/langfuse/pull/17260 * feat(api): attach _deprecation to successful legacy ingestion writes by @maxdeichmann in https://github.com/langfuse/langfuse/pull/17261 * feat(sessions): Redesigned timeline by @bezbac in…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "8952cd755f053d9a",
-   "title": "What can you run on 8GB VRAM?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wd96dk/what_can_you_run_on_8gb_vram/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-09-11T07:23:05+00:00",
-   "summary": "Can you still do something with a 2050 or something like it? I mean for office work, loading embedding, reranking and chat models not at the same time but is anyone still using smaller models and have any good ones come out? I feel like small models are abandoned, I don’t care much for world knowledge, I want tool use…",
-   "matched": [
-    "embedding",
-    "tool use"
-   ]
-  },
-  {
-   "uid": "1afb8477b0756869",
-   "title": "⭐ 2728 · anthropics/commerce-agents (Python)",
-   "url": "https://github.com/anthropics/commerce-agents",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-09-11T07:03:32+00:00",
-   "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-   "matched": [
-    "claude"
-   ]
   }
  ],
- "last_run": "2026-09-13T12:12:12.499936+00:00"
+ "last_run": "2026-09-13T19:38:50.420973+00:00"
 }
