@@ -5,8 +5,116 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-09-20T11:42:24Z</updated>
+  <updated>2026-09-20T19:38:40Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>📰 The bear can dance: Qwen 3.8 27B on one 3090 for 3 weeks</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wloora/the_bear_can_dance_qwen_38_27b_on_one_3090_for_3/"/>
+    <id>urn:uuid:d7170ad666117144</id>
+    <updated>2026-09-20T18:26:30Z</updated>
+    <published>2026-09-20T18:26:30Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;TL;DR: Local agent loop, ~21 days, one RTX 3090. Task was pretty much build a CUDA inference engine for optimized for yourself on this GPU arch. Got working kernels and benches, not a win over llama.cpp. ~12 human messages. Compaction ate ~83 hours. Old joke: you don’t criticize how well the bear dances, you’re…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama, qwen, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wloora/the_bear_can_dance_qwen_38_27b_on_one_3090_for_3/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wlo52v/lawsuit_says_anthropic_openai_spacexai_and_google/"/>
+    <id>urn:uuid:305a759219b3dfa9</id>
+    <updated>2026-09-20T18:05:43Z</updated>
+    <published>2026-09-20T18:05:43Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;submitted by /u/fallingdowndizzyvr [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wlo52v/lawsuit_says_anthropic_openai_spacexai_and_google/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 laya.cpp: Optimized laya near-instant decision making</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wlmkm9/layacpp_optimized_laya_nearinstant_decision_making/"/>
+    <id>urn:uuid:53b6b082a221c3f6</id>
+    <updated>2026-09-20T17:06:02Z</updated>
+    <published>2026-09-20T17:06:02Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;After seeing u/Nandakishor_ml’s post introducing Laya , I wanted to see how fast it could run in a standalone C++ implementation. Credit to u/Nandakishor_ml for the architecture, training and open-source release. My contribution is the inference implementation: laya.cpp , built on ggml with custom CUDA kernels. It…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wlmkm9/layacpp_optimized_laya_nearinstant_decision_making/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 A Jev-style model fine-tuned on Qwen3.5 4B</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wllv4i/a_jevstyle_model_finetuned_on_qwen35_4b/"/>
+    <id>urn:uuid:f228a3057754dc26</id>
+    <updated>2026-09-20T16:39:07Z</updated>
+    <published>2026-09-20T16:39:07Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;This weekend, I did a fun experiment to create something similar to Jev. I LoRA fine-tuned Qwen3.5 4B using a mix of publicly available datasets and synthetic data. For the synthetic data, I used DeepSeek V4.1 Flash, around 25M tokens. I trained the model for about 2 hours on a rented RTX 3090. So far, the model…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek, lora&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wllv4i/a_jevstyle_model_finetuned_on_qwen35_4b/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 209 · ruc-datalab/EvoOntology (Python)</title>
+    <link href="https://github.com/ruc-datalab/EvoOntology"/>
+    <id>urn:uuid:5f78b95dd0158e2d</id>
+    <updated>2026-09-20T16:21:10Z</updated>
+    <published>2026-09-20T16:21:10Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOntology插件为Claude Code/Codex 建立&amp;amp;进化本体层&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ruc-datalab/EvoOntology"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 CUDA: enable sparse fa for qwen4 by am17an · Pull Request #28770 · ggml-org/llama.cpp</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wlkxjw/cuda_enable_sparse_fa_for_qwen4_by_am17an_pull/"/>
+    <id>urn:uuid:dfd52675ecd7079d</id>
+    <updated>2026-09-20T16:03:29Z</updated>
+    <published>2026-09-20T16:03:29Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Another day, another Qwen Flash Next speedup submitted by /u/jacek2023 [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama, qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wlkxjw/cuda_enable_sparse_fa_for_qwen4_by_am17an_pull/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11064 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11064"/>
+    <id>urn:uuid:aa02751e317923fe</id>
+    <updated>2026-09-20T15:19:21Z</updated>
+    <published>2026-09-20T15:19:21Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;metal : support arbitrary hc in dsv4_hc_pre (#29169) the dsv4_hc_pre kernels hardcoded hc = 4 via a constexpr used with simd_shuffle, so the op was rejected by supports_op for any other hc and fell back to CPU. Kimi-K3 uses dsv4_hc_pre with hc equal to the number of banked checkpoints in the cross-layer residual stack, which grows with the layer index. pass n_hc as a function constant…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11064"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Pirate Face Rescues LLM Models from Deletion</title>
+    <link href="https://pirateface.co/"/>
+    <id>urn:uuid:501a6fb10d060d42</id>
+    <updated>2026-09-20T15:16:07Z</updated>
+    <published>2026-09-20T15:16:07Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://pirateface.co/ Comments URL: https://news.ycombinator.com/item?id=49776699 Points: 286 # Comments: 104&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://pirateface.co/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 focus-llama: a llama.cpp fork implementing Declarative Attention (arXiv:2609.02737)</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wli0wz/focusllama_a_llamacpp_fork_implementing/"/>
+    <id>urn:uuid:ad5fbfbbfc8c8f58</id>
+    <updated>2026-09-20T14:07:03Z</updated>
+    <published>2026-09-20T14:07:03Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I forked llama.cpp to implement Declarative Attention (arXiv:2609.02737, Google DeepMind and KAIST AI). The model declares in its own output which context chunks it needs focus magic\_chunks= N ), and the engine listens and restricts what the following tokens can attend to. No scorer, no training: just prompting plus…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wli0wz/focusllama_a_llamacpp_fork_implementing/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ultralytics/ultralytics v8.4.157 — v8.4.157 - Speed up TensorRT FP16 and INT8 engines up to 20% (#26223)</title>
+    <link href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.157"/>
+    <id>urn:uuid:1c81a622bcd68f47</id>
+    <updated>2026-09-20T13:58:01Z</updated>
+    <published>2026-09-20T13:58:01Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## 🌟 Summary **Ultralytics v8.4.157 makes TensorRT inference faster—up to 20% for FP16 and INT8 engines—while improving YOLOE prompt-free support, Apple Silicon performance, validation reliability, and training stability. 🚀** ## 📊 Key Changes - **⚡ Faster TensorRT engines (PR #26223, @Y-T-G)** - Calibrates FP16 conversion with a real image instead of random noise, allowing more layers to safely…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.157"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Qwen-Image-2.1 released!</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wlgrft/qwenimage21_released/"/>
+    <id>urn:uuid:9527b37b47dfe495</id>
+    <updated>2026-09-20T13:12:41Z</updated>
+    <published>2026-09-20T13:12:41Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Meet Qwen-Image-2.1, the most balanced and cost-effective image generation model in the Qwen-Image series! Now open weights! 🎨 A unified model for both generation and editing, delivering top-tier quality in a lightweight package. Highlights: - Compact exceptionally fast: A lightweight 7B architecture that outperforms…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wlgrft/qwenimage21_released/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11063 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11063"/>
+    <id>urn:uuid:46820a356e2dd052</id>
+    <updated>2026-09-20T12:28:06Z</updated>
+    <published>2026-09-20T12:28:06Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;common/peg : handle invalid utf-8 sequences in the AST (#29161) * common/peg : handle invalid utf-8 sequences in the AST * cont : return maximal subpart per Unicode recommendations * cont : remove strict argument **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11063/llama-b11063-bin-macos-arm64.tar.gz) -…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11063"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 pola-rs/polars</title>
     <link href="https://github.com/pola-rs/polars"/>
@@ -978,113 +1086,5 @@
     <published>2026-09-18T11:37:10Z</published>
     <category term="REPO"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;A unified inference and post-training framework for accelerated video generation. https://hao-ai-lab.github.io/FastVideo | Documentation | Cookbook | Quick Start | Weekly Dev Meeting | 🟣💬 Slack | 🟣💬 WeChat | FastVideo is a unified post-training and real-time inference framework for accelerated video generation. NEWS…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/hao-ai-lab/FastVideo"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 trailofbits/skills</title>
-    <link href="https://github.com/trailofbits/skills"/>
-    <id>urn:uuid:541e2696c229e023</id>
-    <updated>2026-09-18T11:37:10Z</updated>
-    <published>2026-09-18T11:37:10Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows Trail of Bits Skills Marketplace A Claude Code plugin marketplace from Trail of Bits providing skills to enhance AI-assisted security analysis, testing, and development workflows. Codex can load this marketplace…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/trailofbits/skills"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 strands-agents/harness-sdk</title>
-    <link href="https://github.com/strands-agents/harness-sdk"/>
-    <id>urn:uuid:9d7046a775089a99</id>
-    <updated>2026-09-18T11:37:10Z</updated>
-    <published>2026-09-18T11:37:10Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp;amp; TypeScript - any model, any cloud. http://strandsagents.com/ Strands Agents A model-driven approach to building AI agents in just a few lines of code. Documentation ◆ Samples ◆ Tools ◆ MCP Server Strands Agents is an…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/strands-agents/harness-sdk"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b11036 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11036"/>
-    <id>urn:uuid:17929d11de1667ae</id>
-    <updated>2026-09-18T11:32:57Z</updated>
-    <published>2026-09-18T11:32:57Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;ggml : handle graph buffer reservation failure (#26070) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11036/llama-b11036-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11036"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b11035 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11035"/>
-    <id>urn:uuid:6e53142d7712f336</id>
-    <updated>2026-09-18T11:04:14Z</updated>
-    <published>2026-09-18T11:04:14Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;vulkan: add IQ3_S MMQ matmul kernels (#28822) * vulkan: add IQ3_S MMQ matmul kernels * Make block_a_to_shmem do 2-byte loads (110 bytes is divisible by 2) * Align the check, IQ3_S is also using K tile size **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11035/llama-b11035-bin-macos-arm64.tar.gz) - macOS…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11035"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 US government website used AI search tool (Qwen) from China that FBI said copied Anthropic</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wjmomv/us_government_website_used_ai_search_tool_qwen/"/>
-    <id>urn:uuid:70cc6ee6761decc5</id>
-    <updated>2026-09-18T10:39:46Z</updated>
-    <published>2026-09-18T10:39:46Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;https://www.reuters.com/legal/litigation/us-government-website-used-ai-search-tool-china-that-fbi-said-copied-anthropic-2026-09-17/ submitted by /u/External_Mood4719 [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic, qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wjmomv/us_government_website_used_ai_search_tool_qwen/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b11034 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11034"/>
-    <id>urn:uuid:ef484405a8a0c398</id>
-    <updated>2026-09-18T10:37:22Z</updated>
-    <published>2026-09-18T10:37:22Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;vocab : add ufakzeka pre-tokenizer (#29033) * vocab : add ufakzeka pre-tokenizer * vocab : move ufakzeka to the models list and regenerate the hash mapping **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11034/llama-b11034-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11034"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 1991 · vinzdg/codenotch (Swift)</title>
-    <link href="https://github.com/vinzdg/codenotch"/>
-    <id>urn:uuid:0829595add0c9eea</id>
-    <updated>2026-09-18T10:17:34Z</updated>
-    <published>2026-09-18T10:17:34Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/vinzdg/codenotch"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b11033 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11033"/>
-    <id>urn:uuid:57c5c00c7180e16e</id>
-    <updated>2026-09-18T09:55:12Z</updated>
-    <published>2026-09-18T09:55:12Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;cmake : fix build when GGML_CPU=OFF and GGML_CUDA=ON (#29026) * fix: build fails when GGML_CPU=OFF and GGML_CUDA=ON * fix: eol in examples/convert-llama2c-to-ggml/CMakeLists.txt file **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11033/llama-b11033-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64,…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11033"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 697 · okf-memory/okf-agent-memory (Go)</title>
-    <link href="https://github.com/okf-memory/okf-agent-memory"/>
-    <id>urn:uuid:c694f9cab030aa1a</id>
-    <updated>2026-09-18T09:25:14Z</updated>
-    <published>2026-09-18T09:25:14Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/okf-memory/okf-agent-memory"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b11030 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11030"/>
-    <id>urn:uuid:2b49718da62f3fc8</id>
-    <updated>2026-09-18T08:13:40Z</updated>
-    <published>2026-09-18T08:13:40Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;ci : bump android-actions/setup-android to 4.0.4 (#29065) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11030/llama-b11030-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11030"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Flyweight: open-source C++/CUDA engine for running MoE models bigger than your VRAM on one GPU + system RAM. First PyPI release, looking for contributors.</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wjjmj9/flyweight_opensource_ccuda_engine_for_running_moe/"/>
-    <id>urn:uuid:08779a3ad1ce614f</id>
-    <updated>2026-09-18T07:39:21Z</updated>
-    <published>2026-09-18T07:39:21Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Been building this for a few months, mostly for myself, and it just got a proper release so figured I'd post it. It's a native GGUF inference runtime with OpenAI/Anthropic-compatible APIs and a chat UI. The whole point is one consumer NVIDIA card + lots of RAM: MoE models that don't fit in VRAM run their experts on…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wjjmj9/flyweight_opensource_ccuda_engine_for_running_moe/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 JEV architecture</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wjjecz/jev_architecture/"/>
-    <id>urn:uuid:7b2dd6460652b269</id>
-    <updated>2026-09-18T07:25:18Z</updated>
-    <published>2026-09-18T07:25:18Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;My understanding so far: You take an LLM and use it without thinking (That's what openjev does?) You leave out the text generation in the end and take the confidence score in the matrix before that phase That's it. Right? They gave it a mysterious marketing name. submitted by /u/MeinDruckerSpinnt [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wjjecz/jev_architecture/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
