@@ -5,8 +5,215 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-09-25T12:04:35Z</updated>
+  <updated>2026-09-25T20:38:02Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>📦 davila7/claude-code-templates</title>
+    <link href="https://github.com/davila7/claude-code-templates"/>
+    <id>urn:uuid:c98b51c22a96a08c</id>
+    <updated>2026-09-25T20:37:48Z</updated>
+    <published>2026-09-25T20:37:48Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;CLI tool for configuring and monitoring Claude Code https://aitmpl.com Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. # Install the Bright Data Skills + MCP for Claude Code npx…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, mcp, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/davila7/claude-code-templates"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 strands-agents/harness-sdk</title>
+    <link href="https://github.com/strands-agents/harness-sdk"/>
+    <id>urn:uuid:9d7046a775089a99</id>
+    <updated>2026-09-25T20:37:48Z</updated>
+    <published>2026-09-25T20:37:48Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp;amp; TypeScript - any model, any cloud. http://strandsagents.com/ Strands Agents A model-driven approach to building AI agents in just a few lines of code. Documentation ◆ Samples ◆ MCP Server ◆ Discord Strands Agents is…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/strands-agents/harness-sdk"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 anthropics/financial-services</title>
+    <link href="https://github.com/anthropics/financial-services"/>
+    <id>urn:uuid:622951eacdcb74eb</id>
+    <updated>2026-09-25T20:37:48Z</updated>
+    <published>2026-09-25T20:37:48Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is available two ways from one source : install it as a Claude Cowork plugin, or deploy it through…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/anthropics/financial-services"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11191 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11191"/>
+    <id>urn:uuid:bbaa661c9c7ca052</id>
+    <updated>2026-09-25T20:26:39Z</updated>
+    <published>2026-09-25T20:26:39Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;common,rpc : simplify fs_create_directory_with_parents() (#29432) The original function was broken on Windows for some unicode paths Paths without a trailing separator now create the last directory too, matching the function name. All current callers already include a trailing separator, so this change does not affect them. Signed-off-by: Adrien Gallouët **Website:** - **Attestations:** -…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11191"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11190 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11190"/>
+    <id>urn:uuid:9ea59f55aead679f</id>
+    <updated>2026-09-25T19:59:55Z</updated>
+    <published>2026-09-25T19:59:55Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;mtmd: fix mel preprocessor in LFM2 audio (#29403) which resulted in different greedy transcripts for 4.5% of English and 6.5% of Japanese test utterances. In Japanese, some differences changed entire words. This change: * uses `log(x + 2^-24)` instead of clamping to the log floor * uses a symmetric Hann window, equivalent to `torch.hann_window(periodic=False)` * adds the normalization epsilon to…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11190"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 793 · yetone/magpie (Go)</title>
+    <link href="https://github.com/yetone/magpie"/>
+    <id>urn:uuid:e704a24b8bfd08fd</id>
+    <updated>2026-09-25T19:54:44Z</updated>
+    <published>2026-09-25T19:54:44Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, deepseek, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/yetone/magpie"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11189 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11189"/>
+    <id>urn:uuid:3287a99429849a9d</id>
+    <updated>2026-09-25T19:34:50Z</updated>
+    <published>2026-09-25T19:34:50Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;opencl: add bin kernel `kernel_gemm_noshuffle_q5_k_f32_32b_trans_ila_a8_bin`, `kernel_gemm_noshuffle_q5_k_q8_1_dp4a_ila_a8_bin` (#29401) * opencl: add A8 Q5_K non-MoE non dp4a + dp4a binary kernel * opencl: fix s transpose - s only transposed for bin kernels --------- Co-authored-by: Li He **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11189"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 303 · itsmostafa/system-one-connector (Go)</title>
+    <link href="https://github.com/itsmostafa/system-one-connector"/>
+    <id>urn:uuid:fbe646dff48adfef</id>
+    <updated>2026-09-25T19:22:16Z</updated>
+    <published>2026-09-25T19:22:16Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;System One MCP connector to evaluate anything fast and cheap. Give your AI agent direct access to models like: Typesafe AI's Jev model and Laya&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/itsmostafa/system-one-connector"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11188 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11188"/>
+    <id>urn:uuid:7ac107656c844fce</id>
+    <updated>2026-09-25T19:06:34Z</updated>
+    <published>2026-09-25T19:06:34Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;Fixing the vulkan build issue of legacy GLSLC version that has no cooperativeMatrix API support (https://github.com/ggml-org/llama.cpp/issues/29373) (#29409) * vulkan : fix build issue of legacy glslc version by adding GGML_VULKAN_COOPMAT_GLSLC_SUPPORT macro check for Intel FA shader compiling * vulkan : add preprocess condition to filter out unsupported FA 2 phases kernels before creation. *…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11188"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Proaction boosts sales 60% and saves 75+ hours with Codex</title>
+    <link href="https://openai.com/index/proaction"/>
+    <id>urn:uuid:763541bba5e690a6</id>
+    <updated>2026-09-25T19:00:00Z</updated>
+    <published>2026-09-25T19:00:00Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/proaction"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Trained my first small language model</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wq3wn6/trained_my_first_small_language_model/"/>
+    <id>urn:uuid:b9b16371a774d85c</id>
+    <updated>2026-09-25T18:26:27Z</updated>
+    <published>2026-09-25T18:26:27Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I have a tool that uses Gemini Flash with the lowest thinking budget to do summarization work. It's very fast, 0.9-1.2s in most cases. But I have a user experience problem where people make the wrong choice when using an internal app for the team. Gemini Flash can figure out what the user should do and highlight the…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: gemini&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wq3wn6/trained_my_first_small_language_model/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 83 · makifbaysal/tasktrooper (Go)</title>
+    <link href="https://github.com/makifbaysal/tasktrooper"/>
+    <id>urn:uuid:80ace13c353b94cb</id>
+    <updated>2026-09-25T18:25:50Z</updated>
+    <published>2026-09-25T18:25:50Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Local-first agent platform: board + role agents + Claude Code runs, all on your own Mac&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/makifbaysal/tasktrooper"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11185 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11185"/>
+    <id>urn:uuid:73bd0bb261abe865</id>
+    <updated>2026-09-25T18:24:43Z</updated>
+    <published>2026-09-25T18:24:43Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;common : extract shared unicode path/string helpers (#29415) Signed-off-by: Adrien Gallouët **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11185/llama-b11185-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11185"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 820 · kerpopule/hermes-jev-skills (Python)</title>
+    <link href="https://github.com/kerpopule/hermes-jev-skills"/>
+    <id>urn:uuid:c6015f54bf09e9d2</id>
+    <updated>2026-09-25T18:13:58Z</updated>
+    <published>2026-09-25T18:13:58Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/kerpopule/hermes-jev-skills"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Yes, Claude can do nine loops</title>
+    <link href="https://www.anthropic.com/research/yes-claude-can-do-nine-loops"/>
+    <id>urn:uuid:fa54d0eff12962b7</id>
+    <updated>2026-09-25T18:11:48Z</updated>
+    <published>2026-09-25T18:11:48Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://www.anthropic.com/research/yes-claude-can-do-nine-loops Comments URL: https://news.ycombinator.com/item?id=49848033 Points: 100 # Comments: 47&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, anthropic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.anthropic.com/research/yes-claude-can-do-nine-loops"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 102 · agent-labs-dev/fastbrowse (Python)</title>
+    <link href="https://github.com/agent-labs-dev/fastbrowse"/>
+    <id>urn:uuid:24e75fa44a32dda8</id>
+    <updated>2026-09-25T18:08:37Z</updated>
+    <published>2026-09-25T18:08:37Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;A fast browser agent: Jev picks each action from what is on the page, an LLM reads and plans, and every claim in an answer cites a quote from the page.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/agent-labs-dev/fastbrowse"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Jev vs. Kev: open-source Jev alternative tested side by side</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wq2hfc/jev_vs_kev_opensource_jev_alternative_tested_side/"/>
+    <id>urn:uuid:0c6788f80448018e</id>
+    <updated>2026-09-25T17:30:26Z</updated>
+    <published>2026-09-25T17:30:26Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;We hosted Kev 4B (Jared Palmer's Apache-2.0 fine-tune of Qwen3.5-4B) and ran it side by side with Jev on the same endpoint to see how it compares. We built a fresh set of 362 items published after both models shipped (new arXiv papers, Stack Exchange questions, GitHub issues), with answers taken from the source. A few…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tune&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wq2hfc/jev_vs_kev_opensource_jev_alternative_tested_side/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Quoting John Gruber</title>
+    <link href="https://simonwillison.net/2026/Sep/25/john-gruber/"/>
+    <id>urn:uuid:3adaa1b9d1ac2c6a</id>
+    <updated>2026-09-25T17:22:01Z</updated>
+    <published>2026-09-25T17:22:01Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Simon Willison&lt;/p&gt;&lt;p&gt;Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and because it’s packaged in an easy-to-install easy-to-use way. It’s literally presented as a cute mascot . It’s the first…&lt;/p&gt;&lt;p&gt;&lt;a href="https://simonwillison.net/2026/Sep/25/john-gruber/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Make Volta Fast Again</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wq1rmf/make_volta_fast_again/"/>
+    <id>urn:uuid:7a364d23bb98cfbe</id>
+    <updated>2026-09-25T17:02:27Z</updated>
+    <published>2026-09-25T17:02:27Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;For those who have V100 cards, I wanted to point you to 1Cat-vLLM, a vLLM fork that enables optimized serving for these cards. Showing stats for Qwen3.6-35b comparing a Strix Halo with a hughly optimized llama.cpp fork (pwilkin) and the V100 with 1Cat. It’s not apples to apples, but I decided to show the raw numbers…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wq1rmf/make_volta_fast_again/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Jevmem – automatic project memory for Claude Code, built on Jev</title>
+    <link href="https://github.com/Avinash-jetwani/jevmem"/>
+    <id>urn:uuid:13542df543fb6013</id>
+    <updated>2026-09-25T16:04:04Z</updated>
+    <published>2026-09-25T16:04:04Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://github.com/Avinash-jetwani/jevmem Comments URL: https://news.ycombinator.com/item?id=49846391 Points: 59 # Comments: 39&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Avinash-jetwani/jevmem"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 U.S. appeals court upholds designation of Anthropic as supply chain risk</title>
+    <link href="https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html"/>
+    <id>urn:uuid:83daa3547179a981</id>
+    <updated>2026-09-25T15:29:25Z</updated>
+    <published>2026-09-25T15:29:25Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html Comments URL: https://news.ycombinator.com/item?id=49845977 Points: 285 # Comments: 439&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 871 · JohnHeibel/PDoomVideo (JavaScript)</title>
+    <link href="https://github.com/JohnHeibel/PDoomVideo"/>
+    <id>urn:uuid:adb7c9244602d793</id>
+    <updated>2026-09-25T15:11:03Z</updated>
+    <published>2026-09-25T15:11:03Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, opus&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/JohnHeibel/PDoomVideo"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 langfuse/langfuse v4.46.0</title>
+    <link href="https://github.com/langfuse/langfuse/releases/tag/v4.46.0"/>
+    <id>urn:uuid:4412a9bf6baf7bbd</id>
+    <updated>2026-09-25T14:20:07Z</updated>
+    <published>2026-09-25T14:20:07Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's Changed ### Features * feat(experiments): streamline side-by-side comparison by @marliessophie in https://github.com/langfuse/langfuse/pull/17929 * feat(web): Add formatted json to the dataset item by @nmtrang29 in https://github.com/langfuse/langfuse/pull/17932 * feat(skills): basic skill management by @tobi12345 in https://github.com/langfuse/langfuse/pull/17803 * feat(web): add…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/langfuse/langfuse/releases/tag/v4.46.0"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 kvcache-ai/AgentENV</title>
     <link href="https://github.com/kvcache-ai/AgentENV"/>
@@ -152,6 +359,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's Changed * chore(deps): bump image-size to 2.0.4 by @github-actions[bot] in https://github.com/langfuse/langfuse/pull/17917 * fix(web): log the public key when an API key lookup fails by @benlangfeld in https://github.com/langfuse/langfuse/pull/16375 * fix(llm-connections): reject TypeSafe base URLs that end in /systemone or have a query string by @DavidTraina in…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/langfuse/langfuse/releases/tag/v4.45.3"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 LLM on a budget part 2, from P102-100 to CMP 50HX.</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wpqgh9/llm_on_a_budget_part_2_from_p102100_to_cmp_50hx/"/>
+    <id>urn:uuid:5357439ea4f4ba18</id>
+    <updated>2026-09-25T08:01:24Z</updated>
+    <published>2026-09-25T08:01:24Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I finally got around to upgrade the GPU's. First a word of warning, when upgrading GPU's on P520 you have to be extra careful not to slot the card on any angle other than straight when installing or when pulling the card out, the reason for that is that about a 1/4 an inch from where to card slots into the metal case…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wpqgh9/llm_on_a_budget_part_2_from_p102100_to_cmp_50hx/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>📰 Did anyone do a full bench of e.g. Qwen Flash Next IQ4 and Qwen 27b FP8? Here are some</title>
     <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wpp28m/did_anyone_do_a_full_bench_of_eg_qwen_flash_next/"/>
     <id>urn:uuid:88eda86dfa3c591f</id>
@@ -159,6 +375,15 @@
     <published>2026-09-25T06:32:06Z</published>
     <category term="NEWS"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;edit: had to change formatting as I’m on mobile noe and the table broke.. I let Codex do a quick eval on Qwen 3.8 Flash Next IQ4_XS (served via vLLM + r9v) and Qwen 3.8 27B FP8 (served via vLLM + Radiance) This was not the full eval. I only ran a reduced quick test because the full version would take way too long on…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wpp28m/did_anyone_do_a_full_bench_of_eg_qwen_flash_next/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 81 · nidhi-singh02/agent-router (TypeScript)</title>
+    <link href="https://github.com/nidhi-singh02/agent-router"/>
+    <id>urn:uuid:2181b005bd8929d1</id>
+    <updated>2026-09-25T06:26:50Z</updated>
+    <published>2026-09-25T06:26:50Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. Powered by Jev and Herdr&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/nidhi-singh02/agent-router"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>🚀 ggml-org/llama.cpp b11177 (pre)</title>
@@ -177,6 +402,24 @@
     <published>2026-09-25T04:47:15Z</published>
     <category term="RELEASE"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's Changed ### ⚠️ Compatibility Notes * Ask a `DecisionModel` which route to take by name, with one label per route by @DouweM in https://github.com/pydantic/pydantic-ai/pull/8733 * Make `ModelSelectionContext.messages` end with the request being routed, and add `ModelSelectionContext.prompt` by @DouweM in https://github.com/pydantic/pydantic-ai/pull/8737 * Replace the decision model's…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/pydantic/pydantic-ai/releases/tag/v2.50.0"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📄 SkillGym: Internalizing Human Skills into LLMs for Real-World Problem Solving</title>
+    <link href="https://arxiv.org/abs/2609.27717"/>
+    <id>urn:uuid:0fdb6f0904b6c81e</id>
+    <updated>2026-09-25T04:00:00Z</updated>
+    <published>2026-09-25T04:00:00Z</published>
+    <category term="PAPER"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.27717v2 Announce Type: replace Abstract: Human-written agent skills encode rich workflows for real-world problem solving, but are typically used as external inference-time instructions rather than internalized as reusable model capabilities. We introduce \texttt{SkillGym}, a framework that transforms these…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.27717"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📄 ProCredit: From Outcome Rewards to Progress Credit in Agentic Reinforcement Learning</title>
+    <link href="https://arxiv.org/abs/2609.27532"/>
+    <id>urn:uuid:dab299661c4c9d63</id>
+    <updated>2026-09-25T04:00:00Z</updated>
+    <published>2026-09-25T04:00:00Z</published>
+    <category term="PAPER"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.27532v2 Announce Type: replace-cross Abstract: Long-horizon agentic tasks require an agent to modify an environment through a sequence of tool calls, with success determined by the final state. The standard recipe assigns a single outcome reward at the end and compares trajectories sampled for the same…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.27532"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📄 Technical Manual for Toolkit for Confidence-Corpus Consistency via Fine-Tuning on a Fabricated Corpus</title>
@@ -843,248 +1086,5 @@
     <published>2026-09-25T04:00:00Z</published>
     <category term="PAPER"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2609.29592v1 Announce Type: new Abstract: Adapting large pretrained vision models under limited data and frozen-backbone constraints remains a central challenge in transfer learning. While lightweight adapters and parameter-efficient fine-tuning methods are widely adopted, most rely on generic multilayer…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tuning&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.29592"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 AgenticCADedit: A Stateful, Tool-Mediated Agentic Approach to Multimodal 3D CAD Editing</title>
-    <link href="https://arxiv.org/abs/2609.29621"/>
-    <id>urn:uuid:dd4bd6af0cba7b1a</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2609.29621v1 Announce Type: new Abstract: Computer-aided design is central to industrial manufacturing, and much of a designer's daily work consists of editing existing models from multimodal requests involving speech, sketches, and model interaction. Existing neural CAD approaches focus predominantly on…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.29621"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Albireo: Adaptive, Energy-Efficient Inference Framework for Video Object Detection on the Edge</title>
-    <link href="https://arxiv.org/abs/2609.29648"/>
-    <id>urn:uuid:120d1742e4cb74cf</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2609.29648v1 Announce Type: new Abstract: Video object detection on edge devices runs computationally expensive detectors over long frame streams, causing high energy consumption and sustained GPU utilization. Although consecutive frames are highly redundant, naive frame skipping is content-blind: it skips…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.29648"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 TopoFuse: Topology-Aware Tri-Planar Fusion for 3D Cryo-Electron Tomography Segmentation</title>
-    <link href="https://arxiv.org/abs/2609.29717"/>
-    <id>urn:uuid:8d105159a525f20e</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2609.29717v1 Announce Type: new Abstract: Automated segmentation of cryo-electron tomograms routinely produces masks that are voxel-accurate but topologically broken: membranes fragment, organelles merge into one another, and enclosed cavities collapse. Existing topology-aware losses reduce these violations but…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.29717"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 SALI: Shot-Aware Late Interaction for Cross-Shot Relation Matching in Text-to-Video Retrieval using Film-Grammar Knowledge</title>
-    <link href="https://arxiv.org/abs/2609.29721"/>
-    <id>urn:uuid:17574aff61e865c1</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2609.29721v1 Announce Type: new Abstract: Text-to-video retrieval usually represents a video clip by a single embedding. This embedding often loses important relations between people. E.g., an interaction "Anna confronts Mark" is regularly filmed as alternating shot and reverse shot of both (Fig. 1a). No single…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: embedding&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.29721"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Mind the Gap: Mesh-Guided Repair of Broken Vessels</title>
-    <link href="https://arxiv.org/abs/2609.29779"/>
-    <id>urn:uuid:80879e080b5d55f4</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2609.29779v1 Announce Type: new Abstract: Vessel segmentation is commonly optimized as voxel-wise classification, but small local errors can strongly disrupt vascular connectivity while having little effect on overlap scores. This is particularly problematic for downstream analyses that rely on centerlines,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.29779"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Lightweight Vision Transformer-Based U-Net for Brain Tumor Segmentation from MRI</title>
-    <link href="https://arxiv.org/abs/2609.29785"/>
-    <id>urn:uuid:3ec0e021dc396a08</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2609.29785v1 Announce Type: new Abstract: Accurate brain tumor segmentation from Magnetic Resonance Imaging is essential for diagnosis, treatment planning, and surgical guidance. Although Convolutional Neural Networks, particularly UNet, have achieved significant success in medical image segmentation, they often…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation, unet, u-net&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.29785"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 GHOST-Q: Towards Studying Grounding Hallucinations Overlooked Under Same-score TradeOffs in Quantized VLMS</title>
-    <link href="https://arxiv.org/abs/2609.29999"/>
-    <id>urn:uuid:860fb93e16a8cb7e</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2609.29999v1 Announce Type: new Abstract: Post-training quantization of vision--language models (VLMs) is typically assessed through aggregate task accuracy and memory savings, but preserving a headline score does not guarantee preservation of visual grounding behavior. We present GHOST-Q, a cross-precision…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: quantization&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.29999"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 ConPro: Contrast Projection Pretraining for Label-Efficient Vessel Segmentation in DSA Sequences</title>
-    <link href="https://arxiv.org/abs/2609.30043"/>
-    <id>urn:uuid:1a2206bbd8d94556</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2609.30043v1 Announce Type: new Abstract: Dense vessel annotation in digital subtraction angiography (DSA) is labor-intensive, yet every unlabeled sequence records how contrast passes through the vessels. Semi-supervised methods take their targets from the current model, and generic self-supervised pretexts…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.30043"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Accelerating Video Diffusion via Training-Free Trajectory Routing</title>
-    <link href="https://arxiv.org/abs/2609.30096"/>
-    <id>urn:uuid:3c323a712e8a1047</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2609.30096v1 Announce Type: new Abstract: Video diffusion is computationally expensive, as it requires executing a large model across many denoising steps. Even with step-distillation, inference remains expensive because every distilled step still requires a costly model evaluation. We present TRACK:…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.30096"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Smartphone-Based Method for Automated Speed Enforcement</title>
-    <link href="https://arxiv.org/abs/2609.30107"/>
-    <id>urn:uuid:2268515f9332e98c</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2609.30107v1 Announce Type: new Abstract: Smartphone cameras and computer vision (CV) hold significant promise in assisting public agencies with enforcing traffic laws and enhancing road safety. This work designs and tests a smartphone-based method for automated speed estimation and vehicle identification…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: computer vision&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.30107"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 BiCC: Bidirectional Connected-Component Loss for Instance-Aware Segmentation</title>
-    <link href="https://arxiv.org/abs/2609.30223"/>
-    <id>urn:uuid:786ab4c2f12eeb2a</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2609.30223v1 Announce Type: new Abstract: Common segmentation losses aggregate errors voxel-wise, so lesions influence the objective in proportion to their volume, giving small but clinically critical lesions disproportionately little weight. Instance-aware losses aim to address this mismatch by assigning each…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.30223"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 When Can Agents Forget Their Reasoning? ICLR for Long-Horizon Agent Context Compression</title>
-    <link href="https://arxiv.org/abs/2609.29875"/>
-    <id>urn:uuid:7df2edf69659a566</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2609.29875v1 Announce Type: cross Abstract: Long horizon language model agents continually accumulate reasoning history, increasing context length and inference cost even after earlier decisions have been executed and observed. Unlike static Chain of Thought compression, removing historical reasoning can change…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.29875"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 RAPID: Robot Agentic Programming from Demonstrations</title>
-    <link href="https://arxiv.org/abs/2609.30249"/>
-    <id>urn:uuid:37577ce4f3997023</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2609.30249v1 Announce Type: cross Abstract: Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work introduces Robot Agentic Programming from Demonstrations (RAPID), which automatically generates, verifies, and refines…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.30249"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Comparing YOLOv11 and YOLOv8 for instance segmentation of occluded and non-occluded immature green fruits in complex orchard environment</title>
-    <link href="https://arxiv.org/abs/2410.19869"/>
-    <id>urn:uuid:0cffe2af4cca691e</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2410.19869v4 Announce Type: replace Abstract: This study conducted a comprehensive performance evaluation on YOLO11 (or YOLOv11) and YOLOv8, the latest in the "You Only Look Once" (YOLO) series, focusing on their instance segmentation capabilities for immature green apples in orchard environments. YOLO11n-seg…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2410.19869"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 OncoVision: Integrating Mammography and Clinical Data through Attention-Driven Multimodal AI for Enhanced Breast Cancer Diagnosis</title>
-    <link href="https://arxiv.org/abs/2511.19667"/>
-    <id>urn:uuid:acb6dcf9ac270398</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2511.19667v2 Announce Type: replace Abstract: OncoVision is a privileged-information training framework that uses mammography images and clinical features during training and performs inference from mammographic images alone. Employing an attention-based encoder-decoder backbone, it jointly segments four regions…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2511.19667"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 OptiSAR-Net++: A Large-Scale Benchmark and Transformer-Free Framework for Cross-Domain Remote Sensing Visual Grounding</title>
-    <link href="https://arxiv.org/abs/2603.24876"/>
-    <id>urn:uuid:e400501425570f9d</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2603.24876v2 Announce Type: replace Abstract: Remote sensing visual grounding (RSVG) aims to localize specific targets in remote sensing images using natural language expressions. However, existing methods are restricted to single-sensor domains, i.e., either optical or synthetic aperture radar (SAR), limiting…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: remote sensing&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2603.24876"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 COMPASS: Fusion-Matched Supervision for Missing-Modality Human Sensing</title>
-    <link href="https://arxiv.org/abs/2604.02056"/>
-    <id>urn:uuid:bdeeaa0621482b22</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2604.02056v3 Announce Type: replace Abstract: Multimodal human activity recognition (HAR) and human pose estimation (HPE) must cope with modalities missing at inference. Completions generated for a fixed fusion model must preserve the fusion readout: what fusion uses from each modality. We propose COMPASS, a…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2604.02056"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 A Multimodal 3D Foundation Model for Light Sheet Fluorescence Microscopy Enables Few-Shot Segmentation, Classification, and Deblurring</title>
-    <link href="https://arxiv.org/abs/2605.26026"/>
-    <id>urn:uuid:3b821db66eeaddcf</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2605.26026v2 Announce Type: replace Abstract: Light sheet fluorescence microscopy (LSM) enables high-resolution, three-dimensional (3D) imaging of biological specimens, providing rich volumetric data for studying cellular organization, pathology, and vascular networks. However, the size, dimensionality, and…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2605.26026"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 TAPe+ML: A Compact Structured Representation for Multi-Task Computer Vision</title>
-    <link href="https://arxiv.org/abs/2609.20869"/>
-    <id>urn:uuid:5d1c3ee4fb82e16d</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2609.20869v2 Announce Type: replace Abstract: We present TAPe+ML v3, a compact computer vision system based on TAPe (Theory of Active Perception), a structured representation that encodes relations among perceptual elements before recognition. Instead of operating directly on pixel tensors, the system uses a…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: computer vision&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.20869"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 SAMI3D-DW: Interactive Segmentation of Any 3D Medical Images</title>
-    <link href="https://arxiv.org/abs/2609.25743"/>
-    <id>urn:uuid:d7453fb6698c1c9c</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2609.25743v2 Announce Type: replace Abstract: Interactive segmentation of 3D medical images supports quantitative analysis of anatomical structures and disease while allowing users to specify and refine their targets. Despite substantial progress by nnInteractive and VISTA3D, reliable segmentation across diverse…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.25743"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Bridging the Inter-Domain Gap through Low-Level Features for Cross-Modal Medical Image Segmentation</title>
-    <link href="https://arxiv.org/abs/2505.11909"/>
-    <id>urn:uuid:5da6fa7b6ea4b378</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2505.11909v2 Announce Type: replace-cross Abstract: This paper addresses cross-modal medical image segmentation, focusing on MRI-CT transfer in a source-only domain generalization setting. During training, only source-modality samples are available, while unlabeled target-modality images are used for testing. We…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2505.11909"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Evolve Vision-Language-Action Model into an Agent with On-the-fly Tool-use</title>
-    <link href="https://arxiv.org/abs/2608.14047"/>
-    <id>urn:uuid:b00b208039c0fce9</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2608.14047v3 Announce Type: replace-cross Abstract: This paper integrates end-to-end Visual-Language-Action (VLA) models with agentic tool-use to propose Agentic Robot with Tool-use (ART). ART is a tool-injection framework that tunes any VLA model to leverage off-the-shelf tool modules for low-level vision,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.14047"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b11175 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11175"/>
-    <id>urn:uuid:ed9834d38a847b15</id>
-    <updated>2026-09-25T03:04:33Z</updated>
-    <published>2026-09-25T03:04:33Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;hexagon: add q5_k quant type support (#29123) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11175/llama-b11175-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11175"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 M5 Ultra 80Core GLM-5.3-Flash on DwarfStar Speeds</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wpkz0o/m5_ultra_80core_glm53flash_on_dwarfstar_speeds/"/>
-    <id>urn:uuid:4b86f09ebfb26e15</id>
-    <updated>2026-09-25T02:45:45Z</updated>
-    <published>2026-09-25T02:45:45Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I've been playing around with various models on the M5 Ultra 256GB 80-core Mac Studio. These are the results over many rounds of agentic inferencing. I'm happy with the performance. Glad to have the large amount of RAM. But it does feel like the GPU is underpowered for this amount of RAM. I'm wondering if a 512GB unit…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wpkz0o/m5_ultra_80core_glm53flash_on_dwarfstar_speeds/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b11174 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11174"/>
-    <id>urn:uuid:5640b15cee05df3d</id>
-    <updated>2026-09-25T02:40:13Z</updated>
-    <published>2026-09-25T02:40:13Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;hexagon: use DMA for contiguous dim1 CONCAT (#29404) * hexagon: use DMA for contiguous dim1 CONCAT Assisted-by: OpenCode * hexagon: update CONCAT DMA for DMA64 Assisted-by: OpenCode **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11174/llama-b11174-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64,…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11174"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 576 · nokia-applied-research/AnyJev (Python)</title>
-    <link href="https://github.com/nokia-applied-research/AnyJev"/>
-    <id>urn:uuid:bfa7a24c6f499850</id>
-    <updated>2026-09-25T00:32:27Z</updated>
-    <published>2026-09-25T00:32:27Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/nokia-applied-research/AnyJev"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b11173 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11173"/>
-    <id>urn:uuid:713bd11a8087a929</id>
-    <updated>2026-09-25T00:06:07Z</updated>
-    <published>2026-09-25T00:06:07Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;metal : fix graph capture and handle empty graphs (#29390) - return early when the graph has no nodes - drop the redundant reset of capture_compute: the decrement at the top of the function already transitions the counter from 0 to -1, so a capture happens exactly once - hint at METAL_CAPTURE_ENABLED=1 in the capture error message - pass capture_compute == 0 (not the raw counter) as use_capture…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11173"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
