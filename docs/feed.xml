@@ -5,8 +5,62 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-09-26T11:40:25Z</updated>
+  <updated>2026-09-26T20:03:18Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11202 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11202"/>
+    <id>urn:uuid:c60356cb4a40035e</id>
+    <updated>2026-09-26T20:02:37Z</updated>
+    <published>2026-09-26T20:02:37Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;server : fix wake_fd warning on Windows (#29479) Signed-off-by: Adrien Gallouët **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11202/llama-b11202-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11202"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 791 · nokia-applied-research/AnyJev (Python)</title>
+    <link href="https://github.com/nokia-applied-research/AnyJev"/>
+    <id>urn:uuid:bfa7a24c6f499850</id>
+    <updated>2026-09-26T19:35:56Z</updated>
+    <published>2026-09-26T19:35:56Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/nokia-applied-research/AnyJev"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Splash 1.1.0 released, GGUF quants support, MLX import and more</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wqw9rn/splash_110_released_gguf_quants_support_mlx/"/>
+    <id>urn:uuid:0c945ba99f51c457</id>
+    <updated>2026-09-26T17:27:22Z</updated>
+    <published>2026-09-26T17:27:22Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;On my M5 Pro 64GB I can comfortably work in an agentic setup with the Qwen3.8 27B model in good quality (Unsloth UD-Q4_K_XL) at a decent speed of 50 t/s. Splash combines optimized kernels, excellent speculative decoding, a well-implemented prefix cache, and mixed-weight support in a single program. To me, this is a…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wqw9rn/splash_110_released_gguf_quants_support_mlx/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11201 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11201"/>
+    <id>urn:uuid:00bca2686682d3e4</id>
+    <updated>2026-09-26T16:39:56Z</updated>
+    <published>2026-09-26T16:39:56Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;Revert "Change max context length for auto-fitting with unified KV (#28849)" (#29437) This reverts commit b04d4e567cd2fb8d2ded6e17d38dbbcfafe29063. **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11201/llama-b11201-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11201"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Just bought a second 3090 but now I don't see the benefits right now.</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wqv0qj/just_bought_a_second_3090_but_now_i_dont_see_the/"/>
+    <id>urn:uuid:9cce0e30506aa504</id>
+    <updated>2026-09-26T16:37:26Z</updated>
+    <published>2026-09-26T16:37:26Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Hi, My local AI server consists of 96GB Ddr5 and one rtx 3090. I got plenty of stuff running, like krea2, qwen image 2.1, minimax h3, ltx 2.5, qwen 3.6, qwen 3.8 q4...,got even qwen 3.8 Flash next running. But now I am thinking of what I can utilize the second card for. I am a single user of this machine. What are…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wqv0qj/just_bought_a_second_3090_but_now_i_dont_see_the/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 2400cc Inference Racer: Dual RTX 3090 motors, NVLink turbo, naked 7840U ThinkPad ECU, VW Golf radiator</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wqs2t8/2400cc_inference_racer_dual_rtx_3090_motors/"/>
+    <id>urn:uuid:2147d2cca816c73e</id>
+    <updated>2026-09-26T14:34:51Z</updated>
+    <published>2026-09-26T14:34:51Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Today I present a fine piece of engineering, carefully assembled inside a custom chipboard chassis: the 2400cc Inference Racer , a.k.a. my winter heater. Power comes from two second-hand AORUS RTX 3090 XTREME WATERFORCE cards. One glows a beautiful teal, the other red. I have no idea why, nor how to change it, so…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wqs2t8/2400cc_inference_racer_dual_rtx_3090_motors/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 CodeZeno/Claude-Code-Usage-Monitor</title>
     <link href="https://github.com/CodeZeno/Claude-Code-Usage-Monitor"/>
@@ -719,6 +773,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;CUDA: fuse RMS_NORM + SCALE into one kernel (#29393) - #28068 builds the GDN q/k l2norm as ggml_scale(ggml_rms_norm(x, eps/n), 1/sqrt(n)). This adds 2 SCALE nodes per GDN layer, 96 extra kernel launches per ubatch on Qwen3.8-27B (48 GDN layers). - The extra kernels take no measurable GPU time, but each launch has a host/driver cost. It is small with plain batch processing and about 10x larger…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11177"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📦 ⭐ 373 · amitshekhariitbhu/ai-system-design (Markdown)</title>
+    <link href="https://github.com/amitshekhariitbhu/ai-system-design"/>
+    <id>urn:uuid:43f47bef39531d71</id>
+    <updated>2026-09-25T04:53:31Z</updated>
+    <published>2026-09-25T04:53:31Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: rag&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/amitshekhariitbhu/ai-system-design"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>🚀 pydantic/pydantic-ai v2.50.0 — v2.50.0 (2026-09-24)</title>
     <link href="https://github.com/pydantic/pydantic-ai/releases/tag/v2.50.0"/>
     <id>urn:uuid:8afed79b6c5cb68b</id>
@@ -1023,68 +1086,5 @@
     <published>2026-09-25T04:00:00Z</published>
     <category term="PAPER"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.29075v1 Announce Type: cross Abstract: Cancer registrars, including Oncology Data Specialists (ODSs), must interpret complex and frequently updated coding and staging standards. We developed CRISS (Cancer Registry Intelligent Support System), a retrieval-augmented generation (RAG) conversational assistant…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: rag&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.29075"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures</title>
-    <link href="https://arxiv.org/abs/2609.29429"/>
-    <id>urn:uuid:7d1dc3d8678b8985</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.29429v1 Announce Type: cross Abstract: Detectors of alignment failures screen deployed language models and score alignment benchmarks. Most are generative judges that spend a decoding pass on every criterion, and classifiers that read token probabilities, such as Llama Guard, still score one fixed label per…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.29429"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Evaluation of Multi-Turn Consistency in LLM Agents: Survival Analysis and Failure-Rationale Taxonomy</title>
-    <link href="https://arxiv.org/abs/2609.29508"/>
-    <id>urn:uuid:e8cb2db540fa6055</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.29508v1 Announce Type: cross Abstract: Large language model (LLM) agents may perform well on isolated tasks yet drift into inconsistency over extended interaction. We evaluate temporal consistency in a controlled 20-step multi-agent setting inspired by delayed-gratification studies. At each step, an agent…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.29508"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Delay-of-Gratification as a Multi-Agent Survival Micro-benchmark for Long-Horizon LLMs: Social Exposure, Personas, and Tool Use Budgets</title>
-    <link href="https://arxiv.org/abs/2609.29509"/>
-    <id>urn:uuid:c1a892ea6ecdc178</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.29509v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly deployed as multi-turn agents that must sustain goals, use tools, and adapt to other agents over extended interactions. However, existing research lacks auditable, multi-turn, multi-factorial experiments that quantify LLM…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, tool use&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.29509"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Three Ways Classical Test Theory Misleads for LLM Judges</title>
-    <link href="https://arxiv.org/abs/2609.29709"/>
-    <id>urn:uuid:2819d2341496bb08</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.29709v1 Announce Type: cross Abstract: An LLM judge scores a bank of responses against a rubric, and the reliability comes back at $0.52$. What has been measured? Judge evaluation has begun borrowing reliability statistics from classical test theory, usually without stating the measurement design each…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.29709"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 PrivDrift: Auditing User-Secret Leakage Under Topic Drift in Active LLM Conversations</title>
-    <link href="https://arxiv.org/abs/2609.30094"/>
-    <id>urn:uuid:12b94f1407a3e332</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.30094v1 Announce Type: cross Abstract: Large language models increasingly operate as persistent assistants in user-facing, shared-session, and tool-augmented settings. When users disclose sensitive information during an active conversation, that information may remain behaviorally recoverable through later…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.30094"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 GRASP: Generating, Revising, and Assessing for Strategic Planning with Agentic AI</title>
-    <link href="https://arxiv.org/abs/2609.30147"/>
-    <id>urn:uuid:92f375edca70ecd1</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.30147v1 Announce Type: cross Abstract: Large Language Models (LLMs) typically exhibit a performance profile where reliability degrades as task complexity increases. We address the challenge of generating high-quality natural language executable plans for complex tasks by introducing $\textbf{GRASP}$, a…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.30147"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Interactive In-Meeting Speaker Correction with Human Feedback</title>
-    <link href="https://arxiv.org/abs/2509.18377"/>
-    <id>urn:uuid:35d3a4bdf0139202</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2509.18377v3 Announce Type: replace Abstract: Most automatic speech processing systems operate in ``open loop'' mode without user feedback about who said what, yet human-in-the-loop workflows can potentially enable higher accuracy. We propose an LLM-assisted in-meeting speaker correction system that lets users…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2509.18377"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
