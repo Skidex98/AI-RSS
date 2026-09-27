@@ -5,8 +5,143 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-09-27T12:17:36Z</updated>
+  <updated>2026-09-27T20:17:32Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>📰 Public MCP server for Canadian privacy law data (free, no auth) - works with any client that speaks Streamable HTTP</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wrs1dw/public_mcp_server_for_canadian_privacy_law_data/"/>
+    <id>urn:uuid:c6797f6bbee9c8b2</id>
+    <updated>2026-09-27T18:43:49Z</updated>
+    <published>2026-09-27T18:43:49Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I built this, so the disclosure goes up front. It's a free, public MCP server plus a REST API with Canadian privacy law data. The MCP endpoint is at https://movahedi.ca/mcp and it uses Streamable HTTP, so any client that speaks that transport can connect. No signup, no API key, read-only, anonymous. The REST API is at…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wrs1dw/public_mcp_server_for_canadian_privacy_law_data/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ultralytics/ultralytics v8.4.164 — v8.4.164 - Delegate FLOPs counting to THOP 2.2.0 stride profiling (#26373)</title>
+    <link href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.164"/>
+    <id>urn:uuid:651ddd21cff04432</id>
+    <updated>2026-09-27T17:59:48Z</updated>
+    <published>2026-09-27T17:59:48Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## 🌟 Summary **v8.4.164 makes FLOPs reporting more efficient and improves export, video inference, dataset validation, and reliability—without changing model architectures or predictions.** ## 📊 Key Changes - **Faster FLOPs counting (PR #26373):** Delegates FLOPs estimation to THOP 2.2.0, which supports attention operations and profiles at smaller strides. This replaces full-size profiling for…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.164"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11222 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11222"/>
+    <id>urn:uuid:454b6bd866c233ca</id>
+    <updated>2026-09-27T17:43:57Z</updated>
+    <published>2026-09-27T17:43:57Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;common : avoid side effects around params parsing (#29537) - register --rpc unconditionally and call llama_supports_rpc() only from its handler - print server "initialization ..." log after args are parsed Assisted-by: pi:llama.cpp/MiMo-V2.6-Flash-RL **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11222"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Updated from 3x3090(2x3090, 1x3090TI) to 2x5090</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wrpiru/updated_from_3x30902x3090_1x3090ti_to_2x5090/"/>
+    <id>urn:uuid:e57d24283ae43700</id>
+    <updated>2026-09-27T17:04:39Z</updated>
+    <published>2026-09-27T17:04:39Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Upgraded from 3x RTX 3090s to 2x RTX 5090s on my homelab server and picked up a solid speed jump on top of it from a software update (speculative decoding + NVFP4). Setup: llama.cpp (build b11216), running Qwen3.8-27B (abliterated, Q8_0). Blue = old 3090 setup, green = new 5090 setup on the same Q8 model, teal = the…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wrpiru/updated_from_3x30902x3090_1x3090ti_to_2x5090/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 is switching from llama cpp to vllm worth it</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wrpajn/is_switching_from_llama_cpp_to_vllm_worth_it/"/>
+    <id>urn:uuid:355f9ea007856b76</id>
+    <updated>2026-09-27T16:55:37Z</updated>
+    <published>2026-09-27T16:55:37Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I have hp z8 g4 with 512 ram and 1x3090 1x5060 16gb. has anyone made the transition from llama cpp to vllm recently? is it worth it? docker under windows or full linux install? I am mainly interested in the model support, it seems that many new local models are supported day 0 in official vllm, while for llama cpp it…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wrpajn/is_switching_from_llama_cpp_to_vllm_worth_it/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11221 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11221"/>
+    <id>urn:uuid:ea734032ffc2374b</id>
+    <updated>2026-09-27T16:35:15Z</updated>
+    <published>2026-09-27T16:35:15Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;common : make string_split throw on invalid values (#29518) Signed-off-by: Adrien Gallouët **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11221/llama-b11221-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11221"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Adding logit penalty for "wait", "maybe" and "perhaps" to Qwen models improves their accuracy</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wromzr/adding_logit_penalty_for_wait_maybe_and_perhaps/"/>
+    <id>urn:uuid:f8c9138e72beffb5</id>
+    <updated>2026-09-27T16:29:34Z</updated>
+    <published>2026-09-27T16:29:34Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Meta came out with a banger paper https://arxiv.org/pdf/2606.00206 , but it did not look at various quantizations supported in llama.cpp. So I did a run on 50 random MATH-500 questions ( https://huggingface.co/datasets/HuggingFaceH4/MATH-500 ) and ran it on various quantizations of…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama, qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wromzr/adding_logit_penalty_for_wait_maybe_and_perhaps/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 How do you guys give your models web browsing capabilities?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wro7hg/how_do_you_guys_give_your_models_web_browsing/"/>
+    <id>urn:uuid:54eef33cd40bc187</id>
+    <updated>2026-09-27T16:12:58Z</updated>
+    <published>2026-09-27T16:12:58Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I am using the Deepseek Harness, which has webfetch plugins by default. While it can help browse the internet, I myself have to give it specific URLs to search. But, apparently you can give it the full web browser and search engine capabilities. Unfortunately, it apparently needs API keys, and most are paid APIs. And…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wro7hg/how_do_you_guys_give_your_models_web_browsing/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11218 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11218"/>
+    <id>urn:uuid:069ca30927f8ee0d</id>
+    <updated>2026-09-27T14:58:46Z</updated>
+    <published>2026-09-27T14:58:46Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;jinja : add support for dict builtin (#29477) * add support for dict builtin * add tests **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11218/llama-b11218-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11218"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11217 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11217"/>
+    <id>urn:uuid:9cecb6612d9059df</id>
+    <updated>2026-09-27T14:33:56Z</updated>
+    <published>2026-09-27T14:33:56Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;opencl: refine bin kernel loading condition (#29503) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11217/llama-b11217-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11217"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 What if open-source AI focused less on giant models and more on reusable capabilities?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wrlj46/what_if_opensource_ai_focused_less_on_giant/"/>
+    <id>urn:uuid:e825b271429246bc</id>
+    <updated>2026-09-27T14:24:48Z</updated>
+    <published>2026-09-27T14:24:48Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Instead of everyone building another general-purpose model, the community could distill open models into domain specialists—biology, Python, accounting, OCR, and more. Developers could combine these capabilities into local tools: small model + OCR + accounting → local accounting assistant Like Linux, open-source AI…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: ocr&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wrlj46/what_if_opensource_ai_focused_less_on_giant/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11216 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11216"/>
+    <id>urn:uuid:71b6d384c06b931e</id>
+    <updated>2026-09-27T14:06:35Z</updated>
+    <published>2026-09-27T14:06:35Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;sycl: FWHT kernels for block widths above 512 (#29243) The SYCL FWHT covers 64 to 512 via the standard butterfly network, plus 384/640/768/1280 via the Kronecker/Paley construction added separately in Hadamard hint can produce (1024, 2048, 4096, 8192); those still fall through to the default case and run as a dense GEMM against the materialized rotation tensor, correct but O(n^2) instead of O(n…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11216"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Worth going from Qwen3.8 27B to flash next or maaybe deepseek v4 flash?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wrkle9/worth_going_from_qwen38_27b_to_flash_next_or/"/>
+    <id>urn:uuid:d11ccf2420cd0dc1</id>
+    <updated>2026-09-27T13:44:10Z</updated>
+    <published>2026-09-27T13:44:10Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I am running qwen3.8 27b on my dual rtx 3090 (fp8 quant, unquantized cache, 129k context) and I think it works decently well with hermes, opencode etc. But! I am tempted by the new models coming out such as qwen3.8 flash next, deepseek v4 flash, glm 5.3 flash. However, there is a big jump in vram and therefore in…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wrkle9/worth_going_from_qwen38_27b_to_flash_next_or/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Zer0Fit - Zero-shot predictions, classifications, and regressions using Google ML research models running locally as a dockerized MCP</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wrke2t/zer0fit_zeroshot_predictions_classifications_and/"/>
+    <id>urn:uuid:8aa276d842023f23</id>
+    <updated>2026-09-27T13:34:53Z</updated>
+    <published>2026-09-27T13:34:53Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;AI grad student here. With all the recent interest in Jev, I thought I would share something I built la few months ago that brings ML models and LLMs together in a different way than Jev does for different use cases. https://github.com/porespellar/Zer0Fit Background: A few months ago on their research blog (…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wrke2t/zer0fit_zeroshot_predictions_classifications_and/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 The Opus 5.5 posts about motion graphics are cool but Qwen 27B made this on a 4090</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wrjlls/the_opus_55_posts_about_motion_graphics_are_cool/"/>
+    <id>urn:uuid:b46b096e3eab9705</id>
+    <updated>2026-09-27T12:58:39Z</updated>
+    <published>2026-09-27T12:58:39Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Saw the hundreds of tweets where people just keep asking Opus 5.5 for motion graphic videos. Decided to ask qwen to look at them and make its own. Quite amazing what local can achieve. **EDIT** It looks laggy because of reddits .gif limit btw the full high res version (with sound) is here:…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen, opus&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wrjlls/the_opus_55_posts_about_motion_graphics_are_cool/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 rohitg00/agentmemory</title>
     <link href="https://github.com/rohitg00/agentmemory"/>
@@ -951,140 +1086,5 @@
     <published>2026-09-25T12:04:18Z</published>
     <category term="REPO"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;380 Claude Code skills &amp;amp; agent skills &amp;amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp;amp; finance, and…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, gemini, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/alirezarezvani/claude-skills"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 op7418/Humanizer-zh</title>
-    <link href="https://github.com/op7418/Humanizer-zh"/>
-    <id>urn:uuid:59b760f0bd598092</id>
-    <updated>2026-09-25T12:04:18Z</updated>
-    <published>2026-09-25T12:04:18Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。 Humanizer-zh：中文文本润色 Skill 编辑已有文章、评论和文档中的空话、重复及模板化表达，保留事实、确定程度和作者声音。输入是一段文字或一个文件，默认输出最终改写稿；没有问题的句子可以不改。 这是一份由 Agent 读取执行的编辑指导，不是独立的检测程序。它不能证明文章由谁撰写，也不保证通过任何 AI 检测器。 2026-09-23 更新：重写了规则和示例，明确保留事实、作者立场和文体。普通的排比、破折号和连接词不再一律修改。详见 更新记录 。 安装 方法一：通过 npx 一键安装（推荐） npx skills…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/op7418/Humanizer-zh"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 NVIDIA/Model-Optimizer</title>
-    <link href="https://github.com/NVIDIA/Model-Optimizer"/>
-    <id>urn:uuid:ae5dadc99bbc3d51</id>
-    <updated>2026-09-25T12:04:18Z</updated>
-    <published>2026-09-25T12:04:18Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, quantization, distillation, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/NVIDIA/Model-Optimizer"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b11178 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11178"/>
-    <id>urn:uuid:36390340b3d7e97a</id>
-    <updated>2026-09-25T11:16:00Z</updated>
-    <published>2026-09-25T11:16:00Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;musa: fix PH1 (MTT S5000) operator failures and build issues (#29193) * musa: use 16-byte copies for MUSA like sm_70+ ggml_cuda_get_max_cpy_bytes() derives the copy width from __CUDA_ARCH__. mcc never defines it, so MUSA fell into the generic branch and returned 8 bytes instead of the 16 bytes that every sm_70+ target gets. The value sizes the per-thread copy unit of the FlashAttention K/V…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11178"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ultralytics/ultralytics v8.4.163 — v8.4.163 - `ultralytics 8.4.163` Export Apple Core AI models on Linux (#26333)</title>
-    <link href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.163"/>
-    <id>urn:uuid:c9cc9a5d1a53e099</id>
-    <updated>2026-09-25T10:32:09Z</updated>
-    <published>2026-09-25T10:32:09Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## 🌟 Summary YOLO models can now be exported to Apple Core AI format from x86_64 Linux, making Linux servers and CI environments useful for preparing models for Apple devices. ## 📊 Key Changes - 🍎 **Core AI export on Linux:** Export `.aimodel` files on x86_64 Linux as well as Apple silicon Macs running macOS 26 or later. The exported models target iOS 27 and macOS 27; **running them still…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.163"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 langfuse/langfuse v4.45.4</title>
-    <link href="https://github.com/langfuse/langfuse/releases/tag/v4.45.4"/>
-    <id>urn:uuid:fc27ce6d1de93d17</id>
-    <updated>2026-09-25T09:41:43Z</updated>
-    <published>2026-09-25T09:41:43Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's Changed * chore(assistant): refresh embedded Langfuse skills by @langfuse-bot in https://github.com/langfuse/langfuse/pull/17916 * test(worker): skip Azure LLM connection tests until CI key is replaced by @hassiebp in https://github.com/langfuse/langfuse/pull/17924 **Full Changelog**: https://github.com/langfuse/langfuse/compare/v4.45.3...v4.45.4&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/langfuse/langfuse/releases/tag/v4.45.4"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 langfuse/langfuse v4.45.3</title>
-    <link href="https://github.com/langfuse/langfuse/releases/tag/v4.45.3"/>
-    <id>urn:uuid:c34b31c4d7573e23</id>
-    <updated>2026-09-25T09:19:59Z</updated>
-    <published>2026-09-25T09:19:59Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's Changed * chore(deps): bump image-size to 2.0.4 by @github-actions[bot] in https://github.com/langfuse/langfuse/pull/17917 * fix(web): log the public key when an API key lookup fails by @benlangfeld in https://github.com/langfuse/langfuse/pull/16375 * fix(llm-connections): reject TypeSafe base URLs that end in /systemone or have a query string by @DavidTraina in…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/langfuse/langfuse/releases/tag/v4.45.3"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 75 · AkashPriyadarshii/jev-seo (Rust)</title>
-    <link href="https://github.com/AkashPriyadarshii/jev-seo"/>
-    <id>urn:uuid:320f901fd9c414e8</id>
-    <updated>2026-09-25T09:16:41Z</updated>
-    <published>2026-09-25T09:16:41Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;jev-seo: Rust SEO and GEO CLI plus MCP server for coding agents: 50-rule audits, live crawls, GEO scores, rank drift, CI gates. MIT, zero subscription.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/AkashPriyadarshii/jev-seo"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 LLM on a budget part 2, from P102-100 to CMP 50HX.</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wpqgh9/llm_on_a_budget_part_2_from_p102100_to_cmp_50hx/"/>
-    <id>urn:uuid:5357439ea4f4ba18</id>
-    <updated>2026-09-25T08:01:24Z</updated>
-    <published>2026-09-25T08:01:24Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I finally got around to upgrade the GPU's. First a word of warning, when upgrading GPU's on P520 you have to be extra careful not to slot the card on any angle other than straight when installing or when pulling the card out, the reason for that is that about a 1/4 an inch from where to card slots into the metal case…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wpqgh9/llm_on_a_budget_part_2_from_p102100_to_cmp_50hx/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Did anyone do a full bench of e.g. Qwen Flash Next IQ4 and Qwen 27b FP8? Here are some</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wpp28m/did_anyone_do_a_full_bench_of_eg_qwen_flash_next/"/>
-    <id>urn:uuid:88eda86dfa3c591f</id>
-    <updated>2026-09-25T06:32:06Z</updated>
-    <published>2026-09-25T06:32:06Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;edit: had to change formatting as I’m on mobile noe and the table broke.. I let Codex do a quick eval on Qwen 3.8 Flash Next IQ4_XS (served via vLLM + r9v) and Qwen 3.8 27B FP8 (served via vLLM + Radiance) This was not the full eval. I only ran a reduced quick test because the full version would take way too long on…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wpp28m/did_anyone_do_a_full_bench_of_eg_qwen_flash_next/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 81 · nidhi-singh02/agent-router (TypeScript)</title>
-    <link href="https://github.com/nidhi-singh02/agent-router"/>
-    <id>urn:uuid:2181b005bd8929d1</id>
-    <updated>2026-09-25T06:26:50Z</updated>
-    <published>2026-09-25T06:26:50Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. Powered by Jev and Herdr&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/nidhi-singh02/agent-router"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b11177 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11177"/>
-    <id>urn:uuid:9c90a89d114156df</id>
-    <updated>2026-09-25T05:54:17Z</updated>
-    <published>2026-09-25T05:54:17Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;CUDA: fuse RMS_NORM + SCALE into one kernel (#29393) - #28068 builds the GDN q/k l2norm as ggml_scale(ggml_rms_norm(x, eps/n), 1/sqrt(n)). This adds 2 SCALE nodes per GDN layer, 96 extra kernel launches per ubatch on Qwen3.8-27B (48 GDN layers). - The extra kernels take no measurable GPU time, but each launch has a host/driver cost. It is small with plain batch processing and about 10x larger…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11177"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 373 · amitshekhariitbhu/ai-system-design (Markdown)</title>
-    <link href="https://github.com/amitshekhariitbhu/ai-system-design"/>
-    <id>urn:uuid:43f47bef39531d71</id>
-    <updated>2026-09-25T04:53:31Z</updated>
-    <published>2026-09-25T04:53:31Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: rag&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/amitshekhariitbhu/ai-system-design"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 pydantic/pydantic-ai v2.50.0 — v2.50.0 (2026-09-24)</title>
-    <link href="https://github.com/pydantic/pydantic-ai/releases/tag/v2.50.0"/>
-    <id>urn:uuid:8afed79b6c5cb68b</id>
-    <updated>2026-09-25T04:47:15Z</updated>
-    <published>2026-09-25T04:47:15Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's Changed ### ⚠️ Compatibility Notes * Ask a `DecisionModel` which route to take by name, with one label per route by @DouweM in https://github.com/pydantic/pydantic-ai/pull/8733 * Make `ModelSelectionContext.messages` end with the request being routed, and add `ModelSelectionContext.prompt` by @DouweM in https://github.com/pydantic/pydantic-ai/pull/8737 * Replace the decision model's…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/pydantic/pydantic-ai/releases/tag/v2.50.0"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 SkillGym: Internalizing Human Skills into LLMs for Real-World Problem Solving</title>
-    <link href="https://arxiv.org/abs/2609.27717"/>
-    <id>urn:uuid:0fdb6f0904b6c81e</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.27717v2 Announce Type: replace Abstract: Human-written agent skills encode rich workflows for real-world problem solving, but are typically used as external inference-time instructions rather than internalized as reusable model capabilities. We introduce \texttt{SkillGym}, a framework that transforms these…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.27717"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 ProCredit: From Outcome Rewards to Progress Credit in Agentic Reinforcement Learning</title>
-    <link href="https://arxiv.org/abs/2609.27532"/>
-    <id>urn:uuid:dab299661c4c9d63</id>
-    <updated>2026-09-25T04:00:00Z</updated>
-    <published>2026-09-25T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.27532v2 Announce Type: replace-cross Abstract: Long-horizon agentic tasks require an agent to modify an environment through a sequence of tool calls, with success determined by the final state. The standard recipe assigns a single outcome reward at the end and compares trajectories sampled for the same…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.27532"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
