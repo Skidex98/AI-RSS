@@ -1,5 +1,22 @@
 {
  "seen": [
+  "ac536f311976a7e1",
+  "5766db2c4c228dc0",
+  "c1a9d19cacf80ea2",
+  "ddf45159e1ca45e3",
+  "4b31d13dc31c65d5",
+  "818b459012b86aac",
+  "e77f4306f97bd909",
+  "d553c2734be94d38",
+  "43f5e9be54e29a5f",
+  "b3f6a48c3cbbb800",
+  "4b6f901a1b4a84cc",
+  "92d17deed5d08f32",
+  "78ee07ad40d94a9f",
+  "0a8ba1981e4b0b49",
+  "0cb86b40e122204a",
+  "03884556b41a4c10",
+  "619f1baeea07a32e",
   "033673d93afab129",
   "10bcb9f230cd531b",
   "217a721d36f3cc48",
@@ -15,14 +32,19 @@
   "e516e1ca91911b5f",
   "c7a8f4b5d93a7fc9",
   "22799c2824df2bb5",
+  "f5cf9d09b5008c94",
   "f34c9782a0fbab70",
   "76d00865830a1209",
+  "d04e15619b735a3a",
+  "af813b508df59d49",
+  "7e18c226580e0b3a",
   "5bbfa2d295559fc9",
   "a6276e9bbf4110e1",
   "051f24bbc78f3612",
   "86097aa8c060d578",
   "3831c0225b5e2207",
   "11bda0137a29dd59",
+  "277d2b330739ab03",
   "aa1dafacd974f699",
   "fd646ccb2b5b4ac6",
   "33d5ebbd605714ac",
@@ -97,31 +119,215 @@
   "9676a97ecb467256",
   "f4a0cbf6ac61afc8",
   "61a1642f87697651",
-  "af171d9fd24a651e",
-  "a4492057e7b876a3",
-  "de10829727561b79",
-  "660cbb627140266f",
-  "fba49dfcbc6a9b08",
-  "a0416020597a4e08",
-  "427668f1046c7ad1",
-  "4809f7786f603d49",
-  "3d4b58af8e91d19d",
-  "43290e1392cf1bd9",
-  "01fb79f99fba152a",
-  "da7920a604e8f443",
-  "2ae86d8e015c0616",
-  "1f88b5713a32fbd6",
-  "6937d5ff0215cb76",
-  "90cc207d7cdc5ec2",
-  "4e161a1cc2168e69",
-  "c58727bd1352d8d9",
-  "004199b02141ab71",
-  "7e9d78ece06d4593",
-  "842eebc725ce2285",
-  "9c2887efb90dd745",
-  "e7efa951bccaec22"
+  "af171d9fd24a651e"
  ],
  "items": [
+  {
+   "uid": "ac536f311976a7e1",
+   "title": "ggml-org/llama.cpp b11261 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11261",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-29T21:19:09+00:00",
+   "summary": "ggml : require input tensors to be GGML_OP_NONE (#29647) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11261/llama-b11261-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "5766db2c4c228dc0",
+   "title": "anthropics/claude-agent-sdk-python v0.2.162",
+   "url": "https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.162",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-29T20:08:08+00:00",
+   "summary": "### Internal/Other Changes - Updated bundled Claude CLI to version 2.1.285 --- **PyPI:** https://pypi.org/project/claude-agent-sdk/0.2.162/ ```bash pip install claude-agent-sdk==0.2.162 ```",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "c1a9d19cacf80ea2",
+   "title": "ggml-org/llama.cpp b11260 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11260",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-29T19:56:18+00:00",
+   "summary": "hexagon: add FP32 GELU_ERF and GEGLU_ERF support (#29631) * hexagon: add FP32 GELU_ERF and GEGLU_ERF support * hex-erf: reduce register pressure in kernels **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11260/llama-b11260-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "ddf45159e1ca45e3",
+   "title": "ultralytics/ultralytics v8.4.166 — v8.4.166 - ultralytics 8.4.166 Support Pascal VOC-style palette and 16-bit PNG masks (#26426)",
+   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.166",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-29T19:53:32+00:00",
+   "summary": "## 🌟 Summary **Ultralytics 8.4.166 focuses on more reliable dataset handling and prediction outputs, alongside updated Platform and inference documentation.** No model architecture changes are included. ## 📊 Key Changes - 🗂️ **Semantic masks and dataset conversion:** The release preserves class IDs in Pascal VOC-style palette PNG masks and retains pixel values from 16-bit masks. It also rebuilds…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "4b31d13dc31c65d5",
+   "title": "anthropics/claude-code v2.1.285",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.285",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-29T19:27:30+00:00",
+   "summary": "## What's changed - Added `CLAUDE_CODE_DISABLE_WEB_FETCH` environment variable to turn off the WebFetch tool - Added `claude --desktop` to open the Claude desktop app on the current directory, or on a session with `--continue` / `--resume ` - Added `claude plugin configure ` to show a plugin's options and which are unset, or save new values read from stdin with `--values-stdin` - Added ` . = ` to…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "818b459012b86aac",
+   "title": "⭐ 51 · Yuzu482/YHWH (JavaScript)",
+   "url": "https://github.com/Yuzu482/YHWH",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-09-29T18:33:02+00:00",
+   "summary": "Kether-governed AI agent orchestration with Pi/MCP, isolated workers, LSP tools, and a portable Windows/WSL2 installer",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "e77f4306f97bd909",
+   "title": "Anthropic just dropped the greatest advertisement for GLM ever.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-29T17:55:48+00:00",
+   "summary": "Like.. yea bro, I knew GLM was cool. Now everyone does. submitted by /u/BannedGoNext [link] [comments]",
+   "matched": [
+    "anthropic"
+   ]
+  },
+  {
+   "uid": "d553c2734be94d38",
+   "title": "Recommended replacements for glm 4.7 flash",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtgb0y/recommended_replacements_for_glm_47_flash/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-29T17:25:05+00:00",
+   "summary": "I know I sound crazy, but i’m using a strix halo and finding that GLM 4.7 flash just runs significantly better than qwen 3.6 35 a3b. But its obviously quite old at this point, i wish we had a new glm that was 4.7 flash sized but is anyone using a model that they have found better than this. My brief testing with qwen…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "43f5e9be54e29a5f",
+   "title": "Deepseek Harness app is out now!!!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg1hs/deepseek_harness_app_is_out_now/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-29T17:15:12+00:00",
+   "summary": "Downloading now. submitted by /u/politefella0 [link] [comments]",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "b3f6a48c3cbbb800",
+   "title": "RAM Offloading with vLLM - tcclaviger appreciation post",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg12r/ram_offloading_with_vllm_tcclaviger_appreciation/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-29T17:14:45+00:00",
+   "summary": "Thanks to tcclaviger, vLLM now has expert RAM offloading support ( link ). This makes frontier models much more accessible on a local setup! I was able to run the original DeepSeek-V4-Flash-Vision-Exp on four R9700s. podman run --rm -it \\ --init \\ --network host \\ --ulimit memlock=-1:-1 \\ -v /models:/models:ro \\ -v…",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "4b6f901a1b4a84cc",
+   "title": "ggml-org/llama.cpp b11259 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11259",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-29T17:14:36+00:00",
+   "summary": "common : stop accepting draft tokens at EOG (#29638) * common : stop accepting draft tokens at EOG * cont : remove the test **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11259/llama-b11259-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "92d17deed5d08f32",
+   "title": "GLM-5.3 and the Spread of Advanced Cyber Capabilities \\ Anthropic",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg0vd/glm53_and_the_spread_of_advanced_cyber/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-29T17:14:32+00:00",
+   "summary": "submitted by /u/brown2green [link] [comments]",
+   "matched": [
+    "anthropic"
+   ]
+  },
+  {
+   "uid": "78ee07ad40d94a9f",
+   "title": "ggml-org/llama.cpp b11258 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11258",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-29T16:31:02+00:00",
+   "summary": "server : remove the built-in UI's service worker when the UI is not served (#29565) With --path or --no-ui, /sw.js returned 404, and a 404 does not remove a service worker, so browsers kept showing the cached built-in UI. Serve a worker that unregisters itself, clears its caches and reloads open tabs. A sw.js in the --path folder is still served first. Assisted-by: Claude Opus 5.5 **Website:** -…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "0a8ba1981e4b0b49",
+   "title": "ggml-org/llama.cpp b11257 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11257",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-09-29T15:59:25+00:00",
+   "summary": "common : use fs::path for config dir (#29649) Signed-off-by: Adrien Gallouët **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11257/llama-b11257-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "0cb86b40e122204a",
+   "title": "OpenAI DevDay 2026 live blog",
+   "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-09-29T15:55:13+00:00",
+   "summary": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote. Tags: ai , openai , generative-ai , llms , coding-agents , live-blog , openai-devday",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "03884556b41a4c10",
+   "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+   "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+   "source": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-09-29T15:30:38+00:00",
+   "summary": "",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "619f1baeea07a32e",
+   "title": "What are your experiences with using a hybrid cloud/local setup to stretch usage for coding projects?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wta2it/what_are_your_experiences_with_using_a_hybrid/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-29T13:25:58+00:00",
+   "summary": "For example, directly using claude code or code, which is then hooked up to automatically delegate the actual code writing tasks to a local model like qwen 3.8 flash next, to save on cloud usage limits. I’m imagining the loop would be: User writes prompt Claude/codex thinks about it and the plan Claude/codex sends the…",
+   "matched": [
+    "claude",
+    "qwen",
+    "claude code"
+   ]
+  },
   {
    "uid": "033673d93afab129",
    "title": "t8y2/dbx",
@@ -307,6 +513,19 @@
    ]
   },
   {
+   "uid": "f5cf9d09b5008c94",
+   "title": "Qwen 3.8 27B Q4 with 100K context on a 16 GB RX 7800 XT guide",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt7e8l/qwen_38_27b_q4_with_100k_context_on_a_16_gb_rx/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-29T11:18:19+00:00",
+   "summary": "I'm running Qwen 3.8 27B Q4 XS with ~30 t/s decode (no MTP) at 100k context with q8/q5 KV cache on a 16GB AMD GPU. I wanted to share my setup since many believe Qwen 3.8 27B to be infeasible on 16GB VRAM. Build llama.cpp with Vulkan: cmake -B build -DGGML_VULKAN=ON cmake --build build --config Release -j Grab…",
+   "matched": [
+    "llama",
+    "qwen"
+   ]
+  },
+  {
    "uid": "f34c9782a0fbab70",
    "title": "⭐ 45 · bodepudimuneendra-netizen/laya-jev-GraphRAG (Python)",
    "url": "https://github.com/bodepudimuneendra-netizen/laya-jev-GraphRAG",
@@ -329,6 +548,44 @@
    "matched": [
     "agentic",
     "tool use"
+   ]
+  },
+  {
+   "uid": "d04e15619b735a3a",
+   "title": "Introducing GPT-6.1 Sol",
+   "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-09-29T10:00:00+00:00",
+   "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "af813b508df59d49",
+   "title": "DevDay 2026 Recap",
+   "url": "https://openai.com/index/devday-2026-recap",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-09-29T10:00:00+00:00",
+   "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "7e18c226580e0b3a",
+   "title": "50B+ MoEs with few active parameters, what's the sweet spot for intelligence, agent speed, and affordable fine-tuning?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt5zw2/50b_moes_with_few_active_parameters_whats_the/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-09-29T09:57:25+00:00",
+   "summary": "I’m building a Polish General purpose legal Model that drafts documents, answers questions using legal sources, and has enough coding ability to handle some automation. The workflow is very tool-heavy: Question → many sequential tool calls → final answer/document Think Claude Code/Codex-style execution, but for legal…",
+   "matched": [
+    "claude",
+    "fine-tuning",
+    "claude code"
    ]
   },
   {
@@ -401,6 +658,18 @@
    "summary": "Here's a metric dashboard giving an idea of the last few days. Been testing with a variety of different agentic coding use-cases, mostly using a pi harness. qwen3.8-flash-next has seriously exceeded my expectations (used https://huggingface.co/tcclaviger/Qwen3.8-Flash-Next-MXFP4-FP8 ) Both speed and quality have…",
    "matched": [
     "agentic"
+   ]
+  },
+  {
+   "uid": "277d2b330739ab03",
+   "title": "Introducing dots",
+   "url": "https://openai.com/index/introducing-dots",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-09-29T00:00:00+00:00",
+   "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+   "matched": [
+    "*"
    ]
   },
   {
@@ -1324,273 +1593,7 @@
    "matched": [
     "inference"
    ]
-  },
-  {
-   "uid": "a4492057e7b876a3",
-   "title": "LocUS: Head Selection and Subspace Projection for Targeted Activation Steering",
-   "url": "https://arxiv.org/abs/2609.31122",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-28T04:00:00+00:00",
-   "summary": "arXiv:2609.31122v1 Announce Type: new Abstract: Activation steering is a powerful training-free paradigm for controlling large language models at inference time. However, standard approaches estimate a per-layer steering direction from contrastive data and apply it on the layer's entire representation space, which may…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "de10829727561b79",
-   "title": "Stale-Document Poisoning: When Outdated Retrieval Overrides Correct Model Answers",
-   "url": "https://arxiv.org/abs/2609.31342",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-28T04:00:00+00:00",
-   "summary": "arXiv:2609.31342v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) is often used to address outdated knowledge by providing external evidence. But retrieval helps only when that evidence is still valid. We identify a temporal alignment failure, stale-document poisoning, in which outdated evidence…",
-   "matched": [
-    "rag"
-   ]
-  },
-  {
-   "uid": "660cbb627140266f",
-   "title": "Sorry Robot, Happy Human: Vision-Language Models Read Only One of Two Legible Typographic Layers",
-   "url": "https://arxiv.org/abs/2609.31403",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-28T04:00:00+00:00",
-   "summary": "arXiv:2609.31403v1 Announce Type: new Abstract: Vision-language models (VLMs), despite their success in optical character recognition (OCR) tasks, are vulnerable to typographic attacks and have a fragile structure for images with multiple text layers. In this study, the DecoyBench dataset was created using the Decoy…",
-   "matched": [
-    "ocr"
-   ]
-  },
-  {
-   "uid": "fba49dfcbc6a9b08",
-   "title": "Muslim: A Deployed Arabic Voice AI Platform for Grounded Islamic Knowledge",
-   "url": "https://arxiv.org/abs/2609.31511",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-28T04:00:00+00:00",
-   "summary": "arXiv:2609.31511v1 Announce Type: new Abstract: We present Muslim, a production Arabic voice AI platform serving grounded, sourced Islamic knowledge to real users. Beyond a real-time voice pipeline (NeMo Arabic ASR, an OpenAI-compatible LLM endpoint, self-hosted TTS) and a deterministic multi-source retrieval layer…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "a0416020597a4e08",
-   "title": "Strategically Diverse Sampling for Self-Training",
-   "url": "https://arxiv.org/abs/2609.31571",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-28T04:00:00+00:00",
-   "summary": "arXiv:2609.31571v1 Announce Type: new Abstract: Many LLM training and inference methods, including RL and test-time scaling, depend on repeated sampling, but benefit only when the responses meaningfully differ. Self-training faces the same challenge: training data is typically constructed by sampling IID responses and…",
-   "matched": [
-    "llm",
-    "inference"
-   ]
-  },
-  {
-   "uid": "427668f1046c7ad1",
-   "title": "Asymmetric Classifier-Free Guidance for Target-Speaker ASR",
-   "url": "https://arxiv.org/abs/2609.30476",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-28T04:00:00+00:00",
-   "summary": "arXiv:2609.30476v1 Announce Type: cross Abstract: Target-speaker automatic speech recognition (TS-ASR) must identify and transcribe a desired speaker under varying overlap and noise conditions. These changes alter the acoustic evidence for the target speaker in the speech mixture, motivating inference-time calibration…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "4809f7786f603d49",
-   "title": "Thinking Less to Simulate Better: Intuitive Prompting Improves LLM Agents Simulating Individual Social Media Reactions, Including Unfamiliar Content",
-   "url": "https://arxiv.org/abs/2609.30563",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-28T04:00:00+00:00",
-   "summary": "arXiv:2609.30563v1 Announce Type: cross Abstract: Platform policies are increasingly tested on artificial users, making agent fidelity important. Yet convincing fake profiles could also manipulate perceived public opinion before elections. Validation has concentrated on agreement with human behaviour and has paid…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "3d4b58af8e91d19d",
-   "title": "Epstein Files Engine: Agentic Search for Investigative Journalism",
-   "url": "https://arxiv.org/abs/2609.30611",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-28T04:00:00+00:00",
-   "summary": "arXiv:2609.30611v1 Announce Type: cross Abstract: On Jan. 30, 2026, the U.S. Department of Justice released a mixed-media collection concerning Jeffrey Epstein, including about three million pages of PDFs. We describe the Epstein Files Engine, an A.I. agent The New York Times deployed to investigate the files. The…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "43290e1392cf1bd9",
-   "title": "Prompt Injection Detection for Email Agents Through Attack Chain Modeling",
-   "url": "https://arxiv.org/abs/2609.30657",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-28T04:00:00+00:00",
-   "summary": "arXiv:2609.30657v1 Announce Type: cross Abstract: Large language model email assistants are particularly vulnerable to indirect prompt injection because untrusted email content can be retrieved into the model context and influence subsequent tool use. Existing prompt injection detectors mainly formulate this problem…",
-   "matched": [
-    "tool use"
-   ]
-  },
-  {
-   "uid": "01fb79f99fba152a",
-   "title": "Symbiotic Architecture for Post-Hoc Audio Extension of Frozen Language Models",
-   "url": "https://arxiv.org/abs/2609.30784",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-28T04:00:00+00:00",
-   "summary": "arXiv:2609.30784v1 Announce Type: cross Abstract: This paper proposes an architecture for equipping large language models (LLMs) with audio-understanding capabilities without fine-tuning their weights. The proposed symbiotic architecture employs an injector module that writes audio-conditioned vectors directly into…",
-   "matched": [
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "da7920a604e8f443",
-   "title": "Quantizing Looped Transformers: Feedback Exposure and Calibration Blindness",
-   "url": "https://arxiv.org/abs/2609.30820",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-28T04:00:00+00:00",
-   "summary": "arXiv:2609.30820v1 Announce Type: cross Abstract: Looped transformers reuse weights across recurrence steps, making low-bit quantization especially attractive. We identify two distinct failure modes of standard post-training quantization. On Huginn-3.5B, per-channel INT4 fails primarily at the non-residual loop-entry…",
-   "matched": [
-    "quantization"
-   ]
-  },
-  {
-   "uid": "2ae86d8e015c0616",
-   "title": "Same Text, Different Numbers: The Divergence of LLM-Based Measures",
-   "url": "https://arxiv.org/abs/2609.31013",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-28T04:00:00+00:00",
-   "summary": "arXiv:2609.31013v1 Announce Type: cross Abstract: Researchers increasingly use generative large language models (LLMs) to convert corporate text into empirical variables. We examine the extent to which LLM-based textual measures are invariant to model choice using thirteen measures, including sentiment, management…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "1f88b5713a32fbd6",
-   "title": "PriceBench: A Diagnostic Benchmark for Price, Quality, and Brand Preferences in LLM Booking Agents",
-   "url": "https://arxiv.org/abs/2609.31468",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-28T04:00:00+00:00",
-   "summary": "arXiv:2609.31468v1 Announce Type: cross Abstract: LLMs increasingly act as purchasing agents, which makes the LLM, not the user, the one choosing among the options that satisfy a request; its preferences quietly fix what gets bought and what it costs. Hotel booking is a clean instance: a high-volume choice settled on…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "6937d5ff0215cb76",
-   "title": "User Model Extraction via Belief Self-Distillation",
-   "url": "https://arxiv.org/abs/2609.31603",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-28T04:00:00+00:00",
-   "summary": "arXiv:2609.31603v1 Announce Type: cross Abstract: Large language models (LLMs) implicitly infer attributes of their users and adapt their behavior accordingly, yet these beliefs remain difficult to inspect and causally manipulate. We introduce Belief Self-Distillation (BSD), a unified read-write framework that bridges…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "90cc207d7cdc5ec2",
-   "title": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
-   "url": "https://arxiv.org/abs/2609.31619",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-28T04:00:00+00:00",
-   "summary": "arXiv:2609.31619v1 Announce Type: cross Abstract: Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping mechanisms or by explicitly encouraging shorter reasoning during…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "4e161a1cc2168e69",
-   "title": "Closing the Speech-Text Gap with Limited Audio for Effective Domain Adaptation in LLM-Based ASR",
-   "url": "https://arxiv.org/abs/2604.06487",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-28T04:00:00+00:00",
-   "summary": "arXiv:2604.06487v3 Announce Type: replace Abstract: Conventional end-to-end automatic speech recognition (ASR) systems rely on paired speech-text data for domain adaptation. Recent LLM-based ASR architectures connect a speech encoder to a large language model via a projection module, enabling adaptation with text-only…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "c58727bd1352d8d9",
-   "title": "UniPrefill: Universal Long-Context Prefill Acceleration via Block-wise Dynamic Sparsification",
-   "url": "https://arxiv.org/abs/2605.06221",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-28T04:00:00+00:00",
-   "summary": "arXiv:2605.06221v2 Announce Type: replace Abstract: As large language models (LLMs) continue to advance rapidly, they are becoming increasingly capable while simultaneously demanding ever-longer context lengths. To improve the inference efficiency of long-context processing, several novel low-complexity hybrid…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "004199b02141ab71",
-   "title": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction",
-   "url": "https://arxiv.org/abs/2605.06642",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-28T04:00:00+00:00",
-   "summary": "arXiv:2605.06642v2 Announce Type: replace Abstract: Large language models (LLMs) are increasingly used as interactive agents, but optimizing them for long-horizon decision making remains difficult because current methods are largely purely reactive, which weakens both exploration and credit assignment over extended…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "7e9d78ece06d4593",
-   "title": "Asking For An Old Friend: Diagnosing and Mitigating Temporal Failure Modes in LLM-based Statutory Question Answering",
-   "url": "https://arxiv.org/abs/2605.23497",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-28T04:00:00+00:00",
-   "summary": "arXiv:2605.23497v2 Announce Type: replace Abstract: Large language models are increasingly used for legal research, yet their fixed training cutoffs and reliance on static parametric knowledge are at odds with the evolving nature of statutory law. We study two temporal failure modes: post-cutoff staleness, where…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "842eebc725ce2285",
-   "title": "Large Language Model Selection with Limited Annotations",
-   "url": "https://arxiv.org/abs/2605.24981",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-28T04:00:00+00:00",
-   "summary": "arXiv:2605.24981v2 Announce Type: replace Abstract: Choosing a Large Language Model (LLM) for a given task requires comparing many strong candidates, yet standard evaluation relies on costly annotations over fixed evaluation sets. To address this challenge, we develop SELECT-LLM, the first framework for active model…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "9c2887efb90dd745",
-   "title": "Attention-Discounted Adaptive Sampler for Masked Diffusion Language Models",
-   "url": "https://arxiv.org/abs/2606.10829",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-28T04:00:00+00:00",
-   "summary": "arXiv:2606.10829v5 Announce Type: replace Abstract: Masked diffusion language models can reduce inference steps by revealing multiple tokens per denoising iteration, but this parallelism is fragile: positions that are individually confident may be unsafe to commit together when their predictions are coupled. Existing…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "e7efa951bccaec22",
-   "title": "Small Is Enough: Per-User Style Rewriting of AI-Edited Text via LoRA Adapters",
-   "url": "https://arxiv.org/abs/2607.29238",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-09-28T04:00:00+00:00",
-   "summary": "arXiv:2607.29238v2 Announce Type: replace Abstract: InMyStyle is a privacy-first, single-user system that adapts small language models to rewrite AI-edited text towards an individual user's writing style without an instruction prompt at inference. Given a user's documents, it uses multiple local helper LLMs to…",
-   "matched": [
-    "lora",
-    "inference"
-   ]
   }
  ],
- "last_run": "2026-09-29T13:13:05.413367+00:00"
+ "last_run": "2026-09-29T21:30:21.793517+00:00"
 }
