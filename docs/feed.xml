@@ -5,8 +5,107 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-10-03T11:53:29Z</updated>
+  <updated>2026-10-03T20:03:59Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>📰 I built Ninfer 4080 for 16GB class GPUs</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wwv0fj/i_built_ninfer_4080_for_16gb_class_gpus/"/>
+    <id>urn:uuid:78e3e1827b78cdba</id>
+    <updated>2026-10-03T18:58:58Z</updated>
+    <published>2026-10-03T18:58:58Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Hi everyone, TL/DR I created NInfer 4080 to run ISTA-DASLab-Qwen-3.8-27B-GSQ at 100k context on an RTX 4080 16GB GPU using way more of the hardware capabilities ( max overall: 2720 tok/s prefill, 262 tok/s generation ) and sharing it with the community now so others can also have the benefit.…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wwv0fj/i_built_ninfer_4080_for_16gb_class_gpus/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 44 · AbdoslamB/InkDoc (Python)</title>
+    <link href="https://github.com/AbdoslamB/InkDoc"/>
+    <id>urn:uuid:0648ff7264526c69</id>
+    <updated>2026-10-03T18:58:28Z</updated>
+    <published>2026-10-03T18:58:28Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Turn any document into clean, AI-ready Markdown — locally on your machine. Desktop app for Windows, macOS &amp;amp; Linux powered by MarkItDown, Docling, GLM-OCR and Markit.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: ocr&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/AbdoslamB/InkDoc"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 The Rise of Overfit Inference Engines</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wwu6zj/the_rise_of_overfit_inference_engines/"/>
+    <id>urn:uuid:7a85e75eae4d7bb4</id>
+    <updated>2026-10-03T18:24:42Z</updated>
+    <published>2026-10-03T18:24:42Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;There seems to be a whole category of extremely narrow inference runtimes appearing: Strata, ninfer, DwarfStar, Splash, llamAmpere, gufo, etc. They deliberately give up the thing llama.cpp/vLLM are great at - generality - and optimize around a small number of models and sometimes one hardware family e.g. Strix Halo It…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wwu6zj/the_rise_of_overfit_inference_engines/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 250 · XiaoPuOuO/openchatx-mcp (TypeScript)</title>
+    <link href="https://github.com/XiaoPuOuO/openchatx-mcp"/>
+    <id>urn:uuid:39bd91d6185d684e</id>
+    <updated>2026-10-03T16:43:12Z</updated>
+    <published>2026-10-03T16:43:12Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP servers, and delegate work to your own models through one MCP connection.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/XiaoPuOuO/openchatx-mcp"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11379 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11379"/>
+    <id>urn:uuid:f793932cb87e881a</id>
+    <updated>2026-10-03T15:51:13Z</updated>
+    <published>2026-10-03T15:51:13Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;server : fix laya abort by limiting n_batch to n_ubatch (#29903) * server : fix laya abort by limiting n_batch to n_ubatch Fixes #29902 Assisted-by: Claude * fix(review) : rm tests, embeddings cond **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11379/llama-b11379-bin-macos-arm64.tar.gz) - macOS Apple…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11379"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Come let your LLMs play World of Warcraft</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wwqclz/come_let_your_llms_play_world_of_warcraft/"/>
+    <id>urn:uuid:0bb22ba4afe942d0</id>
+    <updated>2026-10-03T15:42:52Z</updated>
+    <published>2026-10-03T15:42:52Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I hosted my own world of warcraft private server then built a client that you can play in the browser on PC or mobile at https://jankcraft.xyz/ for free. Afterwards, I created a custom MCP and agent harness to control the browser client and play the game by sending signals over a websocket. The agent harness is live…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wwqclz/come_let_your_llms_play_world_of_warcraft/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11378 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11378"/>
+    <id>urn:uuid:1f3277fda11fdedc</id>
+    <updated>2026-10-03T15:00:14Z</updated>
+    <published>2026-10-03T15:00:14Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;common : add common_is_tty() helper and fix deprecated warnings on Windows (#29860) Signed-off-by: Adrien Gallouët **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11378/llama-b11378-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11378"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11377 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11377"/>
+    <id>urn:uuid:67e1cbb42e1a3240</id>
+    <updated>2026-10-03T14:23:56Z</updated>
+    <published>2026-10-03T14:23:56Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;chat : honor json_schema in Ling 3.0 parser (#29813) * chat : honor json_schema in Ling 3.0 parser Ling 3.0 only built a grammar for tool calls and did not handle inputs.json_schema, so response_format requests were left unconstrained. Add an eager response-format grammar path with precedence over tools, following the existing parser patterns. Require before JSON when thinking is enabled and do…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11377"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11376 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11376"/>
+    <id>urn:uuid:107b9159ee88d94f</id>
+    <updated>2026-10-03T13:25:08Z</updated>
+    <published>2026-10-03T13:25:08Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;ci: fix flaky ADD_ADD f16 by using the fused ADD tolerance (#29904) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11376/llama-b11376-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11376"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11375 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11375"/>
+    <id>urn:uuid:94255b5a4403ed0c</id>
+    <updated>2026-10-03T12:36:16Z</updated>
+    <published>2026-10-03T12:36:16Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;graph: gather the recurrent states once so the reserve covers every split (#29856) build_rs gathered the extra states (n_rs - n_seqs rows) with their own get_rows. The worst-case reserve has n_rs == n_seqs, so that node was sized at zero rows, and any ubatch whose cells are not contiguous forced a graph reallocation at an unchanged node count, which aborts under GGML_SCHED_NO_REALLOC. A single…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11375"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ultralytics/ultralytics v8.4.172 — v8.4.172 - `ultralytics 8.4.172` Add rotation-aligned OBB crops to save_crop (#26486)</title>
+    <link href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.172"/>
+    <id>urn:uuid:41f8f1b4cd4e1b76</id>
+    <updated>2026-10-03T11:53:33Z</updated>
+    <published>2026-10-03T11:53:33Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## 🌟 Summary **v8.4.172 makes oriented-box cropping work as expected and improves reliability across model training, export, dataset handling, and deployment.** ## 📊 Key Changes - **Rotation-aligned OBB crops:** `save_crop=True` and `ObjectCropper` now save crops upright and aligned to each oriented bounding box. Areas extending beyond the image are filled with black. - **Model correctness…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.172"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 warpdotdev/warp</title>
     <link href="https://github.com/warpdotdev/warp"/>
@@ -125,6 +224,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;qwen4exp : halve the indexer score memory (#29825) * qwen4exp : halve the indexer score memory The indexer scored all heads in one product and rectified a copy of it, so two [n_pool, n_idx_h, n_tokens] f32 tensors were live at once, the largest buffers of the graph at long context. Each head now gets its own product, rectified and summed in place into one [n_pool, n_tokens] score. * qwen4exp: let…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11372"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 Anyworld, a self-hosted multiplayer text RPG where a local LLM is the Dungeon Master</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wwkudj/anyworld_a_selfhosted_multiplayer_text_rpg_where/"/>
+    <id>urn:uuid:902771ab5308c9a7</id>
+    <updated>2026-10-03T11:22:44Z</updated>
+    <published>2026-10-03T11:22:44Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Hey everyone, I’ve been working on a game called Anyworld. It’s a browser-based multiplayer (single player also supported) text adventure inspired by the early days of AI Dungeon, especially its browser-based free version AI Dungeon 2. The setup is pretty straightforward: one person hosts the server and runs the model…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wwkudj/anyworld_a_selfhosted_multiplayer_text_rpg_where/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>📦 ⭐ 623 · amitshekhariitbhu/ai-system-design (Markdown)</title>
     <link href="https://github.com/amitshekhariitbhu/ai-system-design"/>
     <id>urn:uuid:43f47bef39531d71</id>
@@ -159,6 +267,15 @@
     <published>2026-10-03T07:53:08Z</published>
     <category term="REPO"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;AdalFlow Alternative 2026: Auto-Optimize LLM Apps Without Code&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ozynautetu-create/FlowForge-Optima"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 I tried building a small RAG search node for Qwen3.8 27B using a fake AliExpress Mini PC... and Intel sent me back to 2018.</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wwgsas/i_tried_building_a_small_rag_search_node_for/"/>
+    <id>urn:uuid:61cbb45ea64ea385</id>
+    <updated>2026-10-03T07:08:14Z</updated>
+    <published>2026-10-03T07:08:14Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I love Qwen3.8 27B so much that I decided to show my gratitude to the Alibaba ecosystem by building a dedicated RAG/search node using a cheap Mini PC from AliExpress. Turns out, my ecosystem loyalty got rewarded with an absolute masterpiece of fraud: Promised: Intel N150 + DDR4/DDR5 Delivered: Core i3-7020U (2018 Kaby…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: rag&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wwgsas/i_tried_building_a_small_rag_search_node_for/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📰 Qwen3.8-Flash-Next 177B running at 11–15 tok/s on a single RTX 5070 12GB + 32GB RAM DDR4</title>
@@ -224,6 +341,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;spec : add probabilistic sampling for simple draft and MTP (#27694) * Make the drafter probabilistic and the target verify by rejection sampling * Drop stale spec_draft_q before drafting * Fallback to argmax sampling for grammar-constrained requests and adding flag for enabling probabilistic draft sampling. Default flag value is greedy. * Support grammar-constrained requests in rejection sampling…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11368"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 Rex's Dino Store</title>
+    <link href="https://simonwillison.net/2026/Oct/2/rex-s-dino-store/"/>
+    <id>urn:uuid:1911a32028235b12</id>
+    <updated>2026-10-02T22:57:38Z</updated>
+    <published>2026-10-02T22:57:38Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Simon Willison&lt;/p&gt;&lt;p&gt;Museum: Rex s Dino Store Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Prospect Park is this former newsstand which is now operated by a dinosaur. The density of dinosaur puns is exceptional . Tags: art , new-york&lt;/p&gt;&lt;p&gt;&lt;a href="https://simonwillison.net/2026/Oct/2/rex-s-dino-store/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>🚀 modelcontextprotocol/python-sdk v2.3.0</title>
     <link href="https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.3.0"/>
     <id>urn:uuid:b78a175bb476db88</id>
@@ -231,6 +357,15 @@
     <published>2026-10-02T22:02:27Z</published>
     <category term="RELEASE"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;`pip install -U mcp`. Docs: https://py.sdk.modelcontextprotocol.io/ Mostly fixes, plus three new options. A few things behave differently, so skim these first: ## Behaviour changes **`httpx2&amp;gt;=2.10.0` is now required** (#3600) - It was `&amp;gt;=2.5.0`. The new `max_sse_event_size` option needs it. - Nothing to do unless you pin `httpx2` below 2.10. **A tool with an invalid `x-mcp-header` annotation…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.3.0"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 I spent 3 weeks testing local Qwen3.8 on the new low-latency SGLang/vLLM recipes: DFlash2 2.8x. Builds: RadixArk + Inferact 27B NVFP4, 27B BF16, orcarouter 27B Uncensored, Flash-Next NVFP4</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1ww6750/i_spent_3_weeks_testing_local_qwen38_on_the_new/"/>
+    <id>urn:uuid:bdeafa87c7fb95d3</id>
+    <updated>2026-10-02T21:47:32Z</updated>
+    <published>2026-10-02T21:47:32Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Hey guys, Last time I tested Qwen3.8-Flash-Next on its own. This time I put three Qwen3.8 checkpoints through the same 10 tests on the same RTX PRO 6000: RadixArk/Qwen3.8-27B-NVFP4 (dense) orcarouter/Qwen3.8-27B-Uncensored-NVFP4 (dense, uncensored fine-tune) RadixArk/Qwen3.8-Flash-Next-NVFP4 (MoE) Each model got the…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tune&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1ww6750/i_spent_3_weeks_testing_local_qwen38_on_the_new/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📦 ⭐ 105 · Avinash-jetwani/jevmem (TypeScript)</title>
@@ -951,140 +1086,5 @@
     <published>2026-10-02T04:00:00Z</published>
     <category term="PAPER"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2610.00586v1 Announce Type: cross Abstract: Activation memory, not compute, limits CNN inference on constrained hardware such as microcontrollers. Direct in-place convolution removes the dual-buffer cost, but the memory-optimal formulation of Gural and Murmann assumes valid padding, unit stride, unit dilation,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2610.00586"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Signal-Noise Factorization Isolates Nuisance Variation into Removable Subspaces</title>
-    <link href="https://arxiv.org/abs/2610.00751"/>
-    <id>urn:uuid:e3b9fa6a9304d8ac</id>
-    <updated>2026-10-02T04:00:00Z</updated>
-    <published>2026-10-02T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2610.00751v1 Announce Type: cross Abstract: Recent theoretical work identified fundamental properties of representation geometry that shape inference ability of deep neural networks. These include signal-noise factorization (SNF), the ability to segregate signal from noise, and signal-signal factorization (SSF),…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2610.00751"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Kinematic MeanFlow: One-Step Action Generation Policy for Robotic Foundation Models</title>
-    <link href="https://arxiv.org/abs/2610.00864"/>
-    <id>urn:uuid:7088faea02dcfaed</id>
-    <updated>2026-10-02T04:00:00Z</updated>
-    <published>2026-10-02T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2610.00864v1 Announce Type: cross Abstract: In this paper, we study how to achieve one-step action generation in Robotic Foundation Models (RFMs), aiming to overcome the high inference latency of multi-step flow matching. MeanFlow provides a promising framework for this goal, yet its direct application leads to…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2610.00864"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 VITA: A Multi-Source Vicinal Transfer Augmentation Method for Out-of-Distribution Generalization</title>
-    <link href="https://arxiv.org/abs/2204.11531"/>
-    <id>urn:uuid:91d92b623e62964e</id>
-    <updated>2026-10-02T04:00:00Z</updated>
-    <published>2026-10-02T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2204.11531v2 Announce Type: replace Abstract: Invariance to diverse types of image corruption, such as noise, blurring, or colour shifts, is essential to establish robust models in computer vision. Data augmentation has been the major approach in improving the robustness against common corruptions. However, the…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: computer vision&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2204.11531"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 COLORA: Efficient Fine-Tuning for Convolutional Models with a Study Case on Optical Coherence Tomography Image Classification</title>
-    <link href="https://arxiv.org/abs/2505.18315"/>
-    <id>urn:uuid:720019016db6434a</id>
-    <updated>2026-10-02T04:00:00Z</updated>
-    <published>2026-10-02T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2505.18315v5 Announce Type: replace Abstract: We introduce CoLoRA (Convolutional Low-Rank Adaptation), a parameter-efficient fine-tuning method for convolutional neural networks (CNNs). CoLoRA extends LoRA to convolutional layers by decomposing kernel updates into lightweight depthwise and pointwise components.…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tuning, lora&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2505.18315"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 MedVL-SAM2: A unified 3D medical vision-language model for multimodal reasoning and prompt-driven segmentation</title>
-    <link href="https://arxiv.org/abs/2601.09879"/>
-    <id>urn:uuid:359b155c00340744</id>
-    <updated>2026-10-02T04:00:00Z</updated>
-    <published>2026-10-02T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2601.09879v2 Announce Type: replace Abstract: Recent progress in medical vision-language models (VLMs) has achieved strong performance on image-level text-centric tasks such as report generation and visual question answering (VQA). However, achieving fine-grained visual grounding and volumetric spatial reasoning…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2601.09879"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 DisasterInsight: A Building-Centric Benchmark for Evaluating Vision--Language Models in Disaster Response</title>
-    <link href="https://arxiv.org/abs/2601.18493"/>
-    <id>urn:uuid:f5efc43200705583</id>
-    <updated>2026-10-02T04:00:00Z</updated>
-    <published>2026-10-02T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2601.18493v4 Announce Type: replace Abstract: Vision--language models (VLMs) show promise for disaster-response remote sensing, but existing benchmarks mainly emphasize scene-level or damage-centric assessment. To study this building-centric gap, we introduce \method{}, a diagnostic benchmark built on xBD, a…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: remote sensing&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2601.18493"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Modeling The Object Representations Underlying Human Physical Reasoning</title>
-    <link href="https://arxiv.org/abs/2602.12486"/>
-    <id>urn:uuid:73cc0fc4441db17f</id>
-    <updated>2026-10-02T04:00:00Z</updated>
-    <published>2026-10-02T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2602.12486v2 Announce Type: replace Abstract: Humans appear to represent objects when reasoning about physics with coarse, volumetric "bodies" that smooth concavities, trading fine visual detail for efficient physical predictions. Yet, the structure of these representations remains largely unknown. Segmentation…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2602.12486"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Wrivinder: Towards Spatial Intelligence for Geo-locating Ground Images onto Satellite Imagery</title>
-    <link href="https://arxiv.org/abs/2602.14929"/>
-    <id>urn:uuid:9982a548fc9765d0</id>
-    <updated>2026-10-02T04:00:00Z</updated>
-    <published>2026-10-02T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2602.14929v2 Announce Type: replace Abstract: Aligning ground-level imagery with geo-registered satellite maps is crucial for mapping, navigation, and situational awareness, yet remains challenging under large viewpoint gaps or when GPS is unreliable. We introduce Wrivinder, a zero-shot, geometry-driven…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: satellite imagery&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2602.14929"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Augmented Equivariant Mesh Networks for Anatomical Segmentation</title>
-    <link href="https://arxiv.org/abs/2605.08172"/>
-    <id>urn:uuid:4a83eae03b122bf8</id>
-    <updated>2026-10-02T04:00:00Z</updated>
-    <published>2026-10-02T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2605.08172v2 Announce Type: replace Abstract: Anatomical mesh segmentation requires models that operate directly on irregular surface geometry while remaining robust to changes in coordinate pose across meshes of varying resolution. Existing task-specific mesh and point-cloud methods are not equivariant, and can…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2605.08172"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Principled Design of Diffusion-based Optimizers for Inverse Problems</title>
-    <link href="https://arxiv.org/abs/2605.11506"/>
-    <id>urn:uuid:586f7e5ed8b37cf9</id>
-    <updated>2026-10-02T04:00:00Z</updated>
-    <published>2026-10-02T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2605.11506v2 Announce Type: replace Abstract: Score-based diffusion models achieve state-of-the-art performance for inverse problems, but their practical deployment is hindered by long inference times and cumbersome hyperparameter tuning. While pretrained diffusion models can be reused across tasks without…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2605.11506"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Learned Suppression for 3D Keypoint Detection with a Graph-Transformer Backbone</title>
-    <link href="https://arxiv.org/abs/2605.15088"/>
-    <id>urn:uuid:077144598f5051bd</id>
-    <updated>2026-10-02T04:00:00Z</updated>
-    <published>2026-10-02T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2605.15088v2 Announce Type: replace Abstract: Detecting 3D keypoints is a long-standing challenge in computer vision. Most detectors end with a heuristic post-processing step that is not learned. We propose a 3D keypoint detector that improves on this step with a learned suppression module, paired with a Point…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: computer vision&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2605.15088"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 VideoWeaver: Evaluating and Evolving Skills for Agentic Long Video Generation</title>
-    <link href="https://arxiv.org/abs/2606.08091"/>
-    <id>urn:uuid:41e2125917ec70ce</id>
-    <updated>2026-10-02T04:00:00Z</updated>
-    <published>2026-10-02T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2606.08091v2 Announce Type: replace Abstract: Agentic long video generation requires planning, tool orchestration, and cross-clip coordination over a long horizon. Most existing video agents either rely on static, human-crafted workflows, which require substantial manual effort and poorly adapt across tasks, or…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2606.08091"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Dyna-DINO: Efficient ViT Distillation Via Adaptive Representation Anchoring</title>
-    <link href="https://arxiv.org/abs/2606.19483"/>
-    <id>urn:uuid:e55e211bc849220a</id>
-    <updated>2026-10-02T04:00:00Z</updated>
-    <published>2026-10-02T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2606.19483v2 Announce Type: replace Abstract: Vision Foundation Models (VFMs) with Vision Transformer (ViT) backbones, such as DINOv2, have become essential for downstream tasks like object recognition and semantic segmentation. The immense computational requirements of backbones often necessitate distillation…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation, segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2606.19483"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 More with Less: a Large Scale Remote Sensing VLM with a Simple Recipe</title>
-    <link href="https://arxiv.org/abs/2607.15942"/>
-    <id>urn:uuid:9ff920f949ba7112</id>
-    <updated>2026-10-02T04:00:00Z</updated>
-    <published>2026-10-02T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2607.15942v2 Announce Type: replace Abstract: Remote sensing vision-language models are increasingly expected to support open-ended reasoning over Earth Observation data and a variety of tasks. Most recent progress in this area has been driven by remote-sensing-specific architectural designs, often introducing…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: remote sensing&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.15942"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 De-GAN - Dynamic Parameter Tuned GAN for 3D Medical Image Segmentation: A Step Towards Generalisation</title>
-    <link href="https://arxiv.org/abs/2609.16755"/>
-    <id>urn:uuid:50108718d20ce0fa</id>
-    <updated>2026-10-02T04:00:00Z</updated>
-    <published>2026-10-02T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2609.16755v2 Announce Type: replace Abstract: Brain tumor segmentation remains difficult because enhancing tumor (ET) has low contrast and overlaps surrounding tissue, while scanner and site variation causes domain shift. We propose DE-GAN, a contrast-enhancing conditional GAN that combines input-adaptive…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.16755"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
