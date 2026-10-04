@@ -5,8 +5,152 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-10-04T12:44:13Z</updated>
+  <updated>2026-10-04T20:22:27Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11398 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11398"/>
+    <id>urn:uuid:e98466c0ba200d11</id>
+    <updated>2026-10-04T20:04:13Z</updated>
+    <published>2026-10-04T20:04:13Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;ggml-cpu: support BF16/FP16/FP32 K tails in tinyBLAS on x86 (#29806) * ggml-cpu: vectorize BF16 K tails in tinyBLAS * tests: Skip tinyBLAS when use_ref is enabled so CPU tests compare against the vec_dot path. * ggml-cpu: vectorize tinyBLAS F16/F32 tails **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11398"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Fully local little parkour sim</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wxp21n/fully_local_little_parkour_sim/"/>
+    <id>urn:uuid:32f8f6d3b5020210</id>
+    <updated>2026-10-04T20:00:53Z</updated>
+    <published>2026-10-04T20:00:53Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I vibed this up this weekend, fully local, with GLM 5.3 Flash running on 2x DGX Sparks. vllm TP2 recipe: https://github.com/tonyd2wild/GLM-5.3-Flash-NVFP4-DFlash2-2x-DGX-Spark Prefill: ~1500t/s Decode: ~40t/s @ 100k Using Claude Code as the scaffold with 260k context size. I'm really impressed with this model. Feels…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wxp21n/fully_local_little_parkour_sim/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11397 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11397"/>
+    <id>urn:uuid:174bc082d7abbf8b</id>
+    <updated>2026-10-04T19:47:29Z</updated>
+    <published>2026-10-04T19:47:29Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;cuda : move neu_padded to where it is used (#29940) Signed-off-by: Adrien Gallouët **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11397/llama-b11397-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11397"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Tested 15 local models for agent/tool use.. Bonsai 27B was last!</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wxoiug/tested_15_local_models_for_agenttool_use_bonsai/"/>
+    <id>urn:uuid:ea88e44e5b468d39</id>
+    <updated>2026-10-04T19:39:06Z</updated>
+    <published>2026-10-04T19:39:06Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Tested 15 local models for agent/tool use — Bonsai 27B was last I wanted to see which local models are actually usable for agent/tool-use tasks, so I ran 15 of them through the same benchmark instead of guessing from model hype. The benchmark was Toolery . It doesn't just check whether a model can call a tool.. the…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: tool use&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wxoiug/tested_15_local_models_for_agenttool_use_bonsai/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Update #4: Post training yandex/AliceAI-80B-A3B [instruct!] from scratch</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wxlytt/update_4_post_training_yandexaliceai80ba3b/"/>
+    <id>urn:uuid:f02d3d241ef318ed</id>
+    <updated>2026-10-04T17:55:37Z</updated>
+    <published>2026-10-04T17:55:37Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Last update for those following: https://www.reddit.com/r/LocalLLaMA/comments/1wvyc3e/update_3_post_training_yandexaliceai80ba3b/ Project in a sentence: An instruct finetune of ALiceAI-80B-A3B-Base capable of agentic work and conversation. I'm creating a shallow distill of qwen 3.8 27b on medium to teach the model…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen, agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wxlytt/update_4_post_training_yandexaliceai80ba3b/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11396 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11396"/>
+    <id>urn:uuid:358ae9d6287805cf</id>
+    <updated>2026-10-04T17:45:46Z</updated>
+    <published>2026-10-04T17:45:46Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;ci : windows llvm build requires ninja multi-config (#29959) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11396/llama-b11396-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11396"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Built a quick, sub-15ms Rust CLI/TUI to pack repos into prompts without burning 40k tokens on lockfiles and junk</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wxl36c/built_a_quick_sub15ms_rust_clitui_to_pack_repos/"/>
+    <id>urn:uuid:6376e87bf4f55e48</id>
+    <updated>2026-10-04T17:18:56Z</updated>
+    <published>2026-10-04T17:18:56Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Whenever I feed codebases into local models (Qwen, DeepSeek R1) or API models, the biggest annoyance is prompt pollution: - Lockfiles (`Cargo.lock`, `package-lock.json`) burning 30,000+ tokens for zero reason. - SVGs, binary files, or build artifacts slipping into the context. - Existing packers taking 3-4 seconds…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen, deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wxl36c/built_a_quick_sub15ms_rust_clitui_to_pack_repos/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Qwen3.5 arch implementation in FPGA fabric for 9B/27B INT4 models on relatively cheap eBay mining hardware</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wxken1/qwen35_arch_implementation_in_fpga_fabric_for/"/>
+    <id>urn:uuid:f38e98f1c8da70f2</id>
+    <updated>2026-10-04T16:51:07Z</updated>
+    <published>2026-10-04T16:51:07Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I've been wanting to test out LLM inference on FPGAs for a while now, but didn't have a big reason too since there were no frontier class models at 9B-27B scale (3.6 27B was great still but it didn't motivate me enough). When 3.8 was released I was pretty impressed by what it could at that size. So I began looking for…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wxken1/qwen35_arch_implementation_in_fpga_fabric_for/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 A Strata fork for IBM AC922 running Qwen3.8-FN UD-Q4_K_XL is doing up to 7,357 tk/s prefill and 113 tk/s decode</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wxjs47/a_strata_fork_for_ibm_ac922_running_qwen38fn_udq4/"/>
+    <id>urn:uuid:616d464947d353c2</id>
+    <updated>2026-10-04T16:25:04Z</updated>
+    <published>2026-10-04T16:25:04Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I forked Strata and worked with Opus 5.5 with some heavy changes to it to make it work on an IBM AC922 I have access to. The IBM AC922 is a 2018 era beast with two POWER9 20 core SMT4 CPUs that are connected by NVLink to 4 or 6 NVIDIA Tesla V100 SXM2 GPUs, the CPU-GPU BW advertised as 150GB/s and the nvidia drivers do…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: opus&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wxjs47/a_strata_fork_for_ibm_ac922_running_qwen38fn_udq4/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11393 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11393"/>
+    <id>urn:uuid:a77a3c14e06acf32</id>
+    <updated>2026-10-04T16:22:40Z</updated>
+    <published>2026-10-04T16:22:40Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;chat-peg-parser : clear current_tool when pending_tool_call is reset (#29942) A TOOL_ID node that arrives after TOOL_CLOSE wrote through `current_tool`, which still pointed into the just-destroyed `pending_tool_call` optional (use-after-free, then a second free of the id buffer). Clear the pointer on reset. **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11393"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 How long before we have a local model capable of modeling?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wxibor/how_long_before_we_have_a_local_model_capable_of/"/>
+    <id>urn:uuid:a045bda2d018dd2f</id>
+    <updated>2026-10-04T15:24:25Z</updated>
+    <published>2026-10-04T15:24:25Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I'm using Qwen 3.8 and qwen flash on a 5090. It's miles behind the latest Opus 5.5. Even if it was remotely capable it would be a huge help to me, but for now, with regards to 3D modeling, local models are not close at all. submitted by /u/Hot_Masterpiece_3668 [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen, opus&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wxibor/how_long_before_we_have_a_local_model_capable_of/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ultralytics/ultralytics v8.4.173 — v8.4.173 - `ultralytics 8.4.173` Add AMD Xilinx Vitis AI export for Versal AI Edge Gen 2 NPUs (#26519)</title>
+    <link href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.173"/>
+    <id>urn:uuid:bbc1aec5bc0099de</id>
+    <updated>2026-10-04T15:09:32Z</updated>
+    <published>2026-10-04T15:09:32Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## 🌟 Summary Version **8.4.173** adds native AMD Xilinx export for **Versal AI Edge Series Gen 2 NPUs**, opening a new path to deploy Ultralytics models on AMD edge hardware. ## 📊 Key Changes - 🚀 **New `xilinx` export format** — Export models through AMD Quark to a quantized ONNX model and Vitis AI configuration. The format also accepts `vitis`, `vitisai`, and `versal` as aliases. - 🧠…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.173"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11392 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11392"/>
+    <id>urn:uuid:038daa23d5e96e48</id>
+    <updated>2026-10-04T14:41:04Z</updated>
+    <published>2026-10-04T14:41:04Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;ci : set default permissions (#29945) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11392/llama-b11392-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11392"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 From 1x3090 to 20 DGX Sparks: my house fuses were the first bottleneck</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wxgm0h/from_1x3090_to_20_dgx_sparks_my_house_fuses_were/"/>
+    <id>urn:uuid:01943f112b3b0eec</id>
+    <updated>2026-10-04T14:09:31Z</updated>
+    <published>2026-10-04T14:09:31Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;From the first LLaMA 33B I knew I wanted that magic-like intelligence locally, mine, so nobody could take it away when I needed it. I bought a 3090 for my home PC. Then LLaMA 65B appeared and I was dazzled, it looked like it had all the knowledge in the world. I made two copies, one local and one on my Synology NAS…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wxgm0h/from_1x3090_to_20_dgx_sparks_my_house_fuses_were/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 I Distilled an LLM into two 287M encoders (GLiNER + multiple choice) for document extraction, can't match teacher. did i do something wrong?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wxgccy/i_distilled_an_llm_into_two_287m_encoders_gliner/"/>
+    <id>urn:uuid:7563e6a7ff07aac5</id>
+    <updated>2026-10-04T13:58:17Z</updated>
+    <published>2026-10-04T13:58:17Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;A while ago I asked here how to turn ~5 million court decisions into structured graphs without running an expensive LLM on every document thanks for the advice . I went with the small extractor + classifier idea and it mostly works, but I'm stuck a bit below the LLM. And like I said last time, i'd be damned if I run…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, document extraction&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wxgccy/i_distilled_an_llm_into_two_287m_encoders_gliner/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Is there any way to improve creative writing for Local Models (Qwen)?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wxfgn9/is_there_any_way_to_improve_creative_writing_for/"/>
+    <id>urn:uuid:50114c005ef92ca0</id>
+    <updated>2026-10-04T13:16:28Z</updated>
+    <published>2026-10-04T13:16:28Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I wanted to know if theres anything that can improve creative writing for our Local Models? I specificly am asking for qwen models as they are way better when it comes to researching and writing html files compared to gemma / muse (which I know are better at creative writing). Im currently using qwen 3.8 flash next at…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wxfgn9/is_there_any_way_to_improve_creative_writing_for/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 rtk-ai/rtk</title>
     <link href="https://github.com/rtk-ai/rtk"/>
@@ -114,6 +258,15 @@
     <published>2026-10-04T12:44:00Z</published>
     <category term="REPO"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;The Mother of AI Project Phase 1 RAG Systems: arXiv Paper Curator A Learner-Focused Journey into Production RAG Systems Learn to build modern AI systems from the ground up through hands-on implementation Master the most in-demand AI engineering skills: RAG (Retrieval-Augmented Generation) 📖 About This Course This is a…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: rag, agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jamwithai/production-agentic-rag-course"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 10550 · Niko1221/Strata (C++)</title>
+    <link href="https://github.com/Niko1221/Strata"/>
+    <id>urn:uuid:ac5c0b38bb37db53</id>
+    <updated>2026-10-04T12:32:47Z</updated>
+    <published>2026-10-04T12:32:47Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Niko1221/Strata"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>🚀 ggml-org/llama.cpp b11389 (pre)</title>
@@ -933,158 +1086,5 @@
     <published>2026-10-02T21:24:22Z</published>
     <category term="REPO"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows Awesome Claude Skills A comprehensive and curated list of 1000+ production ready and practical Claude Skills and Plugins for enhancing productivity across usecases on not just Claude.ai , Claude Code, but also across…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ComposioHQ/awesome-claude-skills"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 4265 · yetone/magpie (Go)</title>
-    <link href="https://github.com/yetone/magpie"/>
-    <id>urn:uuid:e704a24b8bfd08fd</id>
-    <updated>2026-10-02T20:57:08Z</updated>
-    <published>2026-10-02T20:57:08Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, deepseek, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/yetone/magpie"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 2934 · Louis-CFM/coucou (Swift)</title>
-    <link href="https://github.com/Louis-CFM/coucou"/>
-    <id>urn:uuid:f0fe3e958244511d</id>
-    <updated>2026-10-02T20:34:04Z</updated>
-    <published>2026-10-02T20:34:04Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, gemini, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Louis-CFM/coucou"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 anthropics/claude-code v2.1.288</title>
-    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.288"/>
-    <id>urn:uuid:d725f95fa6a3b9c5</id>
-    <updated>2026-10-02T20:19:57Z</updated>
-    <published>2026-10-02T20:19:57Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's changed - Added `$.ui.selection()` for mods: returns the text you last selected in fullscreen mode and, when the selection lies within one transcript row, that row - Added a built-in `gh api` to cloud sessions whose image has no GitHub CLI, and fixed the built-in sending control characters from file names, jq filters or GitHub errors to the terminal - Added recovery for a prompt cleared…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.288"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 microsoft/FrogNano-4B-2609 · Hugging Face</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1ww40o2/microsoftfrognano4b2609_hugging_face/"/>
-    <id>urn:uuid:ddc606f6e799cb04</id>
-    <updated>2026-10-02T20:16:26Z</updated>
-    <published>2026-10-02T20:16:26Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;An agentic model from Microsoft for the GPU poor https://huggingface.co/bartowski/FrogNano-4B-2609-GGUF FrogNano is derived from Qwen/Qwen3.5-4B, a general-purpose post-trained model designed for language, reasoning, coding, agentic, and multimodal tasks. FrogNano inherits Qwen3.5-4B's dense 32-layer hybrid Gated…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen, agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1ww40o2/microsoftfrognano4b2609_hugging_face/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Show HN: Made an open-source Lego AI generator</title>
-    <link href="https://github.com/anteloc/ldraw-nova"/>
-    <id>urn:uuid:79aa95492bbd995b</id>
-    <updated>2026-10-02T20:00:15Z</updated>
-    <published>2026-10-02T20:00:15Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Hi there :-) New on HN, first time posting. Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language. This LDraw is literally an "assembly" language, a low-level programming language that describes how to assemble LEGO pieces together into models, one…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/anteloc/ldraw-nova"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b11351 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11351"/>
-    <id>urn:uuid:5ee62c162f74a1f0</id>
-    <updated>2026-10-02T18:50:44Z</updated>
-    <published>2026-10-02T18:50:44Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;ggml : add `alloc_buffer_n` to buffer type interface (#23671) * ggml : add `alloc_buffer_n` to buffer type interface Add alloc_buffer_n method to ggml_backend_buffer_type_i interface, with a public API ggml_backend_buft_alloc_buffer_n. - Default implementation in ggml-backend.cpp handles multi-buffer splitting and tensor allocation via ggml_tallocr - Meta buffer type provides custom…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11351"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 CUDA: fuse shared experts into MMVQ by am17an · Pull Request #29184 · ggml-org/llama.cpp</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1ww1sn4/cuda_fuse_shared_experts_into_mmvq_by_am17an_pull/"/>
-    <id>urn:uuid:a0d841a6299e5983</id>
-    <updated>2026-10-02T18:47:39Z</updated>
-    <published>2026-10-02T18:47:39Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;MoE speedup, but only for some MoE architectures (like Qwen 35B A3B) submitted by /u/jacek2023 [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama, qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1ww1sn4/cuda_fuse_shared_experts_into_mmvq_by_am17an_pull/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 From the creator of Redis; run LLM locally with ds4</title>
-    <link href="https://dwarfstar.sh/"/>
-    <id>urn:uuid:17a897842b775b65</id>
-    <updated>2026-10-02T18:01:16Z</updated>
-    <published>2026-10-02T18:01:16Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 72 # Comments: 6&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://dwarfstar.sh/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Heavily quantized Qwen3.8-Flash vs Q8 Qwen3.8-27B - thoughts?</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wvzmt3/heavily_quantized_qwen38flash_vs_q8_qwen3827b/"/>
-    <id>urn:uuid:af9374964dadf2bd</id>
-    <updated>2026-10-02T17:22:24Z</updated>
-    <published>2026-10-02T17:22:24Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I'm currently choosing between IQ3_XXS Qwen-3.8-Flash and Q8_0 27B. This month I don't have anything complex enough to justify either's potential so I've got a fairly bad read on how these two stack up in terms of intelligence. Have any of you compared the two enough to speak to which you've had a better experience…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wvzmt3/heavily_quantized_qwen38flash_vs_q8_qwen3827b/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 I made my iPhone a second GPU for my 24 GB MacBook: Qwen 3.8 27B prefills 29–44% faster &amp; my holds part of the CTX window.</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wvz1ex/i_made_my_iphone_a_second_gpu_for_my_24_gb/"/>
-    <id>urn:uuid:8c96f2e4d809a00c</id>
-    <updated>2026-10-02T16:59:22Z</updated>
-    <published>2026-10-02T16:59:22Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;**DISCLAIMER** THE PREFILLING TPS SHOWN ON THE PHONE IS COMPUTED ONLY FOR THE LAYERS IT HOLDS. ALREADY FIXING IT TO SHOW END-TO-END PREFILL RATE. NUMBERS BELOW ARE ACCURATE FOR E2E PREFILL RATE. Every file or tool result my agent reads on a 24 GB M4 Pro MacBook is a wait, and 64k of 8-bit context is all that fits next…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wvz1ex/i_made_my_iphone_a_second_gpu_for_my_24_gb/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Update #3: Post training yandex/AliceAI-80B-A3B [instruct!] from scratch</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wvyc3e/update_3_post_training_yandexaliceai80ba3b/"/>
-    <id>urn:uuid:44fa2c7f21f45b9e</id>
-    <updated>2026-10-02T16:30:24Z</updated>
-    <published>2026-10-02T16:30:24Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Last update for those who may be following: https://www.reddit.com/r/LocalLLaMA/comments/1wv5h8x/update_2_post_training_yandexaliceai80ba3b/ I screwed up guys 😂 Turns out my loss curve during my last run was legitimately unhealthy - as some of you, and myself, were concerned about. After evaluating my QLoRA, I found…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qlora&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wvyc3e/update_3_post_training_yandexaliceai80ba3b/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 A model guide for the GPT-6 family</title>
-    <link href="https://openai.com/index/practical-guide-building-gpt-6"/>
-    <id>urn:uuid:a692cc9be0716e82</id>
-    <updated>2026-10-02T16:15:00Z</updated>
-    <published>2026-10-02T16:15:00Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/practical-guide-building-gpt-6"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Qwen3.8-27B-Humanlike-Chat 2.0: texts like a human, now with tool calls and better instruction following</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wvxl4n/qwen3827bhumanlikechat_20_texts_like_a_human_now/"/>
-    <id>urn:uuid:5b3f4af5a4caaf43</id>
-    <updated>2026-10-02T16:00:50Z</updated>
-    <published>2026-10-02T16:00:50Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Last month I posted a Qwen3.8-27B LoRA that makes it talk like a person instead of an assistant. It got a lot more attention than I expected: 700+ upvotes, 248 comments and 44k downloads since. I read every comment. People really don't like assistant speak, so its tone of voice resonated. The rest got roasted, very…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: lora&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wvxl4n/qwen3827bhumanlikechat_20_texts_like_a_human_now/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b11349 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11349"/>
-    <id>urn:uuid:ee000e7107db0d06</id>
-    <updated>2026-10-02T15:41:03Z</updated>
-    <published>2026-10-02T15:41:03Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;vulkan: add logging to pipeline compile issues (#29794) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11349/llama-b11349-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11349"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
-    <link href="https://huggingface.co/blog/allenai/astabrief"/>
-    <id>urn:uuid:5caa5e9833bfdc4b</id>
-    <updated>2026-10-02T15:19:50Z</updated>
-    <published>2026-10-02T15:19:50Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hugging Face Blog&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://huggingface.co/blog/allenai/astabrief"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 New in llama.cpp: Decision Models</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1wvv6im/new_in_llamacpp_decision_models/"/>
-    <id>urn:uuid:6c53472092572bed</id>
-    <updated>2026-10-02T14:25:06Z</updated>
-    <published>2026-10-02T14:25:06Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;submitted by /u/paf1138 [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wvv6im/new_in_llamacpp_decision_models/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b11347 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11347"/>
-    <id>urn:uuid:840dc79eeda7b46c</id>
-    <updated>2026-10-02T14:23:59Z</updated>
-    <published>2026-10-02T14:23:59Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;hexagon: install rebuilt HTP skels (#29828) * hexagon: install rebuilt HTP skels Assisted-by: OpenCode * hexagon: fix HTP skel catalog dependencies Assisted-by: OpenCode **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11347/llama-b11347-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11347"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
