@@ -1,5 +1,11 @@
 {
  "seen": [
+  "7f0a4c5f6e36d21d",
+  "993a25faa7ab471f",
+  "36b0a0a98bcdfd2f",
+  "51eb211bc81065fa",
+  "0f2371d87768168d",
+  "980cc328af7b003a",
   "3a9f572d412c4820",
   "217a721d36f3cc48",
   "1c193f4ab9f71952",
@@ -10,7 +16,9 @@
   "714ecf7e5a2ef360",
   "5f1af9f4b9cdedce",
   "ff8526abf5c2c0c0",
+  "3586509e97f363e2",
   "6264344fee6a99b1",
+  "6bac449c6a3ad576",
   "c52088ded5d4ecb9",
   "666438e28e133194",
   "063c36d4bd7ea7b3",
@@ -19,6 +27,7 @@
   "a98ee27d4533b35b",
   "d529d7dae816d8d3",
   "3280ac7fdaad4d58",
+  "0f5037524e8d6a75",
   "9f0cd42f19018ca5",
   "80f4a1269a8d7114",
   "25ae14d3a4a7cb70",
@@ -28,6 +37,7 @@
   "a324b35db27f7178",
   "f0fe3e958244511d",
   "61de07683560bc14",
+  "121e37bffe81a285",
   "99583731453b86f0",
   "55ec92e462bd721d",
   "8b737e7efc3174e9",
@@ -109,19 +119,83 @@
   "9761fd8cc797cecb",
   "17df73c036b6bf0c",
   "dad57db66a5067bc",
-  "dd0a943ca3505bcf",
-  "afaaf9813e3192d8",
-  "e949d7c51e11cbed",
-  "b9e41dfd14f82676",
-  "21f6f943c4a080f7",
-  "441fa7e137f7f4ca",
-  "ecc7ab8080063820",
-  "2cef0e04144e32c6",
-  "be0667b1a9200fa7",
-  "a14e863d4dd6c48d",
-  "45bcbdc8958dc3cc"
+  "dd0a943ca3505bcf"
  ],
  "items": [
+  {
+   "uid": "7f0a4c5f6e36d21d",
+   "title": "⭐ 115 · bherbruck/solvecraft (Rust)",
+   "url": "https://github.com/bherbruck/solvecraft",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-10-10T20:36:01+00:00",
+   "summary": "An open-source, clean-room reimplementation of Autodesk Fusion 360 in pure Rust. Parametric 3D CAD for desktop, browser, and AI agents via MCP.",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "993a25faa7ab471f",
+   "title": "ggml-org/llama.cpp b11552 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11552",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-10-10T19:52:01+00:00",
+   "summary": "server: leave a busy slot untouched when a request pins it (#30295) A request asking for a busy id_slot still ran the prompt cache update on that slot before being deferred. When the RAM cache held a better match, it was loaded into the slot while another request was still generating there, and that generation continued on the wrong context. The busy slot is now returned as is and the request…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "36b0a0a98bcdfd2f",
+   "title": "Goodbye Coding Plans",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2nfg4/goodbye_coding_plans/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-10T19:12:31+00:00",
+   "summary": "I’d say we’re a year-ish away from local + good harness being enough to write 90% of code. Looking at you, Qwen. Edit: damn, sounds like you all think Qwen3.8 Next Flash is there already… going to have to give it a spin… submitted by /u/Purple-Programmer-7 [link] [comments]",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "51eb211bc81065fa",
+   "title": "ggml-org/llama.cpp b11551 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11551",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-10-10T19:09:59+00:00",
+   "summary": "model : support MiniCPM-V 4.7 (#29416) * mtmd : add MiniCPM-V 4.7 support Signed-off-by: tc-mb * model : allow mrope time from an extra position slot Signed-off-by: tc-mb * Update conversion/minicpm.py Co-authored-by: Sigbjørn Skjæret * Slim down comments Signed-off-by: tc-mb * fix for \"do not hand-wrap comments\" Signed-off-by: tc-mb * fix ci Signed-off-by: tc-mb * rm 3d repo for pr one…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "0f2371d87768168d",
+   "title": "ggml-org/llama.cpp b11550 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11550",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-10-10T18:29:25+00:00",
+   "summary": "cmake(s390x): disable z17 target for unsupported compilers (#30297) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11550/llama-b11550-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "980cc328af7b003a",
+   "title": "Qwen3.8-27B on a single 3090: 140 tok/s on code with a custom megakernel",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2erdj/qwen3827b_on_a_single_3090_140_toks_on_code_with/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-10T13:01:23+00:00",
+   "summary": "I've been using Claude Opus 5.5 to speed up Qwen3.8-27B on my PC (rtx 3090), it wrote a CUDA megakernel that is 1.4-1.9x faster than llama.cpp depending on the task/context length. The results and code are below: Results (same hardware, my megakernel vs llama.cpp with MTP): - Writing code: 140 tok/s vs 73 (1.9x…",
+   "matched": [
+    "claude",
+    "llama",
+    "opus"
+   ]
+  },
   {
    "uid": "3a9f572d412c4820",
    "title": "farion1231/cc-switch",
@@ -250,6 +324,18 @@
    ]
   },
   {
+   "uid": "3586509e97f363e2",
+   "title": "Improve token per second without touching quant",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2donu/improve_token_per_second_without_touching_quant/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-10T12:05:52+00:00",
+   "summary": "Spent the past month tweaking and experimenting with many different numbers to achieve 30tps. Hardware: -Rx6700xt 12gb vram (AMD) -2x16 ddr4 3200 ram -r5 5600x -llama.cpp vulkan sdk -window11 (no wsl switching since im not used to the environment) Im looking for any improvements to achieve maybe 40tps? without…",
+   "matched": [
+    "llama"
+   ]
+  },
+  {
    "uid": "6264344fee6a99b1",
    "title": "⭐ 68 · jimoto-no-llm/rustdsh (JavaScript)",
    "url": "https://github.com/jimoto-no-llm/rustdsh",
@@ -262,6 +348,20 @@
     "deepseek",
     "llm",
     "claude code"
+   ]
+  },
+  {
+   "uid": "6bac449c6a3ad576",
+   "title": "Fully local conversational AI: Whisper + Hermes 8B + Kokoro, zero cloud, running inside a plush toy",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2cztv/fully_local_conversational_ai_whisper_hermes_8b/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-10T11:28:41+00:00",
+   "summary": "A conversational AI plush toy where nothing leaves my network. Everything runs on my LAN: STT: Whisper LLM: Hermes 3 Llama 3.1 8B (Q8_0) TTS: Kokoro Memory: per-person (LangGraph). It knows who it's talking to and remembers past conversations Vision: face identity (dlib) + emotion recognition (FER+), so it knows who's…",
+   "matched": [
+    "llama",
+    "llm",
+    "langgraph"
    ]
   },
   {
@@ -359,6 +459,19 @@
    "published": "2026-10-10T00:58:24+00:00",
    "summary": "Basalt: Blackwell inference engine Hi all! So over the last week I've been working on a Strata fork that's heavily tuned and can achieve throughput up to 2.6x what Strata usually does on the same weights. It's designed as a specialized engine that only supports Qwen3.8 Flash-Next and Blackwell architecture, including…",
    "matched": [
+    "inference"
+   ]
+  },
+  {
+   "uid": "0f5037524e8d6a75",
+   "title": "Qwen Flash Next @ 137 tok/s & 3,497 tok/s Prefill w/ 512k context on a 5090, 192gb ram, Windows Build, comparing Strata and Infernix",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x217go/qwen_flash_next_137_toks_3497_toks_prefill_w_512k/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-10T00:14:28+00:00",
+   "summary": "Strata vs Infernix on the same model, RTX 5090 — A/B at 262k and 512k context Hi folks, another inference engine post for your feed. I was blown away by Strata, but saw someone else post about Infernix with some wild claims, and it doesn't seem so well known, so I've spent a day downloading models and A/B testing each…",
+   "matched": [
+    "qwen",
     "inference"
    ]
   },
@@ -473,6 +586,18 @@
    "summary": "Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SSDP/UPnP-SOAP/GENA interoperability (S1 + S2), a Spotify-library classical DJ, and a CLI + HTTP API + MCP server so AI agents can run the house, including off-LAN over Tailscale.",
    "matched": [
     "mcp"
+   ]
+  },
+  {
+   "uid": "121e37bffe81a285",
+   "title": "Is there a music embedding model?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1xjvz/is_there_a_music_embedding_model/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-09T21:28:44+00:00",
+   "summary": "Has anybody built/released a music embedding model trained on a large library of diverse music? submitted by /u/unraveleverything [link] [comments]",
+   "matched": [
+    "embedding"
    ]
   },
   {
@@ -1474,127 +1599,7 @@
    "matched": [
     "embedding"
    ]
-  },
-  {
-   "uid": "afaaf9813e3192d8",
-   "title": "ReAlign: Generalizable Image Forgery Detection via Reasoning-Aligned Representation",
-   "url": "https://arxiv.org/abs/2605.16080",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-10-09T04:00:00+00:00",
-   "summary": "arXiv:2605.16080v3 Announce Type: replace Abstract: The rise of AI-generated images (AIGIs) poses growing challenges for digital authenticity, prompting the need for efficient, generalizable image forgery detection systems. Existing methods, whether non-LLM-based or LLM-based, exhibit distinct advantages and…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "e949d7c51e11cbed",
-   "title": "Stratified Multi-View Aggregation for Score Distillation",
-   "url": "https://arxiv.org/abs/2606.29964",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-10-09T04:00:00+00:00",
-   "summary": "arXiv:2606.29964v2 Announce Type: replace Abstract: Score distillation turns a pretrained 2D diffusion model into a 3D generator, but the per-step gradient is estimated from a single random view: this one-sample estimate has high variance (different views of the same partial scene disagree) and is blind to global…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "b9e41dfd14f82676",
-   "title": "OPERA: Object Perception Enhances Single-view 3D Reconstruction",
-   "url": "https://arxiv.org/abs/2607.18630",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-10-09T04:00:00+00:00",
-   "summary": "arXiv:2607.18630v2 Announce Type: replace Abstract: Single-view 3D reconstruction is a challenging task in computer vision due to information missing from the single input image. Generative model-based approaches can produce plausible 3D objects from a single image, thanks to data-driven priors learnt from rich and…",
-   "matched": [
-    "computer vision"
-   ]
-  },
-  {
-   "uid": "21f6f943c4a080f7",
-   "title": "PixVL: Self-Supervised Training of Pixel-Level MLLMs via a Unified Mask--Text Consistency Cycle",
-   "url": "https://arxiv.org/abs/2608.01354",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-10-09T04:00:00+00:00",
-   "summary": "arXiv:2608.01354v2 Announce Type: replace Abstract: Recent studies develop pixel-level multimodal large language models (MLLMs) that support both Region Segmentation and Region Understanding, extending multimodal interaction from whole images to specific objects and regions. However, these methods face two fundamental…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "441fa7e137f7f4ca",
-   "title": "ASV3D: Adapting Diffusion-Based Single-View 3D Reconstruction with Extra Imagery",
-   "url": "https://arxiv.org/abs/2608.08132",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-10-09T04:00:00+00:00",
-   "summary": "arXiv:2608.08132v2 Announce Type: replace Abstract: Reconstruction of 3D objects from a single image is a fundamental research topic in computer vision. The key challenge is the lack of information from critical viewpoints to complete 3D structures. Using an additional view may help to resolve the issue. However,…",
-   "matched": [
-    "computer vision"
-   ]
-  },
-  {
-   "uid": "ecc7ab8080063820",
-   "title": "A Stevens's Power Law Check-up of GPT-5.5's Implicit Reading of Visual Encoding",
-   "url": "https://arxiv.org/abs/2610.08365",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-10-09T04:00:00+00:00",
-   "summary": "arXiv:2610.08365v2 Announce Type: replace Abstract: We adapt Stevens's power law to measure the implicit ability of AI models to read visualizations, which can reveal the built-in perceptual mechanisms of algorithmic models. In our pilot study, AIs see no legend. In the color conditions, no colormap name is provided…",
-   "matched": [
-    "gpt-5"
-   ]
-  },
-  {
-   "uid": "2cef0e04144e32c6",
-   "title": "HarnessIR: Harnessing Multimodal Foundation Models for Universal Real-World Image Restoration",
-   "url": "https://arxiv.org/abs/2610.10133",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-10-09T04:00:00+00:00",
-   "summary": "arXiv:2610.10133v2 Announce Type: replace Abstract: Real-world low-quality images suffer from complex mixed degradations, including but not limited to noise, blur, atmospheric effects, etc. Recent agentic methods usually model real-world image restoration (Real-IR) as a sequential tool calling problem over…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "be0667b1a9200fa7",
-   "title": "VesselSDF: Distance Field Priors for Vascular Network Reconstruction",
-   "url": "https://arxiv.org/abs/2506.16556",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-10-09T04:00:00+00:00",
-   "summary": "arXiv:2506.16556v2 Announce Type: replace-cross Abstract: Accurate segmentation of vascular networks from sparse CT scan slices remains a significant challenge in medical imaging, particularly due to the thin, branching nature of vessels and the inherent sparsity between imaging planes. Existing deep learning…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "a14e863d4dd6c48d",
-   "title": "MiX: Micro-Inverted-Scaling for End-to-End Low-Bit Vision-Language Model Acceleration",
-   "url": "https://arxiv.org/abs/2609.19683",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-10-09T04:00:00+00:00",
-   "summary": "arXiv:2609.19683v2 Announce Type: replace-cross Abstract: The deployment of Vision-Language Models (VLMs) on edge devices is severely bottlenecked by memory bandwidth, necessitating aggressive sub-8-bit quantization. Since edge accelerators are strictly constrained by area and power, they require end-to-end quantized…",
-   "matched": [
-    "quantization"
-   ]
-  },
-  {
-   "uid": "45bcbdc8958dc3cc",
-   "title": "The segmentation ceiling: why explicit left-ventricular masks do not improve learned ejection-fraction regression",
-   "url": "https://arxiv.org/abs/2609.19730",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-10-09T04:00:00+00:00",
-   "summary": "arXiv:2609.19730v2 Announce Type: replace-cross Abstract: Accurate estimation of left ventricular ejection fraction (EF) from echocardiography is central to cardiovascular care, and deep learning enables automated EF prediction from echocardiographic video. Because EF is clinically derived from left-ventricular (LV)…",
-   "matched": [
-    "segmentation"
-   ]
   }
  ],
- "last_run": "2026-10-10T12:53:04.626994+00:00"
+ "last_run": "2026-10-10T20:38:21.578187+00:00"
 }

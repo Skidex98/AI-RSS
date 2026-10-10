@@ -5,8 +5,62 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-10-10T12:53:04Z</updated>
+  <updated>2026-10-10T20:38:21Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>📦 ⭐ 115 · bherbruck/solvecraft (Rust)</title>
+    <link href="https://github.com/bherbruck/solvecraft"/>
+    <id>urn:uuid:7f0a4c5f6e36d21d</id>
+    <updated>2026-10-10T20:36:01Z</updated>
+    <published>2026-10-10T20:36:01Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;An open-source, clean-room reimplementation of Autodesk Fusion 360 in pure Rust. Parametric 3D CAD for desktop, browser, and AI agents via MCP.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/bherbruck/solvecraft"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11552 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11552"/>
+    <id>urn:uuid:993a25faa7ab471f</id>
+    <updated>2026-10-10T19:52:01Z</updated>
+    <published>2026-10-10T19:52:01Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;server: leave a busy slot untouched when a request pins it (#30295) A request asking for a busy id_slot still ran the prompt cache update on that slot before being deferred. When the RAM cache held a better match, it was loaded into the slot while another request was still generating there, and that generation continued on the wrong context. The busy slot is now returned as is and the request…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11552"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Goodbye Coding Plans</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1x2nfg4/goodbye_coding_plans/"/>
+    <id>urn:uuid:36b0a0a98bcdfd2f</id>
+    <updated>2026-10-10T19:12:31Z</updated>
+    <published>2026-10-10T19:12:31Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I’d say we’re a year-ish away from local + good harness being enough to write 90% of code. Looking at you, Qwen. Edit: damn, sounds like you all think Qwen3.8 Next Flash is there already… going to have to give it a spin… submitted by /u/Purple-Programmer-7 [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x2nfg4/goodbye_coding_plans/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11551 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11551"/>
+    <id>urn:uuid:51eb211bc81065fa</id>
+    <updated>2026-10-10T19:09:59Z</updated>
+    <published>2026-10-10T19:09:59Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;model : support MiniCPM-V 4.7 (#29416) * mtmd : add MiniCPM-V 4.7 support Signed-off-by: tc-mb * model : allow mrope time from an extra position slot Signed-off-by: tc-mb * Update conversion/minicpm.py Co-authored-by: Sigbjørn Skjæret * Slim down comments Signed-off-by: tc-mb * fix for "do not hand-wrap comments" Signed-off-by: tc-mb * fix ci Signed-off-by: tc-mb * rm 3d repo for pr one…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11551"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11550 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11550"/>
+    <id>urn:uuid:0f2371d87768168d</id>
+    <updated>2026-10-10T18:29:25Z</updated>
+    <published>2026-10-10T18:29:25Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;cmake(s390x): disable z17 target for unsupported compilers (#30297) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11550/llama-b11550-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11550"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Qwen3.8-27B on a single 3090: 140 tok/s on code with a custom megakernel</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1x2erdj/qwen3827b_on_a_single_3090_140_toks_on_code_with/"/>
+    <id>urn:uuid:980cc328af7b003a</id>
+    <updated>2026-10-10T13:01:23Z</updated>
+    <published>2026-10-10T13:01:23Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I've been using Claude Opus 5.5 to speed up Qwen3.8-27B on my PC (rtx 3090), it wrote a CUDA megakernel that is 1.4-1.9x faster than llama.cpp depending on the task/context length. The results and code are below: Results (same hardware, my megakernel vs llama.cpp with MTP): - Writing code: 140 tok/s vs 73 (1.9x…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, llama, opus&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x2erdj/qwen3827b_on_a_single_3090_140_toks_on_code_with/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 farion1231/cc-switch</title>
     <link href="https://github.com/farion1231/cc-switch"/>
@@ -98,6 +152,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM] https://docs.litellm.ai/docs/ 🚅 LiteLLM LiteLLM AI Gateway Open Source AI…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic, llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/BerriAI/litellm"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 Improve token per second without touching quant</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1x2donu/improve_token_per_second_without_touching_quant/"/>
+    <id>urn:uuid:3586509e97f363e2</id>
+    <updated>2026-10-10T12:05:52Z</updated>
+    <published>2026-10-10T12:05:52Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Spent the past month tweaking and experimenting with many different numbers to achieve 30tps. Hardware: -Rx6700xt 12gb vram (AMD) -2x16 ddr4 3200 ram -r5 5600x -llama.cpp vulkan sdk -window11 (no wsl switching since im not used to the environment) Im looking for any improvements to achieve maybe 40tps? without…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x2donu/improve_token_per_second_without_touching_quant/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>📦 ⭐ 68 · jimoto-no-llm/rustdsh (JavaScript)</title>
     <link href="https://github.com/jimoto-no-llm/rustdsh"/>
     <id>urn:uuid:6264344fee6a99b1</id>
@@ -105,6 +168,15 @@
     <published>2026-10-10T11:29:23Z</published>
     <category term="REPO"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Fast Rust launcher for DeepSeek Harness, with clear Claude Code/Codex migration, model setup and lightweight local tools&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, deepseek, llm, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jimoto-no-llm/rustdsh"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Fully local conversational AI: Whisper + Hermes 8B + Kokoro, zero cloud, running inside a plush toy</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1x2cztv/fully_local_conversational_ai_whisper_hermes_8b/"/>
+    <id>urn:uuid:6bac449c6a3ad576</id>
+    <updated>2026-10-10T11:28:41Z</updated>
+    <published>2026-10-10T11:28:41Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;A conversational AI plush toy where nothing leaves my network. Everything runs on my LAN: STT: Whisper LLM: Hermes 3 Llama 3.1 8B (Q8_0) TTS: Kokoro Memory: per-person (LangGraph). It knows who it's talking to and remembers past conversations Vision: face identity (dlib) + emotion recognition (FER+), so it knows who's…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama, llm, langgraph&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x2cztv/fully_local_conversational_ai_whisper_hermes_8b/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>🚀 ggml-org/llama.cpp b11541 (pre)</title>
@@ -177,6 +249,15 @@
     <published>2026-10-10T00:58:24Z</published>
     <category term="NEWS"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Basalt: Blackwell inference engine Hi all! So over the last week I've been working on a Strata fork that's heavily tuned and can achieve throughput up to 2.6x what Strata usually does on the same weights. It's designed as a specialized engine that only supports Qwen3.8 Flash-Next and Blackwell architecture, including…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x223ai/basalt_flashnext_at_665_toks_structured_354_prose/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Qwen Flash Next @ 137 tok/s &amp; 3,497 tok/s Prefill w/ 512k context on a 5090, 192gb ram, Windows Build, comparing Strata and Infernix</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1x217go/qwen_flash_next_137_toks_3497_toks_prefill_w_512k/"/>
+    <id>urn:uuid:0f5037524e8d6a75</id>
+    <updated>2026-10-10T00:14:28Z</updated>
+    <published>2026-10-10T00:14:28Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Strata vs Infernix on the same model, RTX 5090 — A/B at 262k and 512k context Hi folks, another inference engine post for your feed. I was blown away by Strata, but saw someone else post about Infernix with some wild claims, and it doesn't seem so well known, so I've spent a day downloading models and A/B testing each…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x217go/qwen_flash_next_137_toks_3497_toks_prefill_w_512k/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📰 My "Anthropic/ChatGPT in a box" is... now open source and publicly hosted on Github.</title>
@@ -258,6 +339,15 @@
     <published>2026-10-09T21:44:19Z</published>
     <category term="REPO"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SSDP/UPnP-SOAP/GENA interoperability (S1 + S2), a Spotify-library classical DJ, and a CLI + HTTP API + MCP server so AI agents can run the house, including off-LAN over Tailscale.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Dicklesworthstone/frankensonos"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Is there a music embedding model?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1x1xjvz/is_there_a_music_embedding_model/"/>
+    <id>urn:uuid:121e37bffe81a285</id>
+    <updated>2026-10-09T21:28:44Z</updated>
+    <published>2026-10-09T21:28:44Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Has anybody built/released a music embedding model trained on a large library of diverse music? submitted by /u/unraveleverything [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: embedding&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x1xjvz/is_there_a_music_embedding_model/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>🚀 ultralytics/ultralytics v8.4.175 — v8.4.175 - More reliable classification training and validation (#26597)</title>
@@ -996,95 +1086,5 @@
     <published>2026-10-09T04:00:00Z</published>
     <category term="PAPER"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2605.07786v3 Announce Type: replace Abstract: As generative models achieve unprecedented visual quality, the gold standard for image evaluation remains traditional feature-distribution metrics (e.g., FID). However, these metrics are provably hindered by the closed-vocabulary bottleneck of outdated features and…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: embedding&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2605.07786"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 ReAlign: Generalizable Image Forgery Detection via Reasoning-Aligned Representation</title>
-    <link href="https://arxiv.org/abs/2605.16080"/>
-    <id>urn:uuid:afaaf9813e3192d8</id>
-    <updated>2026-10-09T04:00:00Z</updated>
-    <published>2026-10-09T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2605.16080v3 Announce Type: replace Abstract: The rise of AI-generated images (AIGIs) poses growing challenges for digital authenticity, prompting the need for efficient, generalizable image forgery detection systems. Existing methods, whether non-LLM-based or LLM-based, exhibit distinct advantages and…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2605.16080"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Stratified Multi-View Aggregation for Score Distillation</title>
-    <link href="https://arxiv.org/abs/2606.29964"/>
-    <id>urn:uuid:e949d7c51e11cbed</id>
-    <updated>2026-10-09T04:00:00Z</updated>
-    <published>2026-10-09T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2606.29964v2 Announce Type: replace Abstract: Score distillation turns a pretrained 2D diffusion model into a 3D generator, but the per-step gradient is estimated from a single random view: this one-sample estimate has high variance (different views of the same partial scene disagree) and is blind to global…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2606.29964"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 OPERA: Object Perception Enhances Single-view 3D Reconstruction</title>
-    <link href="https://arxiv.org/abs/2607.18630"/>
-    <id>urn:uuid:b9e41dfd14f82676</id>
-    <updated>2026-10-09T04:00:00Z</updated>
-    <published>2026-10-09T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2607.18630v2 Announce Type: replace Abstract: Single-view 3D reconstruction is a challenging task in computer vision due to information missing from the single input image. Generative model-based approaches can produce plausible 3D objects from a single image, thanks to data-driven priors learnt from rich and…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: computer vision&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.18630"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 PixVL: Self-Supervised Training of Pixel-Level MLLMs via a Unified Mask--Text Consistency Cycle</title>
-    <link href="https://arxiv.org/abs/2608.01354"/>
-    <id>urn:uuid:21f6f943c4a080f7</id>
-    <updated>2026-10-09T04:00:00Z</updated>
-    <published>2026-10-09T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2608.01354v2 Announce Type: replace Abstract: Recent studies develop pixel-level multimodal large language models (MLLMs) that support both Region Segmentation and Region Understanding, extending multimodal interaction from whole images to specific objects and regions. However, these methods face two fundamental…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.01354"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 ASV3D: Adapting Diffusion-Based Single-View 3D Reconstruction with Extra Imagery</title>
-    <link href="https://arxiv.org/abs/2608.08132"/>
-    <id>urn:uuid:441fa7e137f7f4ca</id>
-    <updated>2026-10-09T04:00:00Z</updated>
-    <published>2026-10-09T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2608.08132v2 Announce Type: replace Abstract: Reconstruction of 3D objects from a single image is a fundamental research topic in computer vision. The key challenge is the lack of information from critical viewpoints to complete 3D structures. Using an additional view may help to resolve the issue. However,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: computer vision&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.08132"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 A Stevens's Power Law Check-up of GPT-5.5's Implicit Reading of Visual Encoding</title>
-    <link href="https://arxiv.org/abs/2610.08365"/>
-    <id>urn:uuid:ecc7ab8080063820</id>
-    <updated>2026-10-09T04:00:00Z</updated>
-    <published>2026-10-09T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2610.08365v2 Announce Type: replace Abstract: We adapt Stevens's power law to measure the implicit ability of AI models to read visualizations, which can reveal the built-in perceptual mechanisms of algorithmic models. In our pilot study, AIs see no legend. In the color conditions, no colormap name is provided…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: gpt-5&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2610.08365"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 HarnessIR: Harnessing Multimodal Foundation Models for Universal Real-World Image Restoration</title>
-    <link href="https://arxiv.org/abs/2610.10133"/>
-    <id>urn:uuid:2cef0e04144e32c6</id>
-    <updated>2026-10-09T04:00:00Z</updated>
-    <published>2026-10-09T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2610.10133v2 Announce Type: replace Abstract: Real-world low-quality images suffer from complex mixed degradations, including but not limited to noise, blur, atmospheric effects, etc. Recent agentic methods usually model real-world image restoration (Real-IR) as a sequential tool calling problem over…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2610.10133"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 VesselSDF: Distance Field Priors for Vascular Network Reconstruction</title>
-    <link href="https://arxiv.org/abs/2506.16556"/>
-    <id>urn:uuid:be0667b1a9200fa7</id>
-    <updated>2026-10-09T04:00:00Z</updated>
-    <published>2026-10-09T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2506.16556v2 Announce Type: replace-cross Abstract: Accurate segmentation of vascular networks from sparse CT scan slices remains a significant challenge in medical imaging, particularly due to the thin, branching nature of vessels and the inherent sparsity between imaging planes. Existing deep learning…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2506.16556"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 MiX: Micro-Inverted-Scaling for End-to-End Low-Bit Vision-Language Model Acceleration</title>
-    <link href="https://arxiv.org/abs/2609.19683"/>
-    <id>urn:uuid:a14e863d4dd6c48d</id>
-    <updated>2026-10-09T04:00:00Z</updated>
-    <published>2026-10-09T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2609.19683v2 Announce Type: replace-cross Abstract: The deployment of Vision-Language Models (VLMs) on edge devices is severely bottlenecked by memory bandwidth, necessitating aggressive sub-8-bit quantization. Since edge accelerators are strictly constrained by area and power, they require end-to-end quantized…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: quantization&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.19683"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 The segmentation ceiling: why explicit left-ventricular masks do not improve learned ejection-fraction regression</title>
-    <link href="https://arxiv.org/abs/2609.19730"/>
-    <id>urn:uuid:45bcbdc8958dc3cc</id>
-    <updated>2026-10-09T04:00:00Z</updated>
-    <published>2026-10-09T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2609.19730v2 Announce Type: replace-cross Abstract: Accurate estimation of left ventricular ejection fraction (EF) from echocardiography is central to cardiovascular care, and deep learning enables automated EF prediction from echocardiographic video. Because EF is clinically derived from left-ventricular (LV)…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.19730"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
