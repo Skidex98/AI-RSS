@@ -5,8 +5,80 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-10-11T13:16:48Z</updated>
+  <updated>2026-10-11T21:01:52Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>📦 ⭐ 505 · bherbruck/solidcraft (Rust)</title>
+    <link href="https://github.com/bherbruck/solidcraft"/>
+    <id>urn:uuid:ad5c2215d5db3364</id>
+    <updated>2026-10-11T20:48:47Z</updated>
+    <published>2026-10-11T20:48:47Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;An open-source, clean-room reimplementation of Autodesk Fusion 360 in pure Rust. Parametric 3D CAD for desktop, browser, and AI agents via MCP.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/bherbruck/solidcraft"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 2959 · wheresryan22/anatomy (JavaScript)</title>
+    <link href="https://github.com/wheresryan22/anatomy"/>
+    <id>urn:uuid:865c2027a3887d38</id>
+    <updated>2026-10-11T20:33:47Z</updated>
+    <published>2026-10-11T20:33:47Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;A Claude Code skill that turns a technical idea into a detailed, interactive isometric figure of a real machine. It makes SVG with optional WebGL shaders and 3D, for docs, articles and landing pages.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/wheresryan22/anatomy"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11559 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11559"/>
+    <id>urn:uuid:b908402f4eba46e3</id>
+    <updated>2026-10-11T19:14:38Z</updated>
+    <published>2026-10-11T19:14:38Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;opencl: improve fa, allow dk512 for gemma-4, improve dk64 (#30266) * opencl: enable Gemma-4 E4B GPU decode Co-authored-by: Hongqiang Wang * opencl: extend Gemma-4 GPU decode to E2B Co-authored-by: Hongqiang Wang * opencl: optimize DK64 GQA8 decode Co-authored-by: Hongqiang Wang * opencl: optimize DK128 GQA4 decode Co-authored-by: Hongqiang Wang --------- Co-authored-by: Hongqiang Wang…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11559"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 "Strata" for GLM5.3 Flash is here for some! Project Maya</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1x3fxzj/strata_for_glm53_flash_is_here_for_some_project/"/>
+    <id>urn:uuid:263e3ec6ac20a10b</id>
+    <updated>2026-10-11T18:42:01Z</updated>
+    <published>2026-10-11T18:42:01Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I stumbled across this as I was currently having glm5.3 flash run only around 10tok/s basically unusable. With Maya i am running 30 tok/s now. GLM5.3 feels even with this low quant like a much more enjoyable model than qwen 3.8 flash next so far. Still testing . This is very exciting allowing many to run GLM5.3 flash.…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x3fxzj/strata_for_glm53_flash_is_here_for_some_project/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11558 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11558"/>
+    <id>urn:uuid:68ea7c12d13b8bb3</id>
+    <updated>2026-10-11T17:25:32Z</updated>
+    <published>2026-10-11T17:25:32Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;opencl: fix image limit for q4_k dense bin kernels, q4_0 bcast and rms_norm (#30310) * opencl: fallback when Q4_K weight images exceed device limits Co-authored-by: Hongqiang Wang * opencl: avoid incomplete subgroup in rms_norm * opencl: refine conditions for dense bin kernels and fix bcast for q4_0 Co-authored-by: Hongqiang Wang --------- Co-authored-by: Hongqiang Wang **Website:** -…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11558"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11557 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11557"/>
+    <id>urn:uuid:345b36175034c0e3</id>
+    <updated>2026-10-11T15:10:48Z</updated>
+    <published>2026-10-11T15:10:48Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;rpc : turn GGML_RPC_DEBUG into a verbosity level and add logs (#29544) * rpc : turn GGML_RPC_DEBUG into a verbosity level and add logs GGML_RPC_DEBUG is now parsed as a number: 0/unset disables debug logs, 1-3 emit increasingly detailed output (events, per-command trace, transport detail). Non-numeric values fall back to 1. The duplicated env/macro blocks in ggml-rpc.cpp and transport.cpp are…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11557"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Reverse Engineering w/ Local?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1x3ak4j/reverse_engineering_w_local/"/>
+    <id>urn:uuid:ca6e0d4154969e2f</id>
+    <updated>2026-10-11T15:08:11Z</updated>
+    <published>2026-10-11T15:08:11Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Two questions? Can a local model like Qwen 3.8 27B reverse engineer games and programs? If not, is there a fine tuned model that can? submitted by /u/Danny_Davitoe [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x3ak4j/reverse_engineering_w_local/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11556 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11556"/>
+    <id>urn:uuid:3ead00f2f376b524</id>
+    <updated>2026-10-11T13:31:50Z</updated>
+    <published>2026-10-11T13:31:50Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;model : support for Prism Bonsai 2 27B (#29600) * Runtime support for Prism Bonsai 2 27B Assisted-by: Claude Code * address prism hadamard runtime feedback * move hadamard tensors into method, define folded weight * load_* hadamard fixes * cont : clean-up * conversion cleanup Assisted-by: Claude Code * prism hadamard key and methods for converter Assisted-by: Claude Code * address review bot…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11556"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 Yeachan-Heo/oh-my-claudecode</title>
     <link href="https://github.com/Yeachan-Heo/oh-my-claudecode"/>
@@ -69,6 +141,24 @@
     <published>2026-10-11T13:10:58Z</published>
     <category term="RELEASE"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;cpu: fix AVX2 CPUs not using F16C when available (#30270) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11555/llama-b11555-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11555"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 UPDATE: Qwen 3.8 27B 140 tok/s on single RTX 3090 Megakernel: KL divergence 0.0009 vs llama.cpp</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1x37q7b/update_qwen_38_27b_140_toks_on_single_rtx_3090/"/>
+    <id>urn:uuid:8779c66a5f1f6839</id>
+    <updated>2026-10-11T13:04:42Z</updated>
+    <published>2026-10-11T13:04:42Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;This is a follow-up to my post from yesterday ( https://www.reddit.com/r/LocalLLaMA/comments/1x2erdj/qwen3827b_on_a_single_3090_140_toks_on_code_with/ ) detailing the CUDA megakernel. Thank you all for the positive feedback and PRs! RECAP: The megakernel is a CUDA engine for Qwen3.8-27B that runs 1.4-1.9x faster than…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama, qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x37q7b/update_qwen_38_27b_140_toks_on_single_rtx_3090/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Now you can grow Bonsai on your potato</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1x37kxn/now_you_can_grow_bonsai_on_your_potato/"/>
+    <id>urn:uuid:6053fd41a5a1cf15</id>
+    <updated>2026-10-11T12:58:20Z</updated>
+    <published>2026-10-11T12:58:20Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;No more excuses for GPU-poor folks not to start LLMing! Full 27B-class reasoning in ternary transformer weights, for llama.cpp (CUDA, Metal, CPU) ~9.3x smaller than FP16 (ideal) | 98.2% of FP16 intelligence retained | ~47 tok/s on an Apple M5 Max laptop Highlights ~5.9 GB language model (down from ~54 GB FP16) — full…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x37kxn/now_you_can_grow_bonsai_on_your_potato/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>🚀 ggml-org/llama.cpp b11554 (pre)</title>
@@ -150,6 +240,15 @@
     <published>2026-10-11T06:52:26Z</published>
     <category term="NEWS"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I have an app that processes ~500 different documents every day. An agent analyzes them, sorts them, tags them, extracts various legal nuances, creates descriptions, etc. So far I've been using Qwen 3.8 27B Q5 with a 150K context window, but I'm wondering whether I should switch to Qwen 3.8 Next Q3_S, since it has…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen, context window&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x31ak8/qwen_38_27b_q5_vs_qwen_38_next_q3_s_for_document/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 166 · NousResearch/hermes-official-plugins (Python)</title>
+    <link href="https://github.com/NousResearch/hermes-official-plugins"/>
+    <id>urn:uuid:e1ad50e945c91cdf</id>
+    <updated>2026-10-11T06:48:38Z</updated>
+    <published>2026-10-11T06:48:38Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/NousResearch/hermes-official-plugins"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📰 M5 Ultra 256GB or 2x DGX Spark? Which one?</title>
@@ -987,104 +1086,5 @@
     <published>2026-10-09T07:39:16Z</published>
     <category term="NEWS"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Training large language models (LLMs) is resource-intensive, and adapting them for diverse deployment scenarios with varying computational constraints remains challenging. While elastic architectures enable flexible model deployment and sparsely activated models allow input-adaptive computation, existing approaches…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x1f5gz/paper_stepped_moe_segmentlevel_routing_with/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
-    <link href="https://openai.com/index/asana-browser-agent"/>
-    <id>urn:uuid:4e88a37aba8c6b03</id>
-    <updated>2026-10-09T07:00:00Z</updated>
-    <published>2026-10-09T07:00:00Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/asana-browser-agent"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Sophos cuts threat investigation time by 96% with OpenAI Daybreak</title>
-    <link href="https://openai.com/index/sophos"/>
-    <id>urn:uuid:a2b657e034b69cdc</id>
-    <updated>2026-10-09T07:00:00Z</updated>
-    <published>2026-10-09T07:00:00Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/sophos"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 [Paper] EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1x1eb7w/paper_engramedit_decoupled_knowledge_updates_in/"/>
-    <id>urn:uuid:6507e4bd8006e197</id>
-    <updated>2026-10-09T06:45:52Z</updated>
-    <published>2026-10-09T06:45:52Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Beyond model scaling, this architecture has demonstrated the potential to decouple factual knowledge storage from…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x1eb7w/paper_engramedit_decoupled_knowledge_updates_in/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Running the uncensored Qwen3.8-27B (HauhauCS) on a 4090 at 262K context and ~130 tok/s</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1x1d0u4/running_the_uncensored_qwen3827b_hauhaucs_on_a/"/>
-    <id>urn:uuid:0a160406f0f28801</id>
-    <updated>2026-10-09T05:27:28Z</updated>
-    <published>2026-10-09T05:27:28Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;HauhauCS ships their uncensored Qwen3.8-27B as GGUF only. NInfer, a C++/CUDA wanted its own format. Now the same model that ran at 91.6 tok/s / 131K under llama.cpp does: 262K context (the model's full native window) ~130 tok/s decode with MTP3, 70.8% acceptance 3,591 tok/s prefill on a 9K prompt Perplexity within…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x1d0u4/running_the_uncensored_qwen3827b_hauhaucs_on_a/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 60 · dongnguyenvie/BashCut (Swift)</title>
-    <link href="https://github.com/dongnguyenvie/BashCut"/>
-    <id>urn:uuid:69675054eaf5e526</id>
-    <updated>2026-10-09T05:24:31Z</updated>
-    <published>2026-10-09T05:24:31Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Native macOS video editor that coding agents can drive: everything the UI does, Claude Code and Codex can do through the bashcut CLI or MCP server. Layered timeline, captions, voiceover, plugins.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, mcp, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/dongnguyenvie/BashCut"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Leveraging LLM-Generated Explanations for Detecting Emotionally Rewritten Fake News</title>
-    <link href="https://arxiv.org/abs/2610.08835"/>
-    <id>urn:uuid:46118361fb443fa1</id>
-    <updated>2026-10-09T04:00:00Z</updated>
-    <published>2026-10-09T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2610.08835v2 Announce Type: replace Abstract: The spread of fake news may cause severe social consequences. Existing fake news detection methods mainly focus on stylistic variations or incorporate external information such as explanations. However, news articles are often rewritten under different emotional…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2610.08835"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Judging in Latent Space: Efficient Generative Reward Modeling via Semantics-Preserving Compression</title>
-    <link href="https://arxiv.org/abs/2610.09788"/>
-    <id>urn:uuid:3d6f9e3880a256d4</id>
-    <updated>2026-10-09T04:00:00Z</updated>
-    <published>2026-10-09T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2610.09788v2 Announce Type: replace Abstract: Reward modeling often requires jointly representing and reasoning over multiple evaluation criteria, yet verbalizing this process token by token can incur substantial inference cost. Recent work on latent reasoning suggests that continuous states may support this…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2610.09788"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Just for FUNS: LLM-Guided Spatio-Temporal Graph Node Generation for Forecasting Unobserved Node States</title>
-    <link href="https://arxiv.org/abs/2610.08818"/>
-    <id>urn:uuid:2c46b0923d484c5f</id>
-    <updated>2026-10-09T04:00:00Z</updated>
-    <published>2026-10-09T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2610.08818v2 Announce Type: replace-cross Abstract: Spatio-temporal forecasting is a cornerstone of logistics, urban planning, and intelligent transportation systems. However, constrained by deployment costs and maintenance resources, sensor networks often lack comprehensive spatial coverage, rendering Forecast…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2610.08818"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Parametric Trajectory Distillation for Few-Step Video Generation</title>
-    <link href="https://arxiv.org/abs/2610.11498"/>
-    <id>urn:uuid:629fc9e9195b00f2</id>
-    <updated>2026-10-09T04:00:00Z</updated>
-    <published>2026-10-09T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2610.11498v1 Announce Type: new Abstract: Video diffusion and flow models require many sequential evaluations, making generation computationally expensive. Few-step distillation reduces this cost but poses a capacity allocation problem: a student must match the teacher's iterative generation with far less…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2610.11498"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 SV-TAD: Native Sparse Convs for Efficient Temporal Action Detection</title>
-    <link href="https://arxiv.org/abs/2610.11579"/>
-    <id>urn:uuid:aa93083d5860df15</id>
-    <updated>2026-10-09T04:00:00Z</updated>
-    <published>2026-10-09T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2610.11579v1 Announce Type: new Abstract: To adapt billion-parameter Vision Transformers for long-video understanding, recent methods freeze the backbone and train lightweight convolutional modules. While effective for parameter-efficient training, existing adapters do not reduce inference-time computation,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2610.11579"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 TAM: Task-Aware Memory Distillation for Efficient Spatiotemporal Prediction</title>
-    <link href="https://arxiv.org/abs/2610.11617"/>
-    <id>urn:uuid:69f7b55903566855</id>
-    <updated>2026-10-09T04:00:00Z</updated>
-    <published>2026-10-09T04:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2610.11617v1 Announce Type: new Abstract: Knowledge distillation enables efficient spatiotemporal prediction by transferring knowledge from an accurate teacher to a compact student. However, matching outputs or features independently for each sample leaves cross-sample predictive structure underused. Exploiting…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2610.11617"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -1,5 +1,13 @@
 {
  "seen": [
+  "ad5c2215d5db3364",
+  "865c2027a3887d38",
+  "b908402f4eba46e3",
+  "263e3ec6ac20a10b",
+  "68ea7c12d13b8bb3",
+  "345b36175034c0e3",
+  "ca6e0d4154969e2f",
+  "3ead00f2f376b524",
   "9e0fb5f83ea34558",
   "b18b533efd4deb94",
   "846dd722d0f0de84",
@@ -7,6 +15,8 @@
   "bccb6ffac30b90f5",
   "140fb14babb2fe12",
   "00076a32b05a5d4c",
+  "8779c66a5f1f6839",
+  "6053fd41a5a1cf15",
   "e97a0951c5d0373d",
   "39c207969fbdc2a4",
   "dd4adce5a715d6e6",
@@ -16,6 +26,7 @@
   "639fb3b20c9d56a5",
   "ce38e5d320cccfcb",
   "b3e1d5821698365b",
+  "e1ad50e945c91cdf",
   "0659d41d6d9bfa91",
   "31e7d519b82f51e8",
   "3406ff828bf3618e",
@@ -108,20 +119,106 @@
   "931bbe29d204d0f7",
   "1be19a88669fdec3",
   "bbaa470e3a18b238",
-  "9daa5477cbb2519f",
-  "4e88a37aba8c6b03",
-  "a2b657e034b69cdc",
-  "6507e4bd8006e197",
-  "0a160406f0f28801",
-  "69675054eaf5e526",
-  "46118361fb443fa1",
-  "3d6f9e3880a256d4",
-  "2c46b0923d484c5f",
-  "629fc9e9195b00f2",
-  "aa93083d5860df15",
-  "69f7b55903566855"
+  "9daa5477cbb2519f"
  ],
  "items": [
+  {
+   "uid": "ad5c2215d5db3364",
+   "title": "⭐ 505 · bherbruck/solidcraft (Rust)",
+   "url": "https://github.com/bherbruck/solidcraft",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-10-11T20:48:47+00:00",
+   "summary": "An open-source, clean-room reimplementation of Autodesk Fusion 360 in pure Rust. Parametric 3D CAD for desktop, browser, and AI agents via MCP.",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "865c2027a3887d38",
+   "title": "⭐ 2959 · wheresryan22/anatomy (JavaScript)",
+   "url": "https://github.com/wheresryan22/anatomy",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-10-11T20:33:47+00:00",
+   "summary": "A Claude Code skill that turns a technical idea into a detailed, interactive isometric figure of a real machine. It makes SVG with optional WebGL shaders and 3D, for docs, articles and landing pages.",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "b908402f4eba46e3",
+   "title": "ggml-org/llama.cpp b11559 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11559",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-10-11T19:14:38+00:00",
+   "summary": "opencl: improve fa, allow dk512 for gemma-4, improve dk64 (#30266) * opencl: enable Gemma-4 E4B GPU decode Co-authored-by: Hongqiang Wang * opencl: extend Gemma-4 GPU decode to E2B Co-authored-by: Hongqiang Wang * opencl: optimize DK64 GQA8 decode Co-authored-by: Hongqiang Wang * opencl: optimize DK128 GQA4 decode Co-authored-by: Hongqiang Wang --------- Co-authored-by: Hongqiang Wang…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "263e3ec6ac20a10b",
+   "title": "\"Strata\" for GLM5.3 Flash is here for some! Project Maya",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3fxzj/strata_for_glm53_flash_is_here_for_some_project/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-11T18:42:01+00:00",
+   "summary": "I stumbled across this as I was currently having glm5.3 flash run only around 10tok/s basically unusable. With Maya i am running 30 tok/s now. GLM5.3 feels even with this low quant like a much more enjoyable model than qwen 3.8 flash next so far. Still testing . This is very exciting allowing many to run GLM5.3 flash.…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "68ea7c12d13b8bb3",
+   "title": "ggml-org/llama.cpp b11558 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11558",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-10-11T17:25:32+00:00",
+   "summary": "opencl: fix image limit for q4_k dense bin kernels, q4_0 bcast and rms_norm (#30310) * opencl: fallback when Q4_K weight images exceed device limits Co-authored-by: Hongqiang Wang * opencl: avoid incomplete subgroup in rms_norm * opencl: refine conditions for dense bin kernels and fix bcast for q4_0 Co-authored-by: Hongqiang Wang --------- Co-authored-by: Hongqiang Wang **Website:** -…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "345b36175034c0e3",
+   "title": "ggml-org/llama.cpp b11557 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11557",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-10-11T15:10:48+00:00",
+   "summary": "rpc : turn GGML_RPC_DEBUG into a verbosity level and add logs (#29544) * rpc : turn GGML_RPC_DEBUG into a verbosity level and add logs GGML_RPC_DEBUG is now parsed as a number: 0/unset disables debug logs, 1-3 emit increasingly detailed output (events, per-command trace, transport detail). Non-numeric values fall back to 1. The duplicated env/macro blocks in ggml-rpc.cpp and transport.cpp are…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "ca6e0d4154969e2f",
+   "title": "Reverse Engineering w/ Local?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3ak4j/reverse_engineering_w_local/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-11T15:08:11+00:00",
+   "summary": "Two questions? Can a local model like Qwen 3.8 27B reverse engineer games and programs? If not, is there a fine tuned model that can? submitted by /u/Danny_Davitoe [link] [comments]",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "3ead00f2f376b524",
+   "title": "ggml-org/llama.cpp b11556 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11556",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-10-11T13:31:50+00:00",
+   "summary": "model : support for Prism Bonsai 2 27B (#29600) * Runtime support for Prism Bonsai 2 27B Assisted-by: Claude Code * address prism hadamard runtime feedback * move hadamard tensors into method, define folded weight * load_* hadamard fixes * cont : clean-up * conversion cleanup Assisted-by: Claude Code * prism hadamard key and methods for converter Assisted-by: Claude Code * address review bot…",
+   "matched": [
+    "*"
+   ]
+  },
   {
    "uid": "9e0fb5f83ea34558",
    "title": "Yeachan-Heo/oh-my-claudecode",
@@ -208,6 +305,31 @@
    "summary": "cpu: fix AVX2 CPUs not using F16C when available (#30270) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11555/llama-b11555-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "8779c66a5f1f6839",
+   "title": "UPDATE: Qwen 3.8 27B 140 tok/s on single RTX 3090 Megakernel: KL divergence 0.0009 vs llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x37q7b/update_qwen_38_27b_140_toks_on_single_rtx_3090/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-11T13:04:42+00:00",
+   "summary": "This is a follow-up to my post from yesterday ( https://www.reddit.com/r/LocalLLaMA/comments/1x2erdj/qwen3827b_on_a_single_3090_140_toks_on_code_with/ ) detailing the CUDA megakernel. Thank you all for the positive feedback and PRs! RECAP: The megakernel is a CUDA engine for Qwen3.8-27B that runs 1.4-1.9x faster than…",
+   "matched": [
+    "llama",
+    "qwen"
+   ]
+  },
+  {
+   "uid": "6053fd41a5a1cf15",
+   "title": "Now you can grow Bonsai on your potato",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x37kxn/now_you_can_grow_bonsai_on_your_potato/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-11T12:58:20+00:00",
+   "summary": "No more excuses for GPU-poor folks not to start LLMing! Full 27B-class reasoning in ternary transformer weights, for llama.cpp (CUDA, Metal, CPU) ~9.3x smaller than FP16 (ideal) | 98.2% of FP16 intelligence retained | ~47 tok/s on an Apple M5 Max laptop Highlights ~5.9 GB language model (down from ~54 GB FP16) — full…",
+   "matched": [
+    "llama"
    ]
   },
   {
@@ -317,6 +439,18 @@
    "matched": [
     "qwen",
     "context window"
+   ]
+  },
+  {
+   "uid": "e1ad50e945c91cdf",
+   "title": "⭐ 166 · NousResearch/hermes-official-plugins (Python)",
+   "url": "https://github.com/NousResearch/hermes-official-plugins",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-10-11T06:48:38+00:00",
+   "summary": "☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
+   "matched": [
+    "claude"
    ]
   },
   {
@@ -1472,141 +1606,7 @@
    "matched": [
     "inference"
    ]
-  },
-  {
-   "uid": "4e88a37aba8c6b03",
-   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-   "url": "https://openai.com/index/asana-browser-agent",
-   "source": "OpenAI News",
-   "category": "news",
-   "published": "2026-10-09T07:00:00+00:00",
-   "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "a2b657e034b69cdc",
-   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-   "url": "https://openai.com/index/sophos",
-   "source": "OpenAI News",
-   "category": "news",
-   "published": "2026-10-09T07:00:00+00:00",
-   "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "6507e4bd8006e197",
-   "title": "[Paper] EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1eb7w/paper_engramedit_decoupled_knowledge_updates_in/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-10-09T06:45:52+00:00",
-   "summary": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Beyond model scaling, this architecture has demonstrated the potential to decouple factual knowledge storage from…",
-   "matched": [
-    "deepseek"
-   ]
-  },
-  {
-   "uid": "0a160406f0f28801",
-   "title": "Running the uncensored Qwen3.8-27B (HauhauCS) on a 4090 at 262K context and ~130 tok/s",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1d0u4/running_the_uncensored_qwen3827b_hauhaucs_on_a/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-10-09T05:27:28+00:00",
-   "summary": "HauhauCS ships their uncensored Qwen3.8-27B as GGUF only. NInfer, a C++/CUDA wanted its own format. Now the same model that ran at 91.6 tok/s / 131K under llama.cpp does: 262K context (the model's full native window) ~130 tok/s decode with MTP3, 70.8% acceptance 3,591 tok/s prefill on a 9K prompt Perplexity within…",
-   "matched": [
-    "llama"
-   ]
-  },
-  {
-   "uid": "69675054eaf5e526",
-   "title": "⭐ 60 · dongnguyenvie/BashCut (Swift)",
-   "url": "https://github.com/dongnguyenvie/BashCut",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-10-09T05:24:31+00:00",
-   "summary": "Native macOS video editor that coding agents can drive: everything the UI does, Claude Code and Codex can do through the bashcut CLI or MCP server. Layered timeline, captions, voiceover, plugins.",
-   "matched": [
-    "claude",
-    "mcp",
-    "claude code"
-   ]
-  },
-  {
-   "uid": "46118361fb443fa1",
-   "title": "Leveraging LLM-Generated Explanations for Detecting Emotionally Rewritten Fake News",
-   "url": "https://arxiv.org/abs/2610.08835",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-10-09T04:00:00+00:00",
-   "summary": "arXiv:2610.08835v2 Announce Type: replace Abstract: The spread of fake news may cause severe social consequences. Existing fake news detection methods mainly focus on stylistic variations or incorporate external information such as explanations. However, news articles are often rewritten under different emotional…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "3d6f9e3880a256d4",
-   "title": "Judging in Latent Space: Efficient Generative Reward Modeling via Semantics-Preserving Compression",
-   "url": "https://arxiv.org/abs/2610.09788",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-10-09T04:00:00+00:00",
-   "summary": "arXiv:2610.09788v2 Announce Type: replace Abstract: Reward modeling often requires jointly representing and reasoning over multiple evaluation criteria, yet verbalizing this process token by token can incur substantial inference cost. Recent work on latent reasoning suggests that continuous states may support this…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "2c46b0923d484c5f",
-   "title": "Just for FUNS: LLM-Guided Spatio-Temporal Graph Node Generation for Forecasting Unobserved Node States",
-   "url": "https://arxiv.org/abs/2610.08818",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-10-09T04:00:00+00:00",
-   "summary": "arXiv:2610.08818v2 Announce Type: replace-cross Abstract: Spatio-temporal forecasting is a cornerstone of logistics, urban planning, and intelligent transportation systems. However, constrained by deployment costs and maintenance resources, sensor networks often lack comprehensive spatial coverage, rendering Forecast…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "629fc9e9195b00f2",
-   "title": "Parametric Trajectory Distillation for Few-Step Video Generation",
-   "url": "https://arxiv.org/abs/2610.11498",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-10-09T04:00:00+00:00",
-   "summary": "arXiv:2610.11498v1 Announce Type: new Abstract: Video diffusion and flow models require many sequential evaluations, making generation computationally expensive. Few-step distillation reduces this cost but poses a capacity allocation problem: a student must match the teacher's iterative generation with far less…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "aa93083d5860df15",
-   "title": "SV-TAD: Native Sparse Convs for Efficient Temporal Action Detection",
-   "url": "https://arxiv.org/abs/2610.11579",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-10-09T04:00:00+00:00",
-   "summary": "arXiv:2610.11579v1 Announce Type: new Abstract: To adapt billion-parameter Vision Transformers for long-video understanding, recent methods freeze the backbone and train lightweight convolutional modules. While effective for parameter-efficient training, existing adapters do not reduce inference-time computation,…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "69f7b55903566855",
-   "title": "TAM: Task-Aware Memory Distillation for Efficient Spatiotemporal Prediction",
-   "url": "https://arxiv.org/abs/2610.11617",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-10-09T04:00:00+00:00",
-   "summary": "arXiv:2610.11617v1 Announce Type: new Abstract: Knowledge distillation enables efficient spatiotemporal prediction by transferring knowledge from an accurate teacher to a compact student. However, matching outputs or features independently for each sample leaves cross-sample predictive structure underused. Exploiting…",
-   "matched": [
-    "distillation"
-   ]
   }
  ],
- "last_run": "2026-10-11T13:16:48.698893+00:00"
+ "last_run": "2026-10-11T21:01:52.442184+00:00"
 }
