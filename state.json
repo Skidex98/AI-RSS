@@ -1,5 +1,30 @@
 {
  "seen": [
+  "47116cba91474880",
+  "85d27d4cf28cc1c8",
+  "6450ce2b2e286244",
+  "5dbd8cb5be4d159a",
+  "0c4a942430beff0b",
+  "cd8a9f4f138e8c09",
+  "946461cb58d7b00f",
+  "be2f281b2c71c1ca",
+  "78feef16e6f64592",
+  "9b149b944e6ae2af",
+  "ccedeecbeecc582e",
+  "559d7801c8c2bbc4",
+  "96b49e44463ecb96",
+  "d637188b82ecd9bc",
+  "918e64da00bb04ce",
+  "e1ad50e945c91cdf",
+  "3cea887e317bbd7e",
+  "1aabff8aebbb9439",
+  "7641a50733efad75",
+  "9ef38edc5ff4dc1f",
+  "5d5f8e2af4745e47",
+  "98678d18935df07d",
+  "bea0d5fe2d80a2b1",
+  "a7f8c3ab4a9f149d",
+  "a169fba7fa390c83",
   "ce719eec42d4d42b",
   "d4d7434ec434c586",
   "78a1db22ea11c2e2",
@@ -9,10 +34,16 @@
   "37a18753534f5c14",
   "3fdc032c51306251",
   "8190ebc813bbef6f",
+  "d257200d7f9b9001",
+  "0f7f9ec468f19208",
   "773cad329cd940ae",
+  "b65098ac2efcff02",
+  "c537c9b8436c30df",
   "c8a9080557bf04e5",
   "33561c8ec5e9abd3",
   "5852d65d9a5b3726",
+  "60978a38393edd95",
+  "605e43642f172161",
   "1be19a88669fdec3",
   "1c6e7660158f428a",
   "93f549101c80b435",
@@ -88,40 +119,314 @@
   "fe9035538e1992fb",
   "ae743b08be104742",
   "d74d83a7a0d4dbc4",
-  "b7c48cef8c1f28dd",
-  "4e1a6a4874db052b",
-  "33c3c792e923abb9",
-  "f84cdb7da09ec147",
-  "8da75f48cb96a334",
-  "c6d3b8c3a0b95c77",
-  "bbefac7f1cd14031",
-  "d87e628474055369",
-  "08e143350a42dff2",
-  "426805b6ccf06c32",
-  "f2a9ca92c221b6bf",
-  "56bf5afa8b49fc11",
-  "969aeaefa8ef1a2d",
-  "c9d4819a75ba9df2",
-  "d61a24200170bcf2",
-  "6aefdaf24538898a",
-  "0cc66599d454b910",
-  "f24ec2c87802a3a8",
-  "99444c28a91d4128",
-  "de58c9e5c517d40c",
-  "fde203124647f867",
-  "dcc4d9af069518cf",
-  "03ea612acacd1cee",
-  "3bf12dcda1de2b78",
-  "3a9f572d412c4820",
-  "318ad11799c39e8f",
-  "bccb6ffac30b90f5",
-  "a324b35db27f7178",
-  "140fb14babb2fe12",
-  "ad5c2215d5db3364",
-  "61de07683560bc14",
-  "2a59150683320f68"
+  "b7c48cef8c1f28dd"
  ],
  "items": [
+  {
+   "uid": "47116cba91474880",
+   "title": "ComposioHQ/awesome-claude-skills",
+   "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-10-14T20:52:22.807552+00:00",
+   "summary": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows Awesome Claude Skills A comprehensive and curated list of 1000+ production ready and practical Claude Skills and Plugins for enhancing productivity across usecases on not just Claude.ai , Claude Code, but also across…",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "85d27d4cf28cc1c8",
+   "title": "MadsLorentzen/ai-job-search",
+   "url": "https://github.com/MadsLorentzen/ai-job-search",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-10-14T20:52:22.805468+00:00",
+   "summary": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. AI Job Search The job search that runs on your machine. An AI-powered job application framework built on Claude Code . Fork it, fill in…",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "6450ce2b2e286244",
+   "title": "Alishahryar1/free-claude-code",
+   "url": "https://github.com/Alishahryar1/free-claude-code",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-10-14T20:52:22.792909+00:00",
+   "summary": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly) Quick Start · Providers · Clients ·…",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "5dbd8cb5be4d159a",
+   "title": "ggml-org/llama.cpp b11624 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11624",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-10-14T20:09:25+00:00",
+   "summary": "ggml : improve RPC tensor transfer logs (#30481) - add rpc_log_format_size() and print byte counts in KiB/MiB/GiB across the RPC client, server and transport traces - add rpc_log_format_tensor() and include tensor name, op, type and shape in the set/get/memset/copy/init tensor logs - fix rpc_cmd_name() returning UNKNOWN for SET_TENSOR_2D, GET_TENSOR_2D, COMM_INIT, COMM_ALLREDUCE and COMM_FREE -…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "0c4a942430beff0b",
+   "title": "langchain-ai/langgraph checkpointpostgres==3.2.0 — langgraph-checkpoint-postgres==3.2.0",
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/checkpointpostgres%3D%3D3.2.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-10-14T19:54:57+00:00",
+   "summary": "Changes since checkpointpostgres==3.1.3 * release(checkpoint-postgres): 3.2.0 (#9313) * feat(checkpoint-postgres): add prune to PostgresSaver and AsyncPostgresSaver (#9290)",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "cd8a9f4f138e8c09",
+   "title": "ggml-org/llama.cpp b11623 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11623",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-10-14T19:51:04+00:00",
+   "summary": "cuda : use SIMT implicit GEMM conv2d on AMD without WMMA (#30325) * cuda : use SIMT implicit GEMM conv2d on AMD without WMMA Assisted-by: Claude Opus * cuda : update conv2d SIMT comment * cuda : skip SIMT conv2d on AMD for short reductions Co-authored-by: thelittlefireman --------- Co-authored-by: thelittlefireman **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "946461cb58d7b00f",
+   "title": "ggml-org/llama.cpp b11622 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11622",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-10-14T19:32:55+00:00",
+   "summary": "jinja : write floats in tojson as Python does (#30362) tojson printed floats through a C++ stream (6 significant digits, no \".0\"), so 48.858844 became 48.8588 and 1.0 became 1 in tool definitions, tool-call arguments and other template output. Write the shortest digits that read back as the same value, as json.dumps does. The string and safe filters of a float use the same code. **Website:** -…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "be2f281b2c71c1ca",
+   "title": "anthropics/claude-agent-sdk-python v0.2.167",
+   "url": "https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.167",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-10-14T19:25:41+00:00",
+   "summary": "### Internal/Other Changes - Updated bundled Claude CLI to version 2.1.300 --- **PyPI:** https://pypi.org/project/claude-agent-sdk/0.2.167/ ```bash pip install claude-agent-sdk==0.2.167 ```",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "78feef16e6f64592",
+   "title": "⭐ 926 · marclou/mailcheap (JavaScript)",
+   "url": "https://github.com/marclou/mailcheap",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-10-14T19:21:49+00:00",
+   "summary": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
+   "matched": [
+    "agentic"
+   ]
+  },
+  {
+   "uid": "9b149b944e6ae2af",
+   "title": "ggml-org/llama.cpp b11621 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11621",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-10-14T19:14:34+00:00",
+   "summary": "opencl: use buf+offset instead of subbuffer for adreno moe expert sort (#30418) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11621/llama-b11621-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "ccedeecbeecc582e",
+   "title": "ggml-org/llama.cpp b11620 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11620",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-10-14T18:44:30+00:00",
+   "summary": "opencl: fix q8_0 dp4a mul_mat_id and mark PREC_F32 mul_mat_id unsupported for adreno (#30365) * opencl: fix min handling for moe q8_0 dp4a GEMM Co-authored-by: Hongqiang Wang * opencl: reject PREC_F32 MUL_MAT_ID for adreno --------- Co-authored-by: Hongqiang Wang **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "559d7801c8c2bbc4",
+   "title": "anthropics/claude-code v2.1.300",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.300",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-10-14T18:24:25+00:00",
+   "summary": "## What's changed - Added `virtualText` to a mod's prompt decorations: text drawn in the prompt box that never enters the draft or the submitted prompt - Added `cache_creation_5m_tokens` and `cache_creation_1h_tokens` to the OpenTelemetry `api_request` event, splitting cache writes by lifetime - Added `$.ui.view({ agentId })` for mods: shows an agent's transcript in the main view when you ask,…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "96b49e44463ecb96",
+   "title": "Tessera-27B-B-CJK, Zellige AIs new finetune of Qwen with novel approaches to how we think about token savings",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5xm28/tessera27bbcjk_zellige_ais_new_finetune_of_qwen/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-14T17:35:08+00:00",
+   "summary": "Tessera-27B-B-CJK is a Qwen3.8-27B coding agent that thinks in compressed CJK, and it spends fewer tokens doing it. Open weights, Apache-2.0. This is our first full Tessera lineup model drop! - Hugging Face: https://huggingface.co/ZelligeAI/Tessera-27B-B-CJK - Paper: https://zellige.ai/research/tessera-27b-b-cjk…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "d637188b82ecd9bc",
+   "title": "anthropics/anthropic-sdk-python v1.14.0",
+   "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.14.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-10-14T17:13:08+00:00",
+   "summary": "### Features * **api:** add execution_identity to Managed Agents agents * **api:** add organization_type_not_supported error to spend limit lists * **api:** add telemetry destination test endpoint * **api:** add telemetry destinations to the Admin API * **client:** add OpenTelemetry tracing for API calls, streaming and tool runs ### Bug Fixes * **api:** rename telemetry destination test response…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "918e64da00bb04ce",
+   "title": "Linus Torvalds's first LLM-assisted patch series",
+   "url": "https://lwn.net/Articles/1100449/",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-10-14T16:55:07+00:00",
+   "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 109 # Comments: 87",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "e1ad50e945c91cdf",
+   "title": "⭐ 277 · NousResearch/hermes-official-plugins (Python)",
+   "url": "https://github.com/NousResearch/hermes-official-plugins",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-10-14T16:33:52+00:00",
+   "summary": "☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
+   "matched": [
+    "claude"
+   ]
+  },
+  {
+   "uid": "3cea887e317bbd7e",
+   "title": "Why do LLM pelicans look like this?",
+   "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-10-14T16:33:34+00:00",
+   "summary": "Article URL: https://arcfu.com/post/the-emperor-pelican-has-no-clothes/ Comments URL: https://news.ycombinator.com/item?id=50090443 Points: 144 # Comments: 126",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "1aabff8aebbb9439",
+   "title": "⭐ 48 · RayenMlayeh/jevcrawl (Python)",
+   "url": "https://github.com/RayenMlayeh/jevcrawl",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-10-14T16:30:33+00:00",
+   "summary": "MCP server and CLI that crawls websites for AI agents: finds the answer page 2x more often than Crawl4AI, 10x cheaper per answer than letting Claude crawl.",
+   "matched": [
+    "claude",
+    "mcp"
+   ]
+  },
+  {
+   "uid": "7641a50733efad75",
+   "title": "AI is mass decompiling games. That's both awesome and scary.",
+   "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-10-14T16:26:53+00:00",
+   "summary": "AI is mass decompiling games. That s both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get old games working on new hardware (often in a…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "9ef38edc5ff4dc1f",
+   "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+   "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+   "source": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-10-14T16:12:42+00:00",
+   "summary": "",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "5d5f8e2af4745e47",
+   "title": "langchain-ai/langgraph cli==0.4.35 — langgraph-cli==0.4.35",
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/cli%3D%3D0.4.35",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-10-14T16:11:12+00:00",
+   "summary": "Changes since cli==0.4.34 * release(cli): 0.4.35 (#9310) * feat(cli): add --image-pull-secret for deploying through a private registry (#9305) * feat(cli): log in with the registry username the control plane returns (#9301) * fix(cli): preserve failed deployment build logs (#9308) * chore(deps): bump handlebars from 4.7.9 to 4.7.10 in /libs/cli/js-examples (#9286)",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "98678d18935df07d",
+   "title": "inclusionAI/Ling-3.1-flash · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5tsni/inclusionailing31flash_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-14T15:11:14+00:00",
+   "summary": "With 560B total parameters, 25B active parameters per token, and a 1M-token context window , wait what? 3.0 was just 127B submitted by /u/jacek2023 [link] [comments]",
+   "matched": [
+    "context window"
+   ]
+  },
+  {
+   "uid": "bea0d5fe2d80a2b1",
+   "title": "NVIDIA Nemotron Bolt 3.5 74B A9B releases Oct. 15th",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5t1tm/nvidia_nemotron_bolt_35_74b_a9b_releases_oct_15th/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-14T14:42:30+00:00",
+   "summary": "This model is a 74B parameter, 9B-active-parameter mixture-of-experts (MoE) model, packed into 24GB using 2-bit quantization with advanced quantization-aware training techniques to retain quality. It aims to achieve the optimal balance between speed and intelligence, being faster than most popular dense models while…",
+   "matched": [
+    "quantization"
+   ]
+  },
+  {
+   "uid": "a7f8c3ab4a9f149d",
+   "title": "cuda, hip: GDN chunked kernel by am17an · Pull Request #29353 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5skta/cuda_hip_gdn_chunked_kernel_by_am17an_pull/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-14T14:23:13+00:00",
+   "summary": "Performance on Model Prompt tokens master tok/s pr tok/s Change RTX PRO 6000 Blackwell Qwen3.5-35B-A3B-Q8_0 2048 13,653.58 16,459.56 +20.6% RTX PRO 6000 Blackwell Qwen3.5-35B-A3B-Q8_0 4096 14,090.26 16,595.47 +17.8% RTX PRO 6000 Blackwell Qwen3.8-27B-Q8_0 2048 4,470.39 4,757.20 +6.4% RTX PRO 6000 Blackwell…",
+   "matched": [
+    "llama"
+   ]
+  },
+  {
+   "uid": "a169fba7fa390c83",
+   "title": "⭐ 1060 · Folkbench/folkbench (Rust)",
+   "url": "https://github.com/Folkbench/folkbench",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-10-14T12:21:39+00:00",
+   "summary": "AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
   {
    "uid": "ce719eec42d4d42b",
    "title": "raphaelmansuy/edgequake",
@@ -238,6 +543,30 @@
    ]
   },
   {
+   "uid": "d257200d7f9b9001",
+   "title": "Amp puts AI agents to work beyond code with OpenAI models",
+   "url": "https://openai.com/index/amp-beyond-coding",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-10-14T12:00:00+00:00",
+   "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "0f7f9ec468f19208",
+   "title": "SentinelOne cuts malware analysis from weeks to hours",
+   "url": "https://openai.com/index/sentinelone",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-10-14T12:00:00+00:00",
+   "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
    "uid": "773cad329cd940ae",
    "title": "⭐ 799 · mw00/project-maya (C++)",
    "url": "https://github.com/mw00/project-maya",
@@ -247,6 +576,30 @@
    "summary": "Project Maya - run GLM-5.3-Flash (321B MoE) privately on your own GPU(s), from one card to 16, NVIDIA or AMD, Linux or Windows. Engine, server, dashboard, OpenAI- and Anthropic-compatible API, quant tools.",
    "matched": [
     "anthropic"
+   ]
+  },
+  {
+   "uid": "b65098ac2efcff02",
+   "title": "Web search for a 1.7B model running fully on a phone, no search API and no backend (open source)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5oqiy/web_search_for_a_17b_model_running_fully_on_a/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-14T11:28:43+00:00",
+   "summary": "We just shipped web search in Private Mind, our open source app for running LLMs locally on iOS and Android. The video is the whole pitch: Qwen 3 1.7B with web off makes up Apple's September event, with web on it gets it right and cites 5 pages. The fun constraint is that a 1.7B model with a short context can't just…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "c537c9b8436c30df",
+   "title": "common : add --spec-draft-n-ubatch by ggerganov · Pull Request #30459 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5odh2/common_add_specdraftnubatch_by_ggerganov_pull/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-14T11:08:21+00:00",
+   "summary": "a new option to optimize your VRAM submitted by /u/jacek2023 [link] [comments]",
+   "matched": [
+    "llama"
    ]
   },
   {
@@ -283,6 +636,30 @@
    "summary": "## What's Changed * feat(llm-connections): label TypeSafe adapter as \"TypeSafe (System One)\" in picker by @hassiebp in https://github.com/langfuse/langfuse/pull/18670 * perf(worker): poll queue metrics once per interval across workers by @Steffen911 in https://github.com/langfuse/langfuse/pull/18672 * ci(notifications): stop sending redundant title, branch, and event to Slack by @nimarb in…",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "60978a38393edd95",
+   "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+   "url": "https://openai.com/index/third-moment-research",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-10-14T07:00:00+00:00",
+   "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "605e43642f172161",
+   "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
+   "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-10-14T05:53:36+00:00",
+   "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866 Comments URL: https://news.ycombinator.com/item?id=50082962 Points: 73 # Comments: 86",
+   "matched": [
+    "anthropic"
    ]
   },
   {
@@ -1209,389 +1586,7 @@
    "matched": [
     "inference"
    ]
-  },
-  {
-   "uid": "4e1a6a4874db052b",
-   "title": "A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models",
-   "url": "https://arxiv.org/abs/2610.13663",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-10-13T04:00:00+00:00",
-   "summary": "arXiv:2610.13663v1 Announce Type: cross Abstract: Many machine learning approaches are two-level: an expert selects a class of methods, within this class the choice of key components is critical and usually manual. This paper addresses the automatic tuning of these components and proposes a framework transferable…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "33c3c792e923abb9",
-   "title": "A Privileged Teacher That Only Scores Cannot Search: Critique-Conditioned On-Policy Self-Distillation for Reasoning",
-   "url": "https://arxiv.org/abs/2610.13744",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-10-13T04:00:00+00:00",
-   "summary": "arXiv:2610.13744v1 Announce Type: cross Abstract: On-policy self-distillation promises to replace the sparse outcome signal of verifiable-reward RL with dense token-level credit: a teacher conditioned on the reference solution scores the student's own rollout, and the resulting distributional shift is distilled back…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "f84cdb7da09ec147",
-   "title": "Tracing and Taming Hallucinated Terms via Subsequence-Association Filtering and Breadth-Aware Selection for LLM Query Expansion",
-   "url": "https://arxiv.org/abs/2610.13810",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-10-13T04:00:00+00:00",
-   "summary": "arXiv:2610.13810v1 Announce Type: cross Abstract: Large language models (LLMs) are now a standard source of query expansion terms but they hallucinate. They inject non existent entities and off-topic terms that add ranking noise and can hurt strong retrievers. Existing remedies such as corpus grounding, mutual…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "8da75f48cb96a334",
-   "title": "QTestBench: A Test Framework for Evaluating LLM-Generated Quantum Code",
-   "url": "https://arxiv.org/abs/2610.13811",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-10-13T04:00:00+00:00",
-   "summary": "arXiv:2610.13811v1 Announce Type: cross Abstract: Large language models (LLMs) have shown strong results in classical code generation and are increasingly used to write the unit tests that safeguard that code. Whether they can do the same for quantum software is less clear, because quantum programs are probabilistic,…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "c6d3b8c3a0b95c77",
-   "title": "ARTIS: Agentic Risk-Aware Test-Time Scaling via Iterative Simulation",
-   "url": "https://arxiv.org/abs/2602.01709",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-10-13T04:00:00+00:00",
-   "summary": "arXiv:2602.01709v3 Announce Type: replace Abstract: Current test-time scaling (TTS) techniques enhance large language model (LLM) performance by allocating additional computation at inference time, yet they remain insufficient for agentic settings, where actions directly interact with external environments and their…",
-   "matched": [
-    "llm",
-    "inference",
-    "agentic"
-   ]
-  },
-  {
-   "uid": "bbefac7f1cd14031",
-   "title": "MemReread: Enhancing Agentic Long-Context Reasoning via Memory-Guided Rereading",
-   "url": "https://arxiv.org/abs/2605.10268",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-10-13T04:00:00+00:00",
-   "summary": "arXiv:2605.10268v2 Announce Type: replace Abstract: Long-context reasoning tasks have motivated agent-memory approaches that process document chunks sequentially while maintaining a dynamically updated memory, avoiding the quadratic complexity of standard attention. Existing methods often rely on retrieval to recover…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "d87e628474055369",
-   "title": "EchoDistill: Robust Large Audio Language Models via Noisy-to-Clean Self-Distillation",
-   "url": "https://arxiv.org/abs/2605.23954",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-10-13T04:00:00+00:00",
-   "summary": "arXiv:2605.23954v4 Announce Type: replace Abstract: Large Audio Language Models (LALMs) remain vulnerable to acoustic noise, which can obscure task-relevant evidence and produce unreliable responses. We propose EchoDistill, a noisy-to-clean self-distillation framework that uses clean audio as privileged information…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "08e143350a42dff2",
-   "title": "Let Large Language Models Judge Each Other: Multi-Agent Peer-Reviewed Reasoning for Medical Question Answering",
-   "url": "https://arxiv.org/abs/2606.15419",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-10-13T04:00:00+00:00",
-   "summary": "arXiv:2606.15419v2 Announce Type: replace Abstract: Objective: To enhance the accuracy, interpretability, and robustness of large language models (LLMs) in medical question answering (MedQA). Method: We designed a multi-agent peer-reviewed reasoning method in which multiple LLM agents independently generate…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "426805b6ccf06c32",
-   "title": "Efficient Reasoning Exploration via State-Conditioned Latent Steering with Progress Guidance",
-   "url": "https://arxiv.org/abs/2609.24066",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-10-13T04:00:00+00:00",
-   "summary": "arXiv:2609.24066v2 Announce Type: replace Abstract: Best-of-$N$ is a widely used inference strategy for complex reasoning, whose effectiveness depends on whether sampled candidates can cover diverse and high-quality reasoning paths. However, post-trained reasoning models often suffer from \\emph{exploration collapse},…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "f2a9ca92c221b6bf",
-   "title": "Epistemic Policy Divergence in Multi-Turn LLM Contamination: A Protocol-Gradient Investigation",
-   "url": "https://arxiv.org/abs/2609.35308",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-10-13T04:00:00+00:00",
-   "summary": "arXiv:2609.35308v3 Announce Type: replace Abstract: Large language models treat conversation history as unverified context, so false premises injected into earlier turns can be adopted as fact later, a failure mode we call session-level contamination. We introduce five contamination protocols along a source-authority…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "56bf5afa8b49fc11",
-   "title": "Decoupling Logic from Persona: Structural Immunity of Edge LLM Agents to Context Pollution",
-   "url": "https://arxiv.org/abs/2610.09772",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-10-13T04:00:00+00:00",
-   "summary": "arXiv:2610.09772v2 Announce Type: replace Abstract: Edge language-model agents must hold a persona and reason correctly at once, in one context window that fills with history and persona instructions. We study what happens to the logical part of such an agent when that history is long, misleading and persona-heavy…",
-   "matched": [
-    "llm",
-    "context window"
-   ]
-  },
-  {
-   "uid": "969aeaefa8ef1a2d",
-   "title": "PHRBench: A Behavioral Evaluation of Post-Hallucination Reasoning in LLMs",
-   "url": "https://arxiv.org/abs/2610.10455",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-10-13T04:00:00+00:00",
-   "summary": "arXiv:2610.10455v2 Announce Type: replace Abstract: Hallucinated information can propagate through multi-stage LLM systems and become part of the context for subsequent reasoning. Existing studies of post-hallucination reasoning (PHR) mainly characterize changes in final outcomes and aggregate reasoning dynamics,…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "c9d4819a75ba9df2",
-   "title": "Constitutional Gating and Deterministic Recovery for Multi-Agent LLM Negotiation: Ablations Against a Stateful Adversarial Gatekeeper",
-   "url": "https://arxiv.org/abs/2610.11542",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-10-13T04:00:00+00:00",
-   "summary": "arXiv:2610.11542v2 Announce Type: replace Abstract: Multi-agent LLM systems negotiating with a stateful counterpart waste model calls in three ways: polite loops that never meet the counterpart's hidden acceptance condition, malformed outputs that trigger retries, and compliance deadlocks in which the counterpart…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "d61a24200170bcf2",
-   "title": "Weight Clustering Reveals the Importance of Relative Rank in Large Language Models",
-   "url": "https://arxiv.org/abs/2603.17917",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-10-13T04:00:00+00:00",
-   "summary": "arXiv:2603.17917v2 Announce Type: replace-cross Abstract: Large language models (LLMs) contain billions of parameters, but many exact weight values are not essential. We apply scalar $K$-means clustering to pretrained models, replacing each weight matrix with only 16--64 shared values. For Llama~3.1-8B-Instruct and…",
-   "matched": [
-    "llama"
-   ]
-  },
-  {
-   "uid": "6aefdaf24538898a",
-   "title": "Rethinking Entropy Allocation in LLM-based ASR: Understanding the Dynamics between Speech Encoders and LLMs",
-   "url": "https://arxiv.org/abs/2604.08003",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-10-13T04:00:00+00:00",
-   "summary": "arXiv:2604.08003v2 Announce Type: replace-cross Abstract: Integrating large language models (LLMs) into automatic speech recognition (ASR) has become a dominant paradigm. Although recent LLM-based ASR models have shown promising performance on public benchmarks, it remains challenging to balance recognition quality…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "0cc66599d454b910",
-   "title": "Encoder Awakening via Adapters: Effective Domain-Adaptive Fine-tuning of Speech-LLMs",
-   "url": "https://arxiv.org/abs/2609.17981",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-10-13T04:00:00+00:00",
-   "summary": "arXiv:2609.17981v2 Announce Type: replace-cross Abstract: Speech Large Language Models (Speech-LLMs), typically built from a pre-trained speech encoder, a modality projector, and an LLM fine-tuned with Low-Rank Adapters (LoRA), have shown strong Automatic Speech Recognition (ASR) performance on general-domain speech.…",
-   "matched": [
-    "llm",
-    "fine-tuning",
-    "lora"
-   ]
-  },
-  {
-   "uid": "f24ec2c87802a3a8",
-   "title": "TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models",
-   "url": "https://arxiv.org/abs/2610.07767",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-10-13T04:00:00+00:00",
-   "summary": "arXiv:2610.07767v2 Announce Type: replace-cross Abstract: Reinforcement learning (RL) for post-training large language models (LLMs) incurs substantial computation and memory overhead during rollout generation, which motivates low-precision rollout for efficient RL training. However, existing FP4 RL methods suffer…",
-   "matched": [
-    "quantization"
-   ]
-  },
-  {
-   "uid": "99444c28a91d4128",
-   "title": "⭐ 131 · WilderNoTrack/mcd-calorie-butler (Python)",
-   "url": "https://github.com/WilderNoTrack/mcd-calorie-butler",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-10-13T03:21:36+00:00",
-   "summary": "麦麦热量管家：减脂不是少吃你爱的，是先换掉不值这口热量的。基于麦当劳 MCP 的味热比点餐 Skill。",
-   "matched": [
-    "mcp"
-   ]
-  },
-  {
-   "uid": "de58c9e5c517d40c",
-   "title": "daijro/camoufox v156.0.1-beta.38 (pre)",
-   "url": "https://github.com/daijro/camoufox/releases/tag/v156.0.1-beta.38",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-10-13T02:12:58+00:00",
-   "summary": "## What's Changed * Release: run the publish jobs past a job their channel skips by @JWriter20 in https://github.com/daijro/camoufox/pull/814 * Release: pass npm publish a local path by @JWriter20 in https://github.com/daijro/camoufox/pull/816 * Release: publish each registry only when its package changed by @JWriter20 in https://github.com/daijro/camoufox/pull/817 * Make GeoIP AIO the default…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "fde203124647f867",
-   "title": "web-edit 0.1a1",
-   "url": "https://simonwillison.net/2026/Oct/13/web-edit/",
-   "source": "Simon Willison",
-   "category": "news",
-   "published": "2026-10-13T01:40:05+00:00",
-   "summary": "Release: web-edit 0.1a1 Includes performance optimizations written by Claude Opus 5.5 after I fed it this Python 3.15 profiling report generated by GPT-6 Astra. Tags: profiling , projects",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "dcc4d9af069518cf",
-   "title": "How far are we from a local model being able to optimize it's own runtime stack?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4j70c/how_far_are_we_from_a_local_model_being_able_to/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-10-13T01:01:00+00:00",
-   "summary": "A lot of projects have come up recently consisting of specific hardware config specialized forks of existing conferencing engines, but they all seem to be made using Claude or OpenAI's biggest frontier models. So given that open source is about 4-6 months behind, can we reasonably expect that local runnable models…",
-   "matched": [
-    "claude"
-   ]
-  },
-  {
-   "uid": "03ea612acacd1cee",
-   "title": "Anthropic is doing free publicity for GLM again",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4ii8e/anthropic_is_doing_free_publicity_for_glm_again/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-10-13T00:27:09+00:00",
-   "summary": "https://www.anthropic.com/research/distillation-defenses submitted by /u/No-Point1424 [link] [comments]",
-   "matched": [
-    "anthropic",
-    "distillation"
-   ]
-  },
-  {
-   "uid": "3bf12dcda1de2b78",
-   "title": "llm-meta-ai 0.2",
-   "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
-   "source": "Simon Willison",
-   "category": "news",
-   "published": "2026-10-12T23:58:46+00:00",
-   "summary": "Release: llm-meta-ai 0.2 Meta AI release Muse Wonder (and Muse Wonder Full), their new \"most capable models\". These look like they may be Meta's first Fable class models - Artificial Analysis scores Muse Wonder (Max) as equivalent to GPT-6.1 Sol. I updated my llm-meta-ai plugin for the new model. Here are pelicans for…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "3a9f572d412c4820",
-   "title": "farion1231/cc-switch",
-   "url": "https://github.com/farion1231/cc-switch",
-   "source": "GitHub Trending — Rust",
-   "category": "repo",
-   "published": "2026-10-12T23:43:28.993351+00:00",
-   "summary": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io https://ccswitch.io CC Switch The All-in-One Manager for Claude Code, Claude Desktop, Codex, Gemini CLI, Grok Build, OpenCode, OpenClaw, Hermes Agent, Pi MiniMax Code…",
-   "matched": [
-    "claude",
-    "gemini",
-    "claude code"
-   ]
-  },
-  {
-   "uid": "318ad11799c39e8f",
-   "title": "mksglu/context-mode",
-   "url": "https://github.com/mksglu/context-mode",
-   "source": "GitHub Trending — TypeScript",
-   "category": "repo",
-   "published": "2026-10-12T23:43:28.738629+00:00",
-   "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. https://context-mode.com Context Mode The other half of the context problem. Used across teams at The Problem Every MCP tool call dumps raw data…",
-   "matched": [
-    "context window",
-    "mcp"
-   ]
-  },
-  {
-   "uid": "bccb6ffac30b90f5",
-   "title": "sgl-project/sglang",
-   "url": "https://github.com/sgl-project/sglang",
-   "source": "GitHub Trending — Python",
-   "category": "repo",
-   "published": "2026-10-12T23:43:28.242909+00:00",
-   "summary": "SGLang is a high-performance serving framework for large language models and multimodal models. https://sglang.io SGLang: Fast inference for LLMs and multimodal models Docs | Cookbook | Website | Blog | Slack SGLang is an open-source inference framework for large language, vision-language, and diffusion models,…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "a324b35db27f7178",
-   "title": "anthropics/knowledge-work-plugins",
-   "url": "https://github.com/anthropics/knowledge-work-plugins",
-   "source": "GitHub Trending — Python",
-   "category": "repo",
-   "published": "2026-10-12T23:43:28.242045+00:00",
-   "summary": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork , also compatible with Claude Code . Why Plugins Cowork lets you set the goal and Claude…",
-   "matched": [
-    "claude",
-    "claude code"
-   ]
-  },
-  {
-   "uid": "140fb14babb2fe12",
-   "title": "huggingface/transformers",
-   "url": "https://github.com/huggingface/transformers",
-   "source": "GitHub Trending — Python",
-   "category": "repo",
-   "published": "2026-10-12T23:43:28.226746+00:00",
-   "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. https://huggingface.co/transformers English | 简体中文 | 繁體中文 | 한국어 | Español | 日本語 | हिन्दी | Русский | Português | తెలుగు | Français | Deutsch |…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "ad5c2215d5db3364",
-   "title": "⭐ 1078 · bherbruck/solidcraft (Rust)",
-   "url": "https://github.com/bherbruck/solidcraft",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-10-12T23:35:43+00:00",
-   "summary": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
-   "matched": [
-    "mcp"
-   ]
-  },
-  {
-   "uid": "61de07683560bc14",
-   "title": "⭐ 87 · Dicklesworthstone/frankensonos (Rust)",
-   "url": "https://github.com/Dicklesworthstone/frankensonos",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-10-12T23:33:22+00:00",
-   "summary": "Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SSDP/UPnP-SOAP/GENA interoperability (S1 + S2), a Spotify-library classical DJ, and a CLI + HTTP API + MCP server so AI agents can run the house, including off-LAN over Tailscale.",
-   "matched": [
-    "mcp"
-   ]
-  },
-  {
-   "uid": "2a59150683320f68",
-   "title": "Qwen 3.8 Flash Next Q3 S - Benchmark creation",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4h1c2/qwen_38_flash_next_q3_s_benchmark_creation/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-10-12T23:18:32+00:00",
-   "summary": "After running a benchmark test on Exo in Opencode and being amazed by the result, I thought I'd try other models on Opencode. Many were surprisingly terrible. Especially some mid level models. Earlier posts: https://www.reddit.com/r/opencode/comments/1wzm1ah/exo_free_frontier_level_wow/…",
-   "matched": [
-    "qwen"
-   ]
   }
  ],
- "last_run": "2026-10-14T12:14:24.678264+00:00"
+ "last_run": "2026-10-14T20:52:37.186776+00:00"
 }
