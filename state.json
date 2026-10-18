@@ -1,5 +1,9 @@
 {
  "seen": [
+  "6668975315b23aca",
+  "f54a337bd3757817",
+  "dcc389f16fdfda27",
+  "126f5db8da1cab66",
   "bc53368d6c5f3003",
   "43d5322e3d1ce9e7",
   "b18b533efd4deb94",
@@ -8,6 +12,7 @@
   "4491795487106bdb",
   "77278a3e3dcead78",
   "6956ddcdfa653054",
+  "8cedb33f50dae948",
   "bccf413b71b6d830",
   "9440c234c6c56e4b",
   "e4524ba51fcbac09",
@@ -15,7 +20,13 @@
   "b5c66c358b2ce1ff",
   "01bd99dbc5c05f80",
   "3ebc4e96c8b716a1",
+  "93c97b1657bf4934",
+  "bba2b3b16c8f9094",
+  "821af24b3a5aa55a",
+  "1da5bcc2ccd1fab5",
+  "7d603ea9237ee15f",
   "65efb027602d9222",
+  "5827c7abb6791edd",
   "abd566419f7fd008",
   "54b9b66ec3df6359",
   "92b70c878e42fb86",
@@ -108,20 +119,58 @@
   "84c1cb4e97bfd24c",
   "b4cc079e96840a0b",
   "f03990e5634b11d8",
-  "e1ad50e945c91cdf",
-  "dda91acd5b9553af",
-  "89e0257ff370a44c",
-  "320eeaf1ac5a864e",
-  "8d2900de11a46128",
-  "092569c8c6fa7a03",
-  "098a4f1a54290525",
-  "40751d7dba45b434",
-  "765b52409d8a9985",
-  "09307ca38e4da1a1",
-  "ae9bc507204edb81",
-  "eb03e078b1a3ec61"
+  "e1ad50e945c91cdf"
  ],
  "items": [
+  {
+   "uid": "6668975315b23aca",
+   "title": "ggml-org/llama.cpp b11721 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11721",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-10-18T18:04:19+00:00",
+   "summary": "cuda : fuse qwen4exp's SCALE -> SIGMOID -> SCALE -> hc_post chain (#30602) Port of the Vulkan HC_POST_GATE fusion (#29520). hc_combine builds the hc_post weights as 2*sigmoid(inject/hc); dsv4_hc_post_f32 now takes a gated template flag and computes scale_out*sigmoid(scale_in*p) from the raw weights, so the chain runs as one kernel instead of four. **Website:** - **Attestations:** - **macOS/iOS:**…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "f54a337bd3757817",
+   "title": "⭐ 1246 · trhhubsd/ARTEX (Go)",
+   "url": "https://github.com/trhhubsd/ARTEX",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-10-18T17:44:30+00:00",
+   "summary": "ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 agent+ 攻防挑战赛冠军",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "dcc389f16fdfda27",
+   "title": "ggml-org/llama.cpp b11720 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11720",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-10-18T17:36:42+00:00",
+   "summary": "ggml: support non-contiguous SUM (CPU, CUDA, Vulkan, WebGPU) (#28851) * ggml: support non-contiguous SUM (CPU, CUDA) * tests: add non-contiguous SUM cases * tests: SUM over non-contiguous views * vulkan: support non-contiguous SUM * webgpu: support non-contiguous SUM **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "126f5db8da1cab66",
+   "title": "⭐ 1565 · Gathin23/tv-vibehack (Java)",
+   "url": "https://github.com/Gathin23/tv-vibehack",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-10-18T13:25:17+00:00",
+   "summary": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
   {
    "uid": "bc53368d6c5f3003",
    "title": "pydantic/monty",
@@ -226,6 +275,18 @@
    ]
   },
   {
+   "uid": "8cedb33f50dae948",
+   "title": "We all joke about our rigs being space heaters, so I had Qwen vibecode it",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8v97a/we_all_joke_about_our_rigs_being_space_heaters_so/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-18T05:40:13+00:00",
+   "summary": "With winter coming up where I'm at, I wanted to see if this could actually work. Running my 4x V620 server flat out made my apartment too hot anyway, so the problem really was control. I settled on using a motherboard temperature sensor with an offset cause cases get hot. It works well enough but I want an esp32 based…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
    "uid": "bccf413b71b6d830",
    "title": "Ling 3.1 Flash (560B MoE) loaded across 4 DGX Sparks using llama.cpp RPC",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8v7cp/ling_31_flash_560b_moe_loaded_across_4_dgx_sparks/",
@@ -310,6 +371,67 @@
    ]
   },
   {
+   "uid": "93c97b1657bf4934",
+   "title": "Muse Spark on M3U 256 GB",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8qvaj/muse_spark_on_m3u_256_gb/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-18T01:35:44+00:00",
+   "summary": "Instead of counting 'hmm' on DeepSeek v4.1 Flash 1017, I today clamped Muse Spark Open 816B-A42B to ds4. This was the first successful run, FTW, that made it to decode... 4 t/s! #RoastMe. I'm hoping it will 4-5x with any luck. I'll obvs be running larger prefill chunks too (pre-metal leftovers), but I'm not expecting…",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "bba2b3b16c8f9094",
+   "title": "DeepSeek V4.1 Flash 1017 on 2x DGX Spark: 57 tok/s text, 92 tok/s code with TensorFold (2.1-2.3x the vLLM kit)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8q6t6/deepseek_v41_flash_1017_on_2x_dgx_spark_57_toks/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-18T01:00:38+00:00",
+   "summary": "**TL;DR:** DeepSeek-V4.1-Flash-1017 (EXL3 2.9bpw, 1M context) on 2x DGX Spark, TP=2 over the CX7 cable. TensorFold is 2.1-2.3x faster than the vLLM kit on the same pair, same weights, same prompts, same day. vLLM kit TensorFold Decode, text 27.0 tok/s **56.8 tok/s** Decode, code 39.9 tok/s **92.2 tok/s** Needle in 64K…",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "821af24b3a5aa55a",
+   "title": "Basalt: NVFP4 + faster prefill for Qwen3.8 Flash-Next on Blackwell (single 5090)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8piwz/basalt_nvfp4_faster_prefill_for_qwen38_flashnext/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-18T00:26:36+00:00",
+   "summary": "Basalt: Qwen 3.8 FN NVFP4, single 5090 Hi guys, so I finally got a RAM upgrade and have been working on the top two pain points from Basalt: NVFP4 support and faster prefill. NVFP4: Basalt runs NVFP4 natively now, a new .basalt pack keeps stock NVIDIA experts and stores the dense layers as Q6_K. Numbers for a 5090…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "1da5bcc2ccd1fab5",
+   "title": "DeepSeek V4.1 Flash 1017 vs V4.1 Flash, Pi vs DeepSeek Harness: results on my 10 coding tasks",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8mq6f/deepseek_v41_flash_1017_vs_v41_flash_pi_vs/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-17T22:12:31+00:00",
+   "summary": "TL;DR: I ran the new DeepSeek V4.1 Flash 1017 on my personal coding benchmark, and it’s really good: 100% on high for under 5 cents a task. Tokens, cache hit, time and more for all 34 setups are on the leaderboard. Hi everyone. I work on coding agents and evals at Nebius. I keep a small benchmark built from my own…",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "7d603ea9237ee15f",
+   "title": "Qwen Flash Next on Mac Mini is runnable without maxing out your memory - results of different memory usage for ssd streaming",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8m9rg/qwen_flash_next_on_mac_mini_is_runnable_without/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-17T21:51:58+00:00",
+   "summary": "This is from my recent side project to optimise inference of QFN (edit-q4) on a Mac Mini M5 64gb. I’ve known for a while it could be somewhat resilient to using less Gib, as the majority of the work is how to load experts from SSD into memory before they are needed. The prompt processing uses a carousel buffering…",
+   "matched": [
+    "qwen",
+    "inference"
+   ]
+  },
+  {
    "uid": "65efb027602d9222",
    "title": "Xolotl (Strata based) - DeepSeek-V4.1-Flash (552B) on a single 4090 at ~27 tok/s, Uncensored 1017 quant coming in a couple of days",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8m0jj/xolotl_strata_based_deepseekv41flash_552b_on_a/",
@@ -320,6 +442,18 @@
    "matched": [
     "deepseek",
     "inference"
+   ]
+  },
+  {
+   "uid": "5827c7abb6791edd",
+   "title": "AnimLang, Built simple workflow/repo for creating animation using LLM (GSAP, ThreeJS, and Manim)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8lovk/animlang_built_simple_workflowrepo_for_creating/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-10-17T21:25:30+00:00",
+   "summary": "So after playing arround with capability of Strata GSQ-RCO Coder vs Unsloth IQ4, many of such test are creating animation. Welp turns out it somewhat created good animation and also comment from reddit asking for the same stuff https://www.reddit.com/r/LocalLLaMA/comments/1x8am0i/comment/phca9t3/ , so I might as well.…",
+   "matched": [
+    "llm"
    ]
   },
   {
@@ -1480,144 +1614,7 @@
    "matched": [
     "claude"
    ]
-  },
-  {
-   "uid": "dda91acd5b9553af",
-   "title": "langfuse/langfuse v4.61.0",
-   "url": "https://github.com/langfuse/langfuse/releases/tag/v4.61.0",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-10-16T08:20:32+00:00",
-   "summary": "## What's Changed ### Features * feat(topics): unify manual trace processing and topic generation by @LysanderKie in https://github.com/langfuse/langfuse/pull/18840 * feat(ingestion): measure synchronous OTEL work and preparation codepaths by @sumerman in https://github.com/langfuse/langfuse/pull/18844 * feat: Add status information on integrations screen directly by @jordibosch20 in…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "89e0257ff370a44c",
-   "title": "New paper from Stanford, Together AI, UIUC, and Meta introduces Hybrid Reasoning Agents. These AI models think mostly in a hidden internal way (faster and cheaper), and only use normal text when they…",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7a8i8/new_paper_from_stanford_together_ai_uiuc_and_meta/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-10-16T07:58:04+00:00",
-   "summary": "On many tests (math, science, medicine, etc.), they score about 10% higher, use half the tokens, run twice as fast, and cost much less than regular models. mod here, paper link: [2610.18861] Hybrid Reasoning Agents original post on tech_x. EDIT: This method is an adaptation for current word-space reasoning llm. You…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "320eeaf1ac5a864e",
-   "title": "cpu : reduce AVX2 tiled accumulators together by trivalik · Pull Request #30296 · ggml-org/llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7a59i/cpu_reduce_avx2_tiled_accumulators_together_by/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-10-16T07:52:47+00:00",
-   "summary": "More t/s on CPU, For GPU poor people submitted by /u/jacek2023 [link] [comments]",
-   "matched": [
-    "llama"
-   ]
-  },
-  {
-   "uid": "8d2900de11a46128",
-   "title": "⭐ 405 · LingCore/WinShun (C++)",
-   "url": "https://github.com/LingCore/WinShun",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-10-16T07:28:11+00:00",
-   "summary": "Win顺：免费开源的 Windows 快速搜索启动器。双击 Ctrl，拼音秒搜文件、全文搜索 Word/Excel/PDF、剪贴板历史（代替 Win+V）、对话框搜索、任务栏搜索、插件、AI 助手 MCP。Free Windows search launcher: pinyin file search, full-text search, clipboard history, MCP server. Everything/Listary alternative.",
-   "matched": [
-    "mcp"
-   ]
-  },
-  {
-   "uid": "092569c8c6fa7a03",
-   "title": "⭐ 184 · anujasid/mcp-for-blender-pro (Python)",
-   "url": "https://github.com/anujasid/mcp-for-blender-pro",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-10-16T07:12:20+00:00",
-   "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, model selection, multi-agent workflows. Works with OpenAI, Claude, Gemini, Ollama and OpenCode. Blender AI automation, bpy scripting, 3D modeling, geometry nodes and MCP integration.",
-   "matched": [
-    "claude",
-    "gemini",
-    "mcp"
-   ]
-  },
-  {
-   "uid": "098a4f1a54290525",
-   "title": "⭐ 164 · hanzohanzhe/Grandet (JavaScript)",
-   "url": "https://github.com/hanzohanzhe/Grandet",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-10-16T07:11:08+00:00",
-   "summary": "Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed by listed prices from 1,800+ official, inference and relay providers on grandet.ai.",
-   "matched": [
-    "inference",
-    "mcp"
-   ]
-  },
-  {
-   "uid": "40751d7dba45b434",
-   "title": "⭐ 192 · Graphicle-AI/graphicle (Rust)",
-   "url": "https://github.com/Graphicle-AI/graphicle",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-10-16T04:53:07+00:00",
-   "summary": "Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.",
-   "matched": [
-    "claude",
-    "mcp",
-    "claude code"
-   ]
-  },
-  {
-   "uid": "765b52409d8a9985",
-   "title": "BlenderWorld Benchmark from Alibaba",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x76d8l/blenderworld_benchmark_from_alibaba/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-10-16T04:05:22+00:00",
-   "summary": "Alibaba's Qwen team released a new repository on Wednesday, October 14, 2026. Its goal is to measure how well visual agents can create 3D scenes in Blender based on real-world references. https://github.com/QwenLM/BlenderWorld I think this is a good sign. Companies often build benchmarks in the areas where they plan…",
-   "matched": [
-    "qwen"
-   ]
-  },
-  {
-   "uid": "09307ca38e4da1a1",
-   "title": "AlphaRLM: Aligning Language Models for Literature-Grounded Symbolic Factor Discovery",
-   "url": "https://arxiv.org/abs/2610.14959",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-10-16T04:00:00+00:00",
-   "summary": "arXiv:2610.14959v3 Announce Type: replace-cross Abstract: Formulaic alpha mining seeks to discover executable expressions that capture predictive market signals in a vast, noisy search space. Recent LLM-based approaches use prompting, iterative search, or seed-factor evolution, leaving direct factor construction…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "ae9bc507204edb81",
-   "title": "DefoliationCAM: An Edge-AI System for Real-Time Insect Defoliation Severity Assessment in Grapevines",
-   "url": "https://arxiv.org/abs/2610.20879",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-10-16T04:00:00+00:00",
-   "summary": "arXiv:2610.20879v1 Announce Type: new Abstract: Insect-induced defoliation threatens grapevine health and yield, yet severity assessment relies on subjective manual scouting. We developed DefoliationCAM (D-CAM), a solar-powered edge AI system that estimates canopy defoliation and transmits results via LoRa to a web…",
-   "matched": [
-    "lora"
-   ]
-  },
-  {
-   "uid": "eb03e078b1a3ec61",
-   "title": "Pixels to Tokens: Token Space Efficient Active Learning for Low-Budget Semantic Segmentation",
-   "url": "https://arxiv.org/abs/2610.20881",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-10-16T04:00:00+00:00",
-   "summary": "arXiv:2610.20881v1 Announce Type: new Abstract: While foundation models and vision transformers (ViTs) have redefined visual representations, current active learning (AL) strategies for these backbones largely operate at the patch or region level, where annotation requirements remain high due to extensive pixel…",
-   "matched": [
-    "segmentation"
-   ]
   }
  ],
- "last_run": "2026-10-18T11:33:24.588757+00:00"
+ "last_run": "2026-10-18T19:32:07.028750+00:00"
 }
