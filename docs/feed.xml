@@ -5,8 +5,116 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-10-25T11:54:24Z</updated>
+  <updated>2026-10-25T19:52:04Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11887 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11887"/>
+    <id>urn:uuid:5b5cdd56c6f537c6</id>
+    <updated>2026-10-25T18:34:11Z</updated>
+    <published>2026-10-25T18:34:11Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;tests : adjust default threads for test-llama-context (#31157) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11887/llama-b11887-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11887"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11886 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11886"/>
+    <id>urn:uuid:36486df140bac7aa</id>
+    <updated>2026-10-25T18:16:53Z</updated>
+    <published>2026-10-25T18:16:53Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;qwen: merge tensors on convert (#31028) * qwen: merge tensors on convert * convert: use generator functions * qwen4exp: remove conts and pre-scale **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11886/llama-b11886-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11886"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11884 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11884"/>
+    <id>urn:uuid:e37a7dfcf3335c4d</id>
+    <updated>2026-10-25T17:55:58Z</updated>
+    <published>2026-10-25T17:55:58Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;llama: fix exhausting CPU and MEM caused by dry sequence breaker (#31035) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11884/llama-b11884-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11884"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11883 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11883"/>
+    <id>urn:uuid:63c0b50de9c99757</id>
+    <updated>2026-10-25T17:26:01Z</updated>
+    <published>2026-10-25T17:26:01Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;llama-quant : fix 4D tensor quantization using ggml_nrows() and name-based expert detection (#30820) * llama-quant : fix quantizing 4D tensors nrows_total was ne[1]*ne[2], so for a 4D tensor only the first ne[2] slices were quantized and the rest of the rows were dropped. Use ggml_nrows(tensor) to count all rows, including ne[3]. Fixes #29916 * llama-quant : detect expert tensors by name and fix…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11883"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b11882 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11882"/>
+    <id>urn:uuid:d0efca28443475fe</id>
+    <updated>2026-10-25T17:06:07Z</updated>
+    <published>2026-10-25T17:06:07Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;grammar: limit recursion depth to prevent stack overflow (#29495) (#29755) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11882/llama-b11882-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11882"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 4x v620 in a LLM generated and 3d printed chassis</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xf7b46/4x_v620_in_a_llm_generated_and_3d_printed_chassis/"/>
+    <id>urn:uuid:b33c196a543e8d86</id>
+    <updated>2026-10-25T16:47:52Z</updated>
+    <published>2026-10-25T16:47:52Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;submitted by /u/PraxisOG [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xf7b46/4x_v620_in_a_llm_generated_and_3d_printed_chassis/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 qwen: merge tensors on convert by am17an · Pull Request #31028 · ggml-org/llama.cpp</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xf716t/qwen_merge_tensors_on_convert_by_am17an_pull/"/>
+    <id>urn:uuid:08e3e3cba22caf8d</id>
+    <updated>2026-10-25T16:37:07Z</updated>
+    <published>2026-10-25T16:37:07Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;...time to reconvert GGUFs? submitted by /u/jacek2023 [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama, qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xf716t/qwen_merge_tensors_on_convert_by_am17an_pull/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 The minimum size of an LLM to generate a little meaningful convo</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xf4sxg/the_minimum_size_of_an_llm_to_generate_a_little/"/>
+    <id>urn:uuid:d6313666524e6ac0</id>
+    <updated>2026-10-25T15:09:15Z</updated>
+    <published>2026-10-25T15:09:15Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I am trying to find the smallest model to generate something in normal English, it could be like AI generated, but it should be mostly grammar correct, sensible in the context. I hope it could be less than 10M to be easy for CPU, so I tested some like Supra-Mini-v6-1M. well it's not good enough. ```output // its out…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xf4sxg/the_minimum_size_of_an_llm_to_generate_a_little/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ultralytics/ultralytics v8.4.189 — v8.4.189 - `ultralytics 8.4.189` Fix IMX requirements, Hailo seg end nodes and unreadable-dataset errors (#26883)</title>
+    <link href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.189"/>
+    <id>urn:uuid:543c04b3886891fb</id>
+    <updated>2026-10-25T13:24:25Z</updated>
+    <published>2026-10-25T13:24:25Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## 🌟 Summary **Ultralytics 8.4.189 improves deployment reliability and inference robustness**, with key fixes for Sony IMX500 and Hailo exports, clearer dataset errors, and safer handling of model outputs. No model architecture changes were introduced. ## 📊 Key Changes - **More reliable IMX500 exports:** Updated converter requirements and aligned dependency versions. IMX500 export is now…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.189"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Lure-TTS and Lure-Turbo: 600M voice models to run 4x faster than real time, with inline (tags), direction, and voice cloning. Trained for under $200.</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xf14j2/luretts_and_lureturbo_600m_voice_models_to_run_4x/"/>
+    <id>urn:uuid:288ddb54594a0e2d</id>
+    <updated>2026-10-25T12:29:32Z</updated>
+    <published>2026-10-25T12:29:32Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I trained Lure TTS by finetuning Qwen3-TTS using some of the latest developments in model training, such as RLVR, OPD, and multi-teacher OPD. My goal was to create a faster, smaller TTS model that I could listen to as a voice assistant and not get angry at it. Mostly, I just wanted a faster model that sounded good so…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: finetuning&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xf14j2/luretts_and_lureturbo_600m_voice_models_to_run_4x/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Backup your quants!</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xf11qj/backup_your_quants/"/>
+    <id>urn:uuid:9ed0558dde25e1e3</id>
+    <updated>2026-10-25T12:25:39Z</updated>
+    <published>2026-10-25T12:25:39Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;source: https://huggingface.co/mradermacher/model_requests I'm sure the situation is the same for other quant producers. If you have anything you want to keep, it's best to make a backup now. If you have the means to, please create torrents of them and share them here: https://llama.garden https://pirateface.co/models…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xf11qj/backup_your_quants/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Nanbeige/Nanbeige4.3-33B · Hugging Face</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xf0kz4/nanbeigenanbeige4333b_hugging_face/"/>
+    <id>urn:uuid:75b6f94253df2612</id>
+    <updated>2026-10-25T12:01:34Z</updated>
+    <published>2026-10-25T12:01:34Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Stronger than Qwen3.8-27B across a range of benchmarks. but also lays the necessary foundation to power our upcoming small model distillation pipeline (e.g., for Nanbeige4.3-3B). It'll distilled into their 3B small models, maybe other sizes too. submitted by /u/Mysterious_Finish543 [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xf0kz4/nanbeigenanbeige4333b_hugging_face/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 xingkongliang/skills-manager</title>
     <link href="https://github.com/xingkongliang/skills-manager"/>
@@ -98,6 +206,24 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS Agent Toolkit for AWS Help AI coding agents build, deploy, and manage applications on AWS. The Agent Toolkit for AWS gives AI coding agents the tools, knowledge, and guardrails they need to work with AWS services. It works with the…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/aws/agent-toolkit-for-aws"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 CUDA: fuse FFN gate/up matmuls and GLU in MMQ with interleaved gate/up rows by anujj · Pull Request #29948 · ggml-org/llama.cpp</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xey0uw/cuda_fuse_ffn_gateup_matmuls_and_glu_in_mmq_with/"/>
+    <id>urn:uuid:2ce2bfc927615b40</id>
+    <updated>2026-10-25T09:35:12Z</updated>
+    <published>2026-10-25T09:35:12Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;time to download some speedup DGX Spark (GB10), llama-bench -ngl 999 -fa on -p 16384 -n 0 -b 2048 -ub 2048 -ctk f16 -ctv f16 -r 5 , tok/s: model type master PR Qwen3.8-27B Q4_K_M 840.1 899.9 +7.1% Q5_K_M 840.1 880.6 +4.8% Q6_K 751.2 785.8 +4.6% Q8_0 876.2 940.1 +7.3% IQ4_XS 882.4 948.0 +7.4% Qwen3.6-27B Q4_K_M 816.6…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xey0uw/cuda_fuse_ffn_gateup_matmuls_and_glu_in_mmq_with/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 About running deepseek 4.1 flash</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xexi6v/about_running_deepseek_41_flash/"/>
+    <id>urn:uuid:14be4f1e48d7b4c8</id>
+    <updated>2026-10-25T09:02:25Z</updated>
+    <published>2026-10-25T09:02:25Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Lately I tested (via api) deepseek 4.1 flash. I like it quite a lot. What is the minimum budget needed to setup and run deepseek 4.1 flash at the same quality and token/s (~40) of most hosted solutions? I'd use it mostly for coding/reverse engineering/security analysis. So I need enough juice to support its full…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xexi6v/about_running_deepseek_41_flash/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>🚀 ggml-org/llama.cpp b11871 (pre)</title>
     <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11871"/>
     <id>urn:uuid:087e7785723472d6</id>
@@ -114,6 +240,15 @@
     <published>2026-10-25T06:10:59Z</published>
     <category term="NEWS"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I’m sharing an early version of a 4B model I’m training for general coding and 3D scene generation. Small models have been pretty rough at 3D in my tests. I’ve finally made enough progress to get results like the ones in this video, so I wanted to share a preview with the community. It’s an independent fine-tune of…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tune&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xeuo7t/a_4b_coding_model_that_can_generate_3d_scenes/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 358 · Graphicle-AI/graphicle (Rust)</title>
+    <link href="https://github.com/Graphicle-AI/graphicle"/>
+    <id>urn:uuid:40751d7dba45b434</id>
+    <updated>2026-10-25T05:55:11Z</updated>
+    <published>2026-10-25T05:55:11Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, mcp, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Graphicle-AI/graphicle"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📰 Too good to be true? ISTA's GSQ-RCO 2-bit DeepSeek-V4.1-Flash scoring the same as the base model</title>
@@ -584,6 +719,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;mtmd : add Soprano TTS support (#28607) Add Soprano-80M and Soprano-1.1-80M (https://huggingface.co/ekwek/Soprano-1.1-80M) as an audio generation model: a Qwen3 backbone plus a Vocos decoder that runs as a gen-only mmproj. - convert: detect Soprano checkpoints and export the backbone as qwen3 and the decoder.pth Vocos weights as the mmproj - vocab: add the soprano pre-tokenizer (lowercase,…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11850"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📦 ⭐ 223 · jouaaaaaa/mcd-self-butler (Python)</title>
+    <link href="https://github.com/jouaaaaaa/mcd-self-butler"/>
+    <id>urn:uuid:9d5a2ef85992989d</id>
+    <updated>2026-10-24T04:39:19Z</updated>
+    <published>2026-10-24T04:39:19Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;麦当劳自助管家 McButler — 基于麦当劳 MCP 的点单参谋：每日推荐 / 套餐健康体检 / 门店全成本比价 / 团餐智能配餐 / 麦险分信用评级 / 麦门小剧场。麦当劳 1024 程序员节参赛作品。&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jouaaaaaa/mcd-self-butler"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>🚀 ultralytics/ultralytics v8.4.185 — v8.4.185 - Load MNN on glibc 2.41+ by clearing its unused executable-stack flag (#26861)</title>
     <link href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.185"/>
     <id>urn:uuid:58d4f9ca137c15b0</id>
@@ -917,6 +1061,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;guys, you better just clone llama.cpp I swear. this thing is running gguf q4 paged into webgl2 embedded compute buffers via glsl right inside html, and tokenizer/vocab is just part of the endless debug hell. submitted by /u/CodeMichaelD [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xdh57e/vibecoding_your_own_inference_engine_is_easy_they/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📦 ⭐ 235 · vercel-labs/durable-harness (TypeScript)</title>
+    <link href="https://github.com/vercel-labs/durable-harness"/>
+    <id>urn:uuid:904155204ac6d1f5</id>
+    <updated>2026-10-23T15:24:06Z</updated>
+    <published>2026-10-23T15:24:06Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Durable coding-agent harnesses (Claude Code, Codex, OpenCode, Pi, fx) on a Workflow SDK World&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/vercel-labs/durable-harness"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>📰 Small post about what are the unlocks for RTX consumer GPUs, which ones are affected, in which tasks and which ones are feasible to do an unlock.</title>
     <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xdg0v0/small_post_about_what_are_the_unlocks_for_rtx/"/>
     <id>urn:uuid:d95a292c8a54d3ac</id>
@@ -933,158 +1086,5 @@
     <published>2026-10-23T14:22:29Z</published>
     <category term="RELEASE"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;Changes since cli==0.4.37 * release(cli): 0.4.38 (#9411) * feat(cli): add the priority section to langgraph.json (#9393) * chore(deps): bump uv from 0.11.15 to 0.13.4 in /libs/cli (#9366) * chore(deps): bump certifi from 2026.2.25 to 2026.10.19 in /libs/cli (#9374) * chore(deps): bump the uv group across 2 directories with 1 update (#9373) * fix(cli): patch missed brace-expansion dependency…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/langchain-ai/langgraph/releases/tag/cli%3D%3D0.4.38"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 langchain-ai/langgraph sdk==0.4.9 — langgraph-sdk==0.4.9</title>
-    <link href="https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.9"/>
-    <id>urn:uuid:59f3d632102fa727</id>
-    <updated>2026-10-23T14:19:24Z</updated>
-    <published>2026-10-23T14:19:24Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;Changes since sdk==0.4.8 * release(sdk-py): 0.4.9 (#9398) * feat(sdk-py): add Priority for thread priority settings (#9392) * chore(deps): remove precautionary third-party upper bounds (#9390) * chore(deps): bump certifi from 2026.2.25 to 2026.10.19 in /libs/sdk-py (#9370) * chore(deps-dev): bump dotenv from 17.4.2 to 18.0.4 in /libs/cli/js-examples in the major group (#9154) * chore(deps-dev):…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.9"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 langfuse/langfuse v4.69.0</title>
-    <link href="https://github.com/langfuse/langfuse/releases/tag/v4.69.0"/>
-    <id>urn:uuid:18b02806bff1666b</id>
-    <updated>2026-10-23T14:03:13Z</updated>
-    <published>2026-10-23T14:03:13Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's Changed ### Features * feat(ai-gateway): show per-tool setup instructions after creating a gateway key by @wochinge in https://github.com/langfuse/langfuse/pull/19186 * feat(topics): write rules as target trace transcript by @marliessophie in https://github.com/langfuse/langfuse/pull/19236 * feat(blob-storage): add an outbound host allowlist for blob storage endpoints by @niklassemmler…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/langfuse/langfuse/releases/tag/v4.69.0"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Probability of backdoors in popular harnesses and LLM inference engines</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xdeg0n/probability_of_backdoors_in_popular_harnesses_and/"/>
-    <id>urn:uuid:335e9fb409a2844b</id>
-    <updated>2026-10-23T13:44:17Z</updated>
-    <published>2026-10-23T13:44:17Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Let's put things into perspective: Remember, for example, the xz utils ssh backdoor in 2024? They almost managed to pull it off, and that was in the most observed codebase of the planet. It was caught almost by chance by someone working on something unrelated. Read about it if you don't realize how fragile the whole…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xdeg0n/probability_of_backdoors_in_popular_harnesses_and/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b11838 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11838"/>
-    <id>urn:uuid:4870117f24fda21f</id>
-    <updated>2026-10-23T13:37:01Z</updated>
-    <published>2026-10-23T13:37:01Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;ggml : fix time overflow in ggml_time_us (#30969) * fix time overflow * use double **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11838/llama-b11838-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11838"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 anthropics/anthropic-sdk-python v2.2.0</title>
-    <link href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.2.0"/>
-    <id>urn:uuid:170646a279fd71ef</id>
-    <updated>2026-10-23T13:10:10Z</updated>
-    <published>2026-10-23T13:10:10Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;### Features * **api:** add support for message threads * **api:** add usage and cost reports by dimension, mark older reports legacy ### Bug Fixes * **client:** stop suggesting math.inf in the max_retries error message * **tools:** leave the tool runner's history to the caller after `append_messages()`, and keep the current reply out of the `set_messages_params()` callback * **tools:** keep…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.2.0"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 everything will be local eventually</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xdcpxb/everything_will_be_local_eventually/"/>
-    <id>urn:uuid:6c71606b5e34309f</id>
-    <updated>2026-10-23T12:31:21Z</updated>
-    <published>2026-10-23T12:31:21Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I know current llms like opus 5.5 are in a league of their own. but we all know they're losing a shti ton of money with their subscriptions. ALSO we all know how tasks like OCR, segmentation etc are getting solved by single digit B parameter models. I'm not saying llms are a gimmick but I'm saying the future is…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: opus, ocr, segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xdcpxb/everything_will_be_local_eventually/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 agentgateway/agentgateway</title>
-    <link href="https://github.com/agentgateway/agentgateway"/>
-    <id>urn:uuid:1fa7b95d5bd66a40</id>
-    <updated>2026-10-23T11:54:54Z</updated>
-    <published>2026-10-23T11:54:54Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Rust&lt;/p&gt;&lt;p&gt;Next Generation Agentic Proxy for AI Agents and MCP servers https://agentgateway.dev The first complete connectivity solution for Agentic AI. Agentgateway is an open source proxy built on AI-native protocols ( MCP A2A ) that provides drop-in security, observability, and governance for agent-to-LLM, agent-to-tool, and…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, mcp, agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/agentgateway/agentgateway"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 CopilotKit/OpenBot</title>
-    <link href="https://github.com/CopilotKit/OpenBot"/>
-    <id>urn:uuid:56980cb019d61c1a</id>
-    <updated>2026-10-23T11:54:54Z</updated>
-    <published>2026-10-23T11:54:54Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — TypeScript&lt;/p&gt;&lt;p&gt;Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. https://www.copilotkit.ai/openbot OpenBot The AI assistant your company can actually own. Same shape as ChatGPT, Claude or Grok, with one…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/CopilotKit/OpenBot"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 EveryInc/compound-engineering-plugin</title>
-    <link href="https://github.com/EveryInc/compound-engineering-plugin"/>
-    <id>urn:uuid:f5879f9b9e60ebfe</id>
-    <updated>2026-10-23T11:54:54Z</updated>
-    <published>2026-10-23T11:54:54Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — TypeScript&lt;/p&gt;&lt;p&gt;Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more https://every.to/compound-engineering Compound Engineering AI skills that make each unit of engineering work easier than the last. Compound Engineering is a plugin of 36 skills for AI coding agents. It structures the work around a loop —…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/EveryInc/compound-engineering-plugin"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 bowenliang123/dsh-context</title>
-    <link href="https://github.com/bowenliang123/dsh-context"/>
-    <id>urn:uuid:a5ad4c32b355d40a</id>
-    <updated>2026-10-23T11:54:54Z</updated>
-    <published>2026-10-23T11:54:54Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — TypeScript&lt;/p&gt;&lt;p&gt;The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, agent teams, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/bowenliang123/dsh-context"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 genspark-ai/genoffice</title>
-    <link href="https://github.com/genspark-ai/genoffice"/>
-    <id>urn:uuid:00537e1c76c4b3c1</id>
-    <updated>2026-10-23T11:54:54Z</updated>
-    <published>2026-10-23T11:54:54Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — TypeScript&lt;/p&gt;&lt;p&gt;Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows &amp;amp; Linux. https://genoffice.ai/ GenOffice…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/genspark-ai/genoffice"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 onyx-dot-app/onyx</title>
-    <link href="https://github.com/onyx-dot-app/onyx"/>
-    <id>urn:uuid:63dfec0ebc0a6235</id>
-    <updated>2026-10-23T11:54:53Z</updated>
-    <published>2026-10-23T11:54:53Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;Open Source AI Platform - AI Chat with advanced features that works with every LLM https://onyx.app Onyx - The context layer powered by all your apps "LLMs know about everything public, but what if it could also know what's going on in our team? I want an AI coworker, not an AI new hire." Onyx is the knowledge/context…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/onyx-dot-app/onyx"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 BerriAI/litellm</title>
-    <link href="https://github.com/BerriAI/litellm"/>
-    <id>urn:uuid:ff8526abf5c2c0c0</id>
-    <updated>2026-10-23T11:54:53Z</updated>
-    <published>2026-10-23T11:54:53Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM] https://docs.litellm.ai/docs/ 🚅 LiteLLM LiteLLM AI Gateway Open Source AI…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic, llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/BerriAI/litellm"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Maya-XS runs DeepSeek-V4.1-Flash in 120.6 GB, with all 384 experts resident in GPU memory on a 128 GB Ryzen AI Max.</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xdbtvq/mayaxs_runs_deepseekv41flash_in_1206_gb_with_all/"/>
-    <id>urn:uuid:c258f6b72486d463</id>
-    <updated>2026-10-23T11:49:10Z</updated>
-    <published>2026-10-23T11:49:10Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;DeepSeek-V4.1-Flash gets Maya-XS - the whole model in a 128 GB PC's memory - tensor parallel on several GPUs, and much faster drafting on one GPU. submitted by /u/DotaMate [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xdbtvq/mayaxs_runs_deepseekv41flash_in_1206_gb_with_all/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Swedish government offices to ban ChatGPT and Claude</title>
-    <link href="https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet"/>
-    <id>urn:uuid:bd5301f69f59bfde</id>
-    <updated>2026-10-23T11:39:54Z</updated>
-    <published>2026-10-23T11:39:54Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 310 # Comments: 114&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Securing our frontier model training environment</title>
-    <link href="https://openai.com/index/securing-our-frontier-model-training-environment"/>
-    <id>urn:uuid:601a16deb460e056</id>
-    <updated>2026-10-23T10:00:00Z</updated>
-    <published>2026-10-23T10:00:00Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/securing-our-frontier-model-training-environment"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b11836 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11836"/>
-    <id>urn:uuid:33df52ecbc99357a</id>
-    <updated>2026-10-23T08:20:06Z</updated>
-    <published>2026-10-23T08:20:06Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;CANN: missing `const` qualifiers added for consistency (#30933) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11836/llama-b11836-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11836"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
