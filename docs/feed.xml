@@ -5,8 +5,116 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-10-31T12:56:30Z</updated>
+  <updated>2026-10-31T20:35:05Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>📦 nightly-labs/openbot</title>
+    <link href="https://github.com/nightly-labs/openbot"/>
+    <id>urn:uuid:f538265cce89e59f</id>
+    <updated>2026-10-31T20:34:50Z</updated>
+    <published>2026-10-31T20:34:50Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — TypeScript&lt;/p&gt;&lt;p&gt;A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. https://openbot.run/ OpenBot OpenBot is a local-first desktop workspace for persistent AI teammates. It supports the local…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/nightly-labs/openbot"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 JetBrains/thinkrail</title>
+    <link href="https://github.com/JetBrains/thinkrail"/>
+    <id>urn:uuid:72f236f01dea62f6</id>
+    <updated>2026-10-31T20:34:50Z</updated>
+    <published>2026-10-31T20:34:50Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — TypeScript&lt;/p&gt;&lt;p&gt;Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need https://thinkrail.ai/ ThinkRail ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow. We built a…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/JetBrains/thinkrail"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 An LLM inside an LLM - Same guy who put a RISK-V CPU inside Qwen has now made Karpathy's stories260k run on an NPU compiled inside Qwen 3.5-4B's weights</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xkiuut/an_llm_inside_an_llm_same_guy_who_put_a_riskv_cpu/"/>
+    <id>urn:uuid:074ce11a47c9f5e0</id>
+    <updated>2026-10-31T19:18:53Z</updated>
+    <published>2026-10-31T19:18:53Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Code: https://github.com/divagr18/QwenPU Weights: https://huggingface.co/divagr1925/QwenPU From the original tweet : 1/3 A CPU inside an LLM is one thing, but running another LLM inside an LLM would be taking things a bit too far, wouldn't it? Anyways, here's an LLM running inside an LLM : QwenPU, an LLM (@karpathy's…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen, llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xkiuut/an_llm_inside_an_llm_same_guy_who_put_a_riskv_cpu/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12023 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12023"/>
+    <id>urn:uuid:ab4f59e3f41a4dad</id>
+    <updated>2026-10-31T19:18:38Z</updated>
+    <published>2026-10-31T19:18:38Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;server: cap shared decision prefixes at the first output (#30710) Limit the shared prefix to the first required output position of the parent and each child task. This keeps decision output embeddings available in the final batch when questions share option tokens. Fixes #30482 Signed-off-by: aiqubits **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12023"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12022 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12022"/>
+    <id>urn:uuid:3bd7f04872209805</id>
+    <updated>2026-10-31T18:59:44Z</updated>
+    <published>2026-10-31T18:59:44Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;server : fix /v1/responses endpoint to accept extra_params (#30959) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12022/llama-b12022-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12022"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 CrowdGPT v2.6 - The collaborative LLM</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xkibxw/crowdgpt_v26_the_collaborative_llm/"/>
+    <id>urn:uuid:cb257fe26a5e5248</id>
+    <updated>2026-10-31T18:57:36Z</updated>
+    <published>2026-10-31T18:57:36Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;For those who saw the original post , a week ago, I'm glad to announce CrowdGPT v2 (more precisely v2.6), a massive update to the original CrowdGPT project :D (scroll down to see what's new) For the newcomers: CrowdGPT is a project aiming to create a LLM without datacenters and without the usual millions of dollars…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xkibxw/crowdgpt_v26_the_collaborative_llm/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12021 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12021"/>
+    <id>urn:uuid:be91d493f6519000</id>
+    <updated>2026-10-31T18:42:29Z</updated>
+    <published>2026-10-31T18:42:29Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;mtmd : resize Gemma 4 images without letterbox padding (#30922) * mtmd : resize Gemma 4 images without letterbox padding * Apply suggestion from @ngxson --------- Co-authored-by: Xuan-Son Nguyen **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12021/llama-b12021-bin-macos-arm64.tar.gz) - macOS Apple Silicon…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12021"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Betelgeuse running Qwen 3.8 Flash Next IQ4_XS at 24 tok/s on 2x8GB DDR4 (14 tok/s on a single 16GB stick) + RTX 3060 12GB — 0 dropped experts, 100% byte-exact</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xkh2ns/betelgeuse_running_qwen_38_flash_next_iq4_xs_at/"/>
+    <id>urn:uuid:a569b88845e325b0</id>
+    <updated>2026-10-31T18:06:52Z</updated>
+    <published>2026-10-31T18:06:52Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;In my last thread on Betelgeuse ( bel-cli / bel-server ), the main pushback in the comments was: Okay cool, 22 tok/s on IQ2_XS , but 2-bit is too low—what happens on an actual 4-bit quant like IQ4_XS where the experts are almost 2x larger? Why were you testing on a single 16GB stick of DDR4 instead of normal…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xkh2ns/betelgeuse_running_qwen_38_flash_next_iq4_xs_at/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ultralytics/ultralytics v8.4.195 — v8.4.195 - `ultralytics 8.4.195` Add Python 3.15 CI and classifier (#26975)</title>
+    <link href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.195"/>
+    <id>urn:uuid:26db4b18efec012a</id>
+    <updated>2026-10-31T18:05:20Z</updated>
+    <published>2026-10-31T18:05:20Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## 🌟 Summary **v8.4.195 adds early Python 3.15 compatibility checks, fixes AutoBatch profiling on older PyTorch versions, and improves documentation accuracy across hundreds of pages.** ## 📊 Key Changes - 🐍 **Python 3.15 CI support:** Adds a Linux/Python 3.15 test job and the Python 3.15 package classifier. Since ONNX Runtime and OpenVINO do not yet provide Python 3.15 wheels, the job installs a…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.195"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 "Spent a lot on my rig but I can only run Gemma 4"</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xkcyn6/spent_a_lot_on_my_rig_but_i_can_only_run_gemma_4/"/>
+    <id>urn:uuid:be78f61956b40ae2</id>
+    <updated>2026-10-31T15:22:08Z</updated>
+    <published>2026-10-31T15:22:08Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;The satellite, which carries four Google Tensor Processing Units (TPUs) and generates up to 1 kW of electricity, is intended to pave the way for future networks of close-flying satellites performing large inference workloads in orbit. However, the power demands of the TPU mean it can only turn one on for about 20…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xkcyn6/spent_a_lot_on_my_rig_but_i_can_only_run_gemma_4/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 [Guide] Ternary Bonsai 2 is finally 100% working on ik_llama.cpp (Native CUDA offload + Fast CPU -rtr)</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xkcg2y/guide_ternary_bonsai_2_is_finally_100_working_on/"/>
+    <id>urn:uuid:04e2da006a461255</id>
+    <updated>2026-10-31T15:01:18Z</updated>
+    <published>2026-10-31T15:01:18Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Hey folks, Quick heads up for anyone playing around with PrismML's Ternary Bonsai 2! Until very recently, running it outside of Prism's own fork was a bit of a pain. Upstream llama.cpp uses a block size of QK=256 (TQ2_0), while Prism uses QK=128 (PQ2_0), and trying to offload layers to CUDA on other forks would…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xkcg2y/guide_ternary_bonsai_2_is_finally_100_working_on/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 NVIDIA Nemotron 3.5 Bolt E4B 4GB (post-trained Gemma 4 E4B)</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xkcdlz/nvidia_nemotron_35_bolt_e4b_4gb_posttrained_gemma/"/>
+    <id>urn:uuid:4963f4ee6d5d5e06</id>
+    <updated>2026-10-31T14:58:49Z</updated>
+    <published>2026-10-31T14:58:49Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Bolt E4B builds on Gemma 4 E4B with Nemotron post-training. It combines natural conversation with multi-turn agentic capabilities to power voice/device assistants, interactive characters and robotic/IoT interfaces running on NVIDIA GeForce RTX, Jetson, RTX Spark and DGX Spark. Bolt E4B offers ~40% higher average…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xkcdlz/nvidia_nemotron_35_bolt_e4b_4gb_posttrained_gemma/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 rivet-dev/rivet</title>
     <link href="https://github.com/rivet-dev/rivet"/>
@@ -89,6 +197,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/hevnsnt/CVEngine"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 Betelgeuse: Running Qwen 3.8 Flash Next at 22 tok/s sustained (spiking to 48 tok/s) on an RTX 3060 12GB + 16GB DDR4 RAM 100% bit-exact!</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xk8s6z/betelgeuse_running_qwen_38_flash_next_at_22_toks/"/>
+    <id>urn:uuid:ae1d75da83ca612a</id>
+    <updated>2026-10-31T12:20:02Z</updated>
+    <published>2026-10-31T12:20:02Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;About two months ago I posted here about trying to predict which MoE experts get used on the next token to speed up CPU/GPU offload on Qwen 3.6 35B. Quick confession on that older post before anything else: I ended up throwing that prototype away. To get the big numbers I was seeing back then, I was basically cheating…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xk8s6z/betelgeuse_running_qwen_38_flash_next_at_22_toks/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>📦 ⭐ 129 · wanghao-SunSky/cs329z-chinese (HTML)</title>
     <link href="https://github.com/wanghao-SunSky/cs329z-chinese"/>
     <id>urn:uuid:236621e9c8e04edd</id>
@@ -105,6 +222,15 @@
     <published>2026-10-31T08:07:49Z</published>
     <category term="RELEASE"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;opencl: add fwht (#31434) Co-authored-by: Li He **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12020/llama-b12020-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12020"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 46 · glincker/awesome-selfhosted-ai (JavaScript)</title>
+    <link href="https://github.com/glincker/awesome-selfhosted-ai"/>
+    <id>urn:uuid:a5ce7e35572a2c4d</id>
+    <updated>2026-10-31T07:07:45Z</updated>
+    <published>2026-10-31T07:07:45Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Curated list of self-hosted open-source AI: local LLMs, chat UIs, agents, MCP servers, RAG, speech and image generation. Health-checked weekly, dead projects removed automatically.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: rag, mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/glincker/awesome-selfhosted-ai"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📦 ⭐ 177 · YOLOW92/pagesift (Rust)</title>
@@ -141,6 +267,15 @@
     <published>2026-10-31T02:21:58Z</published>
     <category term="RELEASE"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;sycl: fix f32 to q2_0/q4_0/q5_0 rounding in CPY (#31120) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12018/llama-b12018-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12018"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 A few predictions on Qwen4 HC and Quantization while we wait</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xjy0uv/a_few_predictions_on_qwen4_hc_and_quantization/"/>
+    <id>urn:uuid:5e27b57bab602864</id>
+    <updated>2026-10-31T01:58:21Z</updated>
+    <published>2026-10-31T01:58:21Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I previously wrote about the shift to 4-way HC. Traditionally, optimization has focused primarily on FFN and Attention. With the HC architecture, however, residual stream mixing and information preservation must also be taken into account when optimizing for quality, model size, and speed. NVFP4 may distort the…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: quantization&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xjy0uv/a_few_predictions_on_qwen4_hc_and_quantization/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>🚀 anthropics/claude-agent-sdk-python v0.2.176</title>
@@ -231,6 +366,15 @@
     <published>2026-10-30T21:12:56Z</published>
     <category term="REPO"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jackwener/DSH-Android"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Understanding llama.cpp Context Checkpoints for Sliding Window Attention Models</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xjr54i/understanding_llamacpp_context_checkpoints_for/"/>
+    <id>urn:uuid:54c8277e93c62d78</id>
+    <updated>2026-10-30T20:55:44Z</updated>
+    <published>2026-10-30T20:55:44Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I was figuring out a llama.cpp crash when running Gemma 4 12B, and it turned out the crash was a OOM crash, from running out of RAM, not VRAM. The culprit ended up being context checkpoints piling up while I was stress testing the setup. I didn't actually know what these checkpoints where or how Sliding Window…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xjr54i/understanding_llamacpp_context_checkpoints_for/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>🚀 ggml-org/llama.cpp b12017 (pre)</title>
@@ -942,149 +1086,5 @@
     <published>2026-10-29T14:11:42Z</published>
     <category term="NEWS"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;submitted by /u/Few_Painter_5588 [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mistral&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xil3qy/mistral_large_4_le_chonk_is_now_open_weight/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Quoting Ben Hylak</title>
-    <link href="https://simonwillison.net/2026/Oct/29/ben-hylak/"/>
-    <id>urn:uuid:049a76ac9439bbd0</id>
-    <updated>2026-10-29T14:06:27Z</updated>
-    <published>2026-10-29T14:06:27Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Simon Willison&lt;/p&gt;&lt;p&gt;every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us very much. we're special that way. Ben Hylak Tags: model-context-protocol , ai&lt;/p&gt;&lt;p&gt;&lt;a href="https://simonwillison.net/2026/Oct/29/ben-hylak/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Granite Switch 4.1.1 — Update models like you update software</title>
-    <link href="https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"/>
-    <id>urn:uuid:f654d99d5028b028</id>
-    <updated>2026-10-29T13:37:07Z</updated>
-    <published>2026-10-29T13:37:07Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hugging Face Blog&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 209 · yjid/kensaku (Rust)</title>
-    <link href="https://github.com/yjid/kensaku"/>
-    <id>urn:uuid:588cdb166759e4ce</id>
-    <updated>2026-10-29T13:35:58Z</updated>
-    <published>2026-10-29T13:35:58Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp, ocr&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/yjid/kensaku"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 vercel-labs/agent-browser</title>
-    <link href="https://github.com/vercel-labs/agent-browser"/>
-    <id>urn:uuid:e5b44a600947456e</id>
-    <updated>2026-10-29T13:30:22Z</updated>
-    <published>2026-10-29T13:30:22Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Rust&lt;/p&gt;&lt;p&gt;Browser automation CLI for AI agents https://agent-browser.dev agent-browser Browser automation CLI for AI agents. Fast native Rust CLI. Installation Global Installation (recommended) Installs the native Rust binary: npm install -g agent-browser agent-browser install # Download Chrome from Chrome for Testing (first…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: browser automation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/vercel-labs/agent-browser"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 cocoindex-io/cocoindex</title>
-    <link href="https://github.com/cocoindex-io/cocoindex"/>
-    <id>urn:uuid:c51e9116e7a8e555</id>
-    <updated>2026-10-29T13:30:22Z</updated>
-    <published>2026-10-29T13:30:22Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Rust&lt;/p&gt;&lt;p&gt;Incremental engine for long horizon agents 🌟 Star if you like it! https://cocoindex.io Your agents deserve fresh context. Star us ❤️ → · · · CocoIndex turns codebases, meeting notes, inboxes, Slack, PDFs, and videos into live, continuously fresh context for your AI agents and LLM apps to reason over effectively — with…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/cocoindex-io/cocoindex"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 trymirai/uzu</title>
-    <link href="https://github.com/trymirai/uzu"/>
-    <id>urn:uuid:30a2fcd47dbe5abd</id>
-    <updated>2026-10-29T13:30:22Z</updated>
-    <published>2026-10-29T13:30:22Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Rust&lt;/p&gt;&lt;p&gt;A high-performance inference engine for AI models https://trymirai.com uzu A high-performance inference engine for AI models. It allows you to deploy AI directly in your app with zero latency , full data privacy , and no inference costs . Key features: Simple, high-level API Unified model configurations, making it…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/trymirai/uzu"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 t8y2/dbx</title>
-    <link href="https://github.com/t8y2/dbx"/>
-    <id>urn:uuid:033673d93afab129</id>
-    <updated>2026-10-29T13:30:22Z</updated>
-    <published>2026-10-29T13:30:22Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Rust&lt;/p&gt;&lt;p&gt;25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/t8y2/dbx"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ParadevAI/Paradev</title>
-    <link href="https://github.com/ParadevAI/Paradev"/>
-    <id>urn:uuid:d593970933a3d7d1</id>
-    <updated>2026-10-29T13:30:21Z</updated>
-    <published>2026-10-29T13:30:21Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — TypeScript&lt;/p&gt;&lt;p&gt;Paradev (formerly Superset) is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription. https://paradev.com Paradev Run Claude Code, Codex, or another CLI agent with terminals, code review, and browser previews in one workspace. Download for macOS • Documentation •…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, agentic, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ParadevAI/Paradev"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 Yeachan-Heo/oh-my-claudecode</title>
-    <link href="https://github.com/Yeachan-Heo/oh-my-claudecode"/>
-    <id>urn:uuid:9e0fb5f83ea34558</id>
-    <updated>2026-10-29T13:30:21Z</updated>
-    <published>2026-10-29T13:30:21Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — TypeScript&lt;/p&gt;&lt;p&gt;Teams-first Multi-agent orchestration for Claude Code https://oh-my-claudecode.dev English | 한국어 | 中文 | 日本語 | Español | Tiếng Việt | Português oh-my-claudecode For Codex users: Check out oh-my-codex — the same orchestration experience for OpenAI Codex CLI. Liked OmC but found it a bit overkill? Try gajae-code . Keeps…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Yeachan-Heo/oh-my-claudecode"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 thedotmack/claude-mem</title>
-    <link href="https://github.com/thedotmack/claude-mem"/>
-    <id>urn:uuid:53c35e35b462f3e6</id>
-    <updated>2026-10-29T13:30:21Z</updated>
-    <published>2026-10-29T13:30:21Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — TypeScript&lt;/p&gt;&lt;p&gt;Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More https://claude-mem.ai 🇨🇳 中文 • 🇹🇼 繁體中文 • 🇯🇵 日本語 • 🇵🇹…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, gemini, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/thedotmack/claude-mem"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 Alishahryar1/free-claude-code</title>
-    <link href="https://github.com/Alishahryar1/free-claude-code"/>
-    <id>urn:uuid:6450ce2b2e286244</id>
-    <updated>2026-10-29T13:30:21Z</updated>
-    <published>2026-10-29T13:30:21Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly) Quick Start · Providers · Clients…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Alishahryar1/free-claude-code"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 baidu/Unlimited-OCR</title>
-    <link href="https://github.com/baidu/Unlimited-OCR"/>
-    <id>urn:uuid:8190ebc813bbef6f</id>
-    <updated>2026-10-29T13:30:21Z</updated>
-    <published>2026-10-29T13:30:21Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. Unlimited OCR Works Pioneering the OCR-3.0 Era: From Long- to Unlimited-Horizon Parsing. Release [2026/10/28] Thanks to the ms-swift community for supporting training of Unlimited OCR 2 . [2026/10/27] 📊 We release MarathonDocBench , a new benchmark…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: ocr&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/baidu/Unlimited-OCR"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b11982 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b11982"/>
-    <id>urn:uuid:f0cac84620338006</id>
-    <updated>2026-10-29T12:17:04Z</updated>
-    <published>2026-10-29T12:17:04Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;hexagon: support for UPSCALE op (#31331) * hex-upscale: basic upscale ops (not fully vectorized) * hex-upscale: optimize nearest 2x, 4x and bilinear 4x * hex-upscale: add support for non-contig rows and dims collapsing * hex-upscale: use vgather instead of scalar staging * hex-upscale: move all kernel select logic to the host, review comments and cleanups * tests: add permuted UPSCALE test to…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b11982"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Worried about Qwen 4 License</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xifjn2/worried_about_qwen_4_license/"/>
-    <id>urn:uuid:3ae0e53269a80249</id>
-    <updated>2026-10-29T09:48:21Z</updated>
-    <published>2026-10-29T09:48:21Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;After Alibaba moved from Permissive OSS licenses to its own custom license with IMO ambiguous terms in models like Qwen3.8-Flash-Next, is there any indication this will carry forward into Qwen4? While that license at first reads permissive for local/internal use, fine-tuning and derivatives, it’s definitely not…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen, fine-tuning&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xifjn2/worried_about_qwen_4_license/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 HemmingwayAI/Hemmingway-1.5 (Qwen finetune)</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xif7hy/hemmingwayaihemmingway15_qwen_finetune/"/>
-    <id>urn:uuid:2130cf394053ca10</id>
-    <updated>2026-10-29T09:27:19Z</updated>
-    <published>2026-10-29T09:27:19Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;https://huggingface.co/bartowski/HemmingwayAI_Hemmingway-1.5-GGUF from hemmingwayAI: Hemmingway-1.5 The undetectable AI. Writing indistinguishable from a human's. 27B parameters, open weights, free for non-commercial use. hemmingway.io → · Model card → · Try it → · API → · API docs → · Mac, Windows and Android apps →…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xif7hy/hemmingwayaihemmingway15_qwen_finetune/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 296 · ChannelCooperStart/capri-ai (?)</title>
-    <link href="https://github.com/ChannelCooperStart/capri-ai"/>
-    <id>urn:uuid:44ecaeb2331326d2</id>
-    <updated>2026-10-29T09:21:20Z</updated>
-    <published>2026-10-29T09:21:20Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity &amp;amp; more.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ChannelCooperStart/capri-ai"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
