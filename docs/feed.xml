@@ -5,8 +5,80 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-11-01T13:41:19Z</updated>
+  <updated>2026-11-01T21:19:36Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>📰 tandem.cpp: Qwen3.8-Flash-Next at 97 tok/s on a single 4090 + 64 GB RAM, 3.3× llama.cpp, works for any MoE</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xldent/tandemcpp_qwen38flashnext_at_97_toks_on_a_single/"/>
+    <id>urn:uuid:6a13d199d8477eb8</id>
+    <updated>2026-11-01T20:23:50Z</updated>
+    <published>2026-11-01T20:23:50Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;tandem.cpp is a patch set for llama.cpp that makes MoE models that don't fit in VRAM run faster. It keeps the most-used experts on the GPU and lets the CPU help with the rest, for any MoE model llama.cpp supports. Single-user decode is the target. Consumer PC (i5-12400F, 64 GB DDR4, RTX 4090), GSM8K, decode tok/s:…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xldent/tandemcpp_qwen38flashnext_at_97_toks_on_a_single/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 315 · modelflare-ai/AnyModelBot (TypeScript)</title>
+    <link href="https://github.com/modelflare-ai/AnyModelBot"/>
+    <id>urn:uuid:5da14d9338c202ae</id>
+    <updated>2026-11-01T18:42:28Z</updated>
+    <published>2026-11-01T18:42:28Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, gemini, deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/modelflare-ai/AnyModelBot"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Silencio-2: an 18M TTS with emotion and sound tags, ~20x realtime on CPU (open weights)</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xl9yfi/silencio2_an_18m_tts_with_emotion_and_sound_tags/"/>
+    <id>urn:uuid:a0af68d49110ec63</id>
+    <updated>2026-11-01T18:07:34Z</updated>
+    <published>2026-11-01T18:07:34Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I made this, so treat it as biased. It is free and open, with no paid tier or API behind it. Silencio-2 is a fine-tune of Kyutai's Pocket TTS 18M that follows tags written inside the text: What a long day. [sigh] whisper Keep your voice down. whisper Keep your voice down. angry I said stop! Weights and code:…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tune&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xl9yfi/silencio2_an_18m_tts_with_emotion_and_sound_tags/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Quoting Kyle Kingsbury</title>
+    <link href="https://simonwillison.net/2026/Nov/1/kyle-kingsbury/"/>
+    <id>urn:uuid:c40011f3c5ad5fdc</id>
+    <updated>2026-11-01T16:49:04Z</updated>
+    <published>2026-11-01T16:49:04Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Simon Willison&lt;/p&gt;&lt;p&gt;More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...] In the age of LLMs, what…&lt;/p&gt;&lt;p&gt;&lt;a href="https://simonwillison.net/2026/Nov/1/kyle-kingsbury/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 4741 · heydamir/unslop (JavaScript)</title>
+    <link href="https://github.com/heydamir/unslop"/>
+    <id>urn:uuid:7dfa13222dcfc9aa</id>
+    <updated>2026-11-01T16:46:10Z</updated>
+    <published>2026-11-01T16:46:10Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;A Claude skill that turns vibecoded, AI-looking UI into a designed interface&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/heydamir/unslop"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 LFM3-1.7b seems impressive</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xl64ho/lfm317b_seems_impressive/"/>
+    <id>urn:uuid:30db916f5f7a9bf7</id>
+    <updated>2026-11-01T15:38:15Z</updated>
+    <published>2026-11-01T15:38:15Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Been testing Liquid's LFM3-1.7B (Q8_0 GGUF, llama.cpp, ROCm) as a candidate for compression and summarization work 4.1k t/s prefill and ~78 t/s decode on a Strix Halo iGPU ~7.1k / ~151 if you tensor-split it across a 7900 XTX + XT its way more coherent at decent sized prompts (32k-64k) then 1.7b deserves to be imo…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xl64ho/lfm317b_seems_impressive/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 [Release] Drex Max v1: Open-weight 27B multimodal decision model, 262K context, local inference on Apple Silicon</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xl5yfs/release_drex_max_v1_openweight_27b_multimodal/"/>
+    <id>urn:uuid:f9c3e2cdabb639c6</id>
+    <updated>2026-11-01T15:31:15Z</updated>
+    <published>2026-11-01T15:31:15Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;hey llamas, we open-sourced Drex-Max v1 at Nace.AI. it's a dense 27B multimodal decision model, released under Open RAIL-M. the main difference from a normal LLM is that it doesn't generate anything. no tokens, no JSON to parse. you give it a context state (text, JSON, high-res images) plus one or more named…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xl5yfs/release_drex_max_v1_openweight_27b_multimodal/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Infernix - New Release!</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xl4pf6/infernix_new_release/"/>
+    <id>urn:uuid:8f8a579a3779a39c</id>
+    <updated>2026-11-01T14:40:04Z</updated>
+    <published>2026-11-01T14:40:04Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Over the past few weeks, I've been working on various improvements to my inference engine Infernix - specifically optimised for running the latest Qwen architecture models on an RTX5090 on Windows and Linux. Windows is a first-class supported use case - you can just download everything you need to run on windows here:…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xl4pf6/infernix_new_release/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 vercel-labs/agent-browser</title>
     <link href="https://github.com/vercel-labs/agent-browser"/>
@@ -105,6 +177,15 @@
     <published>2026-11-01T12:36:14Z</published>
     <category term="NEWS"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;DeepSeek Harness article on 𝕏: Exploring Super-agent Design: Towards a More Autonomous Agent System: https://x.com/DeepSeekHarness/status/2116857257245987236 Parts of the design in this article are implemented in dsh-superagent-prototype. This plugin is only a prototype for validating the technical approach, not an…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xl1zn3/deepseek_exploring_superagent_design_towards_a/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Are bespoke inference engines overhyped? My Strata experience on 2× R9700</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xl0oqz/are_bespoke_inference_engines_overhyped_my_strata/"/>
+    <id>urn:uuid:7028d730f88e5a46</id>
+    <updated>2026-11-01T11:24:34Z</updated>
+    <published>2026-11-01T11:24:34Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;My intention was to find a setup at least equal to qwen 3.8 27b Q8 MTP but with a larger context. Ideally 1M. I was already running Next Flash in Q2 with llama. Good for conversational use but not for coding. Q4 would run but too slow. I did read many reports here on the good performance of strata with qwen next…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama, qwen, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xl0oqz/are_bespoke_inference_engines_overhyped_my_strata/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📦 ⭐ 190 · wici-ai/inferssd (C++)</title>
@@ -233,6 +314,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Simon Willison&lt;/p&gt;&lt;p&gt;How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this "Canvas" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's…&lt;/p&gt;&lt;p&gt;&lt;a href="https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 Since we're sharing addiction stories.</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xko42y/since_were_sharing_addiction_stories/"/>
+    <id>urn:uuid:6d8df6814a238ef5</id>
+    <updated>2026-10-31T23:12:45Z</updated>
+    <published>2026-10-31T23:12:45Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Been running a 3060ti and 32GB for a hot minute now, jumping between local models and subscription plans. Got Qwen 3.8 FN up and running on this old gaming system and it's just such an impressive model. The prefills are never going to work though. So I spent the past few days looking at a lot of different options,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xko42y/since_were_sharing_addiction_stories/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>🚀 ultralytics/ultralytics v8.4.196 — v8.4.196 - `ultralytics 8.4.196` Improve ONNX INT8 accuracy with per-channel weight quantization (#26978)</title>
     <link href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.196"/>
     <id>urn:uuid:733bad755d2706e2</id>
@@ -269,6 +359,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Simon Willison&lt;/p&gt;&lt;p&gt;Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly…&lt;/p&gt;&lt;p&gt;&lt;a href="https://simonwillison.net/2026/Oct/31/datasette-llm/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 Anthropic takes steps to block Claude from reverse-engineering video games</title>
+    <link href="https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering"/>
+    <id>urn:uuid:1dd066dac9f64aa5</id>
+    <updated>2026-10-31T21:07:58Z</updated>
+    <published>2026-10-31T21:07:58Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50320255 Points: 176 # Comments: 111&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, anthropic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>📦 nightly-labs/openbot</title>
     <link href="https://github.com/nightly-labs/openbot"/>
     <id>urn:uuid:f538265cce89e59f</id>
@@ -294,6 +393,15 @@
     <published>2026-10-31T20:28:53Z</published>
     <category term="NEWS"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Hi everyone! I've been experimenting with Strata for a while now, running it on a system with a Ryzen 7 9800X3D, RTX 4090, and 64 GB of RAM . I'm currently using Qwen Flash Next , and I have a few questions about model quantization. Since my hardware is right at the edge of what's practical for running this model, I'd…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen, quantization&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xkkjov/strata_qfn_gsqrco1_iq_s3_nvfp4_unsloth_udiq4_xs/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Anthropic blocks users for anything touching training larger models</title>
+    <link href="https://twitter.com/jiahaoshao1/status/2116475922190922088"/>
+    <id>urn:uuid:b4ca48befc0fbb6e</id>
+    <updated>2026-10-31T19:39:19Z</updated>
+    <published>2026-10-31T19:39:19Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://twitter.com/jiahaoshao1/status/2116475922190922088 Comments URL: https://news.ycombinator.com/item?id=50319358 Points: 441 # Comments: 247&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://twitter.com/jiahaoshao1/status/2116475922190922088"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📰 An LLM inside an LLM - Same guy who put a RISK-V CPU inside Qwen has now made Karpathy's stories260k run on an NPU compiled inside Qwen 3.5-4B's weights</title>
@@ -395,6 +503,24 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Bolt E4B builds on Gemma 4 E4B with Nemotron post-training. It combines natural conversation with multi-turn agentic capabilities to power voice/device assistants, interactive characters and robotic/IoT interfaces running on NVIDIA GeForce RTX, Jetson, RTX Spark and DGX Spark. Bolt E4B offers ~40% higher average…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xkcdlz/nvidia_nemotron_35_bolt_e4b_4gb_posttrained_gemma/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 AI startup hacks Anthropic, gains access to employee details, internal messages</title>
+    <link href="https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26"/>
+    <id>urn:uuid:cb65bce2e7ee64a5</id>
+    <updated>2026-10-31T13:25:10Z</updated>
+    <published>2026-10-31T13:25:10Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26 Comments URL: https://news.ycombinator.com/item?id=50315990 Points: 74 # Comments: 18&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Anthropic's Claude AI blocks video game cloning and reverse-engineering</title>
+    <link href="https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked"/>
+    <id>urn:uuid:4c90eae2007c8865</id>
+    <updated>2026-10-31T13:25:00Z</updated>
+    <published>2026-10-31T13:25:00Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked Comments URL: https://news.ycombinator.com/item?id=50315987 Points: 72 #…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, anthropic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>📦 rivet-dev/rivet</title>
     <link href="https://github.com/rivet-dev/rivet"/>
     <id>urn:uuid:7413dc1fb366cf04</id>
@@ -474,6 +600,15 @@
     <published>2026-10-31T12:55:19Z</published>
     <category term="REPO"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/hevnsnt/CVEngine"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Why Anthropic's filing crushed tech stocks</title>
+    <link href="https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech"/>
+    <id>urn:uuid:b0bc1a94543f7e60</id>
+    <updated>2026-10-31T12:32:10Z</updated>
+    <published>2026-10-31T12:32:10Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech Comments URL: https://news.ycombinator.com/item?id=50315574 Points: 53 # Comments: 79&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📰 Betelgeuse: Running Qwen 3.8 Flash Next at 22 tok/s sustained (spiking to 48 tok/s) on an RTX 3060 12GB + 16GB DDR4 RAM 100% bit-exact!</title>
@@ -600,6 +735,15 @@
     <published>2026-10-30T23:27:24Z</published>
     <category term="RELEASE"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's Changed ### ⚠️ Compatibility Notes * Raise an error status a retrying transport gave up on as `ModelHTTPError`, so fallback moves on by @DouweM in https://github.com/pydantic/pydantic-ai/pull/11934 * Send stored response, item, conversation and container IDs back only to the endpoint that created them, via `Model.accepts_server_state` by @DouweM in…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/pydantic/pydantic-ai/releases/tag/v2.64.0"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Anthropic to receive high 'junk' rating from credit agencies following IPO</title>
+    <link href="https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"/>
+    <id>urn:uuid:9f60675eab8c8591</id>
+    <updated>2026-10-30T23:08:12Z</updated>
+    <published>2026-10-30T23:08:12Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/ Comments URL: https://news.ycombinator.com/item?id=50311311 Points: 102 # Comments: 78&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>🚀 langchain-ai/langgraph 1.2.19 — langgraph==1.2.19</title>
@@ -942,149 +1086,5 @@
     <published>2026-10-30T12:05:30Z</published>
     <category term="REPO"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ccch1mneyyy/dsh-Go"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b12003 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12003"/>
-    <id>urn:uuid:975fc5a2cf33fb60</id>
-    <updated>2026-10-30T11:46:38Z</updated>
-    <published>2026-10-30T11:46:38Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;sycl: FLASH_ATTN_EXT failures (#30761) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12003/llama-b12003-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12003"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xjclj9/official_claude_code_vs_code_extension/"/>
-    <id>urn:uuid:7dfcfd1e70262533</id>
-    <updated>2026-10-30T11:18:18Z</updated>
-    <published>2026-10-30T11:18:18Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Cybersecurity researchers have disclosed that the official Anthropic Claude Code extension was compromised on the Cursor Marketplace to install a persistent SSH backdoor on infected hosts. Two sources: https://phorion.io/blog/offical-claude-code-vsx-compromise/…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, anthropic, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xjclj9/official_claude_code_vs_code_extension/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Backdoors in official Claude Code extensions</title>
-    <link href="https://cyberplace.social/@GossiTheDog/117528831681803563"/>
-    <id>urn:uuid:e1d78ec2b65c59b6</id>
-    <updated>2026-10-30T11:05:53Z</updated>
-    <published>2026-10-30T11:05:53Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 649 # Comments: 17&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://cyberplace.social/@GossiTheDog/117528831681803563"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b12002 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12002"/>
-    <id>urn:uuid:e61b214530564192</id>
-    <updated>2026-10-30T11:00:32Z</updated>
-    <published>2026-10-30T11:00:32Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;ggml : add batched tensor copy API (#30881) * ggml : add generic batched tensor copy API Assisted-by: pi:llama.cpp/ggml-org/DeepSeek-V4-Flash-Vision-Exp-GGUF (Mac Studio, M2 Ultra, 192GB) * llama : use batched tensor copy API in context io Assisted-by: pi:llama.cpp/ggml-org/DeepSeek-V4-Flash-Vision-Exp-GGUF (Mac Studio, M2 Ultra, 192GB) * ggml : add batched tensor copy API Assisted-by:…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12002"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 [Paper] Multi-Token Prediction Done Right - Soft-MTP</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xjc8q3/paper_multitoken_prediction_done_right_softmtp/"/>
-    <id>urn:uuid:317817ff52ca6887</id>
-    <updated>2026-10-30T10:59:11Z</updated>
-    <published>2026-10-30T10:59:11Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Multi-Token Prediction (MTP) is now a common ingredient in language-model pre-training, as it improves downstream performance and enables faster inference through speculative decoding. We identify a flaw in standard MTP training, in which a residual component of the MTP gradient interferes with both next-token and…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xjc8q3/paper_multitoken_prediction_done_right_softmtp/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 49 · pipedude/yahont-ce (Python)</title>
-    <link href="https://github.com/pipedude/yahont-ce"/>
-    <id>urn:uuid:d1e9d2f174cd251d</id>
-    <updated>2026-10-30T10:35:27Z</updated>
-    <published>2026-10-30T10:35:27Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Self-hosted AI-платформа с расширенными возможностями: RAG, агенты, веб-поиск, исследования, коннекторы, любые LLM и гибкие настройки&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, rag&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/pipedude/yahont-ce"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Claude Code VS Code extension with backdoor released on Cursor marketplace</title>
-    <link href="https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2"/>
-    <id>urn:uuid:1581fd74e4266a76</id>
-    <updated>2026-10-30T10:22:51Z</updated>
-    <published>2026-10-30T10:22:51Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2 Comments URL: https://news.ycombinator.com/item?id=50301983 Points: 397 # Comments: 1&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, anthropic, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 huggingface/transformers v5.22.1 — Patch release v5.22.1</title>
-    <link href="https://github.com/huggingface/transformers/releases/tag/v5.22.1"/>
-    <id>urn:uuid:45ebee6898c7ce67</id>
-    <updated>2026-10-30T09:36:03Z</updated>
-    <published>2026-10-30T09:36:03Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;# Patch release v5.22.1 We just had to fix the documentation! ** [Fix] Remove WIP doc for Ml4 (https://github.com/huggingface/transformers/pull/50124) from @remi-or&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/huggingface/transformers/releases/tag/v5.22.1"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Making it easier for websites to express AI training preferences</title>
-    <link href="https://openai.com/index/helping-websites-express-ai-training-preferences"/>
-    <id>urn:uuid:149fff86800f24a0</id>
-    <updated>2026-10-30T09:30:00Z</updated>
-    <published>2026-10-30T09:30:00Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/helping-websites-express-ai-training-preferences"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Community safety report and new protections for teens</title>
-    <link href="https://openai.com/index/community-safety-report-and-new-protections-for-teens"/>
-    <id>urn:uuid:070e7a75d818a391</id>
-    <updated>2026-10-30T09:00:00Z</updated>
-    <published>2026-10-30T09:00:00Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/community-safety-report-and-new-protections-for-teens"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b12001 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12001"/>
-    <id>urn:uuid:d32b35105e072b3a</id>
-    <updated>2026-10-30T07:41:34Z</updated>
-    <published>2026-10-30T07:41:34Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;ROCm/HIP: add RDNA4_M family for gfx1170/gfx1171 (#31373) gfx117X is more like RDNA4, with 128b WMMA. But they're not identical. Adjust the defines accordingly to have a new RDNA4_M and use it where it makes sense. Assisted-by: Codex Assisted-by: GitHub Copilot Co-authored-by: Mario Limonciello **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12001"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 1891 · Ansub/tv-detox (Java)</title>
-    <link href="https://github.com/Ansub/tv-detox"/>
-    <id>urn:uuid:82be072587f5da8b</id>
-    <updated>2026-10-30T07:16:25Z</updated>
-    <published>2026-10-30T07:16:25Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Ansub/tv-detox"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Backdoor in Claude Code for VS Code extension on the Cursor Marketplace</title>
-    <link href="https://phorion.io/blog/offical-claude-code-vsx-compromise/"/>
-    <id>urn:uuid:d26c9c1a9261257a</id>
-    <updated>2026-10-30T07:09:12Z</updated>
-    <published>2026-10-30T07:09:12Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 656 # Comments: 425&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://phorion.io/blog/offical-claude-code-vsx-compromise/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 439 · yjid/kensaku (Rust)</title>
-    <link href="https://github.com/yjid/kensaku"/>
-    <id>urn:uuid:588cdb166759e4ce</id>
-    <updated>2026-10-30T05:08:22Z</updated>
-    <published>2026-10-30T05:08:22Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp, ocr&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/yjid/kensaku"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Guys I think I found our GPUs</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xj4qi0/guys_i_think_i_found_our_gpus/"/>
-    <id>urn:uuid:354fbf3d62f0c07a</id>
-    <updated>2026-10-30T03:25:34Z</updated>
-    <published>2026-10-30T03:25:34Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;From a data center near you, you could find a lot in stock of unused gpu for your Local LLM that we could’ve only dreamed of. Let’s hope maybe they will file a return or maybe you know a hook up. Glad to see they are being put to use collecting dust. Anywho I’m kinda amazed to get an idea where some of our hardware…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xj4qi0/guys_i_think_i_found_our_gpus/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 495 · actionow-ai/vvv (Python)</title>
-    <link href="https://github.com/actionow-ai/vvv"/>
-    <id>urn:uuid:880b59a8d436df91</id>
-    <updated>2026-10-30T02:22:12Z</updated>
-    <published>2026-10-30T02:22:12Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;一次构建视频模板，多次复用：给 Claude Code、Codex 等 25+ 个 Agent 的开源可编辑婚礼视频模板与 Agent Skill。Build a video template once, reuse it across coding agents.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/actionow-ai/vvv"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
