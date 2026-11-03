@@ -1,5 +1,36 @@
 {
  "seen": [
+  "f9305921ba25364c",
+  "37a18753534f5c14",
+  "318ad11799c39e8f",
+  "ce1e130314ca731b",
+  "33d5ebbd605714ac",
+  "32b5d08ae6b26c11",
+  "bc83293207e54076",
+  "5432fcfae663b868",
+  "503129087cce82a4",
+  "d6d1bec212dce386",
+  "2578a6d75c5d6032",
+  "4943c48ac282cd48",
+  "4e4e9bf9186000d5",
+  "355bae0c25e5bd18",
+  "857404388b77d4eb",
+  "e2c77039c2f3ac66",
+  "3cc9092b6cef6805",
+  "5b9ebb98a74af11b",
+  "ba9ed7d6dc8b5f59",
+  "cc9ce87a3ec78107",
+  "3d6e05dc74049d70",
+  "f315541036d93088",
+  "73b2d8729afc1f96",
+  "8dcd69b958117920",
+  "3bc8295838915c83",
+  "eff2e9fd0ecdfdaa",
+  "f3dfb744dea2eec6",
+  "35708fa5965c841e",
+  "08bef051d4ef4b42",
+  "31d974904ace6256",
+  "0fa6aa66c3add1b3",
   "626b60b9cdb8c4d0",
   "f69285900b8f7081",
   "e5b44a600947456e",
@@ -11,6 +42,7 @@
   "808e1873b6f1032d",
   "cc552b0e7e570cb7",
   "78fedc641446aca6",
+  "61fa61a53ae1badb",
   "3de07d8ad65aa5a2",
   "23b40ba76be9664f",
   "2b90df19cea0ac51",
@@ -23,12 +55,16 @@
   "b1c1d61b51ff9e10",
   "c83bf6814a3c2ff6",
   "08b6668ece6d77c4",
+  "4940a948db79e93b",
   "abe97f30dc2cf4f9",
   "1bb3a339bd8331d0",
   "070ea8dfb5000f06",
   "c382b757467f02ee",
+  "900534a8e1b265c8",
   "5da14d9338c202ae",
   "68c6d34affc0b366",
+  "20a82a178ba7d875",
+  "a247ecee84bbd569",
   "9d6c573981c91152",
   "285380bcf1f3199c",
   "90d20d57e695d2c1",
@@ -83,45 +119,395 @@
   "3d3d59e287143604",
   "fad93f9abab95c06",
   "45eaf2561b3016f4",
-  "0e55377fc120f0d8",
-  "90ebc432a7dd84e7",
-  "ca2fef96f9bfec7e",
-  "72771c84e31d9024",
-  "249a3b7be5167717",
-  "4af03e67e31ddb79",
-  "78833ad0736d2304",
-  "431de885e32f0d4e",
-  "05046ca8edc810ab",
-  "4dadce4623d38792",
-  "5ab451e2fc9ee7f3",
-  "91db29b9e6349f72",
-  "2251286ff1ac97d6",
-  "b83922c06905fa7f",
-  "dafbf0339cf763d2",
-  "4a381134d7b087ee",
-  "6c9b7b852f12a364",
-  "d402956c0e3d8d38",
-  "94b418090b9f9e68",
-  "5b1a92e1eb782e70",
-  "24914d697d6932a6",
-  "807b614739a6d027",
-  "859719e59d9ce57c",
-  "5db5569c3e4ee562",
-  "5d9ca6083a61bed8",
-  "cab777b4afaa5a1f",
-  "f71c813c6e650f25",
-  "b45c3077bf4886d2",
-  "c9d4d0ee17377373",
-  "bf1d0db306378954",
-  "7da48d2a397e0ebd",
-  "5f2ffa5bd4b2a9ab",
-  "7d10c11616e4f263",
-  "1997c7c77786ae5f",
-  "ccafa59aa7caacbd",
-  "f8dcb6af720f63b0",
-  "0f2d6757275643ec"
+  "0e55377fc120f0d8"
  ],
  "items": [
+  {
+   "uid": "f9305921ba25364c",
+   "title": "kgoedecke/doop",
+   "url": "https://github.com/kgoedecke/doop",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-11-03T14:31:16.117457+00:00",
+   "summary": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in. https://doop.design Doop is the open-source alternative to Paper.design — a multiplayer design canvas for humans and AI agents. Every design lives on a shareable Canvas ( /c/ id )…",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "37a18753534f5c14",
+   "title": "vercel-labs/skills",
+   "url": "https://github.com/vercel-labs/skills",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-11-03T14:31:16.116748+00:00",
+   "summary": "The open agent skills tool - npx skills https://skills.sh skills The CLI for the open agent skills ecosystem. Agent skills are reusable instructions that teach coding agents how to perform tasks, from reviewing code to working with a library. Discover skills at skills.sh . Supports OpenCode , Claude Code , Codex ,…",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "318ad11799c39e8f",
+   "title": "mksglu/context-mode",
+   "url": "https://github.com/mksglu/context-mode",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-11-03T14:31:16.110722+00:00",
+   "summary": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry. https://contextmode.ai/?utm_source=github utm_medium=about Context…",
+   "matched": [
+    "claude",
+    "gemini",
+    "context window",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "ce1e130314ca731b",
+   "title": "cheaper-inference/OmniRoute",
+   "url": "https://github.com/cheaper-inference/OmniRoute",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-11-03T14:31:16.106388+00:00",
+   "summary": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+…",
+   "matched": [
+    "claude",
+    "gemini",
+    "deepseek",
+    "inference",
+    "mcp",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "33d5ebbd605714ac",
+   "title": "mvschwarz/openrig",
+   "url": "https://github.com/mvschwarz/openrig",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-11-03T14:31:16.103894+00:00",
+   "summary": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. https://openrig.dev OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one…",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "32b5d08ae6b26c11",
+   "title": "p-e-w/heretic",
+   "url": "https://github.com/p-e-w/heretic",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-11-03T14:31:15.420977+00:00",
+   "summary": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more https://heretic-project.org Heretic Training-free language model modification Remove censorship , suppress slop, reduce sycophancy, and more. All in an afternoon, on your gaming PC. Modify any LLM that you can run…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "bc83293207e54076",
+   "title": "karpathy/nanochat",
+   "url": "https://github.com/karpathy/nanochat",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-11-03T14:31:15.419715+00:00",
+   "summary": "The best ChatGPT that $100 can buy. nanochat nanochat is the simplest experimental harness for training LLMs. It is designed to run on a single GPU node, the code is minimal/hackable, and it covers all major LLM stages including tokenization, pretraining, finetuning, evaluation, and inference. For example, you can…",
+   "matched": [
+    "llm",
+    "finetuning",
+    "inference"
+   ]
+  },
+  {
+   "uid": "5432fcfae663b868",
+   "title": "unslothai/unsloth v0.1.914-beta — Glass Theme, Personalize & Faster Generation",
+   "url": "https://github.com/unslothai/unsloth/releases/tag/v0.1.914-beta",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-03T14:19:42+00:00",
+   "summary": "Unsloth now has Glass themes and more customization options for backgrounds, greetings and chats. This release also brings faster generation, more multi-GPU training options and CPU training in Unsloth. ## Highlights - **New Glass themes** with 5 themes, adjustable transparency and native macOS glass - **More customization** with custom greetings, background controls and code fonts -…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "503129087cce82a4",
+   "title": "langfuse/langfuse v4.74.0",
+   "url": "https://github.com/langfuse/langfuse/releases/tag/v4.74.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-03T13:49:10+00:00",
+   "summary": "## What's Changed ### Features * feat(ai-gateway): per-organization request and byte rate limits at /resolve by @hassiebp in https://github.com/langfuse/langfuse/pull/19585 * feat(audit-logs): always record support access reads and mark them in ClickHouse by @Steffen911 in https://github.com/langfuse/langfuse/pull/19622 * feat(admin-api): transfer projects between organizations by @Steffen911 in…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "d6d1bec212dce386",
+   "title": "langfuse/langfuse v3.226.0",
+   "url": "https://github.com/langfuse/langfuse/releases/tag/v3.226.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-03T13:07:56+00:00",
+   "summary": "## What's Changed * feat(admin-api): transfer projects between organizations (v3 backport of #19587) by @Steffen911 in https://github.com/langfuse/langfuse/pull/19588 **Full Changelog**: https://github.com/langfuse/langfuse/compare/v3.225.15...v3.226.0",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "2578a6d75c5d6032",
+   "title": "ultralytics/ultralytics v8.4.201 — v8.4.201 - `ultralytics 8.4.201` Up to 15x faster PIL plotting across all tasks (#27014)",
+   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.201",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-03T12:37:31+00:00",
+   "summary": "## 🌟 Summary **v8.4.201 makes PIL-based plotting up to 15× faster** while keeping visuals consistent, and standardizes the Construction-PPE dataset’s name and download paths. 🚀 ## 📊 Key Changes - **Faster plotting across tasks:** Training and validation mosaics and `Results.plot(pil=True)` benefit from cached fonts and label patches, fewer image conversions, and more efficient mask blending. -…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "4943c48ac282cd48",
+   "title": "langfuse/langfuse v4.73.0",
+   "url": "https://github.com/langfuse/langfuse/releases/tag/v4.73.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-03T11:35:53+00:00",
+   "summary": "## What's Changed ### Features * feat(ai-gateway): filter gateway analytics by user and API key by @wochinge in https://github.com/langfuse/langfuse/pull/19458 * feat(skills): support version automations by @tobi12345 in https://github.com/langfuse/langfuse/pull/19296 * feat(rbac): add AI_GATEWAY organization membership role by @marksalpeter in https://github.com/langfuse/langfuse/pull/19262 *…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "4e4e9bf9186000d5",
+   "title": "ggml-org/llama.cpp b12069 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12069",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-03T11:19:51+00:00",
+   "summary": "opencl: add initial iq4_xs support (#31339) * opencl: add iq4_xs AOS mv Assisted-by: Codex * opencl: add iq4_xs SOA mv and tiled mm Assisted-by: Codex * opencl: add iq4_xs noshuffle gemm/gemv for adreno Co-authored-by: Shaofei Qi Assisted-by: Codex * opencl: add iq4_xs dp4a for adreno Co-authored-by: Shaofei Qi Assisted-by: Codex * opencl: optimize iq4_xs adreno decode and narrow batches…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "355bae0c25e5bd18",
+   "title": "ggml-org/llama.cpp b12068 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12068",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-03T10:44:26+00:00",
+   "summary": "chat : allow constraint type after gpt-oss final channel (#31556) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12068/llama-b12068-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "857404388b77d4eb",
+   "title": "ultralytics/ultralytics v8.4.200 — v8.4.200 - `ultralytics 8.4.200` Display Arabic class names correctly in plots (#27007)",
+   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.200",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-03T10:37:36+00:00",
+   "summary": "## 🌟 Summary **Ultralytics 8.4.200 displays Arabic class names correctly in plots and makes training, export, and dataset workflows more reliable.** No model architecture changes are included. ## 📊 Key Changes - 📝 **Arabic class names display correctly in plots** — Letters now join and read right-to-left in prediction, training and validation images on every install, with numbers and Latin text…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "e2c77039c2f3ac66",
+   "title": "ggml-org/llama.cpp b12066 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12066",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-03T10:00:57+00:00",
+   "summary": "webgpu: add ARANGE support (#31455) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12066/llama-b12066-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "3cc9092b6cef6805",
+   "title": "Qwen3.8-Flash-Next (local) vs Claude",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmolk6/qwen38flashnext_local_vs_claude/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-03T09:33:58+00:00",
+   "summary": "I am seriously impressed and want to share my experience. Qwen3.8-Flash-Next (local) vs Claude in Claude Code: reviewing one real commit I ran the same code review twice on one commit in my repo https://github.com/leok7v/ChatOKF (Swift, on-device LLM chat app, about 48 files changed, +1048/-102: a module move plus a…",
+   "matched": [
+    "claude",
+    "llm",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "5b9ebb98a74af11b",
+   "title": "ggml-org/llama.cpp b12065 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12065",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-03T08:09:39+00:00",
+   "summary": "kv-cache : never return 0 kv_rows for sequences without cells (#31570) A cache that shares the cells of another one (f.ex. the gemma4 assistant) can build a graph before its sequences have any cells, f.ex. at the server warmup. get_n_kv_rows() then returned 0, which means that kv_rows are not used, so the graph fell back to the dense KQ mask and the scheduler re-planned for it. Later graphs with…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "ba9ed7d6dc8b5f59",
+   "title": "Heimstaden is changing residential real estate management with AI",
+   "url": "https://openai.com/index/heimstaden",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-03T08:00:00+00:00",
+   "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "cc9ce87a3ec78107",
+   "title": "DeepSeek V5 is planned to be pre-trained on Huawei Ascend chips.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmmadn/deepseek_v5_is_planned_to_be_pretrained_on_huawei/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-03T07:07:11+00:00",
+   "summary": "Source: https://mp.weixin.qq.com/s/R-1u2exLwZMOu7AITyU5kg A reporter from STAR Market Daily has learned from multiple sources within the industry supply chain that DeepSeek’s next-generation large model, DeepSeek V5, is planned to be pre-trained using Ascend chips. Previously, Huawei’s Ascend chips were primarily…",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "3d6e05dc74049d70",
+   "title": "ggml-org/llama.cpp b12064 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12064",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-03T05:42:35+00:00",
+   "summary": "hexagon: tiled hvx permute (#31446) * hexagon: add tiled HVX transpose path for permuted CONT/CPY Permuted copies where dst dim 0 is strided in src, but some other src dim is contiguous, used to fall back to HTP_COPY_KERNEL_RESHAPE. That issues one DMA descriptor per element. The channel-first channel-last permutes around per-channel norms (e.g. [W,H,T,C] [C,W,H,T] in video VAEs) ht this path,…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "f315541036d93088",
+   "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+   "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-11-03T05:32:25+00:00",
+   "summary": "I discovered a sound that leaks your exact location (and it s everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the exact…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "73b2d8729afc1f96",
+   "title": "October sponsors-only newsletter",
+   "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-11-03T05:28:59+00:00",
+   "summary": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for $100+/month subscriptions What I'm…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "8dcd69b958117920",
+   "title": "Alibaba's Qwen Code repo just leaked qwen4-max, qwen4-coder-plus, and qwen4-omni-120b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmitzx/alibabas_qwen_code_repo_just_leaked_qwen4max/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-03T03:55:43+00:00",
+   "summary": "PRs: https://github.com/QwenLM/qwen-code/pull/15762: Measured on main at 79a9b753c60 , before this change: qwen4 , qwen4-max , qwen4-plus , qwen4.5-max , qwen4-coder-plus , qwen4-max-2026-10-01 , openai/qwen4-max and qwen4-omni-120b-think all resolved to 262,144. The last of those is already in use as the session…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "3bc8295838915c83",
+   "title": "anthropics/claude-agent-sdk-python v0.2.177",
+   "url": "https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.177",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-03T02:17:57+00:00",
+   "summary": "### New Features - **`on_failure` option for `HookMatcher`**: Control what happens when a hook callback fails. Set `on_failure=\"block\"` to block the action when a callback raises, returns `None`, or returns a value the CLI rejects. Defaults to `\"continue\"` (treat failure as no decision). Requires a CLI version that supports this option; connecting to an older CLI with `on_failure=\"block\"` raises…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "eff2e9fd0ecdfdaa",
+   "title": "Rtx 8000 48gb prices have decreased over the last two years while 3090 doubled.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmgmd8/rtx_8000_48gb_prices_have_decreased_over_the_last/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-03T02:09:42+00:00",
+   "summary": "In 2024 i purchased an RTX 8000 48gb for $2400. As the market has changed I’ve kept an eye on prices. Two years later, they are available around $2100. Its a little slower than 3090 at inference (672gb/s vs 936gb/s) but it has double the memory so it can run larger models / contexts / higher quants. Rtx 8000 also wins…",
+   "matched": [
+    "inference"
+   ]
+  },
+  {
+   "uid": "f3dfb744dea2eec6",
+   "title": "anthropics/claude-code v2.1.317",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.317",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-03T01:25:46+00:00",
+   "summary": "## What's changed - Added a warning to `/schedule` when a new cloud scheduled task gets connectors you did not ask for, with how to remove them - Added a check that asks before a web or shell tool call sends your account email address to the network - Added `onFailure: \"block\"` for Agent SDK hook callbacks, so a callback that fails blocks the action instead of letting it run - Added a notice in…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "35708fa5965c841e",
+   "title": "pydantic/pydantic-ai v2.65.0 — v2.65.0 (2026-11-02)",
+   "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.65.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-03T01:25:27+00:00",
+   "summary": "## What's Changed ### ⚠️ Compatibility Notes * Protect the `gh-aw` canonical session capture from agent tools by @dsfaccini in https://github.com/pydantic/pydantic-ai/pull/10606 * Add multimodal notes to `AskUserAnswer` by @dsfaccini in https://github.com/pydantic/pydantic-ai/pull/11664 * Count `BrowserUse` model calls toward the host run's usage and `UsageLimits` by @mpfaffenberger in…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "08bef051d4ef4b42",
+   "title": "I found another niche use case for local LLMs, but need some advice",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmfbam/i_found_another_niche_use_case_for_local_llms_but/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-03T01:08:11+00:00",
+   "summary": "Kind of a random thing, but I've gotten to the age where I'm starting to care about what the city council is doing. So I downloaded all the available council meeting notes from the last 16 years and pointed Qwen 3.8 27B Q6 at them and started having it dig through notes. Namely I wanted to see who approved the…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "31d974904ace6256",
+   "title": "ultralytics/ultralytics v8.4.199 — v8.4.199 - `ultralytics 8.4.199` Send the raw run name to Ultralytics Platform (#26953)",
+   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.199",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-03T00:56:15+00:00",
+   "summary": "## 🌟 Summary Ultralytics 8.4.199 improves how training runs appear on Ultralytics Platform, makes several training and profiling workflows more reliable, and clarifies Platform and dataset features in the documentation. **No model architectures changed in this release.** ## 📊 Key Changes - 🏷️ **Preserves training run names on Ultralytics Platform:** Local training now sends the original run name,…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "0fa6aa66c3add1b3",
+   "title": "Transformers Model Integration Contracts",
+   "url": "https://huggingface.co/blog/transformers-mic",
+   "source": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-11-03T00:00:00+00:00",
+   "summary": "",
+   "matched": [
+    "*"
+   ]
+  },
   {
    "uid": "626b60b9cdb8c4d0",
    "title": "Mesh-LLM/mesh-llm",
@@ -259,6 +645,18 @@
    "matched": [
     "claude",
     "claude code"
+   ]
+  },
+  {
+   "uid": "61fa61a53ae1badb",
+   "title": "llm 0.37",
+   "url": "https://simonwillison.net/2026/Nov/2/llm/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-11-02T23:49:30+00:00",
+   "summary": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra , plus a new llm openai endpoint add command to make it easier to configure additional models that use…",
+   "matched": [
+    "*"
    ]
   },
   {
@@ -412,6 +810,18 @@
    ]
   },
   {
+   "uid": "4940a948db79e93b",
+   "title": "Inconsistencies in Unsloth's LiveCodeBench Results",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm9i4x/inconsistencies_in_unsloths_livecodebench_results/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-02T21:05:47+00:00",
+   "summary": "I compared two published benchmark charts for DeepSeek-V4.1-Flash-1017 and noticed something rather unusual. All four Unsloth quantizations AND the Q8 baseline simultaneously improved by approximately 2–3 percentage points on LiveCodeBench v6. Meanwhile, the GSQ-RCO results changed much less consistently. 1. The…",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
    "uid": "abe97f30dc2cf4f9",
    "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
    "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
@@ -460,6 +870,19 @@
    ]
   },
   {
+   "uid": "900534a8e1b265c8",
+   "title": "⭐ 155 · exzade/EXZA-Remote (?)",
+   "url": "https://github.com/exzade/EXZA-Remote",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-02T18:34:06+00:00",
+   "summary": "Secure AI-powered remote computer access for ChatGPT, Claude and compatible MCP clients.",
+   "matched": [
+    "claude",
+    "mcp"
+   ]
+  },
+  {
    "uid": "5da14d9338c202ae",
    "title": "⭐ 1331 · modelflare-ai/AnyModelBot (TypeScript)",
    "url": "https://github.com/modelflare-ai/AnyModelBot",
@@ -483,6 +906,30 @@
    "summary": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
    "matched": [
     "deepseek"
+   ]
+  },
+  {
+   "uid": "20a82a178ba7d875",
+   "title": "Preparing our next security sprint to harden OpenAI",
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-02T18:00:00+00:00",
+   "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "a247ecee84bbd569",
+   "title": "Rewarding defenders with bigger bug bounties",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-02T18:00:00+00:00",
+   "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+   "matched": [
+    "*"
    ]
   },
   {
@@ -1165,449 +1612,7 @@
    "matched": [
     "llm"
    ]
-  },
-  {
-   "uid": "90ebc432a7dd84e7",
-   "title": "Enhancing Knowledge Entity Relation Extraction in Abstracts and Full-text Content of Academic Articles Using Large Language Models",
-   "url": "https://arxiv.org/abs/2610.41552",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.41552v1 Announce Type: new Abstract: This study investigates the effectiveness of large pre-trained language models (LLMs) for knowledge entity relation extraction (KERE) from academic papers. Existing studies have examined individual types of LLM-based strategies and evaluated model performance using…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "ca2fef96f9bfec7e",
-   "title": "BYOD: Build Your Own DLM - Efficient Autoregressive-to-Diffusion Language Model Conversion",
-   "url": "https://arxiv.org/abs/2610.41574",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.41574v1 Announce Type: new Abstract: Unlike autoregressive (AR) models, diffusion language models (DLMs) permit parallel token updates, flexible generation, and bidirectional attention, but leading systems rely on costly pretraining or full-model fine-tuning. We present Build Your Own DLM (BYOD), a…",
-   "matched": [
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "72771c84e31d9024",
-   "title": "Saidzoda-Tajik-LFM-2.6B: Adapting a 2.6B Hybrid Model to Tajik Tool Calling, and What Continued Pretraining Takes Away",
-   "url": "https://arxiv.org/abs/2610.41576",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.41576v1 Announce Type: new Abstract: We release Saidzoda-Tajik-LFM-2.6B, a Tajik adaptation of the 2.6B-parameter hybrid model LFM2.5-2.6B-Base, built for tool calling in Tajik on modest hardware. The recipe has two stages: LoRA continued pretraining (CPT) on 1,485,319 cleaned Tajik web documents for 3…",
-   "matched": [
-    "lora"
-   ]
-  },
-  {
-   "uid": "249a3b7be5167717",
-   "title": "When Steering Shifts Discourse: Identifying and Intervening on Discourse-Level Changes due to Activation Steering in LLMs",
-   "url": "https://arxiv.org/abs/2610.41661",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.41661v1 Announce Type: new Abstract: Activation steering is an inference-time technique used to control or modify the behavior, tone, or safety properties of a large language model (LLM) without retraining the model's weights or editing its input prompt, but simply by adding a vector to its residual-stream…",
-   "matched": [
-    "llm",
-    "inference"
-   ]
-  },
-  {
-   "uid": "4af03e67e31ddb79",
-   "title": "Precision--Recall Trade-off on the Inference Level for LLMs in Grammatical Error Correction",
-   "url": "https://arxiv.org/abs/2610.41698",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.41698v1 Announce Type: new Abstract: Large language models (LLMs) have recently been adopted for Grammatical Error Correction (GEC), achieving strong performance via both full fine-tuning and prompt-based approaches. As probabilistic sequence models, LLMs expose inference-time parameters that directly…",
-   "matched": [
-    "fine-tuning",
-    "inference"
-   ]
-  },
-  {
-   "uid": "78833ad0736d2304",
-   "title": "Stepwise-Querying: Distilling Reasoning without Access to Teacher Chain-of-Thought",
-   "url": "https://arxiv.org/abs/2610.41769",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.41769v1 Announce Type: new Abstract: Reasoning distillation is widely used to transfer the reasoning capabilities of large language models to smaller students through teacher-generated supervision. In the black-box setting, however, teachers may expose only final answers and brief solutions, leaving…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "431de885e32f0d4e",
-   "title": "Peeling the Matryoshka: Extracting Ontological Structure from Retrieval Embeddings",
-   "url": "https://arxiv.org/abs/2610.41785",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.41785v1 Announce Type: new Abstract: Taxonomy construction is essential for knowledge-intensive NLP yet remains costly: clustering-based methods (i) need careful per-corpus tuning and yield unstable hierarchies, while LLM-based pipelines (ii) depend on expensive task-specific training that does not transfer…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "05046ca8edc810ab",
-   "title": "TurnTurk-GPT: Text-Based Turn-Taking Prediction for Turkish",
-   "url": "https://arxiv.org/abs/2610.42010",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.42010v1 Announce Type: new Abstract: This paper presents TurnTurk-GPT, a text-based turn-taking predictor for Turkish obtained by fine-tuning a Turkish GPT-2 model with the TurnGPT objective on synthetic and real dialogue, and evaluates it on real Turkish conversation against rule baselines, a zero-shot…",
-   "matched": [
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "4dadce4623d38792",
-   "title": "DecisionRank: On-Policy Distillation for Decision-Model Rerankers",
-   "url": "https://arxiv.org/abs/2610.42128",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.42128v1 Announce Type: new Abstract: Decision models target structured tasks by directly predicting choices or scores, avoiding autoregressive decoding latency. However, transferring a generative LLM's ranking knowledge to a decision model remains challenging: the teacher expresses preferences through a…",
-   "matched": [
-    "llm",
-    "distillation"
-   ]
-  },
-  {
-   "uid": "5ab451e2fc9ee7f3",
-   "title": "Flide: Accelerating Decision Inference with Exact State Forking",
-   "url": "https://arxiv.org/abs/2610.42148",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.42148v1 Announce Type: new Abstract: Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existing generation-oriented inference engines fail to support these workloads…",
-   "matched": [
-    "llm",
-    "inference"
-   ]
-  },
-  {
-   "uid": "91db29b9e6349f72",
-   "title": "Agentic Systems for Calibrating Cosmological Simulations",
-   "url": "https://arxiv.org/abs/2610.40685",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.40685v1 Announce Type: cross Abstract: Calibrating a cosmological simulation is an expensive, high-dimensional parameter optimization task. Previous works employ Bayesian optimization for automation, which treats the simulator as a black box and precludes the incorporation of human domain knowledge or…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "2251286ff1ac97d6",
-   "title": "Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use",
-   "url": "https://arxiv.org/abs/2610.40738",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.40738v1 Announce Type: cross Abstract: A capable voice assistant must do more than recognize words; it must understand requests, reason over context, sustain conversations, and act through tools. We present Apriel Voice 27B Preview, an open speech-language model that unifies these capabilities within a…",
-   "matched": [
-    "tool use"
-   ]
-  },
-  {
-   "uid": "b83922c06905fa7f",
-   "title": "Prevented is Not Protected: What Attack Success Rate Hides about RAG",
-   "url": "https://arxiv.org/abs/2610.40742",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.40742v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) is vulnerable to knowledge poisoning, where adversaries manipulate retrieved evidence to influence model outputs. Existing defenses are primarily evaluated using attack success rate (ASR), which obscures defense-induced failures and…",
-   "matched": [
-    "rag"
-   ]
-  },
-  {
-   "uid": "dafbf0339cf763d2",
-   "title": "Agentic World Modeling for Agent Test-time Scaling without Environment Replica",
-   "url": "https://arxiv.org/abs/2610.40927",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.40927v1 Announce Type: cross Abstract: Test-time scaling (TTS) improves large language model agents by sampling and selecting among multiple candidate trajectories, but common realizations assume that these trajectories can be executed in parallel. This assumption breaks in realistic deployments, where…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "4a381134d7b087ee",
-   "title": "Capability-Grounded Agentic Planning",
-   "url": "https://arxiv.org/abs/2610.41040",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.41040v1 Announce Type: cross Abstract: LLM agents serve natural-language requests through tools, data sources, and other agents, and even simple requests often need several interdependent calls. Typically, the LLM picks these calls by trial and error, with no guarantee of an executable plan. We present…",
-   "matched": [
-    "llm",
-    "agentic"
-   ]
-  },
-  {
-   "uid": "6c9b7b852f12a364",
-   "title": "MUON-RT Reusing the Teacher's Trajectory for Momentum-Free Muon for LLM Self-Distillation",
-   "url": "https://arxiv.org/abs/2610.41104",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.41104v1 Announce Type: cross Abstract: Self-distillation methods for large language models with an exponential moving average (EMA) teacher already retain a history of student updates. Muon nevertheless stores a separate momentum buffer, increasing persistent training memory. We propose Muon with Reused…",
-   "matched": [
-    "llm",
-    "distillation"
-   ]
-  },
-  {
-   "uid": "d402956c0e3d8d38",
-   "title": "Lineage Is Memory: Parent Inheritance and Feedback Disclosure in Short-Budget LLM-Guided Optimization",
-   "url": "https://arxiv.org/abs/2610.41157",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.41157v1 Announce Type: cross Abstract: Iterative language-model optimizers refine prompts and programs by evaluating a candidate, showing a proposer model a sample of failing cases, and keeping revisions that improve performance. Recent work attributes the limits of this loop to narrow single-round…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "94b418090b9f9e68",
-   "title": "Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses",
-   "url": "https://arxiv.org/abs/2610.41172",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.41172v1 Announce Type: cross Abstract: Retrieval-augmented generation is becoming agentic. A search harness writes queries, reads results, reformulates, and decides when to stop. This largely solves accuracy: a harness with only BM25/grep and MiniMax M3 answers 85% of BrowseComp-Plus and 91% on multi-hop…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "5b1a92e1eb782e70",
-   "title": "DAPS: Dependency-Aware Premise Selection for LLM Theorem Proving",
-   "url": "https://arxiv.org/abs/2610.41536",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.41536v1 Announce Type: cross Abstract: LLM-based theorem proving in Lean 4 has advanced rapidly, but provers are difficult to leverage newly contributed lemmas, because retrieval skews toward popular foundational lemmas, leaving the right premises buried among hundreds of thousands of candidates. Existing…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "24914d697d6932a6",
-   "title": "From Training Exposure to Membership Evidence: A Controlled Study of OLMo 2",
-   "url": "https://arxiv.org/abs/2610.41732",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.41732v1 Announce Type: cross Abstract: Whether a language model was trained on a document matters for copyright, privacy, and benchmark contamination. Yet most membership-inference (MI) evaluations on language models collect members and non-members after the fact, so success may reflect distribution shift…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "807b614739a6d027",
-   "title": "How Much Can Tool Calls Reveal About You? Privacy Leakage from Tool-Call Traces",
-   "url": "https://arxiv.org/abs/2610.41885",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.41885v1 Announce Type: cross Abstract: Large language model (LLM)-based agents interact with external tools through protocols such as the Model Context Protocol (MCP), producing tool-call traces that may expose behavioral signals about users. In this work, we systematically study the risk of user-profile…",
-   "matched": [
-    "llm",
-    "mcp",
-    "model context protocol"
-   ]
-  },
-  {
-   "uid": "859719e59d9ce57c",
-   "title": "Completeness and Cost of Retrieval Structures for Multi-Tool Requests in LLM Agents",
-   "url": "https://arxiv.org/abs/2610.41905",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.41905v1 Announce Type: cross Abstract: An agent that must call several tools to fulfill a request fails when the tool retriever omits any one of them, yet tool retrievers are mostly built and evaluated on queries requiring a single tool. We compare representatives of six retrieval structures (flat lexical…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "5db5569c3e4ee562",
-   "title": "The Knowledge Layer Model (KLM): Evidence-Visible AI Output, Routing Diagnostics, and Negative Results",
-   "url": "https://arxiv.org/abs/2610.42066",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.42066v1 Announce Type: cross Abstract: AI answers require more than apparent correctness: reviewers need to inspect their recorded basis. We introduce the Knowledge Layer Model (KLM), an open, implementation-neutral specification for inference records with versioned epistemic assessments, evidence…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "5d9ca6083a61bed8",
-   "title": "Beyond Public Access in LLM Pre-Training Data",
-   "url": "https://arxiv.org/abs/2505.00020",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2505.00020v3 Announce Type: replace Abstract: Using a legally obtained dataset of 34 copyrighted O'Reilly Media books (13,962 paragraphs), we apply the DE-COP membership inference attack to test whether OpenAI models show recognition of non-public (pay-walled) content they were not licensed to train on. Our main…",
-   "matched": [
-    "llm",
-    "inference"
-   ]
-  },
-  {
-   "uid": "cab777b4afaa5a1f",
-   "title": "MedResearcher-R1: Expert-Level Medical Deep Researcher via A Knowledge-Informed Trajectory Synthesis Framework",
-   "url": "https://arxiv.org/abs/2508.14880",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2508.14880v4 Announce Type: replace Abstract: Large Language Model (LLM)-based agents have recently demonstrated remarkable capabilities in deep research tasks, yet their application to the medical domain remains challenging. The leading proprietary systems achieve only modest results on complex medical…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "f71c813c6e650f25",
-   "title": "Ctrl-G: Controlling Structural and Interaction Exposure in Knowledge Graph Augmented LLM Reasoning",
-   "url": "https://arxiv.org/abs/2601.08739",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2601.08739v2 Announce Type: replace Abstract: Knowledge graphs (KGs) provide structured evidence for Web question answering with large language models (LLMs), but sending retrieved evidence to a remote LLM can expose sensitive graph information. Existing privacy treatments use entity anonymization and…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "b45c3077bf4886d2",
-   "title": "Enhancing Safety of Large Language Models via Embedding Space Separation",
-   "url": "https://arxiv.org/abs/2603.20206",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2603.20206v2 Announce Type: replace Abstract: Safety alignment does not fully prevent large language models (LLMs) from producing harmful content under adversarial attacks. We observe that existing attack methods typically move harmful embeddings toward regions of harmless embeddings. This motivates us to…",
-   "matched": [
-    "embedding"
-   ]
-  },
-  {
-   "uid": "c9d4d0ee17377373",
-   "title": "AgentCollab: A Self-Evaluation-Driven Collaboration Paradigm for Efficient LLM Agents",
-   "url": "https://arxiv.org/abs/2603.26034",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2603.26034v2 Announce Type: replace Abstract: Autonomous agents powered by large language models (LLMs) perform complex tasks through long-horizon reasoning and tool interaction, where a fundamental trade-off arises between execution efficiency and reasoning robustness. Models at different capability-cost levels…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "bf1d0db306378954",
-   "title": "Minimizing Modality Gap from the Input Side: Your Speech LLM Can Be a Prosody-Aware Text LLM",
-   "url": "https://arxiv.org/abs/2605.05927",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2605.05927v3 Announce Type: replace Abstract: Speech large language models (SLMs) are typically built from text large language model (TLM) checkpoints, yet they still suffer from a substantial modality gap. Prior work has mainly attempted to reduce this gap from the output side by making speech generation more…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "7da48d2a397e0ebd",
-   "title": "VerifyMAS: Hypothesis Verification for Failure Attribution in LLM-based Multi-Agent Systems",
-   "url": "https://arxiv.org/abs/2605.17467",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2605.17467v3 Announce Type: replace Abstract: Large language model-driven multi-agent systems (LLM-MAS) excel at complex tasks, yet unreliable agents remain a key bottleneck to system-level reliability. Automatic failure attribution is therefore critical, but existing approaches, such as direct prediction of…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "5f2ffa5bd4b2a9ab",
-   "title": "EvoMemBench: Benchmarking Agent Memory from a Self-Evolving Perspective",
-   "url": "https://arxiv.org/abs/2605.18421",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2605.18421v3 Announce Type: replace Abstract: Recent benchmarks for Large Language Model (LLM) agents mainly evaluate reasoning, planning, and execution. However, memory is also essential for agents, as it enables them to store, update, and retrieve information over time. This ability remains under-evaluated,…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "7d10c11616e4f263",
-   "title": "Instrument-Anchored LLM Judges Transfer Expert Counseling-Quality Ratings Across Three German Corpora",
-   "url": "https://arxiv.org/abs/2610.08055",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.08055v2 Announce Type: replace Abstract: Automatic assessment of communication quality in counseling conversations is bottlenecked by data: expert-rated corpora are small and expensive to grow. Therefore we study cross-domain prediction of the expert's overall impression across three German…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "1997c7c77786ae5f",
-   "title": "Adapting LLM-SC to Living Sacred Heritage: Domain-Specific Extraction, Semantic Networks and Human Evaluation on Pashupatinath Temple Reviews",
-   "url": "https://arxiv.org/abs/2610.35685",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.35685v2 Announce Type: replace Abstract: Large language model (LLM) pipelines can turn visitor reviews into structured data, but generic schemes may miss rituals, sacred spaces, cultural restrictions and emotionally mixed experiences at living sacred heritage sites. We adapted the LLM-Social Computing…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "ccafa59aa7caacbd",
-   "title": "Metacognitive Decoding: Efficient Inference for Diffusion Language Agents",
-   "url": "https://arxiv.org/abs/2610.37642",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.37642v2 Announce Type: replace Abstract: Diffusion language models offer a promising path to efficient agents through parallel token generation. However, efficient interaction requires adapting both where computation is spent and how much text is generated. We introduce a metacognitive controller that…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "f8dcb6af720f63b0",
-   "title": "DeFT-RAG: Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers",
-   "url": "https://arxiv.org/abs/2610.37826",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.37826v2 Announce Type: replace Abstract: Retrieval-augmented generation (RAG) lets a large language model (LLM) answer questions by retrieving relevant passages from a large corpus. However, RAG struggles with multi-hop questions, which require chaining facts spread across several documents through…",
-   "matched": [
-    "llm",
-    "rag"
-   ]
-  },
-  {
-   "uid": "0f2d6757275643ec",
-   "title": "Holistic Diversity Management in LLM-Guided Evolutionary Search",
-   "url": "https://arxiv.org/abs/2610.38407",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-02T05:00:00+00:00",
-   "summary": "arXiv:2610.38407v2 Announce Type: replace Abstract: LLM-guided evolutionary search iteratively selects existing programs, uses LLMs as mutation operators to generate a new program, and evaluates it to guide subsequent search. To preserve diversity and reduce the risk of premature convergence, it often adopts the…",
-   "matched": [
-    "llm"
-   ]
   }
  ],
- "last_run": "2026-11-02T23:58:52.959016+00:00"
+ "last_run": "2026-11-03T14:31:32.842938+00:00"
 }
