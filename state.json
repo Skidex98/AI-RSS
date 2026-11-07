@@ -1,5 +1,11 @@
 {
  "seen": [
+  "c6d0c29f24db3ca1",
+  "76c6b4f49b60836a",
+  "8c661dbbe2b26eca",
+  "c626988b6bf0a88a",
+  "9ee30f9fddc50bfe",
+  "c105679584b341f5",
   "7413dc1fb366cf04",
   "a12fb45ac8354335",
   "f566bf16b9f81a71",
@@ -9,6 +15,7 @@
   "ea5a06363cf60c96",
   "5a4fc9e35579b829",
   "7e528ef40b4892c6",
+  "83026ea2bc595a7b",
   "005a2c5ab383211c",
   "fa3c7fa8fef2c1bf",
   "f21fb9e1a350e498",
@@ -16,7 +23,9 @@
   "d0c74e6aade1038b",
   "3de07d8ad65aa5a2",
   "9826d4629d94337d",
+  "6a350771f6b6d665",
   "0d47c6c2c242388b",
+  "2491b2aff603a177",
   "a247df12a3179dbb",
   "e5b44a600947456e",
   "fe8368741761461d",
@@ -110,18 +119,82 @@
   "c3704d49e119f2b9",
   "66ea242b81b165a2",
   "b01ff4fdfb846987",
-  "59012ea625f76c4d",
-  "04e251d1861886b8",
-  "bfb3303bd6780c07",
-  "7c3735433be102dc",
-  "3eae21240bfd24ef",
-  "c63b62256d25178a",
-  "a0d41e1f24ac0bd9",
-  "d7227c5485c6d2db",
-  "5e92c203d7536701",
-  "843f3c445cfcb31b"
+  "59012ea625f76c4d"
  ],
  "items": [
+  {
+   "uid": "c6d0c29f24db3ca1",
+   "title": "Betelgeuse running DeepSeek V4.1 Flash Q8_XL (1017) at 19 tok/s decode & 62 tok/s prefill on an RTX 3060 12GB + 16GB RAM: How we finally fixed the prefill bottleneck on out-of-core MoEs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqfekg/betelgeuse_running_deepseek_v41_flash_q8_xl_1017/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-07T19:58:54+00:00",
+   "summary": "After my last post on Qwen 3.8 Flash Next, a lot of people were asking if out-of-core MoE streaming could ever work on an actual frontier monster like DeepSeek V4.1 Flash (1017) , or if the prompt processing (PP) would make it completely unusable. and NO We are not running small lobotomized model like Qwen 3.8 Flash…",
+   "matched": [
+    "qwen",
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "76c6b4f49b60836a",
+   "title": "ultralytics/ultralytics v8.4.206 — v8.4.206 - `ultralytics 8.4.206` Read upside-down and bottom-to-top text in OCR (#27083)",
+   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.206",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-07T19:26:37+00:00",
+   "summary": "## 🌟 Summary **Ultralytics 8.4.206 improves PaddleOCR’s handling of upside-down text and makes OCR/rotated-box labels easier to read.** 🔄 ## 📊 Key Changes - **Reads upside-down text with PaddleOCR:** The OCR solution now uses a text-line orientation classifier to identify text that may be upside down. It tries those crops in both orientations and keeps the reading with higher confidence. This…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "8c661dbbe2b26eca",
+   "title": "Effects of KV Cache Quantization on Qwen3.8 27B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqbesv/effects_of_kv_cache_quantization_on_qwen38_27b/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-07T17:09:51+00:00",
+   "summary": "KV cache quantization has been a hotly-debated topic for this community for some time, with opinions ranging from never quantize to 4 bit is fine . Since the anecdotal evidence is rather inconsistent, I decided to quantify how much KV cache quantization affects the model through KLD, which is a good measure of how the…",
+   "matched": [
+    "quantization"
+   ]
+  },
+  {
+   "uid": "c626988b6bf0a88a",
+   "title": "ultralytics/ultralytics v8.4.205 — v8.4.205 - `ultralytics 8.4.205` Add scene text OCR solution with YOLO26-Text and PaddleOCR (#27061)",
+   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.205",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-07T16:42:21+00:00",
+   "summary": "## 🌟 Summary Release **8.4.205** adds a ready-to-use scene-text OCR solution, led by YOLO26-Text detection paired with PaddleOCR or a custom recognizer, alongside important tiled-inference and export fixes. ## 📊 Key Changes - 📝 **New OCR solution:** Detects text with detection, OBB, or segmentation models, then recognizes it with optional PaddleOCR or a custom callable. Results include recognized…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "9ee30f9fddc50bfe",
+   "title": "llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-07T16:25:06+00:00",
+   "summary": "This is a significant speedup for MoE offloading (low VRAM people). I tried Strata once, and it had some tuning mechanism, so probably this is a similar idea. submitted by /u/jacek2023 [link] [comments]",
+   "matched": [
+    "llama"
+   ]
+  },
+  {
+   "uid": "c105679584b341f5",
+   "title": "Qwen3.8-Flash-Next Gyro S on a Valve Steam Machine (8 GB AMD GPU, 32 GB RAM): about 18 t/s decode, about 235 t/s prefill, stock SteamOS",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq8s2n/qwen38flashnext_gyro_s_on_a_valve_steam_machine_8/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-07T15:18:29+00:00",
+   "summary": "I followed up on the post about running Qwen 3.8 Flash Next with 8 GB VRAM and 32 GB RAM. I wanted to see how it does on my Steam Machine. Setup Valve Steam Machine, stock SteamOS 3.9.5, AMD Navi 33 with 8 GB, 32 GB RAM, NVMe Stock Strata terminal 0.2.9 (engine 0.1.55, HIP package), Gyro S TQ1_0 128K context, q4_0 KV,…",
+   "matched": [
+    "qwen"
+   ]
+  },
   {
    "uid": "7413dc1fb366cf04",
    "title": "rivet-dev/rivet",
@@ -234,6 +307,19 @@
    ]
   },
   {
+   "uid": "83026ea2bc595a7b",
+   "title": "Does anyone use None reasoning level for anything ever?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq4pb6/does_anyone_use_none_reasoning_level_for_anything/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-07T11:59:19+00:00",
+   "summary": "Sometimes I am tempted to use none reasoning level in agentic tasks to save time, but I am always kinda scared to do so. I have only ever used llm with reasoning and with medium at the lowest. Anybody have a lot of experience using none for reasoning level? Anything I need to know/need to be careful about? submitted…",
+   "matched": [
+    "llm",
+    "agentic"
+   ]
+  },
+  {
    "uid": "005a2c5ab383211c",
    "title": "ggml-org/llama.cpp b12188 (pre)",
    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12188",
@@ -322,6 +408,19 @@
    ]
   },
   {
+   "uid": "6a350771f6b6d665",
+   "title": "Any tools for managing long-term memory beyond the context window?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xprpm3/any_tools_for_managing_longterm_memory_beyond_the/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-06T23:40:14+00:00",
+   "summary": "Hi everyone, I am relatively new to local LLMs, and recently I have been trying to understand how people handle long conversations that eventually exceed the model's context window. For example, let's suppose I am writing a novel with the help of an LLM. As the story progresses, the conversation history becomes longer…",
+   "matched": [
+    "llm",
+    "context window"
+   ]
+  },
+  {
    "uid": "0d47c6c2c242388b",
    "title": "⭐ 2098 · DenisSergeevitch/ex-ussr-kinship-research (Python)",
    "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
@@ -332,6 +431,18 @@
    "matched": [
     "claude",
     "claude code"
+   ]
+  },
+  {
+   "uid": "2491b2aff603a177",
+   "title": "model: add Kimi-K3.1-Pro text model by usrlocalben · Pull Request #31779 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpqm0b/model_add_kimik31pro_text_model_by_usrlocalben/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-06T22:49:45+00:00",
+   "summary": "now you can run Kimi K3.1 Pro locally (good luck!) ;) https://huggingface.co/moonshotai/Kimi-K3.1-Pro submitted by /u/jacek2023 [link] [comments]",
+   "matched": [
+    "llama"
    ]
   },
   {
@@ -1502,118 +1613,7 @@
    "matched": [
     "llm"
    ]
-  },
-  {
-   "uid": "04e251d1861886b8",
-   "title": "XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication",
-   "url": "https://arxiv.org/abs/2608.11676",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-06T05:00:00+00:00",
-   "summary": "arXiv:2608.11676v2 Announce Type: cross Abstract: Heterogeneous multi-agent LLM systems, where agents are powered by different model families, can outperform homogeneous configurations by reducing redundant reasoning patterns. Yet existing communication protocols either operate through text, discarding the sender's…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "bfb3303bd6780c07",
-   "title": "Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning",
-   "url": "https://arxiv.org/abs/2611.06956",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-06T05:00:00+00:00",
-   "summary": "arXiv:2611.06956v1 Announce Type: cross Abstract: Multi-agent LLM systems explore in parallel by spawning sub-agents with isolated context windows, whereas single-agent systems append every search and verification step into one growing trajectory. However, existing multi-agent frameworks duplicate prefix KV caches…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "7c3735433be102dc",
-   "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
-   "url": "https://arxiv.org/abs/2611.06977",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-06T05:00:00+00:00",
-   "summary": "arXiv:2611.06977v1 Announce Type: cross Abstract: Reproducible LLM inference requires that a request produces the same output regardless of the other requests in the batch. Existing solutions pay for this in different ways: batch-invariant kernels constrain every operator, and isolating prefill with fixed-shape decode…",
-   "matched": [
-    "llm",
-    "inference"
-   ]
-  },
-  {
-   "uid": "3eae21240bfd24ef",
-   "title": "$D^2$-OPD: Separating Direction and Distance in Extrapolative On-Policy Distillation",
-   "url": "https://arxiv.org/abs/2611.07241",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-06T05:00:00+00:00",
-   "summary": "arXiv:2611.07241v1 Announce Type: cross Abstract: On-policy distillation (OPD) trains a student model to match a teacher's next-token distributions on student-generated prefixes. Extrapolative OPD further extends the teacher's log-probability shift relative to a reference policy to construct stronger learning targets.…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "c63b62256d25178a",
-   "title": "EnvOpt: Automated Optimization for Agent Environments",
-   "url": "https://arxiv.org/abs/2611.07372",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-06T05:00:00+00:00",
-   "summary": "arXiv:2611.07372v1 Announce Type: cross Abstract: An LLM agent's cost and success depend on its model, its harness, and its environment. In addition to the widely studied directions of parameter tuning and harness optimization, we propose the third direction: optimization over stationary environments. Agents are often…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "a0d41e1f24ac0bd9",
-   "title": "Localization Does Not Imply Steerability: A Mechanistic Study of Sign Errors in LLM Mathematics",
-   "url": "https://arxiv.org/abs/2611.07478",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-06T05:00:00+00:00",
-   "summary": "arXiv:2611.07478v1 Announce Type: cross Abstract: When large language models do multi-step mathematics, a characteristic failure recurs: the model writes one wrong sign token mid-computation -- a cofactor sign, the minus of a recursive integration-by-parts step -- then executes the rest of the arithmetic correctly,…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "d7227c5485c6d2db",
-   "title": "MEvince: Knowledge-Constrained LLM Reasoning for Technique Identification from Malware Reports",
-   "url": "https://arxiv.org/abs/2611.07486",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-06T05:00:00+00:00",
-   "summary": "arXiv:2611.07486v1 Announce Type: cross Abstract: Mapping behavioral intelligence in malware analysis reports to ATT CK techniques supports threat analysis and defense, but reliable identification remains challenging. Supporting evidence is often scattered across long, heterogeneous reports, while closely related…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "5e92c203d7536701",
-   "title": "Embedding-Space Fingerprinting of LoRA Fine-Tunes: Recovering the Training-Data Domain from the Model Artifact Alone",
-   "url": "https://arxiv.org/abs/2611.07610",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-06T05:00:00+00:00",
-   "summary": "arXiv:2611.07610v1 Announce Type: cross Abstract: When a base language model is fine-tuned with Low-Rank Adaptation (LoRA), how much of the training data domain leaks into the resulting artifact? This paper studies whether a simple classifier can recover the domain of a fine-tune given only the model artifact (weight…",
-   "matched": [
-    "fine-tune",
-    "lora",
-    "embedding"
-   ]
-  },
-  {
-   "uid": "843f3c445cfcb31b",
-   "title": "CoRD: Coupled Rollouts Fill the Blind Spot of On-Policy Distillation",
-   "url": "https://arxiv.org/abs/2611.07959",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-06T05:00:00+00:00",
-   "summary": "arXiv:2611.07959v1 Announce Type: cross Abstract: On-policy distillation trains a student on its own rollouts, so states the teacher would reach but the student does not are seldom supervised. We introduce CoRD (coupled-rollout distillation), which keeps the on-policy loss and moves only the distribution of training…",
-   "matched": [
-    "distillation"
-   ]
   }
  ],
- "last_run": "2026-11-07T13:24:12.565005+00:00"
+ "last_run": "2026-11-07T21:01:36.366124+00:00"
 }

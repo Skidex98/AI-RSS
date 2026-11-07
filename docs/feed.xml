@@ -5,8 +5,62 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-11-07T13:24:12Z</updated>
+  <updated>2026-11-07T21:01:36Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>📰 Betelgeuse running DeepSeek V4.1 Flash Q8_XL (1017) at 19 tok/s decode &amp; 62 tok/s prefill on an RTX 3060 12GB + 16GB RAM: How we finally fixed the prefill bottleneck on out-of-core MoEs</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xqfekg/betelgeuse_running_deepseek_v41_flash_q8_xl_1017/"/>
+    <id>urn:uuid:c6d0c29f24db3ca1</id>
+    <updated>2026-11-07T19:58:54Z</updated>
+    <published>2026-11-07T19:58:54Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;After my last post on Qwen 3.8 Flash Next, a lot of people were asking if out-of-core MoE streaming could ever work on an actual frontier monster like DeepSeek V4.1 Flash (1017) , or if the prompt processing (PP) would make it completely unusable. and NO We are not running small lobotomized model like Qwen 3.8 Flash…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen, deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xqfekg/betelgeuse_running_deepseek_v41_flash_q8_xl_1017/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ultralytics/ultralytics v8.4.206 — v8.4.206 - `ultralytics 8.4.206` Read upside-down and bottom-to-top text in OCR (#27083)</title>
+    <link href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.206"/>
+    <id>urn:uuid:76c6b4f49b60836a</id>
+    <updated>2026-11-07T19:26:37Z</updated>
+    <published>2026-11-07T19:26:37Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## 🌟 Summary **Ultralytics 8.4.206 improves PaddleOCR’s handling of upside-down text and makes OCR/rotated-box labels easier to read.** 🔄 ## 📊 Key Changes - **Reads upside-down text with PaddleOCR:** The OCR solution now uses a text-line orientation classifier to identify text that may be upside down. It tries those crops in both orientations and keeps the reading with higher confidence. This…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.206"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Effects of KV Cache Quantization on Qwen3.8 27B</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xqbesv/effects_of_kv_cache_quantization_on_qwen38_27b/"/>
+    <id>urn:uuid:8c661dbbe2b26eca</id>
+    <updated>2026-11-07T17:09:51Z</updated>
+    <published>2026-11-07T17:09:51Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;KV cache quantization has been a hotly-debated topic for this community for some time, with opinions ranging from never quantize to 4 bit is fine . Since the anecdotal evidence is rather inconsistent, I decided to quantify how much KV cache quantization affects the model through KLD, which is a good measure of how the…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: quantization&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xqbesv/effects_of_kv_cache_quantization_on_qwen38_27b/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ultralytics/ultralytics v8.4.205 — v8.4.205 - `ultralytics 8.4.205` Add scene text OCR solution with YOLO26-Text and PaddleOCR (#27061)</title>
+    <link href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.205"/>
+    <id>urn:uuid:c626988b6bf0a88a</id>
+    <updated>2026-11-07T16:42:21Z</updated>
+    <published>2026-11-07T16:42:21Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## 🌟 Summary Release **8.4.205** adds a ready-to-use scene-text OCR solution, led by YOLO26-Text detection paired with PaddleOCR or a custom recognizer, alongside important tiled-inference and export fixes. ## 📊 Key Changes - 📝 **New OCR solution:** Detects text with detection, OBB, or segmentation models, then recognizes it with optional PaddleOCR or a custom callable. Results include recognized…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.205"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/"/>
+    <id>urn:uuid:9ee30f9fddc50bfe</id>
+    <updated>2026-11-07T16:25:06Z</updated>
+    <published>2026-11-07T16:25:06Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;This is a significant speedup for MoE offloading (low VRAM people). I tried Strata once, and it had some tuning mechanism, so probably this is a similar idea. submitted by /u/jacek2023 [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Qwen3.8-Flash-Next Gyro S on a Valve Steam Machine (8 GB AMD GPU, 32 GB RAM): about 18 t/s decode, about 235 t/s prefill, stock SteamOS</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xq8s2n/qwen38flashnext_gyro_s_on_a_valve_steam_machine_8/"/>
+    <id>urn:uuid:c105679584b341f5</id>
+    <updated>2026-11-07T15:18:29Z</updated>
+    <published>2026-11-07T15:18:29Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;I followed up on the post about running Qwen 3.8 Flash Next with 8 GB VRAM and 32 GB RAM. I wanted to see how it does on my Steam Machine. Setup Valve Steam Machine, stock SteamOS 3.9.5, AMD Navi 33 with 8 GB, 32 GB RAM, NVMe Stock Strata terminal 0.2.9 (engine 0.1.55, HIP package), Gyro S TQ1_0 128K context, q4_0 KV,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xq8s2n/qwen38flashnext_gyro_s_on_a_valve_steam_machine_8/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 rivet-dev/rivet</title>
     <link href="https://github.com/rivet-dev/rivet"/>
@@ -89,6 +143,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;metal : fix GROUP_NORM for ne03 &amp;gt; 1 and non-contiguous inputs (#31852) The kernel_group_norm_f32 kernel and its host dispatch ignored the batch dimension (ne03) of the source tensor: only ngrp threadgroups were dispatched and each normalized the flat range [tgpig*gs, (tgpig+1)*gs) with gs = ne00*ne01*ceil(ne02/ngrp). For tensors with ne03 &amp;gt; 1, all but the first ne00*ne01*ne02 elements were left…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12189"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 Does anyone use None reasoning level for anything ever?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xq4pb6/does_anyone_use_none_reasoning_level_for_anything/"/>
+    <id>urn:uuid:83026ea2bc595a7b</id>
+    <updated>2026-11-07T11:59:19Z</updated>
+    <published>2026-11-07T11:59:19Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Sometimes I am tempted to use none reasoning level in agentic tasks to save time, but I am always kinda scared to do so. I have only ever used llm with reasoning and with medium at the lowest. Anybody have a lot of experience using none for reasoning level? Anything I need to know/need to be careful about? submitted…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xq4pb6/does_anyone_use_none_reasoning_level_for_anything/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>🚀 ggml-org/llama.cpp b12188 (pre)</title>
     <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12188"/>
     <id>urn:uuid:005a2c5ab383211c</id>
@@ -152,6 +215,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;submitted by /u/Izento [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xpvfx8/harness_leaderboard_kimi_code_hermes_pi_claude/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 Any tools for managing long-term memory beyond the context window?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xprpm3/any_tools_for_managing_longterm_memory_beyond_the/"/>
+    <id>urn:uuid:6a350771f6b6d665</id>
+    <updated>2026-11-06T23:40:14Z</updated>
+    <published>2026-11-06T23:40:14Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Hi everyone, I am relatively new to local LLMs, and recently I have been trying to understand how people handle long conversations that eventually exceed the model's context window. For example, let's suppose I am writing a novel with the help of an LLM. As the story progresses, the conversation history becomes longer…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, context window&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xprpm3/any_tools_for_managing_longterm_memory_beyond_the/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>📦 ⭐ 2098 · DenisSergeevitch/ex-ussr-kinship-research (Python)</title>
     <link href="https://github.com/DenisSergeevitch/ex-ussr-kinship-research"/>
     <id>urn:uuid:0d47c6c2c242388b</id>
@@ -159,6 +231,15 @@
     <published>2026-11-06T23:32:45Z</published>
     <category term="REPO"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/DenisSergeevitch/ex-ussr-kinship-research"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 model: add Kimi-K3.1-Pro text model by usrlocalben · Pull Request #31779 · ggml-org/llama.cpp</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xpqm0b/model_add_kimik31pro_text_model_by_usrlocalben/"/>
+    <id>urn:uuid:2491b2aff603a177</id>
+    <updated>2026-11-06T22:49:45Z</updated>
+    <published>2026-11-06T22:49:45Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;now you can run Kimi K3.1 Pro locally (good luck!) ;) https://huggingface.co/moonshotai/Kimi-K3.1-Pro submitted by /u/jacek2023 [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xpqm0b/model_add_kimik31pro_text_model_by_usrlocalben/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📰 Qwen Flash Next on Strata is unreal.</title>
@@ -1005,86 +1086,5 @@
     <published>2026-11-06T05:00:00Z</published>
     <category term="PAPER"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.08433v1 Announce Type: new Abstract: LLM-based medical assistants that follow a patient across visits need a memory that keeps the patient's clinical state correct as it changes. We examine the errors of five memory systems on longitudinal medical dialogue and find three recurring causes: the retrieved…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.08433"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication</title>
-    <link href="https://arxiv.org/abs/2608.11676"/>
-    <id>urn:uuid:04e251d1861886b8</id>
-    <updated>2026-11-06T05:00:00Z</updated>
-    <published>2026-11-06T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.11676v2 Announce Type: cross Abstract: Heterogeneous multi-agent LLM systems, where agents are powered by different model families, can outperform homogeneous configurations by reducing redundant reasoning patterns. Yet existing communication protocols either operate through text, discarding the sender's…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.11676"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning</title>
-    <link href="https://arxiv.org/abs/2611.06956"/>
-    <id>urn:uuid:bfb3303bd6780c07</id>
-    <updated>2026-11-06T05:00:00Z</updated>
-    <published>2026-11-06T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.06956v1 Announce Type: cross Abstract: Multi-agent LLM systems explore in parallel by spawning sub-agents with isolated context windows, whereas single-agent systems append every search and verification step into one growing trajectory. However, existing multi-agent frameworks duplicate prefix KV caches…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.06956"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 BlockLock: Reproducible LLM Inference with Fixed Batch Geometry</title>
-    <link href="https://arxiv.org/abs/2611.06977"/>
-    <id>urn:uuid:7c3735433be102dc</id>
-    <updated>2026-11-06T05:00:00Z</updated>
-    <published>2026-11-06T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.06977v1 Announce Type: cross Abstract: Reproducible LLM inference requires that a request produces the same output regardless of the other requests in the batch. Existing solutions pay for this in different ways: batch-invariant kernels constrain every operator, and isolating prefill with fixed-shape decode…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.06977"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 $D^2$-OPD: Separating Direction and Distance in Extrapolative On-Policy Distillation</title>
-    <link href="https://arxiv.org/abs/2611.07241"/>
-    <id>urn:uuid:3eae21240bfd24ef</id>
-    <updated>2026-11-06T05:00:00Z</updated>
-    <published>2026-11-06T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.07241v1 Announce Type: cross Abstract: On-policy distillation (OPD) trains a student model to match a teacher's next-token distributions on student-generated prefixes. Extrapolative OPD further extends the teacher's log-probability shift relative to a reference policy to construct stronger learning targets.…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.07241"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 EnvOpt: Automated Optimization for Agent Environments</title>
-    <link href="https://arxiv.org/abs/2611.07372"/>
-    <id>urn:uuid:c63b62256d25178a</id>
-    <updated>2026-11-06T05:00:00Z</updated>
-    <published>2026-11-06T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.07372v1 Announce Type: cross Abstract: An LLM agent's cost and success depend on its model, its harness, and its environment. In addition to the widely studied directions of parameter tuning and harness optimization, we propose the third direction: optimization over stationary environments. Agents are often…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.07372"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Localization Does Not Imply Steerability: A Mechanistic Study of Sign Errors in LLM Mathematics</title>
-    <link href="https://arxiv.org/abs/2611.07478"/>
-    <id>urn:uuid:a0d41e1f24ac0bd9</id>
-    <updated>2026-11-06T05:00:00Z</updated>
-    <published>2026-11-06T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.07478v1 Announce Type: cross Abstract: When large language models do multi-step mathematics, a characteristic failure recurs: the model writes one wrong sign token mid-computation -- a cofactor sign, the minus of a recursive integration-by-parts step -- then executes the rest of the arithmetic correctly,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.07478"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 MEvince: Knowledge-Constrained LLM Reasoning for Technique Identification from Malware Reports</title>
-    <link href="https://arxiv.org/abs/2611.07486"/>
-    <id>urn:uuid:d7227c5485c6d2db</id>
-    <updated>2026-11-06T05:00:00Z</updated>
-    <published>2026-11-06T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.07486v1 Announce Type: cross Abstract: Mapping behavioral intelligence in malware analysis reports to ATT CK techniques supports threat analysis and defense, but reliable identification remains challenging. Supporting evidence is often scattered across long, heterogeneous reports, while closely related…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.07486"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Embedding-Space Fingerprinting of LoRA Fine-Tunes: Recovering the Training-Data Domain from the Model Artifact Alone</title>
-    <link href="https://arxiv.org/abs/2611.07610"/>
-    <id>urn:uuid:5e92c203d7536701</id>
-    <updated>2026-11-06T05:00:00Z</updated>
-    <published>2026-11-06T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.07610v1 Announce Type: cross Abstract: When a base language model is fine-tuned with Low-Rank Adaptation (LoRA), how much of the training data domain leaks into the resulting artifact? This paper studies whether a simple classifier can recover the domain of a fine-tune given only the model artifact (weight…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tune, lora, embedding&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.07610"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 CoRD: Coupled Rollouts Fill the Blind Spot of On-Policy Distillation</title>
-    <link href="https://arxiv.org/abs/2611.07959"/>
-    <id>urn:uuid:843f3c445cfcb31b</id>
-    <updated>2026-11-06T05:00:00Z</updated>
-    <published>2026-11-06T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.07959v1 Announce Type: cross Abstract: On-policy distillation trains a student on its own rollouts, so states the teacher would reach but the student does not are seldom supervised. We introduce CoRD (coupled-rollout distillation), which keeps the on-policy loss and moves only the distribution of training…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.07959"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
