@@ -1,5 +1,19 @@
 {
  "seen": [
+  "ff96ad561a5c5fa0",
+  "03acf73ecb4bded3",
+  "8493a461ddb8d479",
+  "622b93cd7c819f0d",
+  "cfcc7bab7211f194",
+  "5e29043d74d01ca0",
+  "48d65e2d4b762eee",
+  "dbcbce1d656acae7",
+  "f5dc216715a183e5",
+  "1cbd803082900296",
+  "e6ba01b97cafa9ea",
+  "ab23526154a76e41",
+  "f2e0d11647fee5dd",
+  "d25e8f3aa66b8d40",
   "ddff6f224e24e481",
   "ce1e130314ca731b",
   "b18b533efd4deb94",
@@ -13,6 +27,7 @@
   "812eeca9864cae02",
   "d5f31eb3110c1de3",
   "aae1e302b87dec02",
+  "dbf170a2e9be4813",
   "d94c6460e1e88dbb",
   "874501e77be38d03",
   "faa17ccc9ee46799",
@@ -104,24 +119,178 @@
   "179bd5e69a62ef1d",
   "5da14d9338c202ae",
   "965feff4307c07f9",
-  "d5b1c5894d05e51f",
-  "236621e9c8e04edd",
-  "8b707dd741de5107",
-  "a313811f3d4b799d",
-  "22b3381dd0158d83",
-  "456cd764433d4b46",
-  "2ab4c7b8191b6b65",
-  "08ccea28cf55b396",
-  "796cf4b77ead1426",
-  "f1346152cace75b2",
-  "3ad677eeafde868b",
-  "2c95bfaf91909d1a",
-  "e18868ae9ab43423",
-  "7d9126fa1fdec87a",
-  "0c1a48cbaea68fdc",
-  "dee406a77fe662ab"
+  "d5b1c5894d05e51f"
  ],
  "items": [
+  {
+   "uid": "ff96ad561a5c5fa0",
+   "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation: This will completely change everything!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr6krp/nextconcept_modeling_fast_parallel_coarsetofine/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-08T19:19:39+00:00",
+   "summary": "Essentially we could very soon run opus 5.5 level of intelligence on 32gb Vram. Its many folds more efficient in terms of memory bandwidth making compute the real bottleneck. What do you think? submitted by /u/Lorian0x7 [link] [comments]",
+   "matched": [
+    "opus"
+   ]
+  },
+  {
+   "uid": "03acf73ecb4bded3",
+   "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+   "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-11-08T18:16:07+00:00",
+   "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 383 # Comments: 234",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "8493a461ddb8d479",
+   "title": "GPT-5.5 dataset across my used 25 billion tokens!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr3ymf/gpt55_dataset_across_my_used_25_billion_tokens/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-08T17:32:48+00:00",
+   "summary": "Cheers for u/New_Comfortable7240 for santitisation! 12,121 tool calls here! submitted by /u/-MaskNinja- [link] [comments]",
+   "matched": [
+    "gpt-5"
+   ]
+  },
+  {
+   "uid": "622b93cd7c819f0d",
+   "title": "Motion graphics video made with Qwen3.8 Flash Next GSQ RCO IQ3_XXS on strata",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr3qes/motion_graphics_video_made_with_qwen38_flash_next/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-08T17:23:29+00:00",
+   "summary": "I've seen the insane motion graphics videos people made when opus 5.5 first came out and wondered how good QFN would do with the same recipe. Decided to make a short video for my nephew who loves trains This is Qwen3.8 Flash Next GSQ RCO IQ3_XXS on 16GB VRAM RTX 4080 + 64GB DDR5 5600 with strata and opencode at about…",
+   "matched": [
+    "opus"
+   ]
+  },
+  {
+   "uid": "cfcc7bab7211f194",
+   "title": "The Qwen Flash Next alibaba URL thing happened to me too just now",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr3ifw/the_qwen_flash_next_alibaba_url_thing_happened_to/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-08T17:14:19+00:00",
+   "summary": "It seems to have really confused itself too 😭 I was having it make a sort of Github release checker script and it snuck those two URL fetch tool calls in amongst some web searches I put the whole exported Open WebUI chat on hastebin so you can see exactly what happened: https://hastebin.com/share/ayawowirix.swift…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "5e29043d74d01ca0",
+   "title": "ggml-org/llama.cpp b12211 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12211",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-08T16:48:49+00:00",
+   "summary": "mtmd: refactoring: remove clip.h, consolidate code into mtmd (#31865) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12211/llama-b12211-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "48d65e2d4b762eee",
+   "title": "Rumor: Moonshot Kimi roadmap",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2t4c/rumor_moonshot_kimi_roadmap/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-08T16:45:50+00:00",
+   "summary": "EOY 2026: Kimi K3 Flash, will replace Kimi K2.8 and compete with DeepSeek V4.1 Flash. Early 2027: Kimi 3.5 , same 3T parameters, that is faster at reaching simple answers. Q3 2027: Kimi K4 will increase size to 5.4 trillion parameters. https://x.com/bebuu_ai/status/2119319459206934677 submitted by /u/Terminator857…",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "dbcbce1d656acae7",
+   "title": "ggml-org/llama.cpp b12210 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12210",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-08T16:15:27+00:00",
+   "summary": "cpu: enable SpacemiT IME2 MXFP4 dense repack (#31776) Assisted-by: Codex Signed-off-by: gitGurugu **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12210/llama-b12210-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "f5dc216715a183e5",
+   "title": "ggml-org/llama.cpp b12209 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12209",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-08T16:01:05+00:00",
+   "summary": "llamafile: impl bf16 and q8_0 vxe (#31866) Signed-off-by: Aaron Teo **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12209/llama-b12209-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "1cbd803082900296",
+   "title": "ggml-org/llama.cpp b12208 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12208",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-08T15:47:03+00:00",
+   "summary": "ggml : update CUDA/Metal radix Top-K to make tied selections deterministic (#31084) * ggml : fix for the radix TOP_K thread timing bug * make the key an ordered 64-bit pair * a rewrite without shift-skip logic * fix casts * warp-contiguous layout * reduce the scope removing vulkan+metal changes * turn it off for Metal/ROCm, note about cub::DeviceTopK * fix the hip build * skip Vulkan as well *…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "e6ba01b97cafa9ea",
+   "title": "I ran Qwen3.5-0.8B in pure Assembly",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr18t3/i_ran_qwen3508b_in_pure_assembly/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-08T15:39:17+00:00",
+   "summary": "On an AMD EPYC 7B12, it generated 6.51 tokens/sec on one CPU thread. The Transformers reference reached 4.34. All 32 generated tokens matched in both runs. Code: https://github.com/suayptalha/qwen3\\_5-assembly X Post: https://x.com/suayptalha/status/2119254536283906205 Tokenization, model inference and sampling all…",
+   "matched": [
+    "inference"
+   ]
+  },
+  {
+   "uid": "ab23526154a76e41",
+   "title": "\"Does censorship exist in [country]?\", according to various LLMs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-08T14:56:07+00:00",
+   "summary": "I wrote a small program that asks the same Yes/No question about every country to a language model, and generates an SVG world map that visualizes the model's responses: https://github.com/p-e-w/llm-beliefs I'm rather surprised by the results... submitted by /u/-p-e-w- [link] [comments]",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "f2e0d11647fee5dd",
+   "title": "ultralytics/ultralytics v8.4.208 — v8.4.208 - `ultralytics 8.4.208` Release the 0.5 predict NMS IoU default (#27102)",
+   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.208",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-08T14:54:08+00:00",
+   "summary": "## 🌟 Summary Ultralytics **8.4.208** ships practical inference, visualization, and performance updates—most notably a **0.5 default NMS IoU for prediction and tracking**, while validation keeps its 0.7 default. ## 📊 Key Changes - 🎯 **More selective prediction and tracking:** When `iou` is not specified, prediction and tracking now use `0.5` instead of `0.7`. Validation remains at `0.7`, and…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "d25e8f3aa66b8d40",
+   "title": "ggml-org/llama.cpp b12207 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12207",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-08T14:20:48+00:00",
+   "summary": "ggml-cuda : add d_state=64 fast path to SSM_SCAN kernel (#31818) Zamba2 and similar architectures use a state size of 64 in their recurrent-scan step, which fell outside the GPU kernel's existing fast paths (96, 128, 256). Every scan step was falling back to CPU, bottlenecking generation to 6-7 tok/s against the 50-70 tok/s band other architectures achieve on the same hardware. Add a 4th template…",
+   "matched": [
+    "*"
+   ]
+  },
   {
    "uid": "ddff6f224e24e481",
    "title": "Marker-Inc-Korea/AutoRAG",
@@ -287,6 +456,18 @@
    "summary": "GGUF to use : https://huggingface.co/ggml-org/Mage-VL-Cowork-GGUF submitted by /u/pmttyji [link] [comments]",
    "matched": [
     "llama"
+   ]
+  },
+  {
+   "uid": "dbf170a2e9be4813",
+   "title": "Goodbye Claude, hello Pi",
+   "url": "https://caleb.software/posts/claude-to-pi.html",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-11-08T03:11:48+00:00",
+   "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 630 # Comments: 406",
+   "matched": [
+    "claude"
    ]
   },
   {
@@ -1427,196 +1608,7 @@
    "matched": [
     "*"
    ]
-  },
-  {
-   "uid": "236621e9c8e04edd",
-   "title": "⭐ 503 · wanghao-SunSky/cs329z-chinese (HTML)",
-   "url": "https://github.com/wanghao-SunSky/cs329z-chinese",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-11-06T09:43:12+00:00",
-   "summary": "斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes.",
-   "matched": [
-    "llm",
-    "rag"
-   ]
-  },
-  {
-   "uid": "8b707dd741de5107",
-   "title": "CyberTiel35BA3B working on Blender Rigging via MCP. 8GB VRAM, 16GB RAM. llama.cpp.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp8sjd/cybertiel35ba3b_working_on_blender_rigging_via/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-11-06T09:40:31+00:00",
-   "summary": "Not a native English speaker. Written with my own ten fingers, one finger is broken btw. Plz bare with me. I still love to write text myself. My PC is suck for AI works. That's all I have as a third world 3D modeler. Really admire other peoples running better models. But beggar can't be choser. I can't even effort…",
-   "matched": [
-    "llama",
-    "mcp"
-   ]
-  },
-  {
-   "uid": "a313811f3d4b799d",
-   "title": "AI for scientific discovery: How researchers use Claude",
-   "url": "https://www.anthropic.com/research/how-researchers-use-claude",
-   "source": "Hacker News (AI)",
-   "category": "news",
-   "published": "2026-11-06T09:13:30+00:00",
-   "summary": "Article URL: https://www.anthropic.com/research/how-researchers-use-claude Comments URL: https://news.ycombinator.com/item?id=50389990 Points: 95 # Comments: 38",
-   "matched": [
-    "claude",
-    "anthropic"
-   ]
-  },
-  {
-   "uid": "22b3381dd0158d83",
-   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-   "url": "https://openai.com/index/partnering-with-hacktron",
-   "source": "OpenAI News",
-   "category": "news",
-   "published": "2026-11-06T08:00:00+00:00",
-   "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "456cd764433d4b46",
-   "title": "⭐ 118 · didilili/mianstack (JavaScript)",
-   "url": "https://github.com/didilili/mianstack",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-11-06T06:55:45+00:00",
-   "summary": "🚀 面栈 MianStack｜程序员面试题库天花板！Java、Python、数据库、算法、大模型、AI Agent、RAG 一栈备齐。真实面经关联高频考点，按公司、岗位定向备考；图文题解、精华专题、项目源码拆解，全系标配。面试官出题，面栈出招！免费开源，持续更新。",
-   "matched": [
-    "rag"
-   ]
-  },
-  {
-   "uid": "2ab4c7b8191b6b65",
-   "title": "⭐ 369 · chutingyean/Agent-Cockpit (JavaScript)",
-   "url": "https://github.com/chutingyean/Agent-Cockpit",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-11-06T06:54:12+00:00",
-   "summary": "Evidence-chain whiteboard + MCP server for AI research agents: every claim traces back to the run and code that produced it. 讓 AI agent 做研究時，每個結論都能追到產生它的程式碼。Claude Code · Codex · Cursor · Gemini CLI",
-   "matched": [
-    "claude",
-    "gemini",
-    "mcp",
-    "claude code"
-   ]
-  },
-  {
-   "uid": "08ccea28cf55b396",
-   "title": "⭐ 428 · HerdBuilderEstimate/roblox-studio-mcp (Python)",
-   "url": "https://github.com/HerdBuilderEstimate/roblox-studio-mcp",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-11-06T06:16:56+00:00",
-   "summary": "Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-source and lightweight",
-   "matched": [
-    "claude",
-    "mcp",
-    "model context protocol"
-   ]
-  },
-  {
-   "uid": "796cf4b77ead1426",
-   "title": "Decoupled Safety Control: A Safety-Control Algorithm for Training-Free Safety Guidance",
-   "url": "https://arxiv.org/abs/2610.21569",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-06T05:00:00+00:00",
-   "summary": "arXiv:2610.21569v2 Announce Type: replace Abstract: Diffusion models achieve strong performance in text-to-image generation, but they can still produce unsafe content. Training-free safety guidance offers a practical inference-time alternative that intervenes during sampling without modifying model weights. However,…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "f1346152cace75b2",
-   "title": "ACSAN: All-Convolutional Self-Attention Network Integrating Convolutional Operations with Vision Transformer",
-   "url": "https://arxiv.org/abs/2610.35375",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-06T05:00:00+00:00",
-   "summary": "arXiv:2610.35375v2 Announce Type: replace Abstract: In the past few years, Vision Transformer (ViT) has achieved competitive performance in the field of computer vision. However, there still remain some problems. For instance, ViTs rely on large-scale training data since they simply contain a large number of trainable…",
-   "matched": [
-    "computer vision"
-   ]
-  },
-  {
-   "uid": "3ad677eeafde868b",
-   "title": "Grounding in the Dark: Text-Only Training for Zero-Shot Video Temporal Localization",
-   "url": "https://arxiv.org/abs/2611.06149",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-06T05:00:00+00:00",
-   "summary": "arXiv:2611.06149v2 Announce Type: replace Abstract: Video-LLMs are typically trained on paired video-text data for temporal tasks, yet collecting precise temporal annotations and training on large-scale video datasets are both costly. We investigate whether a text-only LLM, with no vision-language pretraining, can be…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "2c95bfaf91909d1a",
-   "title": "VTAM: Efficient Visuo-Tactile World-Action Models for Contact-Rich Manipulation without Tactile Pretraining",
-   "url": "https://arxiv.org/abs/2603.23481",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-06T05:00:00+00:00",
-   "summary": "arXiv:2603.23481v2 Announce Type: replace-cross Abstract: Tactile vision-language-action models (VLAs) and tactile world-action models (WAMs) are a promising new paradigm for contact-rich manipulation, but existing models either underutilize touch, rely on large-scale tactile pretraining, or incur high inference…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "e18868ae9ab43423",
-   "title": "Multimodal Graph RAG for Long-range Visually Rich Document Understanding",
-   "url": "https://arxiv.org/abs/2606.28780",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-06T05:00:00+00:00",
-   "summary": "arXiv:2606.28780v2 Announce Type: replace-cross Abstract: Multimodal large language models (MLLMs) are widely applied to visual document understanding. However, comprehending long documents remains an issue by the limited context window. Though recent multimodal retrieval-augmented generation (MMRAG) can address this…",
-   "matched": [
-    "rag",
-    "context window"
-   ]
-  },
-  {
-   "uid": "7d9126fa1fdec87a",
-   "title": "Manifold-Constrained Initial Noise Optimization for Efficient Generative Model Alignment",
-   "url": "https://arxiv.org/abs/2610.00365",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-06T05:00:00+00:00",
-   "summary": "arXiv:2610.00365v2 Announce Type: replace-cross Abstract: Recent advances in distillation and flow-map models have enabled deterministic one- or few-step generation for high-quality data, facilitating a new branch of reward alignment approaches that directly optimize the initial noise from a Gaussian distribution.…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "0c1a48cbaea68fdc",
-   "title": "Taurus: LLM-in-the-Loop CT Annotation Matches Coding Agents at Half the Cost",
-   "url": "https://arxiv.org/abs/2611.00247",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-06T05:00:00+00:00",
-   "summary": "arXiv:2611.00247v2 Announce Type: replace-cross Abstract: Dense labels of the aorta in CT are slow to draw, and the public aortic CT datasets that could stand in for them each label different structures under their own conventions. Large language model (LLM) agents can now write code and read images. We asked whether…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "dee406a77fe662ab",
-   "title": "When appearance and motion disagree: evaluating class-motion consistency against disguised uncrewed surface vessels",
-   "url": "https://arxiv.org/abs/2611.00367",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-06T05:00:00+00:00",
-   "summary": "arXiv:2611.00367v2 Announce Type: replace-cross Abstract: Defense systems for maritime assets must distinguish approaching benign craft from uncrewed surface vessels (USVs) with sufficient warning to act. Shore cameras using computer vision can separate hostile vessels from benign traffic, but these systems may be…",
-   "matched": [
-    "computer vision"
-   ]
   }
  ],
- "last_run": "2026-11-08T13:44:56.735325+00:00"
+ "last_run": "2026-11-08T21:18:03.753083+00:00"
 }
