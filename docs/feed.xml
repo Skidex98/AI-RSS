@@ -5,8 +5,107 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-11-13T14:47:23Z</updated>
+  <updated>2026-11-13T22:45:55Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12368 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12368"/>
+    <id>urn:uuid:cdeec6ff41135d8b</id>
+    <updated>2026-11-13T21:54:55Z</updated>
+    <published>2026-11-13T21:54:55Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;hexagon: improve buffer allocations and mappings (mmap stacking) (#32144) * hex-bufs: combine queue and fence buffers * hex-bufs: use n_threads for queue sizing * hex-mmap: optimize buffer stacking at the host to avoid iova fragmentation * hex-mmap: add simply retry for spurios mmap failures * hex-mmap: use eager mode for extended mmap retries **Website:** - **Attestations:** - **macOS/iOS:** -…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12368"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 anthropics/claude-agent-sdk-python v0.2.182</title>
+    <link href="https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.182"/>
+    <id>urn:uuid:5b680f3ac5d4f7e4</id>
+    <updated>2026-11-13T21:44:32Z</updated>
+    <published>2026-11-13T21:44:32Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;--- **PyPI:** https://pypi.org/project/claude-agent-sdk/0.2.182/ ```bash pip install claude-agent-sdk==0.2.182 ```&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.182"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12367 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12367"/>
+    <id>urn:uuid:503944931978c0b5</id>
+    <updated>2026-11-13T21:40:41Z</updated>
+    <published>2026-11-13T21:40:41Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;CUDA: add SM103 SASS to non-native builds (#30099) Signed-off-by: ynankani **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12367/llama-b12367-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12367"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 anthropics/claude-code v2.1.325</title>
+    <link href="https://github.com/anthropics/claude-code/releases/tag/v2.1.325"/>
+    <id>urn:uuid:7659040f2579c08c</id>
+    <updated>2026-11-13T20:40:01Z</updated>
+    <published>2026-11-13T20:40:01Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's changed - Fixed a security issue in how zstd-compressed responses are decoded - Added a spinner tip in VS Code and similar integrated terminals about re-running a notebook cell, shown once Claude has read or edited a Jupyter notebook - Added a line under the error shown when your organization's policy blocks a request, saying how to continue: run `/rewind` and change the message, or run…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.325"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12366 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12366"/>
+    <id>urn:uuid:2bc270afc4aeb507</id>
+    <updated>2026-11-13T19:29:39Z</updated>
+    <published>2026-11-13T19:29:39Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;ggml : add BF16 support to RMS_NORM (CPU, CUDA) (#32135) * ggml : add BF16 support to RMS_NORM (CPU, CUDA) * cuda : use one helper for the F32/BF16 RMS_NORM launches **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12366/llama-b12366-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12366"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B &amp; Flash Next [GGUF]</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace/"/>
+    <id>urn:uuid:dc3edba713e4111e</id>
+    <updated>2026-11-13T19:23:54Z</updated>
+    <published>2026-11-13T19:23:54Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;hey llamas, its Alish from nace.ai (open source ai lab behind #1 decision model on latest Artificial Analysis decision index v2.1) Kapitsa (optimized inference for apple silicon). As promised in the last post , we are releasing the GGUF weights based on the Nace quantization of Qwen 9B, 27B, 35B and Flash-Next. I will…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen, quantization, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12365 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12365"/>
+    <id>urn:uuid:b610bf8219bb3f24</id>
+    <updated>2026-11-13T19:12:17Z</updated>
+    <published>2026-11-13T19:12:17Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;vulkan: add TOP_K_MASK (#31544) * vulkan: add TOP_K_MASK Assisted-by: Claude Opus 5.5 * vulkan: fix the TOP_K_MASK barrier and use the common offset helper Assisted-by: Claude Opus 5.5 * vulkan: declare ggml_vk_top_k_mask in the common header Assisted-by: Claude Opus 5.5 **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12365"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
+    <link href="https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"/>
+    <id>urn:uuid:75069fceb323a08c</id>
+    <updated>2026-11-13T18:00:39Z</updated>
+    <published>2026-11-13T18:00:39Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hugging Face Blog&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 XYBench: Helping with the problem behind the question</title>
+    <link href="https://huggingface.co/blog/allenai/xybench"/>
+    <id>urn:uuid:0087cffdf67ec467</id>
+    <updated>2026-11-13T17:02:35Z</updated>
+    <published>2026-11-13T17:02:35Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hugging Face Blog&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://huggingface.co/blog/allenai/xybench"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 DeepSeek flash max is the first model to reach &gt;1% on challenging SWE-sweep bug finding benchmark</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/"/>
+    <id>urn:uuid:deb33543770db050</id>
+    <updated>2026-11-13T16:31:47Z</updated>
+    <published>2026-11-13T16:31:47Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Hi, I've just updated the SWE-sweep leaderboard with more open-weight models! DeepSeek v4.1 flash (max) is the first open-weight model we evaluated that gets 1%. This benchmark is extremely challenging: Models get a snapshot of a (potentially very large) repo containing hundreds of bugs. They don't receive any hint…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Introducing ChatGPT Wallet</title>
+    <link href="https://openai.com/index/introducing-chatgpt-wallet"/>
+    <id>urn:uuid:d9e47ac0ae0118bd</id>
+    <updated>2026-11-13T15:00:00Z</updated>
+    <published>2026-11-13T15:00:00Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/introducing-chatgpt-wallet"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 ChromeDevTools/chrome-devtools-mcp</title>
     <link href="https://github.com/ChromeDevTools/chrome-devtools-mcp"/>
@@ -278,6 +377,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;NVIDIA Auto Ontology's semantic layer and a personal knowledge base as an MCP server for Claude, ChatGPT and other MCP clients. No LLM API key needed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, llm, mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/gogoymh/auto-ontology-mcp"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 Gemma 4 E2B on a 8GB RAM netbook</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xutkqv/gemma_4_e2b_on_a_8gb_ram_netbook/"/>
+    <id>urn:uuid:20a1ad340b31f18f</id>
+    <updated>2026-11-13T00:31:33Z</updated>
+    <published>2026-11-13T00:31:33Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Hey everyone, Not a native speaker, but I write everything by hand. Please correct my grammer if there are any issues! Can only learn from it. Background A long-term project I've had was getting my netbook up and running for basic LLM use. I bought the netbook initially due to my poor eyesight, the screen is small…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xutkqv/gemma_4_e2b_on_a_8gb_ram_netbook/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>📰 Uncensored models are awesome</title>
     <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xutb77/uncensored_models_are_awesome/"/>
     <id>urn:uuid:dd15a1beb7399608</id>
@@ -510,6 +618,15 @@
     <published>2026-11-12T15:24:14Z</published>
     <category term="REPO"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres.…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, gemini, mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/agentes-chat/agentes-chat"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 151 · hitkeeen/blender-ai-mcp-addon (?)</title>
+    <link href="https://github.com/hitkeeen/blender-ai-mcp-addon"/>
+    <id>urn:uuid:ddf8cbe3a3c17625</id>
+    <updated>2026-11-12T14:33:16Z</updated>
+    <published>2026-11-12T14:33:16Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, gemini, mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/hitkeeen/blender-ai-mcp-addon"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📦 ⭐ 171 · didilili/mianstack (JavaScript)</title>
@@ -969,122 +1086,5 @@
     <published>2026-11-11T15:00:15Z</published>
     <category term="NEWS"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Google DeepMind Blog&lt;/p&gt;&lt;p&gt;Predicting how DNA sequences and their variations impact specific human cell types and disease.&lt;/p&gt;&lt;p&gt;&lt;a href="https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 google-labs-code/stitch-skills</title>
-    <link href="https://github.com/google-labs-code/stitch-skills"/>
-    <id>urn:uuid:9a484cf01f1e9e9f</id>
-    <updated>2026-11-11T14:38:40Z</updated>
-    <published>2026-11-11T14:38:40Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — TypeScript&lt;/p&gt;&lt;p&gt;A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. https://stitch.withgoogle.com/docs/mcp/setup Stitch Design Skills A collection of agent skills and plugins…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, gemini, mcp, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/google-labs-code/stitch-skills"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 Imbad0202/academic-research-skills</title>
-    <link href="https://github.com/Imbad0202/academic-research-skills"/>
-    <id>urn:uuid:68d5488208f5a37b</id>
-    <updated>2026-11-11T14:38:40Z</updated>
-    <published>2026-11-11T14:38:40Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;Academic Research Skills for Claude Code: research → write → review → revise → finalize https://buymeacoffee.com/crucify020v Academic Research Skills for Claude Code 简体中文版 | 繁體中文版 | 日本語版 | 한국어 | Español | Português A comprehensive suite of Claude Code skills for academic research, covering the full pipeline from…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Imbad0202/academic-research-skills"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 figma/mcp-server-guide</title>
-    <link href="https://github.com/figma/mcp-server-guide"/>
-    <id>urn:uuid:5f034aa12938b49b</id>
-    <updated>2026-11-11T14:38:40Z</updated>
-    <published>2026-11-11T14:38:40Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;A guide on how to use the Figma MCP server https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Dev-Mode-MCP-Server Figma MCP Server Guide The Figma MCP server brings Figma directly into your workflow by providing important design information and context to AI agents generating code from Figma design…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/figma/mcp-server-guide"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 958 · JosssphZhou/poki (Swift)</title>
-    <link href="https://github.com/JosssphZhou/poki"/>
-    <id>urn:uuid:179bd5e69a62ef1d</id>
-    <updated>2026-11-11T14:36:35Z</updated>
-    <published>2026-11-11T14:36:35Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/JosssphZhou/poki"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 [Paper] Tree-Ising: Repairing Language Models with Bit-Level Ising Edits</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xthtwt/paper_treeising_repairing_language_models_with/"/>
-    <id>urn:uuid:b584f36334916f03</id>
-    <updated>2026-11-11T13:32:30Z</updated>
-    <published>2026-11-11T13:32:30Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Weight-space programming, introduced in recent MIT work by Takehi et al., enables a frontier LLM agent to read a network's weights and write a repair. Their GPT-6 Astra agent corrected the reasoning loops of Qwen3.5-0.8B without gradients, using 158 agent turns, 89.7 million tokens, and 50 forward-pass requests. Our…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xthtwt/paper_treeising_repairing_language_models_with/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 2605 · Lee-xeo/Claude-Cage (Go)</title>
-    <link href="https://github.com/Lee-xeo/Claude-Cage"/>
-    <id>urn:uuid:3be76c07f04c6e2a</id>
-    <updated>2026-11-11T13:26:18Z</updated>
-    <published>2026-11-11T13:26:18Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Lee-xeo/Claude-Cage"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b12284 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12284"/>
-    <id>urn:uuid:2ecca83da10277c1</id>
-    <updated>2026-11-11T13:13:19Z</updated>
-    <published>2026-11-11T13:13:19Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;CUDA: Add OCP FP8 support (#28413) * Initial CUDA WIP version * Use fp8 intrinsics * Do W8A16 for FP8 in GEMV case (base) osimons@ub-osimons:~/lcpp_fp8.git$ ./build-x64-linux-gcc-reldbg/bin/llama-bench -m /mnt/share/gguf/nvidia/Qwen3.6-27B-NVFP4/Qwen3.6-27B-NVFP4_fp8.gguf -p 8196 -ub 512,2048 -d 0,32000 -n 256 --load-mode dio ggml_cuda_init: found 1 CUDA devices (Total VRAM: 32165 MiB): Device 0:…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12284"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 You can now train your own LLMs with less memory, on your gaming GPUs</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xtgnh9/you_can_now_train_your_own_llms_with_less_memory/"/>
-    <id>urn:uuid:a0c93ef2455cb37f</id>
-    <updated>2026-11-11T12:36:21Z</updated>
-    <published>2026-11-11T12:36:21Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;TL;DR: You can train your own 27B model on a 3090 with 24GB VRAM, though you would have to go through hundreds of billions of tokens for it to be good. I am working on conversion of existing models. Check repos for code and the paper if you are interested in more. I have a 40.4GB Qwen Flash Next GGUF Hi, I do AI…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xtgnh9/you_can_now_train_your_own_llms_with_less_memory/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 1220 · RunanywhereAI/trnrt (Python)</title>
-    <link href="https://github.com/RunanywhereAI/trnrt"/>
-    <id>urn:uuid:4f1bc94c02855204</id>
-    <updated>2026-11-11T10:04:47Z</updated>
-    <published>2026-11-11T10:04:47Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/RunanywhereAI/trnrt"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 404 · Interactive-Active-AI/NextTransformer (Python)</title>
-    <link href="https://github.com/Interactive-Active-AI/NextTransformer"/>
-    <id>urn:uuid:33b5e3bf078aa0ba</id>
-    <updated>2026-11-11T09:26:33Z</updated>
-    <published>2026-11-11T09:26:33Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;:sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers/LLM, with compute-matched benchmarking and a platform for autonomous architecture research.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Interactive-Active-AI/NextTransformer"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 43 · 8hjkkwikl8/ai-portfolio (Python)</title>
-    <link href="https://github.com/8hjkkwikl8/ai-portfolio"/>
-    <id>urn:uuid:fe5808723cd458ae</id>
-    <updated>2026-11-11T08:56:34Z</updated>
-    <published>2026-11-11T08:56:34Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;三个可运行的 AI 工程项目：可追溯 RAG、提示词评测与受守护的 NL2SQL 分析&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: rag&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/8hjkkwikl8/ai-portfolio"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 ChatGPT Plus for veterans and servicemembers</title>
-    <link href="https://openai.com/index/chatgpt-plus-for-veterans"/>
-    <id>urn:uuid:5885c8acf96e3a75</id>
-    <updated>2026-11-11T08:00:00Z</updated>
-    <published>2026-11-11T08:00:00Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/chatgpt-plus-for-veterans"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 411 · shanselman/sandbox-mcp (JavaScript)</title>
-    <link href="https://github.com/shanselman/sandbox-mcp"/>
-    <id>urn:uuid:d0c74e6aade1038b</id>
-    <updated>2026-11-11T06:44:24Z</updated>
-    <published>2026-11-11T06:44:24Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/shanselman/sandbox-mcp"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
