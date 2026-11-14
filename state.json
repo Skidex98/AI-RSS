@@ -1,5 +1,17 @@
 {
  "seen": [
+  "b721fa8ee8ebac1d",
+  "00db9fb98ee0d931",
+  "99d1e2f2a8735bbc",
+  "bb3177a737a6dd73",
+  "3730a322a6d03ba1",
+  "ba62bce43b3b32f1",
+  "8b225b8b74b27ac1",
+  "0b210112058c3c28",
+  "d99febb6773d3a30",
+  "fdce7a9dd1d5bb7c",
+  "8ed3d6471cdf694b",
+  "c5c48f4170947dc5",
   "eae916e7c3c5042a",
   "d4d7434ec434c586",
   "3a9f572d412c4820",
@@ -30,6 +42,7 @@
   "6493ebeeb1139519",
   "62114696c256d154",
   "925e37a8bb0ccdc5",
+  "b51c871b66d8a2c7",
   "7249f4c33efd72cb",
   "df56b3769e3bcb13",
   "0cf61196052685dc",
@@ -94,6 +107,7 @@
   "fb41bf2aa00ee276",
   "df1dabe6fedd1223",
   "ee13329a841f0018",
+  "bc277a56a4de86ce",
   "0b6ce67b138277c1",
   "7e6f292ddcf87b11",
   "058b0943ee5946c9",
@@ -105,23 +119,154 @@
   "4f4a001f9a4a4467",
   "d2b2bce04241311d",
   "c4008fb515454f27",
-  "a5e0cc9b2e60a8f1",
-  "58c78e530ffcc968",
-  "6450ce2b2e286244",
-  "8338b70bd3f39a10",
-  "c9a7d5d537aca7fe",
-  "ddf8cbe3a3c17625",
-  "456cd764433d4b46",
-  "aa53bdbe4ba58a26",
-  "6a2e292d3a2bee6b",
-  "87fa387410c6a7cb",
-  "0ddc1162e10365ab",
-  "4bfbc0c82dc95923",
-  "6b5703fa4621eb00",
-  "8199ac967a5a2f3d",
-  "dda93da89532d3ba"
+  "a5e0cc9b2e60a8f1"
  ],
  "items": [
+  {
+   "uid": "b721fa8ee8ebac1d",
+   "title": "ZhuLinsen/daily_stock_analysis",
+   "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-11-14T21:38:21.907740+00:00",
+   "summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. https://dsa.zhulinsen.tech 📈 股票智能分析系统 🤖 基于 AI 大模型的…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "00db9fb98ee0d931",
+   "title": "ggml-org/llama.cpp b12387 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12387",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-14T19:26:34+00:00",
+   "summary": "Fix ctz64 on 32bit (#32273) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12387/llama-b12387-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "99d1e2f2a8735bbc",
+   "title": "Update: tandem.cpp — DeepSeek-V4.1 on a 64 GB PC with a 16 GB card, and AMD (ROCm) support",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwan2j/update_tandemcpp_deepseekv41_on_a_64_gb_pc_with_a/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-14T19:12:45+00:00",
+   "summary": "Quick update on tandem.cpp, my patch set for llama.cpp that runs MoE models too big for your VRAM faster. It keeps the hot experts on the GPU and lets the CPU help with the rest. Repo: https://github.com/ewhacc/tandem.cpp DeepSeek-V4.1-Flash IQ2_XS (ISTA GSQ-RCO, 139 GiB of experts) on normal PCs Decode tok/s, one…",
+   "matched": [
+    "llama",
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "bb3177a737a6dd73",
+   "title": "ggml-org/llama.cpp b12386 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12386",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-14T19:07:07+00:00",
+   "summary": "hexagon: fix fa no-mask tail (#32243) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12386/llama-b12386-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "3730a322a6d03ba1",
+   "title": "⭐ 1053 · Goblinmine/homelab-diagram (Python)",
+   "url": "https://github.com/Goblinmine/homelab-diagram",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-14T18:51:16+00:00",
+   "summary": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
+   "matched": [
+    "claude"
+   ]
+  },
+  {
+   "uid": "ba62bce43b3b32f1",
+   "title": "ggml-org/llama.cpp b12385 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12385",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-14T18:48:53+00:00",
+   "summary": "qwen2vl : apply FFN weight scales (#32241) The qwen2vl graph passed NULL for the ffn_up/gate/down scales, so the per-tensor NVFP4 scales loaded by the generic pass were never applied and the model produced garbage (PPL ~1e6 on CUDA, NaN on CPU). Pass the scales to build_ffn like qwen2 does. Fixes #32101 **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "8b225b8b74b27ac1",
+   "title": "ultralytics/ultralytics v8.4.213 — v8.4.213 - `ultralytics 8.4.213` Decode large segmentation mask stacks inside their boxes (#27197)",
+   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.213",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-14T18:48:08+00:00",
+   "summary": "## 🌟 Summary **Ultralytics 8.4.213 makes large segmentation predictions more memory- and compute-efficient, while also improving data handling, inference reliability, and deployment documentation.** 🚀 ## 📊 Key Changes - **Faster handling of large segmentation masks (PR #27197):** For large mask stacks, prediction now decodes each mask within its detection box rather than across the whole image.…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "0b210112058c3c28",
+   "title": "nex-agi/Nex-N2.6 · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw9mpa/nexaginexn26_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-14T18:31:49+00:00",
+   "summary": "Nex-N2.6 is a multimodal agentic model from Nex-AGI, built on GLM-5.3-Flash . It is designed for computer use, coding, and long-horizon tasks involving tools. This repository contains the FP8-quantized weights of Nex-N2.6, with approximately 321B parameters. Following Nex-N2.5-Pro , this release focuses on reducing…",
+   "matched": [
+    "agentic"
+   ]
+  },
+  {
+   "uid": "d99febb6773d3a30",
+   "title": "⭐ 192 · Balanov/shim (Go)",
+   "url": "https://github.com/Balanov/shim",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-14T16:36:46+00:00",
+   "summary": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "fdce7a9dd1d5bb7c",
+   "title": "Why don’t we have national open AI models?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw4ue3/why_dont_we_have_national_open_ai_models/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-14T15:17:07+00:00",
+   "summary": "Deepseek spent about $6m on 4.1 apparently. Published all of their work. US gov says don’t trust China, blah blah… As a US citizen why are we not training national open source? The cost is nothing compared to the budget, solves security issues, and prevents monopolistic practices on token pricing submitted by…",
+   "matched": [
+    "deepseek"
+   ]
+  },
+  {
+   "uid": "8ed3d6471cdf694b",
+   "title": "ggml-org/llama.cpp b12383 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12383",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-14T14:43:25+00:00",
+   "summary": "ggml-backend : start a new split at an incompatible weight in a split without inputs (#31775) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12383/llama-b12383-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "c5c48f4170947dc5",
+   "title": "ggml-org/llama.cpp b12381 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12381",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-14T14:24:28+00:00",
+   "summary": "mtmd: fix video pixel aspect ratio and video rotation (#32267) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12381/llama-b12381-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
   {
    "uid": "eae916e7c3c5042a",
    "title": "aimod-cc/Agent2API",
@@ -509,6 +654,18 @@
    "summary": "chat : remove mistral workaround (#32230) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12375/llama-b12375-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "b51c871b66d8a2c7",
+   "title": "LLM's might be bad at jokes but they still make me laugh a lot",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvsi2i/llms_might_be_bad_at_jokes_but_they_still_make_me/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-14T03:50:31+00:00",
+   "summary": "https://preview.redd.it/ikefi7yb2i1i1.png?width=1502 format=png auto=webp s=81e034eca6da6e807648313bb9509a78d7e22910 This was a new session with Qwen3.8-Flash-Next-GSQ-RCO-Coder just asking it to commit. No clue what it was trying to here xD submitted by /u/foundafreeusername [link] [comments]",
+   "matched": [
+    "llm"
    ]
   },
   {
@@ -1297,6 +1454,19 @@
    ]
   },
   {
+   "uid": "bc277a56a4de86ce",
+   "title": "⭐ 293 · racdeufindurch198812/Blender-AI-MCP-Studio (?)",
+   "url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-12T20:07:57+00:00",
+   "summary": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual chat workspace, multi-agent teams and your choice of AI models. · blender ai mcp studio ·…",
+   "matched": [
+    "mcp",
+    "model context protocol"
+   ]
+  },
+  {
    "uid": "0b6ce67b138277c1",
    "title": "ggml-org/llama.cpp b12323 (pre)",
    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12323",
@@ -1439,185 +1609,7 @@
    "matched": [
     "agentic"
    ]
-  },
-  {
-   "uid": "58c78e530ffcc968",
-   "title": "shy3130/tick-stock-panel",
-   "url": "https://github.com/shy3130/tick-stock-panel",
-   "source": "GitHub Trending — Python",
-   "category": "repo",
-   "published": "2026-11-12T15:29:48.615973+00:00",
-   "summary": "TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 https://tsp.shy313.com TSP · A股智能量化工作台 自托管 · 零运维 · 核心能力全部开放成接口的 A 股量化工作台 策略 · 回测 · 监控 · 因子挖掘 · AI 助手 · Polars · React 3.11+ Python 后端 20+ Node 前端 18 React · TypeScript 3000+ 测试全绿 · CI 守护 ms 级 全市场策略扫描 1 容器 零外部数据库 ✨ 核心功能 · 📸 界面预览 · 🏛️…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "6450ce2b2e286244",
-   "title": "Alishahryar1/free-claude-code",
-   "url": "https://github.com/Alishahryar1/free-claude-code",
-   "source": "GitHub Trending — Python",
-   "category": "repo",
-   "published": "2026-11-12T15:29:48.614677+00:00",
-   "summary": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly) Quick Start · Providers · Clients…",
-   "matched": [
-    "claude",
-    "claude code"
-   ]
-  },
-  {
-   "uid": "8338b70bd3f39a10",
-   "title": "googleads/google-ads-mcp",
-   "url": "https://github.com/googleads/google-ads-mcp",
-   "source": "GitHub Trending — Python",
-   "category": "repo",
-   "published": "2026-11-12T15:29:48.613789+00:00",
-   "summary": "Google Ads MCP Server This repo contains the source code for running an MCP server that interacts with the Google Ads API . Tools The server uses the Google Ads API to provide several Tools and Resources for use with LLMs and AI agents. Tools available search : Retrieves information about the Google Ads account using…",
-   "matched": [
-    "mcp"
-   ]
-  },
-  {
-   "uid": "c9a7d5d537aca7fe",
-   "title": "⭐ 920 · agentes-chat/agentes-chat (TypeScript)",
-   "url": "https://github.com/agentes-chat/agentes-chat",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-11-12T15:24:14+00:00",
-   "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres.…",
-   "matched": [
-    "claude",
-    "gemini",
-    "mcp"
-   ]
-  },
-  {
-   "uid": "ddf8cbe3a3c17625",
-   "title": "⭐ 151 · hitkeeen/blender-ai-mcp-addon (?)",
-   "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-11-12T14:33:16+00:00",
-   "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-   "matched": [
-    "claude",
-    "gemini",
-    "mcp"
-   ]
-  },
-  {
-   "uid": "456cd764433d4b46",
-   "title": "⭐ 171 · didilili/mianstack (JavaScript)",
-   "url": "https://github.com/didilili/mianstack",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-11-12T13:34:12+00:00",
-   "summary": "🚀 面栈 MianStack｜程序员面试题库天花板！Java、Python、数据库、算法、大模型、AI Agent、RAG 一栈备齐。真实面经关联高频考点，按公司、岗位定向备考；图文题解、精华专题、项目源码拆解，全系标配。面试官出题，面栈出招！免费开源，持续更新。",
-   "matched": [
-    "rag"
-   ]
-  },
-  {
-   "uid": "aa53bdbe4ba58a26",
-   "title": "After four years of development, are LLMs capable of writing high-quality prose?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xub4s2/after_four_years_of_development_are_llms_capable/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-11-12T12:09:12+00:00",
-   "summary": "I have been following the evolution of LLMs since the days of GPT-3.5, and I have been actively using local LLMs since the release of Gemma 2. I read a great deal, including this subreddit. I have performed QLoRA fine-tuning on my local machine many times, and I have also conducted full fine-tuning (FFT) training runs…",
-   "matched": [
-    "fine-tuning",
-    "qlora"
-   ]
-  },
-  {
-   "uid": "6a2e292d3a2bee6b",
-   "title": "Gondola doubles revenue as its team builds more with Codex",
-   "url": "https://openai.com/business/customer-stories/gondola",
-   "source": "OpenAI News",
-   "category": "news",
-   "published": "2026-11-12T12:00:00+00:00",
-   "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "87fa387410c6a7cb",
-   "title": "Anthropic IPO",
-   "url": "https://ipo.anthropic.com/us/",
-   "source": "Hacker News (AI)",
-   "category": "news",
-   "published": "2026-11-12T11:46:41+00:00",
-   "summary": "Article URL: https://ipo.anthropic.com/us/ Comments URL: https://news.ycombinator.com/item?id=50465829 Points: 764 # Comments: 759",
-   "matched": [
-    "anthropic"
-   ]
-  },
-  {
-   "uid": "0ddc1162e10365ab",
-   "title": "ggml-org/llama.cpp b12318 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12318",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-11-12T11:36:10+00:00",
-   "summary": "CUDA: add cuda debug buffer pool (#31919) * CUDA: add cuda debug buffer pool * CUDA: add code comment for debug pool with compute-sanitizer **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12318/llama-b12318-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "4bfbc0c82dc95923",
-   "title": "KQuant - new quantization technique, 3.7× better quants for Qwen Flash Next 180B, Qwen 27B, 35B, 9B (measured in KL-divergence reduction) (MLX)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu9onk/kquant_new_quantization_technique_37_better/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-11-12T10:47:24+00:00",
-   "summary": "hey folks, im Alish, an ml engineer from Nace (folks behind Drex, an open source decision family model that hit #1 in Artificial analysis in decision index 2.1). Recently my cto gave me task to optimize quants for qwen4, so i dialed my uni proffesor from UoT and span up my Fable 5.2 and we cooooooked. starting with…",
-   "matched": [
-    "qwen",
-    "fable",
-    "quantization"
-   ]
-  },
-  {
-   "uid": "6b5703fa4621eb00",
-   "title": "moein99/P2Echo · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu95lt/moein99p2echo_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-11-12T10:16:15+00:00",
-   "summary": "Prompt2Echo (P2Echo) Text-Prompted Multi-View Echocardiography Segmentation with One Model Official pretrained weights for P2Echo , a unified framework for text-prompted segmentation of multiple cardiac structures across standard echocardiographic views. P2Echo uses structured, view-aware text prompts to control…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "8199ac967a5a2f3d",
-   "title": "[Paper] e-means: outperforming k-means (in one-tenth the epochs)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu92md/paper_emeans_outperforming_kmeans_in_onetenth_the/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-11-12T10:11:22+00:00",
-   "summary": "Lloyd's k-means algorithm is a long-running standard for clustering, with applications in data analysis, retrieval, quantization and data curation. In this paper, we introduce an exponential moving average optimization procedure for k-means with mini-batch updates, powered by modern deep learning machinery and new…",
-   "matched": [
-    "quantization"
-   ]
-  },
-  {
-   "uid": "dda93da89532d3ba",
-   "title": "⭐ 222 · huawei-csl/MACaQ (C++)",
-   "url": "https://github.com/huawei-csl/MACaQ",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-11-12T09:57:27+00:00",
-   "summary": "SOTA model-agnostic quantization for GGUF, local inference and beyond. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch.",
-   "matched": [
-    "llama",
-    "quantization",
-    "inference"
-   ]
   }
  ],
- "last_run": "2026-11-14T13:43:32.793877+00:00"
+ "last_run": "2026-11-14T21:38:36.623532+00:00"
 }
