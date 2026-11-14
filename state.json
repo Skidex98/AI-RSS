@@ -1,13 +1,51 @@
 {
  "seen": [
+  "eae916e7c3c5042a",
+  "d4d7434ec434c586",
+  "3a9f572d412c4820",
+  "6c63e172f8a56a51",
+  "eb02b30f142ce97b",
+  "d277b946f6984f02",
+  "9a484cf01f1e9e9f",
+  "f5879f9b9e60ebfe",
+  "0545926734e4ad75",
+  "d5c86ec165e0d776",
+  "3713557c04cb649e",
+  "af184853467914ad",
+  "556cc80feaf5f05d",
+  "0412cfe602e847dd",
+  "714ecf7e5a2ef360",
+  "27a529bcd16d86aa",
+  "00bcd6705cb476e7",
+  "741cd461e4cffee7",
+  "bc535cf4fdd40b75",
+  "9c0e77277f5d0f54",
+  "e19d5e0975584baf",
+  "179bd5e69a62ef1d",
+  "10ff03738edd2452",
+  "ededf758ee273e8e",
+  "26b926a5adbcb0bb",
+  "bd8944d7b829a824",
+  "a6bbffffe695633c",
+  "6493ebeeb1139519",
+  "62114696c256d154",
+  "925e37a8bb0ccdc5",
+  "7249f4c33efd72cb",
+  "df56b3769e3bcb13",
+  "0cf61196052685dc",
+  "d8d2dfda7101265a",
+  "62e0963654f49320",
+  "02972adea565fbbd",
   "cdeec6ff41135d8b",
   "5b680f3ac5d4f7e4",
   "503944931978c0b5",
   "7659040f2579c08c",
+  "365686a2d9cff538",
   "2bc270afc4aeb507",
   "dc3edba713e4111e",
   "b610bf8219bb3f24",
   "75069fceb323a08c",
+  "0ce64113356fed80",
   "0087cffdf67ec467",
   "deb33543770db050",
   "d9e47ac0ae0118bd",
@@ -37,6 +75,8 @@
   "d6e4f123702d3e04",
   "8e282ca7c1246bd4",
   "18a8accc5b19bfbe",
+  "af64e2cb0de9985d",
+  "fe5808723cd458ae",
   "389c90311a0e9f94",
   "b8e33432c2cf4ca1",
   "4bdd0ffaf8c0b50c",
@@ -52,6 +92,8 @@
   "977efd9fbeee8fc1",
   "6327ca54b443be2d",
   "fb41bf2aa00ee276",
+  "df1dabe6fedd1223",
+  "ee13329a841f0018",
   "0b6ce67b138277c1",
   "7e6f292ddcf87b11",
   "058b0943ee5946c9",
@@ -77,51 +119,470 @@
   "4bfbc0c82dc95923",
   "6b5703fa4621eb00",
   "8199ac967a5a2f3d",
-  "dda93da89532d3ba",
-  "7f84ef8b8cc5c226",
-  "96f402b8dbb7a535",
-  "e23d394f90139815",
-  "1613b7d18ab3ca47",
-  "ff454032c6ea3e18",
-  "a86b9066c91e4222",
-  "7235f445fa1d23de",
-  "bdfbf90ff878441a",
-  "df383c866c00368c",
-  "44142c4610e224b6",
-  "40870f980a74983c",
-  "8ea1edfdb9b7cdb7",
-  "1238bea85942a263",
-  "dd4dee869be976b2",
-  "348ea8ea5e3b5e3c",
-  "03c26f0a86777db1",
-  "d3a62717445ffb85",
-  "a610dfb905dfb698",
-  "e5b44a600947456e",
-  "b721fa8ee8ebac1d",
-  "976d3afb77f6eb0f",
-  "0cfe761ceb8c7a70",
-  "7263b2ad8f52fe81",
-  "808e1873b6f1032d",
-  "dd73bdbc6fd7a148",
-  "c1c14ca24f1fe169",
-  "1b371b65e0c953bb",
-  "b7605ffe0c79866c",
-  "f0bb6c411cb4c4bd",
-  "fd7c9f1beb3ea0f1",
-  "defcd5cdf13a4947",
-  "346bd5008dbaa6cf",
-  "79846180d26b3e5b",
-  "a5ce7e35572a2c4d",
-  "98deb04cf07fb1dc",
-  "c89baaa73eae1816",
-  "11d3d5895df4f3be",
-  "7a548ed40b0e3751",
-  "c1ac76566aa3d738",
-  "65ffac4329ccccf4",
-  "ec21c1c03d25d940",
-  "a63ccbf1a62dbd45"
+  "dda93da89532d3ba"
  ],
  "items": [
+  {
+   "uid": "eae916e7c3c5042a",
+   "title": "aimod-cc/Agent2API",
+   "url": "https://github.com/aimod-cc/Agent2API",
+   "source": "GitHub Trending — Rust",
+   "category": "repo",
+   "published": "2026-11-14T13:43:20.108166+00:00",
+   "summary": "Local AI routing gateway with Agent client takeover — reuse existing client logins, call 50+ AI clients through one base URL, with unified OpenAI / Anthropic / Images APIs, multi-account routing, check-in, balance and request reports · 本地 AI 路由网关 + Agent 客户端接管：复用各家客户端登录态，一个 base_url 调用 50+ 家模型额度，统一 OpenAI / Anthropic…",
+   "matched": [
+    "anthropic"
+   ]
+  },
+  {
+   "uid": "d4d7434ec434c586",
+   "title": "rtk-ai/rtk",
+   "url": "https://github.com/rtk-ai/rtk",
+   "source": "GitHub Trending — Rust",
+   "category": "repo",
+   "published": "2026-11-14T13:43:20.106865+00:00",
+   "summary": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies https://www.rtk-ai.app The cost reduction engine for AI coding agents. Install it and forget it, then go as far as you want with pipelines. Install • Pipelines • Docs • Website • RTK Pro • Discord…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "3a9f572d412c4820",
+   "title": "farion1231/cc-switch",
+   "url": "https://github.com/farion1231/cc-switch",
+   "source": "GitHub Trending — Rust",
+   "category": "repo",
+   "published": "2026-11-14T13:43:20.098539+00:00",
+   "summary": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io https://ccswitch.io CC Switch The All-in-One Manager for Claude Code, Claude Desktop, Codex, Gemini CLI, Grok Build, OpenCode, OpenClaw, Hermes Agent, Pi, MiniMax Code, Kimi Code…",
+   "matched": [
+    "claude",
+    "gemini",
+    "deepseek",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "6c63e172f8a56a51",
+   "title": "lidge-jun/opencodex",
+   "url": "https://github.com/lidge-jun/opencodex",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-11-14T13:43:19.865919+00:00",
+   "summary": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code https://opencodex.me/ One local gateway for your AI coding tools and models. Use the models you choose with Codex, Claude Code, Claude Desktop and Grok Build, and…",
+   "matched": [
+    "claude",
+    "gemini",
+    "deepseek",
+    "llm",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "eb02b30f142ce97b",
+   "title": "abhigyanpatwari/GitNexus",
+   "url": "https://github.com/abhigyanpatwari/GitNexus",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-11-14T13:43:19.865014+00:00",
+   "summary": "GitNexus: The Zero-Server Code Intelligence Engine https://gitnexus.vercel.app GitNexus GitNexus indexes a codebase into a knowledge graph of symbols, calls, dependencies and execution flows. Use it through your coding agent's MCP tools, the CLI, or a web graph explorer. Quick start · Documentation · Web UI · Discord…",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "d277b946f6984f02",
+   "title": "callstack/agent-device",
+   "url": "https://github.com/callstack/agent-device",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-11-14T13:43:19.864097+00:00",
+   "summary": "Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on devices and simulators, locally or in the cloud. https://agent-device.dev agent-device Open source device layer for AI coding agents. Let coding agents control mobile, web, TV, and…",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "9a484cf01f1e9e9f",
+   "title": "google-labs-code/stitch-skills",
+   "url": "https://github.com/google-labs-code/stitch-skills",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-11-14T13:43:19.860712+00:00",
+   "summary": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. https://stitch.withgoogle.com/docs/mcp/setup Stitch Design Skills A collection of agent skills and plugins…",
+   "matched": [
+    "claude",
+    "gemini",
+    "mcp",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "f5879f9b9e60ebfe",
+   "title": "EveryInc/compound-engineering-plugin",
+   "url": "https://github.com/EveryInc/compound-engineering-plugin",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-11-14T13:43:19.857525+00:00",
+   "summary": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more https://every.to/compound-engineering Compound Engineering AI skills that make each unit of engineering work easier than the last. Compound Engineering is a plugin of 38 skills for AI coding agents. It structures the work around a loop —…",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "0545926734e4ad75",
+   "title": "a2ui-project/a2ui",
+   "url": "https://github.com/a2ui-project/a2ui",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-11-14T13:43:19.853778+00:00",
+   "summary": "Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose. https://a2ui.org/ A2UI Build delightful, fast, reliable agentic experiences A2UI (Agent-to-User Interface) is an open-source generative UI framework,…",
+   "matched": [
+    "agentic"
+   ]
+  },
+  {
+   "uid": "d5c86ec165e0d776",
+   "title": "kajisho5/ffmpeg-skill",
+   "url": "https://github.com/kajisho5/ffmpeg-skill",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-11-14T13:43:19.390582+00:00",
+   "summary": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys. https://www.npmjs.com/package/ffmpeg-skill Give your coding agent a video editor. Claude Code, Cursor,…",
+   "matched": [
+    "claude",
+    "mcp",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "3713557c04cb649e",
+   "title": "langchain-ai/langgraph",
+   "url": "https://github.com/langchain-ai/langgraph",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-11-14T13:43:19.389837+00:00",
+   "summary": "Build resilient agents. https://docs.langchain.com/oss/python/langgraph/ Low-level orchestration framework for building stateful agents. Trusted by companies shaping the future of agents – including Klarna, Replit, Elastic, and more – LangGraph is a low-level orchestration framework for building, managing, and…",
+   "matched": [
+    "langgraph",
+    "langchain"
+   ]
+  },
+  {
+   "uid": "af184853467914ad",
+   "title": "volcengine/OpenViking",
+   "url": "https://github.com/volcengine/OpenViking",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-11-14T13:43:19.388475+00:00",
+   "summary": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. https://openviking.ai The Context Database for AI Agents English / 中文 / 日本語 Website · Live Demo · GitHub · Issues · Docs · Blog Lark · WeChat · Discord · X What is OpenViking OpenViking is an open-source context database for AI…",
+   "matched": [
+    "rag"
+   ]
+  },
+  {
+   "uid": "556cc80feaf5f05d",
+   "title": "realiti4/claude-swap",
+   "url": "https://github.com/realiti4/claude-swap",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-11-14T13:43:19.386693+00:00",
+   "summary": "Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions claude-swap Multi-account switcher for Claude Code. Easily switch between multiple Claude accounts without logging out, or let it switch for you before you hit a rate limit. Track usage for every…",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "0412cfe602e847dd",
+   "title": "ahujasid/mcp-for-blender",
+   "url": "https://github.com/ahujasid/mcp-for-blender",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-11-14T13:43:19.384461+00:00",
+   "summary": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation. https://www.mcp-for-blender.com/ formerly blender-mcp — the PyPI package is now mcp-for-blender . Existing setups keep working; no config change is required. Read more Disclaimer: This is a…",
+   "matched": [
+    "llm",
+    "mcp"
+   ]
+  },
+  {
+   "uid": "714ecf7e5a2ef360",
+   "title": "headroomlabs-ai/headroom",
+   "url": "https://github.com/headroomlabs-ai/headroom",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-11-14T13:43:19.380733+00:00",
+   "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. https://docs.headroomlabs.ai/docs Quickstart · Headroom for Teams · Install · Proof · Agents · Docs · Discord · llms.txt AI agents /…",
+   "matched": [
+    "llm",
+    "rag",
+    "mcp"
+   ]
+  },
+  {
+   "uid": "27a529bcd16d86aa",
+   "title": "anthropics/claude-plugins-official",
+   "url": "https://github.com/anthropics/claude-plugins-official",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-11-14T13:43:19.379951+00:00",
+   "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins. https://code.claude.com/docs/en/plugins Claude Plugins Anthropic's own plugins for Claude, and the claude-plugins-official marketplace for Claude Code. Submitting a plugin? Submit it at claude.ai/directory/manage . Plugins accepted there are…",
+   "matched": [
+    "claude",
+    "anthropic",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "00bcd6705cb476e7",
+   "title": "asgeirtj/system_prompts_leaks",
+   "url": "https://github.com/asgeirtj/system_prompts_leaks",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-11-14T13:43:19.378566+00:00",
+   "summary": "Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google Antigravity, xAI Grok, Meta Muse, Moonshot Kimi, Alibaba Qwen, Z.ai GLM ZCode, MiniMax, Cursor, Perplexity, DeepSeek and…",
+   "matched": [
+    "claude",
+    "anthropic",
+    "gemini",
+    "qwen",
+    "deepseek",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "741cd461e4cffee7",
+   "title": "avenoxai/avenoxbeyin",
+   "url": "https://github.com/avenoxai/avenoxbeyin",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-11-14T13:43:19.377470+00:00",
+   "summary": "Your AI second brain in one command — open-source Obsidian + Claude Code system with persistent cross-session memory. avenox.lol/beyin.md İkinci Beyin AI istemcin değişse de notların, kararların ve görevlerin aynı yerde kalsın. AvenoxBeyin, AI ajanlarınla kullanabileceğin yerel bir hafıza sistemi. Önemli bilgiyi…",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "bc535cf4fdd40b75",
+   "title": "tradermonty/claude-trading-skills",
+   "url": "https://github.com/tradermonty/claude-trading-skills",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-11-14T13:43:19.372867+00:00",
+   "summary": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. https://tradermonty.github.io/claude-trading-skills/ Claude Trading Skills Claude Trading Skills started as a personal project to use AI to improve my own trading…",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "9c0e77277f5d0f54",
+   "title": "⭐ 252 · tiobeharxi1987/blender-ai-copilot-flow (?)",
+   "url": "https://github.com/tiobeharxi1987/blender-ai-copilot-flow",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-14T13:40:31+00:00",
+   "summary": "A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name—inside a visual studio with a built-in MCP server. · blender-ai-copilot-flow · blender · blender 3d · blender addon ·…",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "e19d5e0975584baf",
+   "title": "ggml-org/llama.cpp b12378 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12378",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-14T13:10:49+00:00",
+   "summary": "mtmd : avoid padding-only Whisper audio chunks (#30403) Assisted-by: Claude Opus 5 **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12378/llama-b12378-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "179bd5e69a62ef1d",
+   "title": "⭐ 1193 · JosssphZhou/poki (Swift)",
+   "url": "https://github.com/JosssphZhou/poki",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-14T12:33:21+00:00",
+   "summary": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "10ff03738edd2452",
+   "title": "How long are we gonna depend bunch of model creators (like Qwen, Gemma, NVIDIA, etc.,) for ~100B models?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw0xeu/how_long_are_we_gonna_depend_bunch_of_model/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-14T12:10:50+00:00",
+   "summary": "I think we're fine till 2027 with models(~100B .... Qwen 4.X 5, Gemma-5, NVIDIA would release some Medium/Big size 25-200B models). After that it's gonna be critical, as many model creators are increased/increasing model size to 300B+. Future trend probably gonna be around 500B. That size range is not suitable for…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "ededf758ee273e8e",
+   "title": "sensenova/SenseNova-Loop-9B-Preview · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvysss/sensenovasensenovaloop9bpreview_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-14T10:02:25+00:00",
+   "summary": "Very interesting model/architecture. Seems to match Qwen 3.5 27b overall at only 9b parameters. Could be useful for some and it looks like it’s not even fully cooked yet. I haven’t tried it yet. I’m not sure if it’d be slower than qwen, it’s smaller but inference parameters are ~15b and it also has mtp so idk. If you…",
+   "matched": [
+    "qwen",
+    "inference"
+   ]
+  },
+  {
+   "uid": "26b926a5adbcb0bb",
+   "title": "Qwen 3.8 Flash Next for gamedev - it's very capable!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvyol3/qwen_38_flash_next_for_gamedev_its_very_capable/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-14T09:55:18+00:00",
+   "summary": "I've shared the project I'm working on approx a month ago, today it's completed. I wanted to know a simple thing: how good is Qwen 3.8FN at gamedev? And I had so much fun in the process that I am shipping a finished product, free to play. tl,dr + link at the bottom. My experience with Qwen 3.8FN follows. Data Model…",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "bd8944d7b829a824",
+   "title": "ggml-org/llama.cpp b12377 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12377",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-14T09:46:55+00:00",
+   "summary": "spec + model: refactor DFlash based speculative decoding methods (#32016) * dflash : move the DSpark markov head and backbone graphs to dspark.cpp Move-only: build_dspark_markov_head, graph_dsv4, graph_dsv41 and graph_mistral_large4 move verbatim. build_inp_target_features and build_dspark_markov_head become static members of llama_model_dflash so both files can use them. * dflash : detect the…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "a6bbffffe695633c",
+   "title": "Can open-weight LLMs can predict the effects of weight edits without running the model (9B–30B)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvxyhj/can_openweight_llms_can_predict_the_effects_of/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-14T09:07:32+00:00",
+   "summary": "I’ve been experimenting with weight-space reading using Qwen and Muse models (9B–30B). The goal: can an LLM inspect raw model weights and predict the behavioral effects of weight edits without running the target model? A few findings: 🔹Qwen 27B reached 73.0% balanced accuracy on subtle edits with weight access, vs.…",
+   "matched": [
+    "qwen",
+    "llm"
+   ]
+  },
+  {
+   "uid": "6493ebeeb1139519",
+   "title": "ggml-org/llama.cpp b12376 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12376",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-14T08:42:49+00:00",
+   "summary": "Hexagon: add support for IQ2_XXS and NVFP4 (#31954) * ggml-hexagon: IQ2_XXS and NVFP4 tiled repack layouts * ggml-hexagon: IQ2_XXS HVX matmul kernel * ggml-hexagon: NVFP4 HVX matmul kernel * ggml-hexagon: NVFP4 per-tensor scale * ggml-hexagon: HMX paths for IQ2_XXS and NVFP4 * ggml-hexagon: supports_op coverage for NVFP4 and IQ2_XXS * fix HMX IQ2_XXS dequant scale underflow in fp16 * hexagon:…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "62114696c256d154",
+   "title": "Crazy there's a probable connection between my desktop running Qwen 3.8 27B and a major geo-economic-political event",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvubha/crazy_theres_a_probable_connection_between_my/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-14T05:29:37+00:00",
+   "summary": "https://www.tbsnews.net/explainer/nvidia-ceos-alleged-affair-tech-entrepreneur-raises-questions-over-china-chip-links submitted by /u/nathan555 [link] [comments]",
+   "matched": [
+    "qwen"
+   ]
+  },
+  {
+   "uid": "925e37a8bb0ccdc5",
+   "title": "ggml-org/llama.cpp b12375 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12375",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-14T04:14:54+00:00",
+   "summary": "chat : remove mistral workaround (#32230) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12375/llama-b12375-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "7249f4c33efd72cb",
+   "title": "langchain-ai/langgraph 1.2.22 — langgraph==1.2.22",
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/1.2.22",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-14T01:43:55+00:00",
+   "summary": "Changes since 1.2.21 * release(langgraph): 1.2.22 (#9702) * release(checkpoint-postgres): 3.2.1 (#9700) * release(prebuilt): 1.1.2 (#9701) * release(checkpoint): 4.3.2 (#9699) * fix(langgraph): stream a child graph on its own thread to a caller streaming subgraphs (#9698) * perf(langgraph): skip message conversion in add_messages for plain messages (#9631) * perf(langgraph): filter pending writes…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "df56b3769e3bcb13",
+   "title": "langchain-ai/langgraph checkpointpostgres==3.2.1 — langgraph-checkpoint-postgres==3.2.1",
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/checkpointpostgres%3D%3D3.2.1",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-14T01:39:04+00:00",
+   "summary": "Changes since checkpointpostgres==3.2.0 * release(checkpoint-postgres): 3.2.1 (#9700) * release(checkpoint): 4.3.2 (#9699) * perf(checkpoint-postgres): run a lone store read outside a pipeline (#9635) * perf(checkpoint-postgres): skip the async saver's lock for connection pools (#9638) * perf(checkpoint-postgres): load no pending writes without a thread hop (#9639) * release(checkpoint): 4.3.1…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "0cf61196052685dc",
+   "title": "langchain-ai/langgraph prebuilt==1.1.2 — langgraph-prebuilt==1.1.2",
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/prebuilt%3D%3D1.1.2",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-14T01:33:52+00:00",
+   "summary": "Changes since prebuilt==1.1.1 * release(langgraph): 1.2.22 (#9702) * release(checkpoint-postgres): 3.2.1 (#9700) * release(prebuilt): 1.1.2 (#9701) * release(checkpoint): 4.3.2 (#9699) * perf(prebuilt): only format the call_model error message when raising (#9628) * release(langgraph): 1.2.21 (#9683) * chore(deps): bump the minor-and-patch group across 1 directory with 9 updates (#9530) *…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "d8d2dfda7101265a",
+   "title": "langchain-ai/langgraph checkpoint==4.3.2 — langgraph-checkpoint==4.3.2",
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/checkpoint%3D%3D4.3.2",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-14T01:31:16+00:00",
+   "summary": "Changes since checkpoint==4.3.1 * release(checkpoint): 4.3.2 (#9699) * perf(checkpoint): stop InMemoryStore search at the requested page (#9633) * perf(checkpoint): dedupe batched store reads with a dict (#9636) * chore(deps): bump the minor-and-patch group in /libs/checkpoint with 6 updates (#9529) * chore(deps-dev): bump pycryptodome from 3.23.0 to 4.2.0 in /libs/checkpoint in the major group…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "62e0963654f49320",
+   "title": "datasette-cluster-map 0.19",
+   "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-11-13T23:02:45+00:00",
+   "summary": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG E , also…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "02972adea565fbbd",
+   "title": "datasette-leaflet 0.3",
+   "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-11-13T22:30:54+00:00",
+   "summary": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datasette-leaflet is the…",
+   "matched": [
+    "*"
+   ]
+  },
   {
    "uid": "cdeec6ff41135d8b",
    "title": "ggml-org/llama.cpp b12368 (pre)",
@@ -168,6 +629,19 @@
    "summary": "## What's changed - Fixed a security issue in how zstd-compressed responses are decoded - Added a spinner tip in VS Code and similar integrated terminals about re-running a notebook cell, shown once Claude has read or edited a Jupyter notebook - Added a line under the error shown when your organization's policy blocks a request, saying how to continue: run `/rewind` and change the message, or run…",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "365686a2d9cff538",
+   "title": "DeepSeek v4.1 Flash vs Qwen 3.8 Flash Next Performance",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvhzq9/deepseek_v41_flash_vs_qwen_38_flash_next/",
+   "source": "r/LocalLLaMA",
+   "category": "news",
+   "published": "2026-11-13T19:57:57+00:00",
+   "summary": "While waiting for Qwen 4, I installed and benchmarked DeepSeek v4.1 Flash to see if I was missing out. Based on the type of work I do, DeepSeek is not better but is definitely much slower. Turns out Strata with Qwen 3.8 Flash-Next is best bang for buck on my machine. submitted by /u/Critical-Entry3377 [link] [comments]",
+   "matched": [
+    "qwen",
+    "deepseek"
    ]
   },
   {
@@ -218,6 +692,19 @@
    "summary": "",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "0ce64113356fed80",
+   "title": "⭐ 823 · kubai087/kubai-icons (JavaScript)",
+   "url": "https://github.com/kubai087/kubai-icons",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-13T17:04:47+00:00",
+   "summary": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse them.",
+   "matched": [
+    "claude",
+    "claude code"
    ]
   },
   {
@@ -576,6 +1063,30 @@
    ]
   },
   {
+   "uid": "af64e2cb0de9985d",
+   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "url": "https://openai.com/business/customer-stories/shield",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-13T08:00:00+00:00",
+   "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "fe5808723cd458ae",
+   "title": "⭐ 101 · 8hjkkwikl8/ai-portfolio (Python)",
+   "url": "https://github.com/8hjkkwikl8/ai-portfolio",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-13T07:29:34+00:00",
+   "summary": "三个可运行的 AI 工程项目：可追溯 RAG、提示词评测与受守护的 NL2SQL 分析",
+   "matched": [
+    "rag"
+   ]
+  },
+  {
    "uid": "389c90311a0e9f94",
    "title": "ggml-org/llama.cpp b12345 (pre)",
    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12345",
@@ -759,6 +1270,30 @@
    "summary": "If you're asking what this leaderboard is, it is not AA, it is simply an aggregate index for Agentic Coding along 12 coding-related benchmarks (note that the AA index includes only 2 coding benchmarks: Terminal-Bench 4.0, FrontierCode-AA 2.0, making up just 25% of its total score. Because of that, it doesn't give you…",
    "matched": [
     "agentic"
+   ]
+  },
+  {
+   "uid": "df1dabe6fedd1223",
+   "title": "⭐ 255 · precygtrucqui1981/blender-ai-copilot-lab (?)",
+   "url": "https://github.com/precygtrucqui1981/blender-ai-copilot-lab",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-12T20:08:25+00:00",
+   "summary": "An AI lab for Blender where manager–worker–reviewer agent teams run multi-step scene briefs as supervised experiments—a live task board, review findings, one correction attempt per blocked task, named undo, and a built-in MCP server. · blender-ai-copilot-lab · blender · blender 3d · blender addon ·…",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "ee13329a841f0018",
+   "title": "⭐ 252 · credoksopho1984/blender-ai-copilot-studio (?)",
+   "url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-12T20:08:03+00:00",
+   "summary": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. · blender-ai-copilot-studio · blender ai · ai for blender · blender copilot · blender ai copilot…",
+   "matched": [
+    "mcp"
    ]
   },
   {
@@ -1082,520 +1617,7 @@
     "quantization",
     "inference"
    ]
-  },
-  {
-   "uid": "7f84ef8b8cc5c226",
-   "title": "langfuse/langfuse v4.79.0",
-   "url": "https://github.com/langfuse/langfuse/releases/tag/v4.79.0",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-11-12T09:40:45+00:00",
-   "summary": "## What's Changed ### Features * feat(ai-gateway): add OpenRouter as a pre-release gateway provider by @wochinge in https://github.com/langfuse/langfuse/pull/20002 * feat: add SUBSTITUTE_OK no-data mode for monitors by @marksalpeter in https://github.com/langfuse/langfuse/pull/19981 * feat(ai-gateway): add xAI as a pre-release gateway provider by @wochinge in…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "96f402b8dbb7a535",
-   "title": "Holiday Extras is rethinking what it can build with Codex",
-   "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-   "source": "OpenAI News",
-   "category": "news",
-   "published": "2026-11-12T09:30:00+00:00",
-   "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "e23d394f90139815",
-   "title": "qvac/BotPsy-0.8B · Hugging Face - On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu8685/qvacbotpsy08b_hugging_face_ondevice_personal/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-11-12T09:13:49+00:00",
-   "summary": "BotPsy-0.8B is a 0.8B-parameter model designed for function calling and agentic workflows, built on top of Qwen3.5-0.8B and suitable for on-device deployment. BotPsy is a personal assistant that uses tools to perform a variety of simple tasks for the user, in domains such as web search research, travel lifestyle,…",
-   "matched": [
-    "agentic",
-    "function calling"
-   ]
-  },
-  {
-   "uid": "1613b7d18ab3ca47",
-   "title": "⭐ 7132 · patch-gg/pixelfx (JavaScript)",
-   "url": "https://github.com/patch-gg/pixelfx",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-11-12T08:42:35+00:00",
-   "summary": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-   "matched": [
-    "claude",
-    "claude code"
-   ]
-  },
-  {
-   "uid": "ff454032c6ea3e18",
-   "title": "Curated list of resources for the topic of Quantization for beginners",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu6tth/curated_list_of_resources_for_the_topic_of/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-11-12T07:48:00+00:00",
-   "summary": "Hey everyone! I have gathered some must read topics, for beginners, to step into the realm of Quantization: 1) BitNet: Scaling 1-bit Transformers for Large Language Models 2) AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration 3) The Era of 1-bit LLMs: All Large Language Models are in 1.58…",
-   "matched": [
-    "llm",
-    "quantization"
-   ]
-  },
-  {
-   "uid": "a86b9066c91e4222",
-   "title": "chat : refactor gemma4 to build loose schema rules and clean up by aldehir · Pull Request #31915 · ggml-org/llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu6td8/chat_refactor_gemma4_to_build_loose_schema_rules/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-11-12T07:47:12+00:00",
-   "summary": "If you’ve ever tried agentic coding with Gemma and had tool calling issues, give it another try, in my case, it completely fixed Gemma submitted by /u/jacek2023 [link] [comments]",
-   "matched": [
-    "llama",
-    "agentic"
-   ]
-  },
-  {
-   "uid": "7235f445fa1d23de",
-   "title": "ggml-org/llama.cpp b12317 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12317",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-11-12T06:58:35+00:00",
-   "summary": "opencl: add bin kernel `kernel_gemm_noshuffle_q4_0_f32_32b_trans_ila_a7_bin` (#30947) * opencl: add A7 Q4_0 non-MoE binary kernel * opencl: refactor --------- Co-authored-by: Li He **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12317/llama-b12317-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64,…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "bdfbf90ff878441a",
-   "title": "ggml-org/llama.cpp b12316 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12316",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-11-12T06:25:50+00:00",
-   "summary": "CUDA: skip empty MoE tiles in MMQ stream-k fixup (#32067) * CUDA: skip empty MoE tiles in MMQ stream-k fixup mul_mat_q_stream_k_fixup loads ids_dst[col_low + j] for all j = j_sup before storing anything, so results are unaffected. Return early when j_sup **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "df383c866c00368c",
-   "title": "Gemma4-31b latent space discovery: Caring and Contempt for user controlled by the same 3 neurons! Plus, how to find your own steering recipes and export to GGUF steering vector for llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu4n7b/gemma431b_latent_space_discovery_caring_and/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-11-12T05:37:54+00:00",
-   "summary": "submitted by /u/New_Alps_5655 [link] [comments]",
-   "matched": [
-    "llama"
-   ]
-  },
-  {
-   "uid": "44142c4610e224b6",
-   "title": "ggml-org/llama.cpp b12314 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12314",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-11-12T05:22:52+00:00",
-   "summary": "opencl: add decomposed FA for Adreno (#32046) * opencl: add decomposed FA Assisted-by: Claude Opus 5.5 Co-authored-by: Hongqiang Wang Co-authored-by: Shaofei Qi * opencl: build FA MQ kernel on first FA call * so allows warmup to early build neccessary kernels Assisted-by: Claude Opus 5.5 * opencl: handle inf for fully masked row * opencl: refine condition for using fa decomp * opencl: support…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "40870f980a74983c",
-   "title": "ggml-org/llama.cpp b12311 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12311",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-11-12T05:02:04+00:00",
-   "summary": "ui: keep downloads in Discover during search and fix their progress with a draft (#31467) * ui : keep downloads in Discover sidebar during search, sort base-org repos first - Show the sticky Downloading section regardless of an active search query - Order search results so repos published by their base model's org lead Assisted-by: Claude (Opus 5.5 Medium) * server : throttle download progress…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "8ea1edfdb9b7cdb7",
-   "title": "The regulation of local AI could/should be viewed as the largest censorship implementation in the history of mankind.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu2mdo/the_regulation_of_local_ai_couldshould_be_viewed/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-11-12T03:49:33+00:00",
-   "summary": "With all of this fear mongering on the “dangers” of LLM’s, I see how using people’s ignorance and emotions on the subject can be used as a tool to limit and restrict the tool from the average person. My fear is that China and the US…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "1238bea85942a263",
-   "title": "⭐ 208 · poco-ai/agentero-dsh-plugin (TypeScript)",
-   "url": "https://github.com/poco-ai/agentero-dsh-plugin",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-11-12T02:59:24+00:00",
-   "summary": "给 DeepSeek Harness 用的科研文献库插件：搜论文、带出处、审批入库、把笔记线索交给同会话其他插件。Academic research library for DSH — search, cite, approve imports, hand off notes.",
-   "matched": [
-    "deepseek"
-   ]
-  },
-  {
-   "uid": "dd4dee869be976b2",
-   "title": "pydantic/pydantic-ai v2.68.0 — v2.68.0 (2026-11-11)",
-   "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.68.0",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-11-12T01:56:19+00:00",
-   "summary": "## What's Changed ### ⚠️ Compatibility Notes * Note text that looks like an application frame in user and tool content instead of escaping it by @DouweM in https://github.com/pydantic/pydantic-ai/pull/11813 * Add `OutputTokenLimitExceeded`, and fall back to the next model in `ModelFallback` when a response is cut off at `max_tokens` by @DouweM in https://github.com/pydantic/pydantic-ai/pull/12407…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "348ea8ea5e3b5e3c",
-   "title": "DeepSeek V4.1 Flash 1017 exl3 2.9bpw APEX 2025 benchmark results",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtyxl9/deepseek_v41_flash_1017_exl3_29bpw_apex_2025/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-11-12T00:50:08+00:00",
-   "summary": "My main AI machine is a 6x3090 128GB DDR4 Threadripper 3960x system. I probably spend more time trying to optimize it than actually using it but it has been fun. I tried a bunch of saturated benchmarks like Terminal Bench 2.1, AIME 2026 and the performance was similar to unquantized DSV4.1 Flash 1017. I really wanted…",
-   "matched": [
-    "deepseek"
-   ]
-  },
-  {
-   "uid": "03c26f0a86777db1",
-   "title": "Supporting research on AI and children’s safety",
-   "url": "https://openai.com/index/children-first-declaration",
-   "source": "OpenAI News",
-   "category": "news",
-   "published": "2026-11-12T00:00:00+00:00",
-   "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "d3a62717445ffb85",
-   "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-   "url": "https://huggingface.co/blog/3d-lora-finetuning",
-   "source": "Hugging Face Blog",
-   "category": "news",
-   "published": "2026-11-12T00:00:00+00:00",
-   "summary": "",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "a610dfb905dfb698",
-   "title": "Gilbert + Tobin rethinks the business of law with AI",
-   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-   "source": "OpenAI News",
-   "category": "news",
-   "published": "2026-11-12T00:00:00+00:00",
-   "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "e5b44a600947456e",
-   "title": "vercel-labs/agent-browser",
-   "url": "https://github.com/vercel-labs/agent-browser",
-   "source": "GitHub Trending — Rust",
-   "category": "repo",
-   "published": "2026-11-11T23:36:37.833300+00:00",
-   "summary": "Browser automation CLI for AI agents https://agent-browser.dev agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a time. snapshot returns the…",
-   "matched": [
-    "browser automation"
-   ]
-  },
-  {
-   "uid": "b721fa8ee8ebac1d",
-   "title": "ZhuLinsen/daily_stock_analysis",
-   "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-   "source": "GitHub Trending — Python",
-   "category": "repo",
-   "published": "2026-11-11T23:36:37.280095+00:00",
-   "summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. https://dsa.zhulinsen.tech 📈 股票智能分析系统 🤖 基于 AI 大模型的…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "976d3afb77f6eb0f",
-   "title": "opensandbox-group/OpenSandbox",
-   "url": "https://github.com/opensandbox-group/OpenSandbox",
-   "source": "GitHub Trending — Python",
-   "category": "repo",
-   "published": "2026-11-11T23:36:37.279149+00:00",
-   "summary": "Secure, Fast, and Extensible Sandbox runtime for AI agents. https://open-sandbox.ai OpenSandbox An Agentic AI Foundation (AAIF) Project Run AI agents in sandboxes on your own infrastructure. OpenSandbox gives AI applications isolated environments to execute code, run commands, manage files, and operate browsers or…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "0cfe761ceb8c7a70",
-   "title": "homeassistant-ai/ha-mcp",
-   "url": "https://github.com/homeassistant-ai/ha-mcp",
-   "source": "GitHub Trending — Python",
-   "category": "repo",
-   "published": "2026-11-11T23:36:37.271227+00:00",
-   "summary": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. https://homeassistant-ai.github.io/ha-mcp/ Breaking change (v7.3.0): ha_config_set_yaml has been moved to beta . HA-MCP — Manage Home Assistant with AI Configure and automate Home Assistant with Claude, ChatGPT, and other AI…",
-   "matched": [
-    "claude",
-    "mcp"
-   ]
-  },
-  {
-   "uid": "7263b2ad8f52fe81",
-   "title": "anthropics/claude-quickstarts",
-   "url": "https://github.com/anthropics/claude-quickstarts",
-   "source": "GitHub Trending — Python",
-   "category": "repo",
-   "published": "2026-11-11T23:36:37.270208+00:00",
-   "summary": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides…",
-   "matched": [
-    "claude"
-   ]
-  },
-  {
-   "uid": "808e1873b6f1032d",
-   "title": "anthropics/skills",
-   "url": "https://github.com/anthropics/skills",
-   "source": "GitHub Trending — Python",
-   "category": "repo",
-   "published": "2026-11-11T23:36:37.269490+00:00",
-   "summary": "Public repository for Agent Skills Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io . Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized…",
-   "matched": [
-    "claude",
-    "anthropic"
-   ]
-  },
-  {
-   "uid": "dd73bdbc6fd7a148",
-   "title": "ultralytics/ultralytics v8.4.211 — v8.4.211 - Encode images up to 9% faster with compiled SAM 3 (#27158)",
-   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.211",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-11-11T23:09:15+00:00",
-   "summary": "## 🌟 Summary **v8.4.211 speeds up compiled SAM image encoding and expands model deployment options, with additional gains and fixes across training, OCR, and exports.** ## 📊 Key Changes - 🚀 **Faster compiled SAM 3 and SAM 3.1:** The image encoders run **7–9% faster** in the tested `torch.compile` setup. The optimization is specific to compiled execution; eager-mode results remain unchanged. - 📦…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "c1c14ca24f1fe169",
-   "title": "Architecture trends: From full to local attention",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtvxtp/architecture_trends_from_full_to_local_attention/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-11-11T22:38:09+00:00",
-   "summary": "Currently working towards a bigger open LLM roundup. But in the meantime, just one of the interesting trends that stood out. I.e., looks like the transition from full to hybrid attention continues. In 2025, there were still lots of full attention models, with a shift to some full attention hybrids. In the first half…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "1b371b65e0c953bb",
-   "title": "Gemini Decisions API",
-   "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-   "source": "Simon Willison",
-   "category": "news",
-   "published": "2026-11-11T22:03:25+00:00",
-   "summary": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question. It's priced the same as the…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "b7605ffe0c79866c",
-   "title": "aws-emulator",
-   "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
-   "source": "Simon Willison",
-   "category": "news",
-   "published": "2026-11-11T21:18:30+00:00",
-   "summary": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "f0bb6c411cb4c4bd",
-   "title": "ggml-org/llama.cpp b12292 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12292",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-11-11T20:15:19+00:00",
-   "summary": "webgpu: add PAD_REFLECT_1D support (#31877) * webgpu : add PAD_REFLECT_1D support * webgpu: remove redundant PAD_REFLECT_1D contiguity check * tests: simplify PAD_REFLECT_1D setup **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12292/llama-b12292-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64,…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "fd7c9f1beb3ea0f1",
-   "title": "ggml-org/llama.cpp b12291 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12291",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-11-11T19:52:29+00:00",
-   "summary": "vulkan: allow dequantized KV optimization with CM2 (#31526) * additional FA test cases Assisted-by: Codex * vulkan: allow dequantized KV optimization with CM2 Enable the KV dequantization optimization with coopmat2, guarded by a heuristic based on query tokens*GQA ratio. While doing this we saw very large speedups for certain head sizes, and it was because those head sizes were incorrectly…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "defcd5cdf13a4947",
-   "title": "ggml-org/llama.cpp b12290 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12290",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-11-11T19:32:52+00:00",
-   "summary": "vulkan: allocate the device fault vendor binary buffer (#32008) * vulkan : allocate the device fault vendor binary buffer * vulkan : drop the redundant vector include --------- Co-authored-by: figkcoci-debug **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12290/llama-b12290-bin-macos-arm64.tar.gz) - macOS…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "346bd5008dbaa6cf",
-   "title": "ggml-org/llama.cpp b12289 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12289",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-11-11T19:03:19+00:00",
-   "summary": "tests : use only the public ggml API (#32077) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12289/llama-b12289-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "79846180d26b3e5b",
-   "title": "Browse tools.simonwillison.net by tag",
-   "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
-   "source": "Simon Willison",
-   "category": "news",
-   "published": "2026-11-11T18:42:50+00:00",
-   "summary": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, and web API hosts…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "a5ce7e35572a2c4d",
-   "title": "⭐ 121 · glincker/awesome-selfhosted-ai (JavaScript)",
-   "url": "https://github.com/glincker/awesome-selfhosted-ai",
-   "source": "GitHub — nowe repo",
-   "category": "repo",
-   "published": "2026-11-11T18:27:41+00:00",
-   "summary": "Curated list of self-hosted open-source AI: local LLMs, chat UIs, agents, MCP servers, RAG, speech and image generation. Health-checked weekly, dead projects removed automatically.",
-   "matched": [
-    "rag",
-    "mcp"
-   ]
-  },
-  {
-   "uid": "98deb04cf07fb1dc",
-   "title": "ggml-org/llama.cpp b12287 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12287",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-11-11T18:15:36+00:00",
-   "summary": "cuda : use MMVF for BF16 matrices of few rows at small batch sizes (#31959) MMF tiles 32 rows per block, so a BF16 matrix with few rows (e.g. the qwen4exp hyper-connection projections, 320 rows with K = 10240) runs only a handful of blocks and leaves most SMs idle at batch sizes 2..8. MMVF runs a block per row and wins there when K is long enough. MMVF's cost grows with rows x batch while MMF's…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "c89baaa73eae1816",
-   "title": "Open-source method (MACaQ) beats Unsloth GGUFs!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xto0fa/opensource_method_macaq_beats_unsloth_ggufs/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-11-11T17:32:40+00:00",
-   "summary": "Some results for those using GGUFs and llama.cpp: GGUF quality: MACaQ vs. Unsloth and Bartowski Qwen3-4B (IQ4_XS) Quantization GGUF size Mean KL ↓ MACaQ 2.260 GB 0.02804 Bartowski 2.271 GB 0.03443 Unsloth 2.271 GB 0.03663 23.5% lower KL divergence than Unsloth and 18.6% lower than Bartowski , at virtually identical…",
-   "matched": [
-    "llama",
-    "quantization"
-   ]
-  },
-  {
-   "uid": "11d3d5895df4f3be",
-   "title": "llm 0.37.2",
-   "url": "https://simonwillison.net/2026/Nov/11/llm/",
-   "source": "Simon Willison",
-   "category": "news",
-   "published": "2026-11-11T17:19:52+00:00",
-   "summary": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API endpoints from other providers. Daniel…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "7a548ed40b0e3751",
-   "title": "Unsloth Dynamic V3.1 released for Qwen3.8-27B, DeepSeek-V4.1-Flash-1017 and Qwen3.8-Flash-Next",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtmcoe/unsloth_dynamic_v31_released_for_qwen3827b/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-11-11T16:32:45+00:00",
-   "summary": "Unsloth Dynamic V3.1 (Nov 2026) is our latest quantization algorithm for Qwen3.8-27B, DeepSeek-V4.1-Flash-1017 and Qwen3.8-Flash-Next, resulting in 10-15% increased accuracy and 50% less token usage vs other quants of the same size. We're working on an even better version of Dynamic quants which will be applied to…",
-   "matched": [
-    "deepseek",
-    "quantization"
-   ]
-  },
-  {
-   "uid": "c1ac76566aa3d738",
-   "title": "KRAFTON/Raon-1-nano · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtmbkn/kraftonraon1nano_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "category": "news",
-   "published": "2026-11-11T16:31:38+00:00",
-   "summary": "Raon-1 nano is a dense language model with 1.5B effective parameters (3.1B total, including a 1.5B per-layer embedding table), developed by KRAFTON AI . It is designed to follow instructions, maintain conversational context, and call the right tools in both Korean and English . As part of the Raon open model family,…",
-   "matched": [
-    "embedding"
-   ]
-  },
-  {
-   "uid": "65ffac4329ccccf4",
-   "title": "unslothai/unsloth v0.1.917-beta — Dynamic v3.1 GGUFs + Performance Fixes",
-   "url": "https://github.com/unslothai/unsloth/releases/tag/v0.1.917-beta",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-11-11T16:00:56+00:00",
-   "summary": "Qwen3.8-27B is here with Dynamic v3.1 GGUFs, ready to run locally with Unsloth. This release also brings major performance improvements, smoother Glass rendering, revamped code blocks and Thinking UI, HTML/PDF chat exports, and new image generation and coding agent features. ## Highlights - **New Qwen3.8-27B** Dynamic v3.1 GGUFs. - **Faster chats:** Major performance improvements to streaming,…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "ec21c1c03d25d940",
-   "title": "Anthropic's IPO roadshow video",
-   "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-   "source": "Simon Willison",
-   "category": "news",
-   "published": "2026-11-11T15:11:59+00:00",
-   "summary": "Anthropic s IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is particularly interesting, describing how Anthropic train and serve…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "a63ccbf1a62dbd45",
-   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-   "source": "Google DeepMind Blog",
-   "category": "news",
-   "published": "2026-11-11T15:00:15+00:00",
-   "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-   "matched": [
-    "*"
-   ]
   }
  ],
- "last_run": "2026-11-13T22:45:55.026254+00:00"
+ "last_run": "2026-11-14T13:43:32.793877+00:00"
 }
