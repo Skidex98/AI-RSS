@@ -5,8 +5,206 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-11-15T14:12:32Z</updated>
+  <updated>2026-11-15T21:58:34Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12426 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12426"/>
+    <id>urn:uuid:f876c43664bbc5c8</id>
+    <updated>2026-11-15T21:05:49Z</updated>
+    <published>2026-11-15T21:05:49Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;mtmd: support higgs v3 STT and vibevoice-ASR (#32329) * mtmd: support higgs v3 and vibevoice-ASR * use proper mapping * address review comment * nits * rm hacky get_audio_length, add mtmd_helper_get_media_meta **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12426/llama-b12426-bin-macos-arm64.tar.gz) - macOS…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12426"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Llama.cpp performance improvement over time (Gemma4 models)</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xx607x/llamacpp_performance_improvement_over_time_gemma4/"/>
+    <id>urn:uuid:8b805461168ded3d</id>
+    <updated>2026-11-15T20:34:44Z</updated>
+    <published>2026-11-15T20:34:44Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Few months ago - after Ninfer came out - I started a little hobby project to vibe-code my own engine for my hardware (RTX 5080 16GB Laptop) and check if it could beat llama.cpp - since at the time llama.cpp was kinda slow in comparison to something like vLLM, but vLLM is using VRAM very wastefully. Back then it was…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xx607x/llamacpp_performance_improvement_over_time_gemma4/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12425 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12425"/>
+    <id>urn:uuid:b619fef86c4bb005</id>
+    <updated>2026-11-15T20:22:29Z</updated>
+    <published>2026-11-15T20:22:29Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;model : read qwen3vl output head size from the tensor (#32349) Allows Qwen3-ForcedAligner, whose output head (5000 timestamp classes) is smaller than the vocab. **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12425/llama-b12425-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12425"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 BigMoeOnEdge outperforms Strata and colibri on 8-16 GB cards and Mac and you can run any model</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xx5fng/bigmoeonedge_outperforms_strata_and_colibri_on/"/>
+    <id>urn:uuid:4453dc629a42dde1</id>
+    <updated>2026-11-15T20:11:18Z</updated>
+    <published>2026-11-15T20:11:18Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Hi! for those who might not know the solution: it takes any MoE GGUF llama.cpp can load, whatever the quant. No repacking, no special format it runs on whatever you have: NVIDIA, AMD, Intel, Mac, a phone, or just the CPU Windows, Linux, macOS, Android, iOS output is the same as llama.cpp, don't cut corners on quality…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xx5fng/bigmoeonedge_outperforms_strata_and_colibri_on/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12424 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12424"/>
+    <id>urn:uuid:3941ca2254d501d7</id>
+    <updated>2026-11-15T20:08:40Z</updated>
+    <published>2026-11-15T20:08:40Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;mtmd: add zonos3-mini TTS model (#32020) * zonos3 init * add audio gen pipeline * fix string_format * add default voice as gguf metadata * better ref * support voice clone * add delivery params * optimize speed * nits * nits 2 * add text normalization * nits **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12424"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12423 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12423"/>
+    <id>urn:uuid:7c030ede6b18c037</id>
+    <updated>2026-11-15T19:55:41Z</updated>
+    <published>2026-11-15T19:55:41Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;Revert "jinja: add 4 missing features" This reverts commit a681a53b6092d57597b9e66f2fc9d4556155b9e4. **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12423/llama-b12423-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) -…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12423"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12422 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12422"/>
+    <id>urn:uuid:3162acaeecc6e2ab</id>
+    <updated>2026-11-15T19:29:45Z</updated>
+    <published>2026-11-15T19:29:45Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;jinja: add 4 missing features **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12422/llama-b12422-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12422"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 MoE offload on a 3090: prefill 345 -&gt; 466 t/s by tuning cudaMemcpy (Qwen3.6 35B-A3B)</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xx1owx/moe_offload_on_a_3090_prefill_345_466_ts_by/"/>
+    <id>urn:uuid:018e2ac801251dae</id>
+    <updated>2026-11-15T17:43:31Z</updated>
+    <published>2026-11-15T17:43:31Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;https://i.redd.it/5dlnj6wict1i1.gif I made a tool that tunes copies that speeds up CPU offloading. 1 3090 + 7800X3D llama-bench -m Qwen3.6-35B-A3B-Q8_0.gguf -ngl 99 -fa 1 -ot exps=CPU -p 2048 -n 0 -r 3 cmt tune -- llama-bench -m Qwen3.6-35B-A3B-Q8_0.gguf -ngl 99 -fa 1 -ot exps=CPU -p 2048 -n 0 -r 3 before: prefill 345…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xx1owx/moe_offload_on_a_3090_prefill_345_466_ts_by/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/"/>
+    <id>urn:uuid:8635f228780d6b2c</id>
+    <updated>2026-11-15T17:30:31Z</updated>
+    <published>2026-11-15T17:30:31Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Hi everyone! I wanted to post a quick update on Basalt . Since last I posted, multi model and router support was implemented, starting with DeepSeek V4.1 Flash (IQ1_M 90 tok/s conv, 246 tok/s struct on a 5090 + 5060 Ti). Also new: video support, files in chats, and a bunch of fixes and improvements. Now 0.4.0 is out…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen, deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 CPU-only boost for Q2_0 on AVX-VNNI · Pull Request #26348 · ggml-org/llama.cpp</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xx0fqn/cpuonly_boost_for_q2_0_on_avxvnni_pull_request/"/>
+    <id>urn:uuid:973aeb436b32c620</id>
+    <updated>2026-11-15T16:55:21Z</updated>
+    <published>2026-11-15T16:55:21Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Measurements: mean ± sample standard deviation in tok/s, 3 runs after normal warmup (16GB of RAM on the AMD EPYC 9645 using eight CPU cores) Model Test Upstream master VNNI + VBMI Speedup Bonsai 1.7B pp512 142.517 ± 0.589 186.373 ± 1.582 1.31× Bonsai 1.7B tg128 70.435 ± 2.061 68.422 ± 9.055 0.97× Bonsai 4B pp512…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xx0fqn/cpuonly_boost_for_q2_0_on_avxvnni_pull_request/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 473 · YellowLaborerMarket/Gemini-Config-Checker- (Makefile)</title>
+    <link href="https://github.com/YellowLaborerMarket/Gemini-Config-Checker-"/>
+    <id>urn:uuid:0ed7c5d8ffffa8a9</id>
+    <updated>2026-11-15T16:49:31Z</updated>
+    <published>2026-11-15T16:49:31Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: gemini&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/YellowLaborerMarket/Gemini-Config-Checker-"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 473 · WyrmClimberManacle/Gemini-Config-Checker- (Makefile)</title>
+    <link href="https://github.com/WyrmClimberManacle/Gemini-Config-Checker-"/>
+    <id>urn:uuid:5002ed9a34e31f59</id>
+    <updated>2026-11-15T16:49:29Z</updated>
+    <published>2026-11-15T16:49:29Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: gemini&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/WyrmClimberManacle/Gemini-Config-Checker-"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 473 · wisemeadowlarkspike/Gemini-Config-Checker- (Go)</title>
+    <link href="https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-"/>
+    <id>urn:uuid:4d55cd12a87e63a8</id>
+    <updated>2026-11-15T16:49:28Z</updated>
+    <published>2026-11-15T16:49:28Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: gemini&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 473 · WireProvostPucker/Gemini-Config-Checker- (Makefile)</title>
+    <link href="https://github.com/WireProvostPucker/Gemini-Config-Checker-"/>
+    <id>urn:uuid:6a4e257607e90c56</id>
+    <updated>2026-11-15T16:49:25Z</updated>
+    <published>2026-11-15T16:49:25Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: gemini&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/WireProvostPucker/Gemini-Config-Checker-"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 473 · WindGatorRise37/Gemini-Config-Checker- (Makefile)</title>
+    <link href="https://github.com/WindGatorRise37/Gemini-Config-Checker-"/>
+    <id>urn:uuid:4d7311841915ac31</id>
+    <updated>2026-11-15T16:48:17Z</updated>
+    <published>2026-11-15T16:48:17Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: gemini&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/WindGatorRise37/Gemini-Config-Checker-"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 473 · WinnerSpecialist/Gemini-Config-Checker- (Makefile)</title>
+    <link href="https://github.com/WinnerSpecialist/Gemini-Config-Checker-"/>
+    <id>urn:uuid:c96f746eb765e16a</id>
+    <updated>2026-11-15T16:48:10Z</updated>
+    <published>2026-11-15T16:48:10Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: gemini&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/WinnerSpecialist/Gemini-Config-Checker-"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 473 · weightcashiercupola/Gemini-Config-Checker- (Makefile)</title>
+    <link href="https://github.com/weightcashiercupola/Gemini-Config-Checker-"/>
+    <id>urn:uuid:e63f077826d6b159</id>
+    <updated>2026-11-15T16:48:06Z</updated>
+    <published>2026-11-15T16:48:06Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: gemini&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/weightcashiercupola/Gemini-Config-Checker-"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 473 · VortexHostFeel/Gemini-Config-Checker- (Makefile)</title>
+    <link href="https://github.com/VortexHostFeel/Gemini-Config-Checker-"/>
+    <id>urn:uuid:6c80782753e75d2b</id>
+    <updated>2026-11-15T16:47:03Z</updated>
+    <published>2026-11-15T16:47:03Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: gemini&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/VortexHostFeel/Gemini-Config-Checker-"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 473 · Visionbeyondtrack/Gemini-Config-Checker- (Makefile)</title>
+    <link href="https://github.com/Visionbeyondtrack/Gemini-Config-Checker-"/>
+    <id>urn:uuid:9d7daad92808eb7c</id>
+    <updated>2026-11-15T16:47:00Z</updated>
+    <published>2026-11-15T16:47:00Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: gemini&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Visionbeyondtrack/Gemini-Config-Checker-"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 473 · Violetnyudress/Gemini-Config-Checker- (Go)</title>
+    <link href="https://github.com/Violetnyudress/Gemini-Config-Checker-"/>
+    <id>urn:uuid:b89efe0d5034eded</id>
+    <updated>2026-11-15T16:47:00Z</updated>
+    <published>2026-11-15T16:47:00Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: gemini&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Violetnyudress/Gemini-Config-Checker-"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Is there a community about finetuning and training models?</title>
+    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xwyfr8/is_there_a_community_about_finetuning_and/"/>
+    <id>urn:uuid:f57c804245db0d2a</id>
+    <updated>2026-11-15T15:35:22Z</updated>
+    <published>2026-11-15T15:35:22Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;There seems to be a lot of discussion here about inference and using the models, but is there anywhere where discussion about making them is more common? submitted by /u/banana_slurp_jug [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: finetuning, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xwyfr8/is_there_a_community_about_finetuning_and/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ultralytics/ultralytics v8.4.214 — v8.4.214 - Read every image upright: apply EXIF orientation for all formats and flags (#27168)</title>
+    <link href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.214"/>
+    <id>urn:uuid:9394582cd8d272e7</id>
+    <updated>2026-11-15T14:25:58Z</updated>
+    <published>2026-11-15T14:25:58Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## 🌟 Summary **v8.4.214 makes image orientation consistent across reads**, helping ensure labels, predictions, and displayed images all use the same upright view. It also includes platform, hardware-compatibility, and reliability fixes, plus a substantially refreshed OpenVINO guide. ## 📊 Key Changes - 🖼️ **EXIF orientation is now applied consistently when reading images**, across supported…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.214"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 trymirai/uzu</title>
     <link href="https://github.com/trymirai/uzu"/>
@@ -134,6 +332,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;A scene-forging AI copilot for Blender—describe the layout and watch primitives, cameras, lights, materials and parenting assemble in ordered steps, with approvals, named undo and a built-in MCP server. · blender-ai-copilot-forge · blender · blender 3d · blender addon · blender plugin · blender…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Doug-218/blender-ai-copilot-forge"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📦 ⭐ 506 · precygtrucqui1981/blender-ai-copilot-lab (?)</title>
+    <link href="https://github.com/precygtrucqui1981/blender-ai-copilot-lab"/>
+    <id>urn:uuid:df1dabe6fedd1223</id>
+    <updated>2026-11-15T13:29:23Z</updated>
+    <published>2026-11-15T13:29:23Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;An AI lab for Blender where manager–worker–reviewer agent teams run multi-step scene briefs as supervised experiments—a live task board, review findings, one correction attempt per blocked task, named undo, and a built-in MCP server. · blender-ai-copilot-lab · blender · blender 3d · blender addon ·…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/precygtrucqui1981/blender-ai-copilot-lab"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>📦 ⭐ 448 · baiblinocun1986/blender-ai-copilot-hub (?)</title>
     <link href="https://github.com/baiblinocun1986/blender-ai-copilot-hub"/>
     <id>urn:uuid:d18ce29433e39b3a</id>
@@ -141,6 +348,24 @@
     <published>2026-11-15T13:28:54Z</published>
     <category term="REPO"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;A multi-provider AI copilot hub for Blender—bring OpenAI, Anthropic Claude, Google Gemini, OpenRouter, OpenCode Zen, Ollama and custom endpoints into one hub of saved connections, with 27 supervised scene tools and a built-in MCP server. · blender-ai-copilot-hub · blender · blender 3d · blender…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, anthropic, gemini, mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/baiblinocun1986/blender-ai-copilot-hub"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 513 · credoksopho1984/blender-ai-copilot-studio (?)</title>
+    <link href="https://github.com/credoksopho1984/blender-ai-copilot-studio"/>
+    <id>urn:uuid:ee13329a841f0018</id>
+    <updated>2026-11-15T13:27:56Z</updated>
+    <published>2026-11-15T13:27:56Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. · blender-ai-copilot-studio · blender ai · ai for blender · blender copilot · blender ai copilot…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/credoksopho1984/blender-ai-copilot-studio"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 511 · racdeufindurch198812/Blender-AI-MCP-Studio (?)</title>
+    <link href="https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio"/>
+    <id>urn:uuid:bc277a56a4de86ce</id>
+    <updated>2026-11-15T13:27:24Z</updated>
+    <published>2026-11-15T13:27:24Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual chat workspace, multi-agent teams and your choice of AI models. · blender ai mcp studio ·…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp, model context protocol&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📦 ⭐ 857 · alexeyw/lot-map (TypeScript)</title>
@@ -861,230 +1086,5 @@
     <published>2026-11-13T17:36:17Z</published>
     <category term="REPO"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/andrew-babo/muse4ai"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 823 · kubai087/kubai-icons (JavaScript)</title>
-    <link href="https://github.com/kubai087/kubai-icons"/>
-    <id>urn:uuid:0ce64113356fed80</id>
-    <updated>2026-11-13T17:04:47Z</updated>
-    <published>2026-11-13T17:04:47Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse them.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/kubai087/kubai-icons"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 XYBench: Helping with the problem behind the question</title>
-    <link href="https://huggingface.co/blog/allenai/xybench"/>
-    <id>urn:uuid:0087cffdf67ec467</id>
-    <updated>2026-11-13T17:02:35Z</updated>
-    <published>2026-11-13T17:02:35Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hugging Face Blog&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://huggingface.co/blog/allenai/xybench"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 DeepSeek flash max is the first model to reach &gt;1% on challenging SWE-sweep bug finding benchmark</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/"/>
-    <id>urn:uuid:deb33543770db050</id>
-    <updated>2026-11-13T16:31:47Z</updated>
-    <published>2026-11-13T16:31:47Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Hi, I've just updated the SWE-sweep leaderboard with more open-weight models! DeepSeek v4.1 flash (max) is the first open-weight model we evaluated that gets 1%. This benchmark is extremely challenging: Models get a snapshot of a (potentially very large) repo containing hundreds of bugs. They don't receive any hint…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Introducing ChatGPT Wallet</title>
-    <link href="https://openai.com/index/introducing-chatgpt-wallet"/>
-    <id>urn:uuid:d9e47ac0ae0118bd</id>
-    <updated>2026-11-13T15:00:00Z</updated>
-    <published>2026-11-13T15:00:00Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/introducing-chatgpt-wallet"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ChromeDevTools/chrome-devtools-mcp</title>
-    <link href="https://github.com/ChromeDevTools/chrome-devtools-mcp"/>
-    <id>urn:uuid:3fc2f292db2d3e26</id>
-    <updated>2026-11-13T14:47:06Z</updated>
-    <published>2026-11-13T14:47:06Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — TypeScript&lt;/p&gt;&lt;p&gt;Chrome DevTools for coding agents https://developer.chrome.com/docs/devtools/agents Chrome DevTools for agents Chrome DevTools for agents ( chrome-devtools-mcp ) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It is available as a…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ChromeDevTools/chrome-devtools-mcp"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 gitroomhq/postiz-app</title>
-    <link href="https://github.com/gitroomhq/postiz-app"/>
-    <id>urn:uuid:bb5df1fb052ebad4</id>
-    <updated>2026-11-13T14:47:06Z</updated>
-    <published>2026-11-13T14:47:06Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — TypeScript&lt;/p&gt;&lt;p&gt;📨 The ultimate agentic social media scheduling tool 🤖 https://postiz.com Postiz is a social media management platform for scheduling, automating, and analyzing your content. Use Postiz Cloud for a fully managed experience, or deploy the open-source edition on your own infrastructure. Explore the docs » Watch the…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/gitroomhq/postiz-app"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 shanliuling/dsh-image-gen</title>
-    <link href="https://github.com/shanliuling/dsh-image-gen"/>
-    <id>urn:uuid:ca483e62e2bbe03e</id>
-    <updated>2026-11-13T14:47:06Z</updated>
-    <published>2026-11-13T14:47:06Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — TypeScript&lt;/p&gt;&lt;p&gt;可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit &amp;amp; compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI. https://github.com/shanliuling/dsh-image-gen#readme 简体中文 · English 🎨 dsh-image-gen 在 DeepSeek Harness 里，用说话的方式画图 对话批量生图 · GIF…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/shanliuling/dsh-image-gen"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 appwrite/appwrite</title>
-    <link href="https://github.com/appwrite/appwrite"/>
-    <id>urn:uuid:846dd722d0f0de84</id>
-    <updated>2026-11-13T14:47:06Z</updated>
-    <published>2026-11-13T14:47:06Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — TypeScript&lt;/p&gt;&lt;p&gt;The open-source cloud for agents &amp;amp; devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more https://appwrite.io Appwrite The open-source cloud for agents and developers. Appwrite is an MCP and agent-first platform for building and scaling apps. Give your agents Auth, Databases,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/appwrite/appwrite"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 adewaskar/jarvis</title>
-    <link href="https://github.com/adewaskar/jarvis"/>
-    <id>urn:uuid:91b433045d08a880</id>
-    <updated>2026-11-13T14:47:06Z</updated>
-    <published>2026-11-13T14:47:06Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — TypeScript&lt;/p&gt;&lt;p&gt;J.A.R.V.I.S for automating your daily tasks using Claude Code J.A.R.V.I.S. A browser voice assistant with an Iron Man holographic interface. Say "Hey Jarvis" , he wakes, listens, and does real things through your tools — searches the web, generates images, drives your phone, reads your mail. The face is a web page…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/adewaskar/jarvis"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 block/buzz-app</title>
-    <link href="https://github.com/block/buzz-app"/>
-    <id>urn:uuid:348af549ce48ad38</id>
-    <updated>2026-11-13T14:47:06Z</updated>
-    <published>2026-11-13T14:47:06Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — TypeScript&lt;/p&gt;&lt;p&gt;A new desktop/web app experience for buzz Buzz Your people, your agents, your projects — all in one place. Buzz is a desktop app for team chat and AI agents: join a community, talk in channels and direct messages, and run agents such as Claude, Codex, Goose or Pi on your own computer that answer you right in the…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/block/buzz-app"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 QwenLM/qwen-code</title>
-    <link href="https://github.com/QwenLM/qwen-code"/>
-    <id>urn:uuid:7810f214697f05e2</id>
-    <updated>2026-11-13T14:47:06Z</updated>
-    <published>2026-11-13T14:47:06Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — TypeScript&lt;/p&gt;&lt;p&gt;An open-source AI coding agent that lives in your terminal. https://qwenlm.github.io/qwen-code-docs/en/users/overview The open-source AI coding agent for your terminal, editor, desktop, browser, and chat. 中文 | Deutsch | français | 日本語 | Русский | Português (Brasil) | 한국어 Qwen Code 1.0 Preview Qwen Code 1.0 Preview…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: qwen&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/QwenLM/qwen-code"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 davila7/claude-code-templates</title>
-    <link href="https://github.com/davila7/claude-code-templates"/>
-    <id>urn:uuid:c98b51c22a96a08c</id>
-    <updated>2026-11-13T14:47:06Z</updated>
-    <published>2026-11-13T14:47:06Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods https://aitmpl.com Claude Code Templates An open catalog of components for Claude Code, installable with one command. Browse the catalog · Documentation · Contributing · Discussions · Changelog SPONSORED…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/davila7/claude-code-templates"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 huggingface/transformers</title>
-    <link href="https://github.com/huggingface/transformers"/>
-    <id>urn:uuid:140fb14babb2fe12</id>
-    <updated>2026-11-13T14:47:06Z</updated>
-    <published>2026-11-13T14:47:06Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. https://huggingface.co/transformers English | 简体中文 | 繁體中文 | 한국어 | Español | 日本語 | हिन्दी | मराठी | Русский | Português | తెలుగు | Français |…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/huggingface/transformers"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 NVIDIA/SkillSpector</title>
-    <link href="https://github.com/NVIDIA/SkillSpector"/>
-    <id>urn:uuid:600c2a134e600660</id>
-    <updated>2026-11-13T14:47:06Z</updated>
-    <published>2026-11-13T14:47:06Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them. https://docs.nvidia.com/skills/scanning-agent-skills SkillSpector Security scanner for AI agent…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, mcp, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/NVIDIA/SkillSpector"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 oaustegard/claude-skills</title>
-    <link href="https://github.com/oaustegard/claude-skills"/>
-    <id>urn:uuid:7b32c61c65f0fb76</id>
-    <updated>2026-11-13T14:47:06Z</updated>
-    <published>2026-11-13T14:47:06Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;My collection of Claude skills https://austegard.com/ai-tools/claude-skill-releases.html claude-skills A collection of Claude skills distributed as a Claude Code plugin marketplace . Skills are primarily designed for the Claude.ai PaaS skill compute environment; mileage will vary if used as Claude Code Agent Skills.…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/oaustegard/claude-skills"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 2066 · DIYgod/pinky (Go)</title>
-    <link href="https://github.com/DIYgod/pinky"/>
-    <id>urn:uuid:869f55a970ef11bf</id>
-    <updated>2026-11-13T14:18:03Z</updated>
-    <published>2026-11-13T14:18:03Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/DIYgod/pinky"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 huggingface/transformers v5.23.0 — Release v5.23.0</title>
-    <link href="https://github.com/huggingface/transformers/releases/tag/v5.23.0"/>
-    <id>urn:uuid:fceab9f726ace1d8</id>
-    <updated>2026-11-13T14:10:57Z</updated>
-    <published>2026-11-13T14:10:57Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;# Release v5.23.0 ## New Model additions ### Inkling2 Inkling 2 Small is a multimodal model from Thinking Machines Lab that accepts text and image inputs and generates text outputs, and it is intended for use in English and other languages and across multiple coding languages. Its language backbone has 48 mixture-of-experts decoder layers, each routing tokens to 8 of 384 experts, for 594B total…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/huggingface/transformers/releases/tag/v5.23.0"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 llama.cpp v1.0 is here 🦙</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/"/>
-    <id>urn:uuid:9a33467b59c85a52</id>
-    <updated>2026-11-13T14:07:33Z</updated>
-    <published>2026-11-13T14:07:33Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Hey folks, it's Merve from Hugging Face. Today, llama.cpp releases v1! Moving forward, we’ll keep covering every platform and every model type, while keeping llama.cpp robust and lean for downstream applications that build on it. While I'm here, want to announce that we've been shipping Llama desktop apps to lower the…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llama&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
-    <link href="https://huggingface.co/blog/ggml-org/llama-cpp-v1"/>
-    <id>urn:uuid:bd6706331f0db5b4</id>
-    <updated>2026-11-13T14:05:22Z</updated>
-    <published>2026-11-13T14:05:22Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hugging Face Blog&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://huggingface.co/blog/ggml-org/llama-cpp-v1"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ultralytics/ultralytics v8.4.212 — v8.4.212 - `ultralytics 8.4.212` Read Korean, Cyrillic, Arabic and other scripts with OCR (#27167)</title>
-    <link href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.212"/>
-    <id>urn:uuid:3c74c24c17e703d6</id>
-    <updated>2026-11-13T13:08:32Z</updated>
-    <published>2026-11-13T13:08:32Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## 🌟 Summary **Ultralytics 8.4.212 expands OCR to more writing systems and improves Platform discovery, data import, training reliability, and inference compatibility.** ## 📊 Key Changes - 🌍 **OCR supports more languages and scripts.** Choose a PP-OCRv5 model to recognize Korean, Cyrillic, Arabic, Devanagari, Thai, Greek, Tamil, or Telugu text. These models run through ONNX Runtime, without…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.212"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Perplexity releases Decider v1.3 (26B) and Decider Flash v1.3 (5B): open-weight (Apache 2.0) classification/decision models</title>
-    <link href="https://www.reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider/"/>
-    <id>urn:uuid:57e3e855caa1fc7c</id>
-    <updated>2026-11-13T13:08:10Z</updated>
-    <published>2026-11-13T13:08:10Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; r/LocalLLaMA&lt;/p&gt;&lt;p&gt;Perplexity has released two new decision models. These are general-purpose classifiers built from generative LLM backbones. You give them an input (the state ) and one or more questions, and they return a probability distribution over the answer options. They don't generate text token by token. Models…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 140 · NJohansen/handle-mcp (Python)</title>
-    <link href="https://github.com/NJohansen/handle-mcp"/>
-    <id>urn:uuid:088b4149a0162273</id>
-    <updated>2026-11-13T10:58:13Z</updated>
-    <published>2026-11-13T10:58:13Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;MCP server for nemlig.com, BilkaToGo, Rema1000: search products, add to cart and price comparisons. You always accept and pay yourself.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/NJohansen/handle-mcp"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 langfuse/langfuse v4.80.0</title>
-    <link href="https://github.com/langfuse/langfuse/releases/tag/v4.80.0"/>
-    <id>urn:uuid:e26275d62cf2f195</id>
-    <updated>2026-11-13T10:32:14Z</updated>
-    <published>2026-11-13T10:32:14Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's Changed ### Features * feat(clickhouse): send query parameters in the request body by default by @Steffen911 in https://github.com/langfuse/langfuse/pull/20049 * feat(ai-gateway): add Google AI Studio as a gateway provider by @wochinge in https://github.com/langfuse/langfuse/pull/20086 * feat(ai-gateway): rename to Connections &amp;amp; Models and hide Models tab without connections by…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/langfuse/langfuse/releases/tag/v4.80.0"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp b12359 (pre)</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12359"/>
-    <id>urn:uuid:48f2012791d14072</id>
-    <updated>2026-11-13T10:21:06Z</updated>
-    <published>2026-11-13T10:21:06Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;examples : remove explict version from test-cmake (#32191) This commit removes the llama version test-cmake and instead uses the version that is supplied by CMAKE_PREFIX_PATH. The motivation for this is to avoid issues when bumping major versions. **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12359"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ggml-org/llama.cpp v1.0.0</title>
-    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0"/>
-    <id>urn:uuid:4a5d61ed6c49e16f</id>
-    <updated>2026-11-13T10:20:19Z</updated>
-    <published>2026-11-13T10:20:19Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;Blog post: https://huggingface.co/blog/ggml-org/llama-cpp-v1 ## Overview llama.cpp v1.0.0 removes the deprecated public API and promotes the NextN/speculative API to `llama.h`, adds OCP FP8 KV caches, a host-memory MoE expert cache with a configurable CPU share, and loading of external PLE shards. It adds three text architectures (Kimi-K3.1-Pro, Ripple and xing4_0), drama-3 TTS, and MageVL-Cowork…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
