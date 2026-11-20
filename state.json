@@ -1,5 +1,18 @@
 {
  "seen": [
+  "49188edeea81efcf",
+  "846dd722d0f0de84",
+  "32b5d08ae6b26c11",
+  "9aaaa6fc0354a544",
+  "b918ef3e367dd4ba",
+  "53232d670b6490ef",
+  "cac84feaeba6f6a9",
+  "b9aeb006e925a673",
+  "97a1993537a0d6cd",
+  "c2f1eb2ef03d3fc9",
+  "6d4da926bec2d9cc",
+  "99d8bc42ed124207",
+  "67ebdac9a70330f1",
   "d4d7434ec434c586",
   "a5da3fd404727b88",
   "033673d93afab129",
@@ -23,6 +36,9 @@
   "a834fa44fc8dd959",
   "dab3456da1e26cc4",
   "fafbe5c8add10787",
+  "5cf05e415e577c41",
+  "77dff1823a7708ad",
+  "a80685cbf64bfbf1",
   "84db395dfe0fd079",
   "e102af53c41998f0",
   "76c44bb75326bc90",
@@ -101,27 +117,169 @@
   "3300b57f4450767c",
   "7d39150d5214b841",
   "bf6d51687a215caa",
-  "264efea42203c9cc",
-  "e3f9c4e6e9fa7f98",
-  "013d91aa0c19339e",
-  "5b7cd423a9087a0d",
-  "9fcec36436dcfde7",
-  "13fce047c5a7e6b2",
-  "72eb00ff1c0f6c49",
-  "e0a825652d098095",
-  "97aa226e7a6ee328",
-  "f37221c3bfe18a6f",
-  "a2bb75a2e87a8269",
-  "9e78ed35ae742e82",
-  "c76ac2457c208fd3",
-  "a774a81e7364a0cf",
-  "c384d7c24ebafa31",
-  "9a97d93fe16bbd28",
-  "c9fd137613014063",
-  "e289a6ae3c885eaf",
-  "b45364e1cabb9809"
+  "0c10ae93ae45107f",
+  "ea03f2b324e88376",
+  "e92b9de0da5ae868"
  ],
  "items": [
+  {
+   "uid": "49188edeea81efcf",
+   "title": "colbymchenry/codegraph",
+   "url": "https://github.com/colbymchenry/codegraph",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-11-20T23:15:48.024315+00:00",
+   "summary": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local https://colbymchenry.github.io/codegraph/ CodeGraph Already installed? Run codegraph upgrade Follow @getcodegraph on…",
+   "matched": [
+    "claude",
+    "gemini",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "846dd722d0f0de84",
+   "title": "appwrite/appwrite",
+   "url": "https://github.com/appwrite/appwrite",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-11-20T23:15:48.020908+00:00",
+   "summary": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more https://appwrite.io Appwrite The open-source cloud for agents and developers. Appwrite is an MCP and agent-first platform for building and scaling apps. Give your agents Auth, Databases,…",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "32b5d08ae6b26c11",
+   "title": "p-e-w/heretic",
+   "url": "https://github.com/p-e-w/heretic",
+   "source": "GitHub Trending — Python",
+   "category": "repo",
+   "published": "2026-11-20T23:15:47.765941+00:00",
+   "summary": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more https://heretic-project.org Heretic Training-free language model modification Remove censorship , suppress slop, reduce sycophancy, and more. All in an afternoon, on your gaming PC. Modify any LLM that you can run…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "9aaaa6fc0354a544",
+   "title": "ggml-org/llama.cpp b12599 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12599",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-20T23:13:20+00:00",
+   "summary": "hip: add RDNA1 MMVQ parameter table (1 warp per block for ncols=1) (#32389) * hip: add RDNA1 MMVQ parameter table (1 warp per block for ncols=1) * hip: write the RDNA1 MMVQ values explicitly instead of recursing into the generic table * hip: list the RDNA1 MMVQ table before RDNA2 in the enum * Update ggml/src/ggml-cuda/mmvq.cu --------- Co-authored-by: Johannes Gäßler **Website:** -…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "b918ef3e367dd4ba",
+   "title": "ggml-org/llama.cpp b12597 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12597",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-20T22:57:33+00:00",
+   "summary": "convert: qwen3-asr: put \"language ...\" output into thinking block (#32571) * convert: qwen3-asr: put \"language ...\" output into thinking block * convert: qwen3-asr: read the chat template from models/templates The converter embedded its own copy of Qwen3-ASR.jinja. Read the bundled file instead, as the Kimi-K3 and Kokoro converters do, so the GGUF and test-chat share a single template. ---------…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "53232d670b6490ef",
+   "title": "ggml-org/llama.cpp b12596 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12596",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-20T22:43:55+00:00",
+   "summary": "metal : allow the norm chain in either operand of the fused MUL/ADD (#32300) Assisted-by: Claude Opus 5.5 **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) -…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "cac84feaeba6f6a9",
+   "title": "anthropics/claude-code v2.1.330",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.330",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-20T22:32:56+00:00",
+   "summary": "## What's changed - Added sign-in to organizations managed in Anthropic's Enterprise Admin Console: after `claude auth login`, Claude Code applies the organization's settings and uses its cloud provider or gateway - Added easel, a built-in mod that draws charts when asked and under MCP metrics results, on Pro, Max and, where available, Team and Enterprise on macOS and Linux; turn automatic charts…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "b9aeb006e925a673",
+   "title": "ggml-org/llama.cpp b12591 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12591",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-20T22:30:55+00:00",
+   "summary": "ggml : major version bump reminders + deprecate ggml_ftype (#32647) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "97a1993537a0d6cd",
+   "title": "unslothai/unsloth v0.1.921-beta — Bug Fixes + Faster images +Inkling Mini + faster MCP chats",
+   "url": "https://github.com/unslothai/unsloth/releases/tag/v0.1.921-beta",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-20T19:56:53+00:00",
+   "summary": "There will be another release today in a few hours! Run the new Inkling 2 Mini model, the strongest 26.4B model that runs on 16GB RAM. This release makes image generation faster and lighter on small GPUs. Macs with Apple Silicon can now restyle videos, and chats that use MCP tools no longer reprocess the whole conversation on every message. ## Highlights - **Inkling 2 Mini** - new 26B (5.4…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "c2f1eb2ef03d3fc9",
+   "title": "Quoting Ravi Vakil",
+   "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-11-20T19:21:49+00:00",
+   "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "6d4da926bec2d9cc",
+   "title": "ggml-org/llama.cpp b12590 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12590",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-20T19:02:52+00:00",
+   "summary": "mtmd: drama3 voice cloning (#32586) * mtmd: drama3 voice cloning The Fish S2 codec encoder (fish_s2_spkenc) now also serves drama3: - conversion: drama3 writes the codec encoder and the audio encoder KV, shared with fish_s2 - fish_s2_spkenc: outputs the codes of the clip (gen-side reference) and, in a drama3_gen mmproj, builds the drama3 backbone rows (E_lm[semantic] + E_cb[1][code 1]) / sqrt(2)…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "99d8bc42ed124207",
+   "title": "Quoting Levent Alpöge",
+   "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-11-20T16:30:48+00:00",
+   "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "67ebdac9a70330f1",
+   "title": "anthropics/anthropic-sdk-python v2.12.0",
+   "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.12.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-20T15:56:21+00:00",
+   "summary": "### Features * **api:** add the image_dimensions_too_large error code ### Bug Fixes * **bedrock:** send the user profile ID in the request body Amazon Bedrock reads `user_profile_id` from the request body and ignores the `anthropic-user-profile-id` header, so a profile ID given to `AnthropicBedrock` or `AsyncAnthropicBedrock` was not applied. Both clients now move it into the body of Messages…",
+   "matched": [
+    "*"
+   ]
+  },
   {
    "uid": "d4d7434ec434c586",
    "title": "rtk-ai/rtk",
@@ -407,6 +565,42 @@
    "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 84 # Comments: 52",
    "matched": [
     "anthropic"
+   ]
+  },
+  {
+   "uid": "5cf05e415e577c41",
+   "title": "Combatting adversarial distillation",
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-20T10:00:00+00:00",
+   "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "77dff1823a7708ad",
+   "title": "DORMS: Image Segmentation via Depth-Ordered Region Merge Trees",
+   "url": "https://arxiv.org/abs/2611.23958",
+   "source": "arXiv cs.CV (Vision/Segmentation)",
+   "category": "paper",
+   "published": "2026-11-20T05:00:00+00:00",
+   "summary": "arXiv:2611.23958v2 Announce Type: replace Abstract: We introduce DORMS (Depth-Ordered Region Merging for Segmentation), a purely algorithmic approach to image segmentation from monocular depth maps, requiring no neural networks or learned parameters in the segmentation process. An off-the-shelf monocular depth…",
+   "matched": [
+    "segmentation"
+   ]
+  },
+  {
+   "uid": "a80685cbf64bfbf1",
+   "title": "Look Closer, Look Back, or Wait for Agentic Streaming Video Understanding",
+   "url": "https://arxiv.org/abs/2611.24267",
+   "source": "arXiv cs.CV (Vision/Segmentation)",
+   "category": "paper",
+   "published": "2026-11-20T05:00:00+00:00",
+   "summary": "arXiv:2611.24267v2 Announce Type: replace Abstract: Streaming video models must answer questions about a live video under strict memory and latency limits. Feeding only the latest few frames keeps present perception sharp, whereas adding past frames dilutes attention on the current scene and triggers hallucinations.…",
+   "matched": [
+    "agentic"
    ]
   },
   {
@@ -1356,9 +1550,33 @@
    ]
   },
   {
-   "uid": "264efea42203c9cc",
-   "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-   "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+   "uid": "0c10ae93ae45107f",
+   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "url": "https://openai.com/business/customer-stories/hebbia",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-20T00:00:00+00:00",
+   "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "ea03f2b324e88376",
+   "title": "Can AI help scientists identify promising drug candidates?",
+   "url": "https://openai.com/index/introducing-medchembench",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-20T00:00:00+00:00",
+   "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "e92b9de0da5ae868",
+   "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+   "url": "https://huggingface.co/blog/inkling2mini",
    "source": "Hugging Face Blog",
    "category": "news",
    "published": "2026-11-20T00:00:00+00:00",
@@ -1366,232 +1584,7 @@
    "matched": [
     "*"
    ]
-  },
-  {
-   "uid": "e3f9c4e6e9fa7f98",
-   "title": "leepokai/Codync",
-   "url": "https://github.com/leepokai/Codync",
-   "source": "GitHub Trending — Rust",
-   "category": "repo",
-   "published": "2026-11-19T23:41:36.655178+00:00",
-   "summary": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust. https://www.codync.dev…",
-   "matched": [
-    "claude",
-    "gemini",
-    "claude code"
-   ]
-  },
-  {
-   "uid": "013d91aa0c19339e",
-   "title": "jingyaogong/minimind",
-   "url": "https://github.com/jingyaogong/minimind",
-   "source": "GitHub Trending — Python",
-   "category": "repo",
-   "published": "2026-11-19T23:41:35.851115+00:00",
-   "summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. https://jingyaogong.github.io/minimind \"大道至简\" 中文 | English 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。 MiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。 项目同时开源了大模型的极简结构与完整训练链路，覆盖…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "5b7cd423a9087a0d",
-   "title": "ggml-org/llama.cpp b12556 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12556",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-11-19T23:12:54+00:00",
-   "summary": "model : hrm : do not compute slot count as uint32_t (#32601) load_arch_hparams multiplies n_hrm_layers_per_stack, n_hrm_h_cycles and (n_hrm_l_cycles + 1) into a uint32_t, then asserts the product equals block_count. Any factors whose true product is block_count + k*2^32 still pass the assert; 1073741825 * 2 * 2 = 2^32 + 4 compares equal to block_count = 4. load_arch_tensors iterates the same…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "9fcec36436dcfde7",
-   "title": "anthropics/claude-agent-sdk-python v0.2.186",
-   "url": "https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.186",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-11-19T23:01:53+00:00",
-   "summary": "--- **PyPI:** https://pypi.org/project/claude-agent-sdk/0.2.186/ ```bash pip install claude-agent-sdk==0.2.186 ```",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "13fce047c5a7e6b2",
-   "title": "ggml-org/llama.cpp b12555 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12555",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-11-19T22:54:26+00:00",
-   "summary": "opencl: support dp4a for KQ mm in decomposed FA (#32577) * opencl: support int8 KQ for DK = 512 Co-authored-by: Shaofei Qi Co-authored-by: Hongqiang Wang Assisted-by: Codex * opencl: allow query chunk up to 96 for int8 KQ Co-authored-by: Shaofei Qi Co-authored-by: Hongqiang Wang Assisted-by: Codex * opencl: extend `build_program_from_source` to allow non-fatal failure Assisted-by: Codex * opencl:…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "72eb00ff1c0f6c49",
-   "title": "ggml-org/llama.cpp b12554 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12554",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-11-19T22:19:53+00:00",
-   "summary": "ggml : add BF16 support to ROPE and SET_ROWS (CPU, CUDA) (#32387) * ggml : add BF16 support to ROPE and SET_ROWS (CPU, CUDA) * cuda : SET_ROWS from BF16 into quantized types and F8_E4M3 * cuda : fuse BF16 rope into a BF16 cache * tests : trim the BF16 rope cases to one per code path **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "e0a825652d098095",
-   "title": "anthropics/claude-code v2.1.329",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.329",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-11-19T22:14:41+00:00",
-   "summary": "## What's changed - Added a trust dialog warning that says where a folder's hooks are declared - Added a warning in the conversation, in Claude Desktop and other non-interactive hosts, when hooks in managed settings fail to load - Added this session's scheduled tasks, `/loop` wakeups, the goal and this conversation's forks to `/tasks`; x stops one after asking - Added a \"Server message\" row to a…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "97aa226e7a6ee328",
-   "title": "ggml-org/llama.cpp b12553 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12553",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-11-19T22:06:25+00:00",
-   "summary": "mtmd : fix YuE2 projector loading (#32606) - Allow cls.output.weight to be absent from the mmproj. It is an optional Qwen3 reranking head that the YuE2 NAR decoder never uses. - Without this fix, mtmd_init_from_file() fails with \"tensor cls.output.weight is missing from the mmproj\", preventing audio generation from starting. **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "f37221c3bfe18a6f",
-   "title": "ggml-org/llama.cpp b12552 (pre)",
-   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12552",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-11-19T21:51:28+00:00",
-   "summary": "ggml-openvino: fix OpenVINO CI, minor fixes and optimizations (#32590) * ggml-openvino: round the GPU KV length up to a power of two Review notes (follow-ups, not blocking): - convert_ggml_input_to_ov pads the KQ mask into a std::vector and then copies it into the ov::Tensor. Writing the padded rows straight into padded.data() avoids the second allocation and copy (up to 16 MB per call at a 16K…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "a2bb75a2e87a8269",
-   "title": "PostgreSQL 19 Released",
-   "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-   "source": "Simon Willison",
-   "category": "news",
-   "published": "2026-11-19T20:43:57+00:00",
-   "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth the wait. My…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "9e78ed35ae742e82",
-   "title": "anthropics/anthropic-sdk-python v2.11.0",
-   "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.11.0",
-   "source": "GitHub Releases",
-   "category": "release",
-   "published": "2026-11-19T19:14:21+00:00",
-   "summary": "### Features * **api:** add Claude Code managed settings to the Admin API * **api:** add the sandbox_egress_restricted error to Admin API plugin methods ### Bug Fixes * **client:** encode spaces in query strings as %20 The AWS SigV4 signature of a request now matches its query string when a parameter contains a space. ### Performance Improvements * **structured outputs:** build each call's output…",
-   "matched": [
-    "*"
-   ]
-  },
-  {
-   "uid": "c76ac2457c208fd3",
-   "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
-   "url": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
-   "source": "Hacker News (AI)",
-   "category": "news",
-   "published": "2026-11-19T18:42:13+00:00",
-   "summary": "Article URL: https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/ Comments URL: https://news.ycombinator.com/item?id=50564282 Points: 50 # Comments: 29",
-   "matched": [
-    "anthropic"
-   ]
-  },
-  {
-   "uid": "a774a81e7364a0cf",
-   "title": "Claude solves two open problems in the physics of black holes",
-   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-   "source": "Hacker News (AI)",
-   "category": "news",
-   "published": "2026-11-19T17:30:44+00:00",
-   "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 523 # Comments: 248",
-   "matched": [
-    "claude",
-    "anthropic"
-   ]
-  },
-  {
-   "uid": "c384d7c24ebafa31",
-   "title": "Anthropic’s Nasdaq debut",
-   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-   "source": "Hacker News (AI)",
-   "category": "news",
-   "published": "2026-11-19T17:02:40+00:00",
-   "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 1109 # Comments: 2229",
-   "matched": [
-    "anthropic"
-   ]
-  },
-  {
-   "uid": "9a97d93fe16bbd28",
-   "title": "SaladDay/cc-switch-cli",
-   "url": "https://github.com/SaladDay/cc-switch-cli",
-   "source": "GitHub Trending — Rust",
-   "category": "repo",
-   "published": "2026-11-19T15:57:36.580886+00:00",
-   "summary": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI. CC-Switch CLI Manage Claude Code, Codex, Gemini, OpenCode, Hermes, OpenClaw, and Pi from one interactive TUI or scriptable CLI. English | 中文 | 日本語 📖 About This project is a CLI fork of CC-Switch . 🔄 The WebDAV sync feature is fully…",
-   "matched": [
-    "claude",
-    "gemini",
-    "claude code"
-   ]
-  },
-  {
-   "uid": "c9fd137613014063",
-   "title": "pingdotgg/t3code",
-   "url": "https://github.com/pingdotgg/t3code",
-   "source": "GitHub Trending — TypeScript",
-   "category": "repo",
-   "published": "2026-11-19T15:57:36.281159+00:00",
-   "summary": "The best way to control Claude Code, Codex and more from any computer or phone https://t3.codes T3 Code The open-source control plane for coding agents. Download · iOS · Android · Web · Docs · Discord T3 Code runs the coding agents on your machine and gives them one fast interface. Start a thread at your desk, then…",
-   "matched": [
-    "claude",
-    "claude code"
-   ]
-  },
-  {
-   "uid": "e289a6ae3c885eaf",
-   "title": "Vincentwei1021/video-shotcraft",
-   "url": "https://github.com/Vincentwei1021/video-shotcraft",
-   "source": "GitHub Trending — TypeScript",
-   "category": "repo",
-   "published": "2026-11-19T15:57:36.277876+00:00",
-   "summary": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export. https://vincentwei1021.github.io/video-shotcraft/ video-shotcraft English | 中文 | 繁體中文 | 日本語 | Русский ▶ Browse…",
-   "matched": [
-    "claude",
-    "claude code"
-   ]
-  },
-  {
-   "uid": "b45364e1cabb9809",
-   "title": "JCodesMore/ai-website-cloner-template",
-   "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-   "source": "GitHub Trending — TypeScript",
-   "category": "repo",
-   "published": "2026-11-19T15:57:36.276978+00:00",
-   "summary": "Clone any website with one command using AI coding agents https://dsc.gg/jcodesmore AI Website Cloner Template Clone any website with one command Give your AI coding agent a URL and watch it recreate the website as a clean Next.js app. Best results with Claude Code + Opus 5.5. Also supports Codex, Cursor, and…",
-   "matched": [
-    "claude",
-    "opus",
-    "claude code"
-   ]
   }
  ],
- "last_run": "2026-11-20T15:41:13.913381+00:00"
+ "last_run": "2026-11-20T23:16:02.939279+00:00"
 }
