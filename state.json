@@ -1,9 +1,16 @@
 {
  "seen": [
+  "69c686c27df23454",
+  "487fbf373e8b308f",
+  "6f1fd2c2aada054f",
+  "5e2baac20cd7f270",
+  "af32a7d9481ac092",
+  "b6c1b6f48a8b4e30",
   "9a97d93fe16bbd28",
   "013d91aa0c19339e",
   "a8d9987705c6f807",
   "2dc3f11d18b28caa",
+  "3d57d5c16894e938",
   "7ee95fc39bff2928",
   "4bcc51feb3d55b6b",
   "d428cb26b8e76abc",
@@ -112,16 +119,82 @@
   "a5883550109ad278",
   "1548aed896be3925",
   "e575bd675220ee75",
-  "02ad5e638d3cbedc",
-  "1d19b756bfc53d07",
-  "7cd67984e6d20f16",
-  "03669e3cd47c3944",
-  "a445f5c78e1e1cbe",
-  "58e966cc9df3d371",
-  "c8e7d657489c9cc5",
-  "de0f097074a30804"
+  "02ad5e638d3cbedc"
  ],
  "items": [
+  {
+   "uid": "69c686c27df23454",
+   "title": "ggml-org/llama.cpp b12613 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12613",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-21T19:40:37+00:00",
+   "summary": "vulkan: unroll FA coopmat1 array due to a driver bug on AMD Windows (#32466) * vulkan: unroll FA coopmat1 array due to a driver bug on AMD Windows * simplify code to make it clearer **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12613/llama-b12613-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64,…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "487fbf373e8b308f",
+   "title": "ggml-org/llama.cpp b12612 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12612",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-21T19:28:39+00:00",
+   "summary": "vulkan: improve RDNA4 MMVQ performance for Q3_K, Q5_K and IQ4_XS (#31804) * vulkan: keep default MMVQ rows for Q3_K, Q5_K, IQ4_XS on RDNA4 AMD proprietary driver Assisted-by: Claude Opus 5.5 * clean up mmvq shader load logic --------- Co-authored-by: Ruben Ortlam **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "6f1fd2c2aada054f",
+   "title": "ggml-org/llama.cpp b12611 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12611",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-21T19:12:42+00:00",
+   "summary": "model : inkling2_loop share the loop slots after the scale pass (#32704) The loop slots copied the physical layers at the end of load_arch_tensors, before the generic pass attaches the optional .scale tensors, so the later passes through the core ran NVFP4 experts without their per-expert scales. Add an optional post_arch_tensors hook that runs after the scale pass and share the slots there.…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "5e2baac20cd7f270",
+   "title": "ggml-org/llama.cpp b12609 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12609",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-21T18:59:46+00:00",
+   "summary": "ggml-zdnn: fix ztensor load race condition (#32279) Signed-off-by: Aaron Teo **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "af32a7d9481ac092",
+   "title": "⭐ 1103 · alexeyw/lot-map (TypeScript)",
+   "url": "https://github.com/alexeyw/lot-map",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-21T18:50:47+00:00",
+   "summary": "Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 8 languages.",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "b6c1b6f48a8b4e30",
+   "title": "ggml-org/llama.cpp b12608 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12608",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-21T16:05:19+00:00",
+   "summary": "ggml-cpu: fix nc aligment in tinyBLAS_PPC_Q0 (#32659) Fixes https://github.com/ggml-org/llama.cpp/issues/31680 The matmul_tiled() implementation in tinyBLAS_Q0_PPC requires nc to be a multiple of 8 to perform matrix multiplication correctly. The previous alignment logic contained a special case for n == 4, which allowed n_aligned to be 4. Consequently, the tiled path could be selected with nc =…",
+   "matched": [
+    "*"
+   ]
+  },
   {
    "uid": "9a97d93fe16bbd28",
    "title": "SaladDay/cc-switch-cli",
@@ -170,6 +243,18 @@
    "summary": "# Release v5.24.0 ## New Model additions ### Inkling 2 Mini Inkling 2 Mini is a multimodal model from Thinking Machines Lab that accepts text and image inputs and generates text outputs. It is a smaller sibling of Inkling 2 Small, added in v5.23.0. It has 24 decoder layers instead of 48, and compensates with a looping mechanism in which layers 6 to 17 run three times. A learned message-passing…",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "3d57d5c16894e938",
+   "title": "⭐ 1725 · iamajmeena/neonclipping (Python)",
+   "url": "https://github.com/iamajmeena/neonclipping",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-21T11:36:33+00:00",
+   "summary": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+   "matched": [
+    "llm"
    ]
   },
   {
@@ -1499,92 +1584,7 @@
    "matched": [
     "distillation"
    ]
-  },
-  {
-   "uid": "1d19b756bfc53d07",
-   "title": "FlowMap-OPD: On-Policy Distillation for Few-Step Flow-Map Generators",
-   "url": "https://arxiv.org/abs/2609.37851",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-20T05:00:00+00:00",
-   "summary": "arXiv:2609.37851v2 Announce Type: replace Abstract: Few-step flow-map generators, such as MeanFlow and consistency models, sample in a few long-range jumps. On-policy distillation (OPD) trains a student on states drawn from its own sampler, but existing methods compare teacher and student through the local stochastic…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "7cd67984e6d20f16",
-   "title": "AgroGround: What Grounding Fine-Tuning Changes in Agricultural Vision-Language Models",
-   "url": "https://arxiv.org/abs/2610.04425",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-20T05:00:00+00:00",
-   "summary": "arXiv:2610.04425v3 Announce Type: replace Abstract: Large-scale agricultural grounding data can now be generated automatically, but how training on such data affects a vision-language model's localization, recognition, and refusal capabilities remains unclear. To study these effects, we introduce AgroGround,…",
-   "matched": [
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "03669e3cd47c3944",
-   "title": "Zero-Shot Brain MRI Inpainting with 2.5D Unconditional Flow Priors",
-   "url": "https://arxiv.org/abs/2610.08983",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-20T05:00:00+00:00",
-   "summary": "arXiv:2610.08983v2 Announce Type: replace Abstract: Generative inpainting of brain MRI volumes is essential for synthesizing healthy tissue in pathological regions, improving the accuracy and reliability of automated downstream brain analysis applications such as image registration, brain extraction, and segmentation.…",
-   "matched": [
-    "segmentation"
-   ]
-  },
-  {
-   "uid": "a445f5c78e1e1cbe",
-   "title": "An Empirical Study on Learning Rooftop Solar Potential from Satellite Imagery Directly Without Explicit Geometry",
-   "url": "https://arxiv.org/abs/2610.41111",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-20T05:00:00+00:00",
-   "summary": "arXiv:2610.41111v2 Announce Type: replace Abstract: Rooftop solar potential estimation often relies on LiDAR, digital surface models (DSMs), or pipelines that explicitly reconstruct roof geometry before estimating solar potential. We propose Direct Rooftop Solar Prediction (DRSP), an end-to-end formulation that maps…",
-   "matched": [
-    "satellite imagery"
-   ]
-  },
-  {
-   "uid": "58e966cc9df3d371",
-   "title": "From Reflection to Co-Evolution: Self-Evolving Agents with Locally Verified Memory",
-   "url": "https://arxiv.org/abs/2611.10382",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-20T05:00:00+00:00",
-   "summary": "arXiv:2611.10382v2 Announce Type: replace Abstract: LLM agents have made impressive progress in coding and mathematical reasoning, motivating growing interest in learning from long-horizon interaction. Memory supports this process, but plausible lessons can be redundant or reinforce inappropriate actions. Can a…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "c8e7d657489c9cc5",
-   "title": "From Game Generation to Game Playing: Fully Automated Ability Training for Vision-Language-Action Models",
-   "url": "https://arxiv.org/abs/2611.11136",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-20T05:00:00+00:00",
-   "summary": "arXiv:2611.11136v2 Announce Type: replace Abstract: Training vision-language-action (VLA) models to follow gameplay instructions across diverse games is limited by the cost of collecting demonstrations. We introduce a framework that automatically generates game environments and expert demonstrations. An LLM-powered…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "de0f097074a30804",
-   "title": "RICapBench: A Fine-Grained Visual Understanding Benchmark Dataset for Vision-Language Models in Remote Sensing",
-   "url": "https://arxiv.org/abs/2611.16413",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-20T05:00:00+00:00",
-   "summary": "arXiv:2611.16413v2 Announce Type: replace Abstract: Advances in vision-language models (VLMs) have improved remote sensing image analysis and supported geospatial decision-making. However, fine-grained understanding of remote sensing imagery remains challenging for VLMs. Large variations in object scale, complex…",
-   "matched": [
-    "remote sensing",
-    "geospatial"
-   ]
   }
  ],
- "last_run": "2026-11-21T14:51:16.801905+00:00"
+ "last_run": "2026-11-21T22:16:14.863851+00:00"
 }
