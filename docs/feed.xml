@@ -5,8 +5,107 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-11-20T23:16:02Z</updated>
+  <updated>2026-11-21T14:51:16Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>📦 SaladDay/cc-switch-cli</title>
+    <link href="https://github.com/SaladDay/cc-switch-cli"/>
+    <id>urn:uuid:9a97d93fe16bbd28</id>
+    <updated>2026-11-21T14:51:04Z</updated>
+    <published>2026-11-21T14:51:04Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Rust&lt;/p&gt;&lt;p&gt;⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex &amp;amp; Gemini CLI. CC-Switch CLI Manage Claude Code, Codex, Gemini, OpenCode, Hermes, OpenClaw, and Pi from one interactive TUI or scriptable CLI. English | 中文 | 日本語 📖 About This project is a CLI fork of CC-Switch . 🔄 The WebDAV sync feature is fully…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, gemini, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/SaladDay/cc-switch-cli"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 jingyaogong/minimind</title>
+    <link href="https://github.com/jingyaogong/minimind"/>
+    <id>urn:uuid:013d91aa0c19339e</id>
+    <updated>2026-11-21T14:51:03Z</updated>
+    <published>2026-11-21T14:51:03Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. https://jingyaogong.github.io/minimind "大道至简" 中文 | English 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。 MiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。 项目同时开源了大模型的极简结构与完整训练链路，覆盖…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jingyaogong/minimind"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 41 · hyeonsang010716/OpenDocKit (Python)</title>
+    <link href="https://github.com/hyeonsang010716/OpenDocKit"/>
+    <id>urn:uuid:a8d9987705c6f807</id>
+    <updated>2026-11-21T13:55:31Z</updated>
+    <published>2026-11-21T13:55:31Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Convert PDF, Office, HWP/HWPX, OpenDocument, RTF, EPUB, HTML, email and images into clean, LLM-ready Markdown.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/hyeonsang010716/OpenDocKit"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 huggingface/transformers v5.24.0 — Release v5.24.0</title>
+    <link href="https://github.com/huggingface/transformers/releases/tag/v5.24.0"/>
+    <id>urn:uuid:2dc3f11d18b28caa</id>
+    <updated>2026-11-21T12:28:26Z</updated>
+    <published>2026-11-21T12:28:26Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;# Release v5.24.0 ## New Model additions ### Inkling 2 Mini Inkling 2 Mini is a multimodal model from Thinking Machines Lab that accepts text and image inputs and generates text outputs. It is a smaller sibling of Inkling 2 Small, added in v5.23.0. It has 24 decoder layers instead of 48, and compensates with a looping mechanism in which layers 6 to 17 run three times. A learned message-passing…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/huggingface/transformers/releases/tag/v5.24.0"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12606 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12606"/>
+    <id>urn:uuid:7ee95fc39bff2928</id>
+    <updated>2026-11-21T10:28:59Z</updated>
+    <published>2026-11-21T10:28:59Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;llama : remove fused lightning indexer gating (#32650) The fused lightning indexer is always used now, so drop the cparams flags, the auto probe and the non-fused fallbacks. Assisted-by: dsh:llama.cpp/ggml-org/DeepSeek-V4.1-Flash-1017-GGUF (Mac Studio, M5 Ultra, 256GB) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12606"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12604 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12604"/>
+    <id>urn:uuid:4bcc51feb3d55b6b</id>
+    <updated>2026-11-21T10:05:49Z</updated>
+    <published>2026-11-21T10:05:49Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;llama-grammar: Fix integer overflow (#32551) * llama-grammar: Fix integer overflow * Check incorrect values at parsing and bail out nicely * fix style **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12604"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12603 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12603"/>
+    <id>urn:uuid:d428cb26b8e76abc</id>
+    <updated>2026-11-21T09:29:12Z</updated>
+    <published>2026-11-21T09:29:12Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;llama : score only the k-pools of the ubatch sequences in QSA (#32519) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12603"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12602 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12602"/>
+    <id>urn:uuid:4bd78dbab4ebc6e6</id>
+    <updated>2026-11-21T04:28:53Z</updated>
+    <published>2026-11-21T04:28:53Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;sycl: Improve Grouped XMX GEMM by avoiding SLM staging (#31428) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12602"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 unslothai/unsloth v0.1.922-beta — Inkling Mini + Bug fixes</title>
+    <link href="https://github.com/unslothai/unsloth/releases/tag/v0.1.922-beta"/>
+    <id>urn:uuid:271a25abc59fb899</id>
+    <updated>2026-11-20T23:53:26Z</updated>
+    <published>2026-11-20T23:53:26Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;Run the new Inkling 2 Mini model, the strongest 26.4B model that runs on 16GB RAM. This release makes image generation faster and lighter on small GPUs. Macs with Apple Silicon can now restyle videos, and chats that use MCP tools no longer reprocess the whole conversation on every message. ## Highlights - **Inkling 2 Mini** - less memory usage and faster. New 26B (5.4 active) 1M context -…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/unslothai/unsloth/releases/tag/v0.1.922-beta"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12600 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12600"/>
+    <id>urn:uuid:dbc4e6281c179a0d</id>
+    <updated>2026-11-20T23:30:28Z</updated>
+    <published>2026-11-20T23:30:28Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;model : Inkling 2 Mini (#32694) * Conversion * Separate model_type * Add gate_rank to allow building from metadata while testing * Base model * Loop graph * Support the new is_varloop attribute * Adopt naming scheme from https://github.com/ggml-org/llama.cpp/pull/32588 * Rename to varying **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12600"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 anthropics/claude-agent-sdk-python v0.2.187</title>
+    <link href="https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.187"/>
+    <id>urn:uuid:b1c4d6e2bdcc765a</id>
+    <updated>2026-11-20T23:28:33Z</updated>
+    <published>2026-11-20T23:28:33Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;--- **PyPI:** https://pypi.org/project/claude-agent-sdk/0.2.187/ ```bash pip install claude-agent-sdk==0.2.187 ```&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.187"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 colbymchenry/codegraph</title>
     <link href="https://github.com/colbymchenry/codegraph"/>
@@ -80,6 +179,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;ggml : major version bump reminders + deprecate ggml_ftype (#32647) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12591"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street</title>
+    <link href="https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90"/>
+    <id>urn:uuid:b20c998f1ae63aa5</id>
+    <updated>2026-11-20T21:18:46Z</updated>
+    <published>2026-11-20T21:18:46Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90 Comments URL: https://news.ycombinator.com/item?id=50582280 Points: 61 # Comments: 5&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>🚀 unslothai/unsloth v0.1.921-beta — Bug Fixes + Faster images +Inkling Mini + faster MCP chats</title>
     <link href="https://github.com/unslothai/unsloth/releases/tag/v0.1.921-beta"/>
     <id>urn:uuid:97a1993537a0d6cd</id>
@@ -105,6 +213,15 @@
     <published>2026-11-20T19:02:52Z</published>
     <category term="RELEASE"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;mtmd: drama3 voice cloning (#32586) * mtmd: drama3 voice cloning The Fish S2 codec encoder (fish_s2_spkenc) now also serves drama3: - conversion: drama3 writes the codec encoder and the audio encoder KV, shared with fish_s2 - fish_s2_spkenc: outputs the codes of the clip (gen-side reference) and, in a drama3_gen mmproj, builds the drama3 backbone rows (E_lm[semantic] + E_cb[1][code 1]) / sqrt(2)…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12590"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Google workers tell their employer not to punish schools that don't want AI</title>
+    <link href="https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/"/>
+    <id>urn:uuid:e77fdf50d4bdeecc</id>
+    <updated>2026-11-20T16:59:27Z</updated>
+    <published>2026-11-20T16:59:27Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 277 # Comments: 217&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: gemini&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📰 Quoting Levent Alpöge</title>
@@ -323,6 +440,15 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;llama : move the graph node budget into the model classes (#32648) graph_max_nodes() picked the nodes-per-tensor factor from lists of architectures. Each model class now gives it through a new virtual, llama_model::graph_nodes_per_tensor(), which defaults to 8. The architectures that need 32 or 64 override it in models.h, and DFlash keeps its hparams-based rule in dflash.cpp. LoRA adapter nodes…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12572"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>📰 Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day</title>
+    <link href="https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"/>
+    <id>urn:uuid:c02031205efc4205</id>
+    <updated>2026-11-20T13:29:59Z</updated>
+    <published>2026-11-20T13:29:59Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 398 # Comments: 712&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>📰 Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off</title>
     <link href="https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"/>
     <id>urn:uuid:fafbe5c8add10787</id>
@@ -339,6 +465,15 @@
     <published>2026-11-20T10:00:00Z</published>
     <category term="NEWS"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/combatting-adversarial-distillation"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 469 · ysunyang4/Nexus (TypeScript)</title>
+    <link href="https://github.com/ysunyang4/Nexus"/>
+    <id>urn:uuid:096be78eca4d4155</id>
+    <updated>2026-11-20T08:58:33Z</updated>
+    <published>2026-11-20T08:58:33Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Connect web AI assistants to local files, terminals, Git, and desktop tools through MCP, with user-controlled permissions.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ysunyang4/Nexus"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📄 DORMS: Image Segmentation via Depth-Ordered Region Merge Trees</title>
@@ -951,140 +1086,5 @@
     <published>2026-11-20T05:00:00Z</published>
     <category term="PAPER"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.16413v2 Announce Type: replace Abstract: Advances in vision-language models (VLMs) have improved remote sensing image analysis and supported geospatial decision-making. However, fine-grained understanding of remote sensing imagery remains challenging for VLMs. Large variations in object scale, complex…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: remote sensing, geospatial&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.16413"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Perceptual Weight Space Programming for Diffusion Super-Resolution</title>
-    <link href="https://arxiv.org/abs/2611.18690"/>
-    <id>urn:uuid:f3390733ea3577ea</id>
-    <updated>2026-11-20T05:00:00Z</updated>
-    <published>2026-11-20T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.18690v2 Announce Type: replace Abstract: Diffusion models for image super-resolution can recover scene content while producing distracting artifacts or unbalanced colors. We study whether a large language model (LLM) can improve perceptual quality by editing a small subset of existing U-Net weights without…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, u-net&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.18690"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 SRED: Sparse Regional Evidence Distillation Across Magnifications in Whole-Slide Imaging</title>
-    <link href="https://arxiv.org/abs/2611.22189"/>
-    <id>urn:uuid:f09c31b6e4e0ba72</id>
-    <updated>2026-11-20T05:00:00Z</updated>
-    <published>2026-11-20T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.22189v2 Announce Type: replace Abstract: In computational pathology, high-magnification whole-slide image analysis preserves tissue detail but requires encoding many patches, whereas lower magnification reduces computation by covering a higher field of view per patch while sacrificing detail. Existing…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.22189"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Unified Law for Visual Tasks (The Four Laws of Computer Vision)</title>
-    <link href="https://arxiv.org/abs/2611.24917"/>
-    <id>urn:uuid:92488147e3e335cf</id>
-    <updated>2026-11-20T05:00:00Z</updated>
-    <published>2026-11-20T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.24917v2 Announce Type: replace Abstract: In this paper, we propose a Unified Law for Visual Tasks, which could be further divided into Four Laws of Computer Vision, with the goal of enabling a single framework or method to uniformly train on and perform nearly all visual tasks. Our starting point is an…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: computer vision&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.24917"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Chameleon: Dynamic Format Adapter for Efficient Diffusion</title>
-    <link href="https://arxiv.org/abs/2609.33496"/>
-    <id>urn:uuid:595bd7b4cd8de0ed</id>
-    <updated>2026-11-20T05:00:00Z</updated>
-    <published>2026-11-20T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2609.33496v3 Announce Type: replace-cross Abstract: Post-training quantization (PTQ) is the standard way to run modern diffusion models on memory-constrained accelerators, yet every existing diffusion PTQ scheme fixes the $\mathit{number\ format}$ in advance and only tunes the scale, zero point, or per-layer…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: quantization&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.33496"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 On Agentic Manipulation Policies</title>
-    <link href="https://arxiv.org/abs/2611.09892"/>
-    <id>urn:uuid:af63b747d3319b0d</id>
-    <updated>2026-11-20T05:00:00Z</updated>
-    <published>2026-11-20T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.09892v3 Announce Type: replace-cross Abstract: Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such as vision-language-action models (VLAs) and world-action…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.09892"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops</title>
-    <link href="https://arxiv.org/abs/2611.23445"/>
-    <id>urn:uuid:78a47da7dd19030b</id>
-    <updated>2026-11-20T05:00:00Z</updated>
-    <published>2026-11-20T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.23445v2 Announce Type: replace-cross Abstract: Deep vision models operating in resource-constrained environments depend heavily on low-bit quantization, yet compressing weights below 4 bits frequently induces catastrophic accuracy collapse. While mixed-precision recovery strategies aim to rescue accuracy by…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: quantization&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.23445"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Efficient World-Model Planning via Physics-Guided Search Distillation</title>
-    <link href="https://arxiv.org/abs/2611.24171"/>
-    <id>urn:uuid:bfa999c7203a9e8d</id>
-    <updated>2026-11-20T05:00:00Z</updated>
-    <published>2026-11-20T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.24171v2 Announce Type: replace-cross Abstract: World models support autonomous driving by evaluating candidate trajectories through predicted future scene evolution. However, accurate future prediction does not ensure road-compliant execution; when all candidates violate road boundaries, re-ranking cannot…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.24171"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 1056 · iamajmeena/neonclipping (Python)</title>
-    <link href="https://github.com/iamajmeena/neonclipping"/>
-    <id>urn:uuid:3d57d5c16894e938</id>
-    <updated>2026-11-20T04:09:54Z</updated>
-    <published>2026-11-20T04:09:54Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/iamajmeena/neonclipping"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📦 ⭐ 1037 · alexeyw/lot-map (TypeScript)</title>
-    <link href="https://github.com/alexeyw/lot-map"/>
-    <id>urn:uuid:af32a7d9481ac092</id>
-    <updated>2026-11-20T04:05:17Z</updated>
-    <published>2026-11-20T04:05:17Z</published>
-    <category term="REPO"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/alexeyw/lot-map"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 ultralytics/ultralytics v8.4.216 — v8.4.216 - `ultralytics 8.4.216` ST Edge AI export for STM32 devices (#27291)</title>
-    <link href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.216"/>
-    <id>urn:uuid:3300b57f4450767c</id>
-    <updated>2026-11-20T03:30:18Z</updated>
-    <published>2026-11-20T03:30:18Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## 🌟 Summary **Ultralytics 8.4.216 adds export support for STM32 edge devices and improves training, inference reliability, and deployment guidance across the ecosystem.** ## 📊 Key Changes - **STM32 export with ST Edge AI:** The new `format="stedgeai"` export creates ONNX models for ST Edge AI Core and STM32 devices, including STM32N6. It supports float and INT8 export, with normalized detection…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.216"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Token fraud is here and it’s BAD (YouTube)</title>
-    <link href="https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/"/>
-    <id>urn:uuid:7d39150d5214b841</id>
-    <updated>2026-11-20T02:49:57Z</updated>
-    <published>2026-11-20T02:49:57Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Simon Willison&lt;/p&gt;&lt;p&gt;Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers "turn an idea into a spec". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying Twitter post )…&lt;/p&gt;&lt;p&gt;&lt;a href="https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>🚀 langchain-ai/langgraph 1.2.24 — langgraph==1.2.24</title>
-    <link href="https://github.com/langchain-ai/langgraph/releases/tag/1.2.24"/>
-    <id>urn:uuid:bf6d51687a215caa</id>
-    <updated>2026-11-20T01:10:26Z</updated>
-    <published>2026-11-20T01:10:26Z</published>
-    <category term="RELEASE"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;Changes since 1.2.23 * release(langgraph): 1.2.24 (#9752) * fix(langgraph): handle `REMOVE_ALL_MESSAGES` in `_messages_delta_reducer` and `None` checkpoints in `DeltaChannel` (#9735)&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/langchain-ai/langgraph/releases/tag/1.2.24"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Hebbia sees improvements in financial research with GPT-6 Astra</title>
-    <link href="https://openai.com/business/customer-stories/hebbia"/>
-    <id>urn:uuid:0c10ae93ae45107f</id>
-    <updated>2026-11-20T00:00:00Z</updated>
-    <published>2026-11-20T00:00:00Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/business/customer-stories/hebbia"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Can AI help scientists identify promising drug candidates?</title>
-    <link href="https://openai.com/index/introducing-medchembench"/>
-    <id>urn:uuid:ea03f2b324e88376</id>
-    <updated>2026-11-20T00:00:00Z</updated>
-    <published>2026-11-20T00:00:00Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; OpenAI News&lt;/p&gt;&lt;p&gt;MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.&lt;/p&gt;&lt;p&gt;&lt;a href="https://openai.com/index/introducing-medchembench"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📰 Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup</title>
-    <link href="https://huggingface.co/blog/inkling2mini"/>
-    <id>urn:uuid:e92b9de0da5ae868</id>
-    <updated>2026-11-20T00:00:00Z</updated>
-    <published>2026-11-20T00:00:00Z</published>
-    <category term="NEWS"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hugging Face Blog&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://huggingface.co/blog/inkling2mini"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
