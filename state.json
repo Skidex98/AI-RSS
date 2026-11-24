@@ -1,5 +1,22 @@
 {
  "seen": [
+  "df37f31f06847fb9",
+  "412b3fc945e8d4b5",
+  "cdd700a1c7df1d13",
+  "061ee548459d75f0",
+  "516d865ede4cabcd",
+  "7033fe155f38fecf",
+  "e69cb1b9d6d08cc9",
+  "a586aed33b08f976",
+  "087b3c32568425fe",
+  "6d0a7f36c3772a34",
+  "5d9569f97a919cf6",
+  "1bb28061c6b5d302",
+  "5102b7535fc91653",
+  "89afe71bca98810b",
+  "8d0b289734c6d900",
+  "75e8a99a4ea27fff",
+  "87e92b9355500179",
   "d4d7434ec434c586",
   "a5da3fd404727b88",
   "9a97d93fe16bbd28",
@@ -36,9 +53,11 @@
   "a6406cca92bc7228",
   "c2daf2ad8cf9c4f6",
   "3d57d5c16894e938",
+  "4f708cf71effdaf1",
   "db5cc2a3cd81e7e2",
   "90f9e529e39fc52b",
   "16b5e6fe42f1caec",
+  "6a765cc64634e4d7",
   "dbad7cbfbe759d13",
   "3841ff4b1eacf8b7",
   "c812142484e7085a",
@@ -100,28 +119,213 @@
   "44b08d0b7bdb6c72",
   "edca93298b694372",
   "b1bc2d475c874948",
-  "19336a740e94f741",
-  "18e7fbc8ff75a804",
-  "83c8de48d772ba60",
-  "04e29838811ba4be",
-  "97b0e1f15eaec3cc",
-  "1cae875ae7f63268",
-  "9b7bfcb74aa28642",
-  "4313e429ad5f0fe8",
-  "bbc6e8f50b176424",
-  "ca9d12d21d39b026",
-  "2d620f53f659b4b8",
-  "c520e1ac82f16ef4",
-  "46e1914c82ecb123",
-  "2fb50df7ad2332d2",
-  "2f4ef163ce3af3e6",
-  "377f2b7e4031b530",
-  "17dd726f446e16ff",
-  "b32d8af373445f17",
-  "c9ddc1195dd4b907",
-  "86121c2d599d1f7b"
+  "19336a740e94f741"
  ],
  "items": [
+  {
+   "uid": "df37f31f06847fb9",
+   "title": "⭐ 593 · qianyiai/kurocat (TypeScript)",
+   "url": "https://github.com/qianyiai/kurocat",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-24T17:16:53+00:00",
+   "summary": "KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "412b3fc945e8d4b5",
+   "title": "GPT 6.2 Astra Solves a Historical Mystery",
+   "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-11-24T16:53:59+00:00",
+   "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at Yale’s Beinecke Library . It…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "cdd700a1c7df1d13",
+   "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+   "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+   "source": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-11-24T16:34:13+00:00",
+   "summary": "",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "061ee548459d75f0",
+   "title": "huggingface/transformers v5.24.1 — Patch release v5.24.1",
+   "url": "https://github.com/huggingface/transformers/releases/tag/v5.24.1",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-24T16:13:08+00:00",
+   "summary": "# Patch release v5.24.1 A patch to fix a bunch of stuff for vLLM, a few distributed issues, and some model fixes (llama4, dory); see the full list ### vLLM related - Fix backward compatibility of the cache rename for remote code (#51085) by @hmellor - Restore modeling_attn_mask_utils for remote code (one-off to unblock vLLM) (#51124) by @hmellor - Expose past_key_values in…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "516d865ede4cabcd",
+   "title": "Anthropic is below its IPO price",
+   "url": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-11-24T14:41:15+00:00",
+   "summary": "Article URL: https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa Comments URL: https://news.ycombinator.com/item?id=50628932 Points: 123 # Comments: 124",
+   "matched": [
+    "anthropic"
+   ]
+  },
+  {
+   "uid": "7033fe155f38fecf",
+   "title": "unslothai/unsloth v0.1.924-beta — Inkling finetuning + perf fixes",
+   "url": "https://github.com/unslothai/unsloth/releases/tag/v0.1.924-beta",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-24T14:38:51+00:00",
+   "summary": "# Inkling Fine-tuning You can now fine-tune Inkling 2 Mini 1.8 to 3.1x faster and use 50% less VRAM in Unsloth with LoRA or QLoRA, then export it to GGUF or a merged 16-bit model. It trains on Kaggle's free 2x T4 and now supports tensor, pipeline and context parallel across GPUs. Also new: faster `adamw_8bit` steps, faster Z-Image LoRA training on T4 and fixes for thinking models in chat. ##…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "e69cb1b9d6d08cc9",
+   "title": "langfuse/langfuse v4.85.0",
+   "url": "https://github.com/langfuse/langfuse/releases/tag/v4.85.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-24T13:39:19+00:00",
+   "summary": "## What's Changed ### Features * feat(billing): meter Stripe from the billable units ledger by @Steffen911 in https://github.com/langfuse/langfuse/pull/20526 * feat(web): Use unified session & trace view for session table by @bezbac in https://github.com/langfuse/langfuse/pull/20373 * feat(skills): remove beta badge from skill management by @tobi12345 in…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "a586aed33b08f976",
+   "title": "ggml-org/llama.cpp b12676 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12676",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-24T13:24:35+00:00",
+   "summary": "GDN: use replay instead of rollback (#31669) * GDN: use replay instead of rollback [WIP] * memory : move rs_max with the sequence when find_slot swaps cells find_slot swapped pos/src/rs_pend/seq_id of the cell it moves out of the way, but not rs_max, so that sequence inherited the rollback depth of the cell's previous owner. A smaller value made seq_rm refuse the rollback (#31656), a larger one…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "087b3c32568425fe",
+   "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-11-24T13:23:47+00:00",
+   "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading Comments URL: https://news.ycombinator.com/item?id=50627836 Points: 144 # Comments: 235",
+   "matched": [
+    "anthropic"
+   ]
+  },
+  {
+   "uid": "6d0a7f36c3772a34",
+   "title": "LLM agents work for their parent companies, not for you",
+   "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-11-24T12:40:15+00:00",
+   "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 661 # Comments: 274",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "5d9569f97a919cf6",
+   "title": "ggml-org/llama.cpp b12675 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12675",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-24T09:55:33+00:00",
+   "summary": "server : preserve a prompt-cache entry until restores succeed (#32828) Assisted-by: Codex **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12675/llama-b12675-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "1bb28061c6b5d302",
+   "title": "ggml-org/llama.cpp b12674 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12674",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-24T08:25:32+00:00",
+   "summary": "opencl: fetch the Adreno binary kernel library at configure time for Windows on Snapdragon (#31759) * opencl: fetch the Adreno binary kernel library at configure time Make GGML_OPENCL_USE_ADRENO_BIN_KERNELS an option, default ON, and add GGML_OPENCL_ADRENO_BIN_KERNELS_FETCH, default ON. On Windows, CMake downloads the pinned adreno-opencl-kernels release from the Qualcomm Software Center,…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "5102b7535fc91653",
+   "title": "ggml-org/llama.cpp b12671 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12671",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-24T07:02:04+00:00",
+   "summary": "metal : batch concat rows and copy them in vector chunks (#32824) * metal : batch concat rows and copy them in vector chunks The concat kernel copied one element per thread, so wide rows with many rows ran at a fraction of the memory bandwidth. Batch several rows per threadgroup and copy the contiguous dim-0 elements in 4-element chunks when the row is contiguous. Assisted-by:…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "89afe71bca98810b",
+   "title": "ggml-org/llama.cpp b12670 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12670",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-24T06:13:13+00:00",
+   "summary": "ggml: compact bias on the existing FLASH_ATTN_EXT (#32740) * compact bias on the existing FLASH_ATTN_EXT for CUDA, ROCm and Vulkan * fixup! compact bias on the existing FLASH_ATTN_EXT for CUDA, ROCm and Vulkan * remove the Vulkan support from this PR * move the CUDA/HIP and Inkling 2 graph changes out of this PR * CPU reference implementation of the indexed bias * move the indexed bias test to…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "8d0b289734c6d900",
+   "title": "datasette-charts 0.2a0",
+   "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-11-24T04:24:29+00:00",
+   "summary": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools. Here's a demo video, recorded on…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "75e8a99a4ea27fff",
+   "title": "pydantic/pydantic-ai v2.73.0 — v2.73.0 (2026-11-23)",
+   "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.73.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-24T03:53:12+00:00",
+   "summary": "## What's Changed ### ⚠️ Compatibility Notes * Warn with `DeprecatedModelWarning` when a request targets a model Anthropic or OpenAI has deprecated by @dsfaccini in https://github.com/pydantic/pydantic-ai/pull/14038 * [cache] Surface OpenAI Responses `input_transformations` in `provider_details` and on the model request span by @dsfaccini in https://github.com/pydantic/pydantic-ai/pull/14056 *…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "87e92b9355500179",
+   "title": "datasette-agent 0.7a1",
+   "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-11-24T03:45:57+00:00",
+   "summary": "Release: datasette-agent 0.7a1 A small improvement to Datasette Agent : chat sessions could already open an iframe side panel that could then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user…",
+   "matched": [
+    "*"
+   ]
+  },
   {
    "uid": "d4d7434ec434c586",
    "title": "rtk-ai/rtk",
@@ -570,6 +774,18 @@
    ]
   },
   {
+   "uid": "4f708cf71effdaf1",
+   "title": "Claude Ship",
+   "url": "https://claude.com/resources/articles/introducing-claude-ship",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-11-23T20:14:18+00:00",
+   "summary": "Article URL: https://claude.com/resources/articles/introducing-claude-ship Comments URL: https://news.ycombinator.com/item?id=50618513 Points: 80 # Comments: 29",
+   "matched": [
+    "claude"
+   ]
+  },
+  {
    "uid": "db5cc2a3cd81e7e2",
    "title": "ultralytics/ultralytics v8.4.217 — v8.4.217 - `ultralytics 8.4.217` More accurate TensorRT INT8 exports (#27340)",
    "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.217",
@@ -603,6 +819,18 @@
    "summary": "",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "6a765cc64634e4d7",
+   "title": "How should an LLM see a computer?",
+   "url": "https://www.greptile.com/blog/trex-computer-use",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-11-23T17:19:25+00:00",
+   "summary": "Article URL: https://www.greptile.com/blog/trex-computer-use Comments URL: https://news.ycombinator.com/item?id=50615520 Points: 58 # Comments: 25",
+   "matched": [
+    "llm"
    ]
   },
   {
@@ -1356,238 +1584,7 @@
    "matched": [
     "lora"
    ]
-  },
-  {
-   "uid": "18e7fbc8ff75a804",
-   "title": "Potential emergence in LLM agents: a statistical physics perspective",
-   "url": "https://arxiv.org/abs/2611.27618",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27618v1 Announce Type: cross Abstract: There has been significant recent interest in understanding the behaviour of LLM agents from the perspective of human preferences or corpus statistics. In this paper we propose agent states as intermediate variables through which post-training can be measured and…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "83c8de48d772ba60",
-   "title": "DistDNA: Language Model Fingerprinting under Stochastic Decoding",
-   "url": "https://arxiv.org/abs/2611.27831",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27831v1 Announce Type: cross Abstract: Behavioral fingerprints identify a large language model (LLM) from its responses to a shared set of prompts, enabling applications such as verifying whether a deployed model corresponds to the checkpoint it claims to be. Deployed models, however, are commonly served…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "04e29838811ba4be",
-   "title": "Improving Consistency in Retrieval-Augmented Systems with Group Similarity Rewards",
-   "url": "https://arxiv.org/abs/2510.04392",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2510.04392v2 Announce Type: replace Abstract: Retrieval-Augmented Generation (RAG) systems are increasingly deployed in high-stakes domains where users expect outputs to be consistent across semantically equivalent queries. However, existing systems often exhibit significant inconsistencies due to variability in…",
-   "matched": [
-    "rag"
-   ]
-  },
-  {
-   "uid": "97b0e1f15eaec3cc",
-   "title": "RAG Makes Guardrails Brittle? Investigating Robustness of Guardrails under RAG-style Contexts",
-   "url": "https://arxiv.org/abs/2510.05310",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2510.05310v2 Announce Type: replace Abstract: With the increasing adoption of large language models (LLMs), ensuring the safety of LLM systems has become a pressing concern. External LLM-based guardrail models have emerged as a popular solution to screen unsafe inputs and outputs, but they are themselves…",
-   "matched": [
-    "llm",
-    "rag"
-   ]
-  },
-  {
-   "uid": "1cae875ae7f63268",
-   "title": "Emergent Misalignment via In-Context Learning: Narrow in-context examples can produce broadly misaligned LLMs",
-   "url": "https://arxiv.org/abs/2510.11288",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2510.11288v5 Announce Type: replace Abstract: Recent work has shown that narrow finetuning can produce broadly misaligned LLMs, a phenomenon termed emergent misalignment (EM). While concerning, these findings were limited to finetuning and activation steering, leaving out in-context learning (ICL). We therefore…",
-   "matched": [
-    "finetuning"
-   ]
-  },
-  {
-   "uid": "9b7bfcb74aa28642",
-   "title": "Supervised Fine-tuning for Geometry-aware Instruction-following",
-   "url": "https://arxiv.org/abs/2510.26183",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2510.26183v2 Announce Type: replace Abstract: We examine a contrastive input encoding scheme for supervised fine-tuning of language models (LMs) that masks the content of incorrect generations up to a classification control token. This small-scale study, using a variation of the classic word ordering diagnostic…",
-   "matched": [
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "4313e429ad5f0fe8",
-   "title": "Change the Number, Change the Answer: Assessing Rating Scale Sensitivity in LLM-Based Text Scoring",
-   "url": "https://arxiv.org/abs/2610.22187",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2610.22187v2 Announce Type: replace Abstract: Large language models (LLMs) are increasingly used in computational social science to assign scalar scores to social and psychological constructs. However, studies use different rating scales, and whether their scores remain comparable across scale designs is…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "bbc6e8f50b176424",
-   "title": "Right On Q: Recovering Reasoning under Quantization via Self-Generated Trajectories",
-   "url": "https://arxiv.org/abs/2610.29378",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2610.29378v2 Announce Type: replace Abstract: Quantization-aware training (QAT) aims to recover reasoning capabilities in low-bit large language models (LLMs). Existing recipes typically supervise the quantized student with the original full-precision model on fixed response sequences. However, the resulting…",
-   "matched": [
-    "quantization"
-   ]
-  },
-  {
-   "uid": "ca9d12d21d39b026",
-   "title": "Entity Matching using Decision Models",
-   "url": "https://arxiv.org/abs/2610.34626",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2610.34626v2 Announce Type: replace Abstract: Entity matching is the task of deciding whether two records describe the same real-world entity. Current methods often rely on pre-trained language models (PLMs), which require task-specific fine-tuning, or on generative large language models (LLMs), which need no…",
-   "matched": [
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "2d620f53f659b4b8",
-   "title": "Style over Substance? Linguistic Bias in LLM-based Peer Review",
-   "url": "https://arxiv.org/abs/2610.35254",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2610.35254v4 Announce Type: replace Abstract: The number of paper submissions to major AI conferences has increased dramatically in recent years, substantially increasing the peer-review workload of researchers. At the same time, large language models (LLMs) are increasingly used to support peer review, both by…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "c520e1ac82f16ef4",
-   "title": "Grounding Language Models in Speech Does Not Fix \"AI Flavor\": Calibrated LLM Judges, Goodhart Traps, and a Preference-Tuning Fix",
-   "url": "https://arxiv.org/abs/2611.19840",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.19840v2 Announce Type: replace Abstract: Chinese outputs of large language models carry a perceptible \"AI flavor\": formulaic sentence frames, stacked written-register connectives, repetition loops, and layout leakage. A popular hypothesis blames text-only training for the missing inner-speech layer of human…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "46e1914c82ecb123",
-   "title": "STARK: Moving towards Personalized Agents That Truly Learn and Remember",
-   "url": "https://arxiv.org/abs/2611.25705",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.25705v2 Announce Type: replace Abstract: Long-term memory is essential for personalized agentic systems that interact with users over long time periods, yet current architectures only capture what happened while leaving the reasoning of why it happened to be derived later by underlying LLMs. These events…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "2fb50df7ad2332d2",
-   "title": "AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher",
-   "url": "https://arxiv.org/abs/2611.26510",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.26510v2 Announce Type: replace Abstract: Task success alone does not specify which behaviors post-training should reinforce. Even successful teacher trajectories can contain unsupported assumptions, unproductive repetition, or superficial verification. We propose Skill-FT (Skill-Guided Fine-Tuning), which…",
-   "matched": [
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "2f4ef163ce3af3e6",
-   "title": "Generalizing Test-time Compute-optimal Scaling as an Optimizable Graph",
-   "url": "https://arxiv.org/abs/2511.00086",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2511.00086v2 Announce Type: replace-cross Abstract: Test-Time Scaling (TTS) improves large language models (LLMs) by allocating additional computation during inference, typically through parallel, sequential, or hybrid scaling. However, prior studies often assume fixed collaboration architectures (e.g.,…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "377f2b7e4031b530",
-   "title": "Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models",
-   "url": "https://arxiv.org/abs/2601.18734",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2601.18734v4 Announce Type: replace-cross Abstract: Knowledge distillation improves large language model (LLM) reasoning by compressing the knowledge of a teacher LLM to train smaller LLMs. On-policy distillation advances this approach by having the student sample its own trajectories while a teacher LLM…",
-   "matched": [
-    "llm",
-    "distillation"
-   ]
-  },
-  {
-   "uid": "17dd726f446e16ff",
-   "title": "Towards Understanding On-Policy Distillation through the Lens of Test-Time Scaling",
-   "url": "https://arxiv.org/abs/2608.11829",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2608.11829v4 Announce Type: replace-cross Abstract: On-policy distillation (OPD) has emerged as a promising post-training technique for enhancing LLM reasoning. Under the reverse KL objective, the idealized optimum of OPD aligns the student distribution with that of the teacher. When the teacher consistently…",
-   "matched": [
-    "llm",
-    "distillation"
-   ]
-  },
-  {
-   "uid": "b32d8af373445f17",
-   "title": "SkillForgeBench: Evaluating Agent Reliability Grounded in Agent Skill Specifications",
-   "url": "https://arxiv.org/abs/2610.14918",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2610.14918v2 Announce Type: replace-cross Abstract: Evaluating an agent's ability to strictly satisfy diverse and procedurally complex requirements is essential to determining its practical reliability. Conducting such an evaluation demands agentic tasks that reconcile broad domain coverage with deep procedural…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "c9ddc1195dd4b907",
-   "title": "Computation, Not Memory: Chain-of-Thought and State Tracking in LLM Agents",
-   "url": "https://arxiv.org/abs/2610.25760",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2610.25760v2 Announce Type: replace-cross Abstract: Language-model agents often reason before they act, and the value of monitoring that reasoning depends on how it relates to their actions. We ask how an agent's actions depend on its reasoning when the correct action depends on a changing state. In a small…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "86121c2d599d1f7b",
-   "title": "SCATR-ITS: a scalable transformer for large-area individual tree segmentation from LiDAR point clouds",
-   "url": "https://arxiv.org/abs/2611.26715",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.26715v1 Announce Type: new Abstract: Individual tree segmentation (ITS) from LiDAR point clouds is one of the most widely studied segmentation tasks in forestry. Although deep learning methods define the state of the art on the majority of ITS benchmarks, their high computational complexity and long runtime…",
-   "matched": [
-    "segmentation"
-   ]
   }
  ],
- "last_run": "2026-11-24T03:25:41.826425+00:00"
+ "last_run": "2026-11-24T18:06:02.120455+00:00"
 }
