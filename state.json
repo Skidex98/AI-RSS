@@ -1,10 +1,23 @@
 {
  "seen": [
+  "65187fc819aa0727",
+  "be339c502d9964de",
+  "494b3a44f16a24f6",
+  "4c202eab891f118d",
+  "38e600c67f3e3a8a",
+  "34d2e943a9dd6e78",
+  "318a20ab1c136835",
+  "dea52508603962fe",
+  "32b3ed45bbaaad6e",
+  "5f380442d0696d24",
+  "a31cc71d1ce638d8",
   "c0876425f40f187e",
+  "f47d0834d1761570",
   "eae9762c168e910a",
   "37e6d5e175f8cc99",
   "b2efad81f3c39caf",
   "e22e792507041529",
+  "2d76ad2a4ccadec2",
   "b50dcdebfea1a72a",
   "01f5ec34a0183924",
   "1cfb6709bbfafe0a",
@@ -25,6 +38,8 @@
   "a586aed33b08f976",
   "5ed3fcf0a2395443",
   "087b3c32568425fe",
+  "4f4183c507eb44d4",
+  "a1ac49db0458e3e5",
   "89819dcb83a99ff5",
   "6d0a7f36c3772a34",
   "0f933ea24efb2bb3",
@@ -104,24 +119,143 @@
   "46e1914c82ecb123",
   "2fb50df7ad2332d2",
   "2f4ef163ce3af3e6",
-  "377f2b7e4031b530",
-  "17dd726f446e16ff",
-  "b32d8af373445f17",
-  "c9ddc1195dd4b907",
-  "7d4c758f0ac5e807",
-  "a5883550109ad278",
-  "1a38e67673721ed2",
-  "cefff7e75a9d1048",
-  "15be5af0feb03645",
-  "58e966cc9df3d371",
-  "391d4f0bce59c3dd",
-  "f09c31b6e4e0ba72",
-  "d1d56fccc3502c50",
-  "7c9e857642e633cc",
-  "6019913d717341f4",
-  "4a85dad8f71c56dc"
+  "377f2b7e4031b530"
  ],
  "items": [
+  {
+   "uid": "65187fc819aa0727",
+   "title": "ggml-org/llama.cpp b12728 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12728",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-25T15:18:35+00:00",
+   "summary": "ggml: allow reserving scratch memory in graph_optimize (#31898) * ggml: allow reserving scratch memory in graph_optimize Add add_scratch to ggml_backend_graph_optimize_params. A backend can reserve compute buffer memory that is allocated before a node `first` and kept until a node `last` has been computed, e.g. for data that several nodes share. The scheduler adds the scratch tensor to the graph…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "be339c502d9964de",
+   "title": "ggml-org/llama.cpp b12726 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12726",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-25T14:42:12+00:00",
+   "summary": "sycl: F8 e4m3 initial support SET_ROWS, CPY, ADD, MUL_MAT, MUL_MAT_ID (#31871) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12726/llama-b12726-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "494b3a44f16a24f6",
+   "title": "unslothai/unsloth v0.1.925-beta — Inkling finetuning + perf fixes",
+   "url": "https://github.com/unslothai/unsloth/releases/tag/v0.1.925-beta",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-25T14:13:35+00:00",
+   "summary": "# Inkling Fine-tuning You can now fine-tune Inkling 2 Mini 1.8 to 3.1x faster and use 50% less VRAM in Unsloth with LoRA or QLoRA, then export it to GGUF or a merged 16-bit model. It trains on Kaggle's free 2x T4 and now supports tensor, pipeline and context parallel across GPUs. Also new: faster `adamw_8bit` steps, faster Z-Image LoRA training on T4 and fixes for thinking models in chat. ##…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "4c202eab891f118d",
+   "title": "ggml-org/llama.cpp b12723 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12723",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-25T14:00:27+00:00",
+   "summary": "model : inkling2 graph with fewer ops in mix() and control() (#32948) Assisted-by: Claude Opus 5.5 **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12723/llama-b12723-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "38e600c67f3e3a8a",
+   "title": "ggml-org/llama.cpp b12722 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12722",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-25T10:37:37+00:00",
+   "summary": "opencl: add clc coopmat moe kernel for q4_0/q4_1/q4_k/q5_0/q5_1/q5_k/q6_k/mxfp4 (#32971) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12722/llama-b12722-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "34d2e943a9dd6e78",
+   "title": "An Indic Voice Agent with CUGA",
+   "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+   "source": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-11-25T10:22:09+00:00",
+   "summary": "",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "318a20ab1c136835",
+   "title": "ggml-org/llama.cpp b12721 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12721",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-25T07:48:02+00:00",
+   "summary": "tests : fix MSVC static build of test-batch-alloc and test-server-component (#32870) Fixes #32868 **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12721/llama-b12721-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "dea52508603962fe",
+   "title": "⭐ 142 · KaelLee335/enterprise-support-agent-v2 (Python)",
+   "url": "https://github.com/KaelLee335/enterprise-support-agent-v2",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-25T06:38:04+00:00",
+   "summary": "面向电商售后场景的 Python Agent 全栈演示：FastAPI、SQLite、LangChain/LangGraph、Chroma RAG、Vue 与 Langfuse。涵盖租户权限、人工审批、MockShop/物流集成与评估。",
+   "matched": [
+    "rag",
+    "langgraph",
+    "langchain"
+   ]
+  },
+  {
+   "uid": "32b3ed45bbaaad6e",
+   "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+   "url": "https://www.proofatlas.ai/open-problems/",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-11-25T03:01:36+00:00",
+   "summary": "Article URL: https://www.proofatlas.ai/open-problems/ Comments URL: https://news.ycombinator.com/item?id=50637871 Points: 94 # Comments: 48",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "5f380442d0696d24",
+   "title": "anthropics/claude-agent-sdk-python v0.2.189",
+   "url": "https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.189",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-25T02:22:26+00:00",
+   "summary": "--- **PyPI:** https://pypi.org/project/claude-agent-sdk/0.2.189/ ```bash pip install claude-agent-sdk==0.2.189 ```",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "a31cc71d1ce638d8",
+   "title": "anthropics/claude-code v2.1.332",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.332",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-25T01:32:14+00:00",
+   "summary": "## What's changed - Added skills from MCP servers (beta). They show as `server:skill` in the `/` menu; other skills keep their names - Added a `PreSkillShellCommand` hook event that can refuse a skill or command's inline shell commands as it loads; on 2.1.331 and older, a settings file naming it opens a dialog at start - Added \"Always deliver\" to the prompt for held messages from other sessions -…",
+   "matched": [
+    "*"
+   ]
+  },
   {
    "uid": "c0876425f40f187e",
    "title": "⭐ 477 · jackson-cmd/risk-aware-trading-agents (Python)",
@@ -133,6 +267,18 @@
    "matched": [
     "llm",
     "mcp"
+   ]
+  },
+  {
+   "uid": "f47d0834d1761570",
+   "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+   "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+   "source": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-11-25T00:00:00+00:00",
+   "summary": "",
+   "matched": [
+    "*"
    ]
   },
   {
@@ -181,6 +327,18 @@
    "summary": "rpc : reuse one context for request tensors on the server (#32896) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12683/llama-b12683-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "2d76ad2a4ccadec2",
+   "title": "Anthropic CEO Dario Amodei and Sister Daniela Sold $561M in Stock During IPO",
+   "url": "https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo/",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-11-24T22:27:19+00:00",
+   "summary": "Article URL: https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo/ Comments URL: https://news.ycombinator.com/item?id=50635706 Points: 51 # Comments: 15",
+   "matched": [
+    "anthropic"
    ]
   },
   {
@@ -422,6 +580,32 @@
    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading Comments URL: https://news.ycombinator.com/item?id=50627836 Points: 144 # Comments: 235",
    "matched": [
     "anthropic"
+   ]
+  },
+  {
+   "uid": "4f4183c507eb44d4",
+   "title": "⭐ 883 · danielwh2/sprite-stacking (HTML)",
+   "url": "https://github.com/danielwh2/sprite-stacking",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-24T13:12:08+00:00",
+   "summary": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+   "matched": [
+    "claude",
+    "gemini",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "a1ac49db0458e3e5",
+   "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+   "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+   "source": "Google DeepMind Blog",
+   "category": "news",
+   "published": "2026-11-24T13:07:53+00:00",
+   "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+   "matched": [
+    "*"
    ]
   },
   {
@@ -1402,189 +1586,7 @@
     "llm",
     "distillation"
    ]
-  },
-  {
-   "uid": "17dd726f446e16ff",
-   "title": "Towards Understanding On-Policy Distillation through the Lens of Test-Time Scaling",
-   "url": "https://arxiv.org/abs/2608.11829",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2608.11829v4 Announce Type: replace-cross Abstract: On-policy distillation (OPD) has emerged as a promising post-training technique for enhancing LLM reasoning. Under the reverse KL objective, the idealized optimum of OPD aligns the student distribution with that of the teacher. When the teacher consistently…",
-   "matched": [
-    "llm",
-    "distillation"
-   ]
-  },
-  {
-   "uid": "b32d8af373445f17",
-   "title": "SkillForgeBench: Evaluating Agent Reliability Grounded in Agent Skill Specifications",
-   "url": "https://arxiv.org/abs/2610.14918",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2610.14918v3 Announce Type: replace-cross Abstract: Evaluating an agent's ability to strictly satisfy diverse and procedurally complex requirements is essential to determining its practical reliability. Conducting such an evaluation demands agentic tasks that reconcile broad domain coverage with deep procedural…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "c9ddc1195dd4b907",
-   "title": "Computation, Not Memory: Chain-of-Thought and State Tracking in LLM Agents",
-   "url": "https://arxiv.org/abs/2610.25760",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2610.25760v2 Announce Type: replace-cross Abstract: Language-model agents often reason before they act, and the value of monitoring that reasoning depends on how it relates to their actions. We ask how an agent's actions depend on its reasoning when the correct action depends on a changing state. In a small…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "7d4c758f0ac5e807",
-   "title": "Living off the Local Model: Abusing Browser-Embedded Language Models for Post-Exploitation",
-   "url": "https://arxiv.org/abs/2611.25086",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.25086v2 Announce Type: replace-cross Abstract: Browsers now ship local language models to ordinary endpoints. Google includes Gemini Nano in Chrome to enable productivity features such as summarization, with inference running entirely on the device. These browser-embedded models provide new…",
-   "matched": [
-    "gemini",
-    "inference"
-   ]
-  },
-  {
-   "uid": "a5883550109ad278",
-   "title": "Towards Embodied Air-Ground Cooperative Object Search: Benchmark, Dataset and Agentic Method",
-   "url": "https://arxiv.org/abs/2609.08402",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2609.08402v3 Announce Type: replace Abstract: Urban object search, locating a specific object from a single reference image without route or direction instructions and confirming the instance up close, is a fundamental capability for embodied agents. Existing urban embodied benchmarks evaluate one segment of…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "1a38e67673721ed2",
-   "title": "LoRA Superposition across Pretrained Models",
-   "url": "https://arxiv.org/abs/2610.30691",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2610.30691v2 Announce Type: replace Abstract: Low-rank adaptation (LoRA) is usually tied to the pretrained backbone on which it is learned. We ask whether LoRAs trained independently for the same task on different pretrained backbones can be summed and applied unchanged to all contributing backbones. We call…",
-   "matched": [
-    "lora"
-   ]
-  },
-  {
-   "uid": "cefff7e75a9d1048",
-   "title": "StepX-OPD: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models",
-   "url": "https://arxiv.org/abs/2611.04386",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.04386v2 Announce Type: replace Abstract: A deployable text-to-image diffusion model must hold several capabilities at once, such as instruction following, text rendering and human preference, and must sample in a few steps. Capabilities and few-step sampling are built in separate stages: a full-step model…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "15be5af0feb03645",
-   "title": "EP-LVMQA: Evidence-Preserving Coarse-to-Fine Localization for Low-Quality Long Video Moment Question Answering",
-   "url": "https://arxiv.org/abs/2611.04913",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.04913v2 Announce Type: replace Abstract: Long instructional videos are increasingly used in medical education, industrial training, and procedural knowledge transfer, yet their evidence is often incomplete or unreliable: subtitles may be missing, ASR noisy, OCR sparse, and decisive actions briefly shown…",
-   "matched": [
-    "ocr"
-   ]
-  },
-  {
-   "uid": "58e966cc9df3d371",
-   "title": "From Reflection to Co-Evolution: Self-Evolving Agents with Locally Verified Memory",
-   "url": "https://arxiv.org/abs/2611.10382",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.10382v3 Announce Type: replace Abstract: LLM agents have made impressive progress in coding and mathematical reasoning, motivating growing interest in learning from long-horizon interaction. Memory supports this process, but plausible lessons can be redundant or reinforce inappropriate actions. Can a…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "391d4f0bce59c3dd",
-   "title": "Toward Cross-Rubric Surgical Skill Assessment via Joint Embedding Prediction",
-   "url": "https://arxiv.org/abs/2611.15125",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.15125v2 Announce Type: replace Abstract: Expert review of surgical videos is essential for surgical training but labor-intensive, motivating AI-assisted skill assessment to provide feedback at scale. Although surgical assessment rubrics may use different language to describe similar skills, existing…",
-   "matched": [
-    "embedding"
-   ]
-  },
-  {
-   "uid": "f09c31b6e4e0ba72",
-   "title": "SRED: Sparse Regional Evidence Distillation Across Magnifications in Whole-Slide Imaging",
-   "url": "https://arxiv.org/abs/2611.22189",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.22189v3 Announce Type: replace Abstract: In computational pathology, high-magnification whole-slide image analysis preserves tissue detail but requires encoding many patches, whereas lower magnification reduces computation by covering a higher field of view per patch while sacrificing detail. Existing…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "d1d56fccc3502c50",
-   "title": "Carry the Fine Print: Budget-Aware Visual Token Compression for Document OCR",
-   "url": "https://arxiv.org/abs/2611.25506",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.25506v2 Announce Type: replace Abstract: Visual token compression often treats salience or similarity as a proxy for transcription importance. Complete document OCR breaks this assumption: small symbols and repeated entries can be indispensable to the transcript despite being visually inconspicuous. We…",
-   "matched": [
-    "ocr"
-   ]
-  },
-  {
-   "uid": "7c9e857642e633cc",
-   "title": "UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement",
-   "url": "https://arxiv.org/abs/2609.38721",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2609.38721v2 Announce Type: replace-cross Abstract: Modern multimodal models bring generation and understanding into a single unified system, which enables them to provide and learn from their own feedback. Motivated by this unified capacity, we introduce UniEvo-VL, a self-evolving framework for multimodal…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "6019913d717341f4",
-   "title": "La-JEPA: Compact Robot Policies with Latent World Modeling",
-   "url": "https://arxiv.org/abs/2611.08156",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.08156v2 Announce Type: replace-cross Abstract: World-action models adapt pretrained video generators, and vision-language-action models build on vision-language backbones, tying policy architecture and inference cost to large transformers designed for generation rather than control. While recent…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "4a85dad8f71c56dc",
-   "title": "SKILL.PNG: Learning Agent Skills in Pixel Space",
-   "url": "https://arxiv.org/abs/2611.26296",
-   "source": "arXiv cs.CV (Vision/Segmentation)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.26296v2 Announce Type: replace-cross Abstract: AI agents are commonly specialized for new tasks and domains using skills, i.e. natural language instructions placed in their context. However, the discrete nature of textual skills prevents continuous optimization. Gradient-based approaches such as finetuning,…",
-   "matched": [
-    "finetuning"
-   ]
   }
  ],
- "last_run": "2026-11-25T01:30:05.922038+00:00"
+ "last_run": "2026-11-25T17:29:55.314235+00:00"
 }
