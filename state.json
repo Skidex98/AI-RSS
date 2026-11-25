@@ -1,15 +1,33 @@
 {
  "seen": [
+  "c0876425f40f187e",
+  "eae9762c168e910a",
+  "37e6d5e175f8cc99",
+  "b2efad81f3c39caf",
+  "e22e792507041529",
+  "b50dcdebfea1a72a",
+  "01f5ec34a0183924",
+  "1cfb6709bbfafe0a",
+  "5933b38a84ef6bd2",
+  "c49e0e6523fd2080",
+  "1f33bb4da7a5aa2b",
+  "c27edb6a85891b34",
+  "d04cad5fde3bd541",
   "df37f31f06847fb9",
+  "a128183472685a75",
   "412b3fc945e8d4b5",
+  "e9f2fdb3e22f599c",
   "cdd700a1c7df1d13",
   "061ee548459d75f0",
   "516d865ede4cabcd",
   "7033fe155f38fecf",
   "e69cb1b9d6d08cc9",
   "a586aed33b08f976",
+  "5ed3fcf0a2395443",
   "087b3c32568425fe",
+  "89819dcb83a99ff5",
   "6d0a7f36c3772a34",
+  "0f933ea24efb2bb3",
   "5d9569f97a919cf6",
   "1bb28061c6b5d302",
   "5102b7535fc91653",
@@ -46,6 +64,9 @@
   "35399f11ec9b9241",
   "2895d7bd0a28086f",
   "4d4f798c7fca7a47",
+  "3ba717bd8bb79d17",
+  "31fd0b6a0d87d3fe",
+  "6fd032350a718054",
   "0c981235aa31f423",
   "3cf60fa21e90260b",
   "cdcdf01487ccbc3d",
@@ -69,6 +90,24 @@
   "598981f57bf231d0",
   "f1b6329c87b30711",
   "72227fe20fa4c314",
+  "18e7fbc8ff75a804",
+  "83c8de48d772ba60",
+  "04e29838811ba4be",
+  "97b0e1f15eaec3cc",
+  "1cae875ae7f63268",
+  "9b7bfcb74aa28642",
+  "4313e429ad5f0fe8",
+  "bbc6e8f50b176424",
+  "ca9d12d21d39b026",
+  "2d620f53f659b4b8",
+  "c520e1ac82f16ef4",
+  "46e1914c82ecb123",
+  "2fb50df7ad2332d2",
+  "2f4ef163ce3af3e6",
+  "377f2b7e4031b530",
+  "17dd726f446e16ff",
+  "b32d8af373445f17",
+  "c9ddc1195dd4b907",
   "7d4c758f0ac5e807",
   "a5883550109ad278",
   "1a38e67673721ed2",
@@ -80,48 +119,166 @@
   "d1d56fccc3502c50",
   "7c9e857642e633cc",
   "6019913d717341f4",
-  "4a85dad8f71c56dc",
-  "24f676bfca9136fc",
-  "9136999f2145bd6b",
-  "adef6d75af0d81ea",
-  "988a92d8f293e709",
-  "f555c06559b73972",
-  "e8a60ddbe2fdaf2e",
-  "33549995321529e0",
-  "3ebeff5bdaadc53f",
-  "1e7cedf4bb2ea758",
-  "c228ca08366e0cab",
-  "42b241e2ba0d4f75",
-  "314be81e1f55e512",
-  "39b4038e307cd151",
-  "c21ba0ad8607adc1",
-  "fb3f43e099151a32",
-  "d49010e7abdf22f0",
-  "20faabba1f895945",
-  "bdc06a49296bc187",
-  "bb2a817160923d18",
-  "5824db03ec263bef",
-  "d174f7f9a233e38e",
-  "c95a1e91d918294d",
-  "e780b90dac1c51b9",
-  "cde53d0f8d00d486",
-  "3157f4a4798f331d",
-  "9517d9507ec6249a",
-  "171810eebf21283e",
-  "17f81c7f9923ba47",
-  "2502e21a0e7fe3ed",
-  "0cf72a3ab3937683",
-  "2418acba9eb8b5c3",
-  "3ac2adf3128e5475",
-  "68553d71bc15cc0a",
-  "bb85566f85b22b0f",
-  "d1c8e76d898b4dd5",
-  "44b08d0b7bdb6c72",
-  "edca93298b694372",
-  "b1bc2d475c874948",
-  "19336a740e94f741"
+  "4a85dad8f71c56dc"
  ],
  "items": [
+  {
+   "uid": "c0876425f40f187e",
+   "title": "⭐ 477 · jackson-cmd/risk-aware-trading-agents (Python)",
+   "url": "https://github.com/jackson-cmd/risk-aware-trading-agents",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-25T00:20:56+00:00",
+   "summary": "AI trading agents for US stocks with news backtesting that can't see the future: a public LLM trading agent leaderboard (rta-bench-1), frozen point-in-time 2020/2022/2026 markets (prices, VIX, news), a look-ahead check on every run, LLM agents over MCP, and paper/live trading on 10 brokers.…",
+   "matched": [
+    "llm",
+    "mcp"
+   ]
+  },
+  {
+   "uid": "eae9762c168e910a",
+   "title": "pydantic/pydantic-ai v2.74.0 — v2.74.0 (2026-11-24)",
+   "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.74.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-24T23:22:14+00:00",
+   "summary": "## What's Changed ### 🛡️ Security * [GHSA-wm3r-gc4c-q7qg](https://github.com/pydantic/pydantic-ai/security/advisories/GHSA-wm3r-gc4c-q7qg) (medium, CVE-2026-136639): Pydantic AI Harness's `PlaywrightBrowser` private-address block did not refuse IPv6 site-local addresses (`fec0::/10`), so on a network that still routes that range, a page or URL an attacker influences could make the browser open an…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "37e6d5e175f8cc99",
+   "title": "Three LLM inflection points in twelve months",
+   "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-11-24T23:02:07+00:00",
+   "summary": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here's the video of the talk. In this post I'm going to pull out the major inflection point…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "b2efad81f3c39caf",
+   "title": "ggml-org/llama.cpp b12686 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12686",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-24T22:45:15+00:00",
+   "summary": "server : fix skipped prompt cache lookups (#28992) * server : fix skipped prompt cache lookups Assisted-by: Claude Opus 5 * server : let the slot scheduler ask the prompt cache Move the prompt cache lookup into server_slot_sched::select() so the plan alone decides whether the cache is updated, and the caller only applies it. find_better() and has_better() are now const, and find_better() also…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "e22e792507041529",
+   "title": "ggml-org/llama.cpp b12683 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12683",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-24T22:30:42+00:00",
+   "summary": "rpc : reuse one context for request tensors on the server (#32896) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12683/llama-b12683-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "b50dcdebfea1a72a",
+   "title": "ggml-org/llama.cpp b12682 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12682",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-24T22:11:58+00:00",
+   "summary": "ggml : use a range-reduced log1p for softplus (#32655) * metal : use a range-reduced log1p for softplus Use the atanh series for x in [-0.5, 1] and precise::log(1 + x) otherwise. This avoids the cancellation in log(1 + exp(x)) for negative inputs and does not rely on fast-math folding of (1 + e) - 1. Assisted-by: dsh:llama.cpp/ggml-org/DeepSeek-V4.1-Flash-1017-GGUF (Mac Studio, M5 Ultra, 256GB) *…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "01f5ec34a0183924",
+   "title": "pydantic/pydantic-ai v1.107.11 — v1.107.11 (2026-11-24)",
+   "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v1.107.11",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-24T21:24:35+00:00",
+   "summary": "## What's Changed ### 🛡️ Security * [GHSA-7xcv-6766-v6v5](https://github.com/pydantic/pydantic-ai/security/advisories/GHSA-7xcv-6766-v6v5) (medium, CVE-2026-136643): Online evaluation let OpenTelemetry baggage in the current context set attributes on its `gen_ai.evaluation.result` events that the evaluation left unset, such as `error.type` and `gen_ai.evaluation.score.value`, so a client sending…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "1cfb6709bbfafe0a",
+   "title": "Working with AI",
+   "url": "https://www.anthropic.com/research/working-with-ai",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-11-24T21:07:38+00:00",
+   "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 63 # Comments: 63",
+   "matched": [
+    "anthropic"
+   ]
+  },
+  {
+   "uid": "5933b38a84ef6bd2",
+   "title": "anthropics/anthropic-sdk-python v2.14.0",
+   "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.14.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-24T21:00:57+00:00",
+   "summary": "### Features * **api:** add Google-managed data controls for Google Cloud projects * **api:** add Google-managed data controls for user profiles * **api:** add support for compliance review cases, notices, and items ### Bug Fixes * **client:** honor proxy and trust_env when proxy variables are set `DefaultHttpxClient` and `DefaultAsyncHttpxClient` read `HTTP_PROXY`, `HTTPS_PROXY`, `ALL_PROXY` and…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "c49e0e6523fd2080",
+   "title": "ggml-org/llama.cpp b12681 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12681",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-24T19:12:13+00:00",
+   "summary": "vulkan: support state size 96 in ssm_scan (#32162) * vulkan: support state size 96 in ssm_scan Assisted-by: Claude Code * vulkan: specialize ssm_scan state size Assisted-by: Codex * vulkan: clarify ssm_scan constant names Assisted-by: Codex **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "1f33bb4da7a5aa2b",
+   "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
+   "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-11-24T18:55:12+00:00",
+   "summary": "Article URL: https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026 Comments URL: https://news.ycombinator.com/item?id=50632756 Points: 85 # Comments: 88",
+   "matched": [
+    "anthropic"
+   ]
+  },
+  {
+   "uid": "c27edb6a85891b34",
+   "title": "langfuse/langfuse v4.86.0",
+   "url": "https://github.com/langfuse/langfuse/releases/tag/v4.86.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-24T18:54:46+00:00",
+   "summary": "## What's Changed * chore(deps): bump msgpackr to 2.1.4 for BullMQ by @nimarb in https://github.com/langfuse/langfuse/pull/20773 * feat(mcp): render charts inline as an MCP App, served by Next.js by @tobi12345 in https://github.com/langfuse/langfuse/pull/20727 * fix(ingestion): match TypeScript tool-column normalization by @nkabardin in https://github.com/langfuse/langfuse/pull/20752 * fix(web):…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "d04cad5fde3bd541",
+   "title": "ggml-org/llama.cpp b12680 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12680",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-24T18:41:10+00:00",
+   "summary": "opencl: fix GDN QK offsets (#32747) Assisted-by: Codex **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12680/llama-b12680-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
   {
    "uid": "df37f31f06847fb9",
    "title": "⭐ 593 · qianyiai/kurocat (TypeScript)",
@@ -135,6 +292,18 @@
    ]
   },
   {
+   "uid": "a128183472685a75",
+   "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-11-24T17:10:45+00:00",
+   "summary": "Article URL: https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/ Comments URL: https://news.ycombinator.com/item?id=50631210 Points: 199 # Comments: 104",
+   "matched": [
+    "anthropic"
+   ]
+  },
+  {
    "uid": "412b3fc945e8d4b5",
    "title": "GPT 6.2 Astra Solves a Historical Mystery",
    "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
@@ -144,6 +313,19 @@
    "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at Yale’s Beinecke Library . It…",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "e9f2fdb3e22f599c",
+   "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+   "url": "https://news.ycombinator.com/item?id=50630809",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-11-24T16:45:44+00:00",
+   "summary": "Basically the title. Anthropic is accusing me and my company of using their API for distillation. We are not. We do not train our own models. Our only usage which I think could get us flagged is automated regression benchmarks whenever we change some AI settings. But this is not against their policy? Now I've got 24h…",
+   "matched": [
+    "anthropic",
+    "distillation"
    ]
   },
   {
@@ -219,6 +401,18 @@
    ]
   },
   {
+   "uid": "5ed3fcf0a2395443",
+   "title": "Anthropic breaks below $83 IPO price",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-11-24T13:23:47+00:00",
+   "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading Comments URL: https://news.ycombinator.com/item?id=50627836 Points: 338 # Comments: 683",
+   "matched": [
+    "anthropic"
+   ]
+  },
+  {
    "uid": "087b3c32568425fe",
    "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
    "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
@@ -231,6 +425,18 @@
    ]
   },
   {
+   "uid": "89819dcb83a99ff5",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-24T13:00:00+00:00",
+   "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
    "uid": "6d0a7f36c3772a34",
    "title": "LLM agents work for their parent companies, not for you",
    "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
@@ -240,6 +446,18 @@
    "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 661 # Comments: 274",
    "matched": [
     "llm"
+   ]
+  },
+  {
+   "uid": "0f933ea24efb2bb3",
+   "title": "Searching for distant planets with Astra",
+   "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-24T11:00:00+00:00",
+   "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+   "matched": [
+    "*"
    ]
   },
   {
@@ -690,6 +908,42 @@
    ]
   },
   {
+   "uid": "3ba717bd8bb79d17",
+   "title": "How Intentful uses dots to make more time for growth",
+   "url": "https://openai.com/business/customer-stories/intentful-dots",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-24T00:00:00+00:00",
+   "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "31fd0b6a0d87d3fe",
+   "title": "How iFood scales coding agents across 15,000 repositories",
+   "url": "https://openai.com/business/customer-stories/ifood",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-24T00:00:00+00:00",
+   "summary": "",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "6fd032350a718054",
+   "title": "Clay helps sales teams win with Codex and ChatGPT",
+   "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+   "source": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-24T00:00:00+00:00",
+   "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+   "matched": [
+    "*"
+   ]
+  },
+  {
    "uid": "0c981235aa31f423",
    "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
    "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
@@ -968,6 +1222,225 @@
    ]
   },
   {
+   "uid": "18e7fbc8ff75a804",
+   "title": "Potential emergence in LLM agents: a statistical physics perspective",
+   "url": "https://arxiv.org/abs/2611.27618",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-23T05:00:00+00:00",
+   "summary": "arXiv:2611.27618v1 Announce Type: cross Abstract: There has been significant recent interest in understanding the behaviour of LLM agents from the perspective of human preferences or corpus statistics. In this paper we propose agent states as intermediate variables through which post-training can be measured and…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "83c8de48d772ba60",
+   "title": "DistDNA: Language Model Fingerprinting under Stochastic Decoding",
+   "url": "https://arxiv.org/abs/2611.27831",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-23T05:00:00+00:00",
+   "summary": "arXiv:2611.27831v1 Announce Type: cross Abstract: Behavioral fingerprints identify a large language model (LLM) from its responses to a shared set of prompts, enabling applications such as verifying whether a deployed model corresponds to the checkpoint it claims to be. Deployed models, however, are commonly served…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "04e29838811ba4be",
+   "title": "Improving Consistency in Retrieval-Augmented Systems with Group Similarity Rewards",
+   "url": "https://arxiv.org/abs/2510.04392",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-23T05:00:00+00:00",
+   "summary": "arXiv:2510.04392v2 Announce Type: replace Abstract: Retrieval-Augmented Generation (RAG) systems are increasingly deployed in high-stakes domains where users expect outputs to be consistent across semantically equivalent queries. However, existing systems often exhibit significant inconsistencies due to variability in…",
+   "matched": [
+    "rag"
+   ]
+  },
+  {
+   "uid": "97b0e1f15eaec3cc",
+   "title": "RAG Makes Guardrails Brittle? Investigating Robustness of Guardrails under RAG-style Contexts",
+   "url": "https://arxiv.org/abs/2510.05310",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-23T05:00:00+00:00",
+   "summary": "arXiv:2510.05310v2 Announce Type: replace Abstract: With the increasing adoption of large language models (LLMs), ensuring the safety of LLM systems has become a pressing concern. External LLM-based guardrail models have emerged as a popular solution to screen unsafe inputs and outputs, but they are themselves…",
+   "matched": [
+    "llm",
+    "rag"
+   ]
+  },
+  {
+   "uid": "1cae875ae7f63268",
+   "title": "Emergent Misalignment via In-Context Learning: Narrow in-context examples can produce broadly misaligned LLMs",
+   "url": "https://arxiv.org/abs/2510.11288",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-23T05:00:00+00:00",
+   "summary": "arXiv:2510.11288v5 Announce Type: replace Abstract: Recent work has shown that narrow finetuning can produce broadly misaligned LLMs, a phenomenon termed emergent misalignment (EM). While concerning, these findings were limited to finetuning and activation steering, leaving out in-context learning (ICL). We therefore…",
+   "matched": [
+    "finetuning"
+   ]
+  },
+  {
+   "uid": "9b7bfcb74aa28642",
+   "title": "Supervised Fine-tuning for Geometry-aware Instruction-following",
+   "url": "https://arxiv.org/abs/2510.26183",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-23T05:00:00+00:00",
+   "summary": "arXiv:2510.26183v2 Announce Type: replace Abstract: We examine a contrastive input encoding scheme for supervised fine-tuning of language models (LMs) that masks the content of incorrect generations up to a classification control token. This small-scale study, using a variation of the classic word ordering diagnostic…",
+   "matched": [
+    "fine-tuning"
+   ]
+  },
+  {
+   "uid": "4313e429ad5f0fe8",
+   "title": "Change the Number, Change the Answer: Assessing Rating Scale Sensitivity in LLM-Based Text Scoring",
+   "url": "https://arxiv.org/abs/2610.22187",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-23T05:00:00+00:00",
+   "summary": "arXiv:2610.22187v2 Announce Type: replace Abstract: Large language models (LLMs) are increasingly used in computational social science to assign scalar scores to social and psychological constructs. However, studies use different rating scales, and whether their scores remain comparable across scale designs is…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "bbc6e8f50b176424",
+   "title": "Right On Q: Recovering Reasoning under Quantization via Self-Generated Trajectories",
+   "url": "https://arxiv.org/abs/2610.29378",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-23T05:00:00+00:00",
+   "summary": "arXiv:2610.29378v2 Announce Type: replace Abstract: Quantization-aware training (QAT) aims to recover reasoning capabilities in low-bit large language models (LLMs). Existing recipes typically supervise the quantized student with the original full-precision model on fixed response sequences. However, the resulting…",
+   "matched": [
+    "quantization"
+   ]
+  },
+  {
+   "uid": "ca9d12d21d39b026",
+   "title": "Entity Matching using Decision Models",
+   "url": "https://arxiv.org/abs/2610.34626",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-23T05:00:00+00:00",
+   "summary": "arXiv:2610.34626v2 Announce Type: replace Abstract: Entity matching is the task of deciding whether two records describe the same real-world entity. Current methods often rely on pre-trained language models (PLMs), which require task-specific fine-tuning, or on generative large language models (LLMs), which need no…",
+   "matched": [
+    "fine-tuning"
+   ]
+  },
+  {
+   "uid": "2d620f53f659b4b8",
+   "title": "Style over Substance? Linguistic Bias in LLM-based Peer Review",
+   "url": "https://arxiv.org/abs/2610.35254",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-23T05:00:00+00:00",
+   "summary": "arXiv:2610.35254v4 Announce Type: replace Abstract: The number of paper submissions to major AI conferences has increased dramatically in recent years, substantially increasing the peer-review workload of researchers. At the same time, large language models (LLMs) are increasingly used to support peer review, both by…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "c520e1ac82f16ef4",
+   "title": "Grounding Language Models in Speech Does Not Fix \"AI Flavor\": Calibrated LLM Judges, Goodhart Traps, and a Preference-Tuning Fix",
+   "url": "https://arxiv.org/abs/2611.19840",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-23T05:00:00+00:00",
+   "summary": "arXiv:2611.19840v2 Announce Type: replace Abstract: Chinese outputs of large language models carry a perceptible \"AI flavor\": formulaic sentence frames, stacked written-register connectives, repetition loops, and layout leakage. A popular hypothesis blames text-only training for the missing inner-speech layer of human…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "46e1914c82ecb123",
+   "title": "STARK: Moving towards Personalized Agents That Truly Learn and Remember",
+   "url": "https://arxiv.org/abs/2611.25705",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-23T05:00:00+00:00",
+   "summary": "arXiv:2611.25705v2 Announce Type: replace Abstract: Long-term memory is essential for personalized agentic systems that interact with users over long time periods, yet current architectures only capture what happened while leaving the reasoning of why it happened to be derived later by underlying LLMs. These events…",
+   "matched": [
+    "agentic"
+   ]
+  },
+  {
+   "uid": "2fb50df7ad2332d2",
+   "title": "AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher",
+   "url": "https://arxiv.org/abs/2611.26510",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-23T05:00:00+00:00",
+   "summary": "arXiv:2611.26510v2 Announce Type: replace Abstract: Task success alone does not specify which behaviors post-training should reinforce. Even successful teacher trajectories can contain unsupported assumptions, unproductive repetition, or superficial verification. We propose Skill-FT (Skill-Guided Fine-Tuning), which…",
+   "matched": [
+    "fine-tuning"
+   ]
+  },
+  {
+   "uid": "2f4ef163ce3af3e6",
+   "title": "Generalizing Test-time Compute-optimal Scaling as an Optimizable Graph",
+   "url": "https://arxiv.org/abs/2511.00086",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-23T05:00:00+00:00",
+   "summary": "arXiv:2511.00086v2 Announce Type: replace-cross Abstract: Test-Time Scaling (TTS) improves large language models (LLMs) by allocating additional computation during inference, typically through parallel, sequential, or hybrid scaling. However, prior studies often assume fixed collaboration architectures (e.g.,…",
+   "matched": [
+    "inference"
+   ]
+  },
+  {
+   "uid": "377f2b7e4031b530",
+   "title": "Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models",
+   "url": "https://arxiv.org/abs/2601.18734",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-23T05:00:00+00:00",
+   "summary": "arXiv:2601.18734v4 Announce Type: replace-cross Abstract: Knowledge distillation improves large language model (LLM) reasoning by compressing the knowledge of a teacher LLM to train smaller LLMs. On-policy distillation advances this approach by having the student sample its own trajectories while a teacher LLM…",
+   "matched": [
+    "llm",
+    "distillation"
+   ]
+  },
+  {
+   "uid": "17dd726f446e16ff",
+   "title": "Towards Understanding On-Policy Distillation through the Lens of Test-Time Scaling",
+   "url": "https://arxiv.org/abs/2608.11829",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-23T05:00:00+00:00",
+   "summary": "arXiv:2608.11829v4 Announce Type: replace-cross Abstract: On-policy distillation (OPD) has emerged as a promising post-training technique for enhancing LLM reasoning. Under the reverse KL objective, the idealized optimum of OPD aligns the student distribution with that of the teacher. When the teacher consistently…",
+   "matched": [
+    "llm",
+    "distillation"
+   ]
+  },
+  {
+   "uid": "b32d8af373445f17",
+   "title": "SkillForgeBench: Evaluating Agent Reliability Grounded in Agent Skill Specifications",
+   "url": "https://arxiv.org/abs/2610.14918",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-23T05:00:00+00:00",
+   "summary": "arXiv:2610.14918v3 Announce Type: replace-cross Abstract: Evaluating an agent's ability to strictly satisfy diverse and procedurally complex requirements is essential to determining its practical reliability. Conducting such an evaluation demands agentic tasks that reconcile broad domain coverage with deep procedural…",
+   "matched": [
+    "agentic"
+   ]
+  },
+  {
+   "uid": "c9ddc1195dd4b907",
+   "title": "Computation, Not Memory: Chain-of-Thought and State Tracking in LLM Agents",
+   "url": "https://arxiv.org/abs/2610.25760",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-23T05:00:00+00:00",
+   "summary": "arXiv:2610.25760v2 Announce Type: replace-cross Abstract: Language-model agents often reason before they act, and the value of monitoring that reasoning depends on how it relates to their actions. We ask how an agent's actions depend on its reasoning when the correct action depends on a changing state. In a small…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
    "uid": "7d4c758f0ac5e807",
    "title": "Living off the Local Model: Abusing Browser-Embedded Language Models for Post-Exploitation",
    "url": "https://arxiv.org/abs/2611.25086",
@@ -1111,480 +1584,7 @@
    "matched": [
     "finetuning"
    ]
-  },
-  {
-   "uid": "24f676bfca9136fc",
-   "title": "SkillPrivus: Uncovering PRIVacy of USe Harms in Agentic Skills",
-   "url": "https://arxiv.org/abs/2611.26747",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.26747v1 Announce Type: new Abstract: Agent skills extend AI assistants through installable instructions and code that can access users' files, accounts, and data. Even when performing their advertised tasks, skills may infer sensitive attributes, retain unnecessary information, or disclose data to…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "9136999f2145bd6b",
-   "title": "Reinforcement Learning Unlearns Corrupted SFT Reasoning",
-   "url": "https://arxiv.org/abs/2611.26756",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.26756v1 Announce Type: new Abstract: We show that reinforcement learning (RL) in reasoning tasks can succeed even when the supervised fine-tuning (SFT) data is severely corrupted. In a mathematical reasoning dataset (GSM8K), we systematically corrupt training trajectories across 361 configurations by…",
-   "matched": [
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "adef6d75af0d81ea",
-   "title": "Search From the Start: Search-Native Pretraining for Language Models",
-   "url": "https://arxiv.org/abs/2611.26809",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.26809v1 Announce Type: new Abstract: Modern language models (LMs) are increasingly deployed with access to search tools at inference. Yet pretraining remains predominantly focused on predicting static text, with search capabilities typically introduced during post-training. We propose Search-Native…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "988a92d8f293e709",
-   "title": "Neural Geometry as a Learning Signal",
-   "url": "https://arxiv.org/abs/2611.26832",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.26832v1 Announce Type: new Abstract: We investigate whether the geometric structure of neural representations can provide a sufficient learning signal for improving model behavior without any supervision on model outputs. First, we fine-tune Llama-3.1-8B to answer questions such as \"What month is four…",
-   "matched": [
-    "llama",
-    "fine-tune"
-   ]
-  },
-  {
-   "uid": "f555c06559b73972",
-   "title": "Rethinking Full-Weight LoRA with Domain and Task Adapter Scaling for Question Answering over Portuguese Well Drilling Reports",
-   "url": "https://arxiv.org/abs/2611.26833",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.26833v1 Announce Type: new Abstract: Adapting large language models (LLMs) to specialized domains remains challenging, particularly for technical documents such as Portuguese well drilling reports, where annotated data are scarce and domain adaptation may compromise instruction-following capabilities.…",
-   "matched": [
-    "lora"
-   ]
-  },
-  {
-   "uid": "e8a60ddbe2fdaf2e",
-   "title": "Weight-Space Programming Writes In-Context Learning and Matches Fine-Tuning in Language Models",
-   "url": "https://arxiv.org/abs/2611.26841",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.26841v1 Announce Type: new Abstract: Weight-space programming is a frontier language model's recently reported ability to read and rewrite another network's weights without gradient descent. We investigate how examples can provide a weight update so that a weaker language model performs the task with…",
-   "matched": [
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "33549995321529e0",
-   "title": "Your Judge Inherits Your Prompt: In-Context Label Bias in an LLM-as-Judge Is Directional, Not Symmetric",
-   "url": "https://arxiv.org/abs/2611.26881",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.26881v1 Announce Type: new Abstract: LLM-as-judge has become a standard way to score open-ended model outputs, yet the judge is itself a frozen language model steered by a few in-context examples, and such models are known to absorb the label balance of their demonstrations rather than treat them as neutral…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "3ebeff5bdaadc53f",
-   "title": "ProbeAgent: Principled Diagnosis of Agent Failures in Verifiable Environments",
-   "url": "https://arxiv.org/abs/2611.26897",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.26897v1 Announce Type: new Abstract: Improving agents requires discovering where they fail and understanding why. An agent acts over multiple steps in a changing environment, so diagnosing its failures requires more than inspecting the final response of a large language model (LLM). The same unsuccessful…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "1e7cedf4bb2ea758",
-   "title": "Isolating the Language Shell: A Content-Controlled Study of Multilingual Reasoning",
-   "url": "https://arxiv.org/abs/2611.27053",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27053v1 Announce Type: new Abstract: Multilingual reasoning distillation requires choosing the language in which teacher reasoning is presented, yet existing recipes often entangle linguistic form with differences in generation, translation, and filtering. We construct content-controlled supervision by…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "c228ca08366e0cab",
-   "title": "When Do LLM-Elicited Priors Help? A Controlled Audit of Language Models as Priors for Small-Sample Bayesian Regression",
-   "url": "https://arxiv.org/abs/2611.27075",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27075v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly asked where to center the coefficients of a small-sample Bayesian regression, but the evidence is unclear: benchmarks are often built to match the prior and models may remember them. We audit this practice with one frontier…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "42b241e2ba0d4f75",
-   "title": "Separating Automation Gains from Agent Contributions in AI-Assisted Model Validation",
-   "url": "https://arxiv.org/abs/2611.27094",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27094v1 Announce Type: new Abstract: LLM agents are being proposed for bank model validation, yet evaluations that compare agent-assisted work with manual practice credit the agent with gains that come from digitized evidence and deterministic tests. We propose a staged architecture in which an LLM-free…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "314be81e1f55e512",
-   "title": "Do Senior Agents Do Their Job? Measuring Role Integrity in How LLM Agents Use Subordinate Material",
-   "url": "https://arxiv.org/abs/2611.27139",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27139v1 Announce Type: new Abstract: Multi-agent LLM systems increasingly divide long tasks among subagents whose reports a senior agent turns into the final answer. Such a division of labor pays off only if each agent, and above all the senior agent, carries out the duties of its role. Current evaluations,…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "39b4038e307cd151",
-   "title": "Correct Precedents Induce Policy Violations in On-Device LLM Agents",
-   "url": "https://arxiv.org/abs/2611.27216",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27216v1 Announce Type: new Abstract: Local-cloud agent systems pair a cloud model with a small on-device agent that acts on private data, often as the last check before an irreversible action. We identify, for the first time, a failure in which such an agent is led into a violation by its own correct…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "c21ba0ad8607adc1",
-   "title": "LongCat Recall Sparse Attention: Co-Designing Key Organization and Retrieval for Long-Context Inference",
-   "url": "https://arxiv.org/abs/2611.27233",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27233v1 Announce Type: new Abstract: Retrieval-based sparse attention, exemplified by DeepSeek Sparse Attention (DSA), reduces attention computation by selecting a small subset of key-value entries. However, selecting these entries can still require searching the entire visible history. For long sequences,…",
-   "matched": [
-    "deepseek",
-    "inference"
-   ]
-  },
-  {
-   "uid": "fb3f43e099151a32",
-   "title": "Do Companies Deliver on Their IPO Claims?",
-   "url": "https://arxiv.org/abs/2611.27273",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27273v1 Announce Type: new Abstract: Initial public offering (IPO) filings describe what a company does and what it intends to become. Yet whether individual forward-looking claims are subsequently realized is difficult to assess. We introduce Vision Follow-Through (VFT), a benchmark and agentic pipeline…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "d49010e7abdf22f0",
-   "title": "Reasoning in Fewer Tokens: Concept-Normalized Multilingual Scratchpads and Reversible Model-Adaptive Reasoning Codes",
-   "url": "https://arxiv.org/abs/2611.27326",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27326v1 Announce Type: new Abstract: Chain-of-thought prompting significantly improves the reasoning capabilities of large language models (LLMs) but incurs high inference costs due to lengthy autoregressive decoding. While previous efficiency approaches reduce costs by discarding tokens or utilizing…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "20faabba1f895945",
-   "title": "Breaking the Long Horizon: Short-Horizon Process Supervision for Long-Form Generation in LLMs",
-   "url": "https://arxiv.org/abs/2611.27348",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27348v1 Announce Type: new Abstract: Long-form generation is increasingly important for agentic LLM systems, yet current reinforcement learning methods typically optimize an entire document with a single outcome-level reward. This delayed and coarse-grained supervision makes it difficult to localize errors…",
-   "matched": [
-    "llm",
-    "agentic"
-   ]
-  },
-  {
-   "uid": "bdc06a49296bc187",
-   "title": "No Audio, No Transcripts, No Problem: LLM-based ASR Adaptation Using Only Domain Documents",
-   "url": "https://arxiv.org/abs/2611.27434",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27434v1 Announce Type: new Abstract: Can a speech recognizer be adapted to a new domain with no target audio and no transcripts, using only written documentation? This is the realistic onboarding setting: a new customer hands over raw documentation, not the transcripts that text-only adaptation normally…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "bb2a817160923d18",
-   "title": "Structurally Different, Functionally Persistent: Capability Regions Under Model Optimization",
-   "url": "https://arxiv.org/abs/2611.27445",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27445v1 Announce Type: new Abstract: Large language model (LLM) capabilities have been associated with localized parameter regions, enabling targeted model editing and intervention. However, it remains unclear whether a region identified before model optimization remains an effective intervention target…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "5824db03ec263bef",
-   "title": "Typhoon OCR 2: From Thai Document Transcription to Multilingual, Multi-Task OCR",
-   "url": "https://arxiv.org/abs/2611.27494",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27494v1 Announce Type: new Abstract: Typhoon OCR 1.5 focused on reading Thai documents. However, in real-world workflows, users often need to extract specific information or preserve the structure of an entire page for further processing. Typhoon OCR 2 handles both tasks in a single model, with…",
-   "matched": [
-    "ocr"
-   ]
-  },
-  {
-   "uid": "d174f7f9a233e38e",
-   "title": "How Many Bytes Has a BPE Model Seen? Estimating Byte-Token Exposure in Pretraining from Corpus Statistics and Embedding Norms",
-   "url": "https://arxiv.org/abs/2611.27506",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27506v1 Announce Type: new Abstract: Byte-level BPE vocabularies retain 256 single-byte fallback tokens. When converting such a model into a pure byte-level model, these tokens provide the starting embeddings. How much training have they received? We estimate byte-token exposure in Qwen3.8 using two…",
-   "matched": [
-    "embedding"
-   ]
-  },
-  {
-   "uid": "c95a1e91d918294d",
-   "title": "AutoOntologyBench: A Task-Grounded Benchmark for Agentic Knowledge Engineering",
-   "url": "https://arxiv.org/abs/2611.27734",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27734v1 Announce Type: new Abstract: Foundation-model agents are increasingly extending beyond software engineering (SWE) into autonomous scientific research, where acquiring and integrating domain knowledge remains a critical challenge. Recent industrial advances have increasingly adopted knowledge graphs…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "e780b90dac1c51b9",
-   "title": "MemOnce: A Scalable Memory Architecture for Large Language Models",
-   "url": "https://arxiv.org/abs/2611.27973",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27973v1 Announce Type: new Abstract: Deploying large language models (LLMs) in long-horizon and continual interactions requires maintaining reusable memory states for future inference, posing challenges for existing architectures. Standard Transformers accumulate layer-wise, token-level KV caches, incurring…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "cde53d0f8d00d486",
-   "title": "VerifiQuant: Governance-by-Execution for Financial LLM Workflows",
-   "url": "https://arxiv.org/abs/2611.26649",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.26649v1 Announce Type: cross Abstract: Large language models embedded in financial workflows fail most dangerously by emitting confident, well-formatted but wrong numbers with no signal distinguishing them from correct ones. We argue that the central deployment problem is governability: a system must…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "3157f4a4798f331d",
-   "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
-   "url": "https://arxiv.org/abs/2611.26722",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.26722v1 Announce Type: cross Abstract: To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-calling a fundamental capability of AI models. Supervised fine-tuning (SFT) optimises for producing the correct call, but never…",
-   "matched": [
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "9517d9507ec6249a",
-   "title": "Don't Discard Your Rollouts: Reusing Teacher RL Traces for Student Distillation",
-   "url": "https://arxiv.org/abs/2611.26803",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.26803v1 Announce Type: cross Abstract: RL post-training methods such as PPO and GRPO are computationally expensive, with substantial resources devoted to sampling rollouts, which contain multiple completions per prompt along with their respective rewards. Canonical distillation, however, discards these…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "171810eebf21283e",
-   "title": "AstronautBench: Measuring Agent Self-Improvement Across Episodes Through Knowledge, Evidence, and Progress",
-   "url": "https://arxiv.org/abs/2611.26910",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.26910v1 Announce Type: cross Abstract: LLM agents are expected to improve themselves from their own experience across episodes, with fixed weights. Self-improvement in an embodied world cannot be read from one measure. Existing benchmarks measure task progress, world-knowledge question answering (QA), and…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "17f81c7f9923ba47",
-   "title": "ERA: Embed, Route, Adapt for Cold-Start Cross-Model Latent Retrieval",
-   "url": "https://arxiv.org/abs/2611.26919",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.26919v1 Announce Type: cross Abstract: Production retrieval systems are tied to the embedding model that indexed their corpus. Moving queries to a different encoder normally requires re-embedding the whole corpus, and at cold start there are no query logs while every document embedded by the new encoder…",
-   "matched": [
-    "embedding"
-   ]
-  },
-  {
-   "uid": "2502e21a0e7fe3ed",
-   "title": "Right Numbers, Wrong Story: When LLMs Narrate Financial Changes Beyond Their Inputs",
-   "url": "https://arxiv.org/abs/2611.26968",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.26968v1 Announce Type: cross Abstract: A financial report drafted by an LLM can state every number correctly but still go beyond its input, adding judgments and causes that no one supplied. We call these additions unsupported framing and find them far more often in LLM drafts than in reports written by…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "0cf72a3ab3937683",
-   "title": "Run One, Get Two: Near-Free Streaming Safety Checks for Local LLMs",
-   "url": "https://arxiv.org/abs/2611.26975",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.26975v1 Announce Type: cross Abstract: Local LLM assistants decode for one user at a time, so decoding is bound by memory bandwidth and leaves compute idle. Streaming safety checks today trade accuracy against cost. A dedicated guard model is accurate but nearly doubles the latency per token, while a…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "2418acba9eb8b5c3",
-   "title": "PLoQ: A Prompt-Specific Low-Rank Basis for 4-bit Quantization of LLM Activations",
-   "url": "https://arxiv.org/abs/2611.27092",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27092v1 Announce Type: cross Abstract: Low-bit activation quantization of large language models remains challenging, as a small number of dominant directions dictate the quantization range. State-of-the-art methods isolate these directions in a high-precision subspace through transformations calibrated…",
-   "matched": [
-    "llm",
-    "quantization"
-   ]
-  },
-  {
-   "uid": "3ac2adf3128e5475",
-   "title": "Reasoning in Two Dimensions: Quantifying Chain-of-Thought Faithfulness and Efficiency",
-   "url": "https://arxiv.org/abs/2611.27100",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27100v1 Announce Type: cross Abstract: Chain-of-thought (CoT) reasoning exposes intermediate steps, but a correct answer does not establish that an LLM relies on the dependence expressed by those steps or reasons efficiently. We operationalize CoT faithfulness and efficiency within a common framework.…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "68553d71bc15cc0a",
-   "title": "Double counting in LLM evidence fusion: exact posteriors separate rule compliance from posterior gain",
-   "url": "https://arxiv.org/abs/2611.27138",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27138v1 Announce Type: cross Abstract: Language models fuse reports in retrieval, multi-agent consensus and agent memory, where treating shared-source reports as independent can double count evidence. A common remedy is an instruction to count each source once. Its value depends on the receiver's raw…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "bb85566f85b22b0f",
-   "title": "The Vulnerability Window: Decision Instability in Quantized Reward Models",
-   "url": "https://arxiv.org/abs/2611.27155",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27155v1 Announce Type: cross Abstract: Reward models and LLM judges are routinely quantized to 4 bits so that scoring many candidates stays affordable, and the usual check is that benchmark accuracy barely moves. That check is close to blind. Across eight reward models from two families (0.6B-8B), three…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "d1c8e76d898b4dd5",
-   "title": "What Does Matching a Human Intervention Effect Establish? Benchmark Checks for LLM Simulations",
-   "url": "https://arxiv.org/abs/2611.27186",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27186v1 Announce Type: cross Abstract: LLM simulations are validated by equivalence with human effects, yet a zero reference passes whenever the human 90 percent interval lies inside the margin, as the human benchmark shows before simulation. When the zero reference fails, planned precision gives…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "44b08d0b7bdb6c72",
-   "title": "Belief-State Management Meets Rubric Rewards for Agentic Forecasting",
-   "url": "https://arxiv.org/abs/2611.27286",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27286v1 Announce Type: cross Abstract: Current large language model (LLM) agents still struggle to forecast real-world events. This stems from two primary limitations: i) standard ReAct harness accumulates reasoning and evidence within one growing context, and ii) outcome-based rewards in forecasting lead…",
-   "matched": [
-    "llm",
-    "agentic"
-   ]
-  },
-  {
-   "uid": "edca93298b694372",
-   "title": "SAVIOR: Sample-efficient Adaptation of Vision-Language Models for OCR Representation",
-   "url": "https://arxiv.org/abs/2611.27319",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27319v1 Announce Type: cross Abstract: Optical Character Recognition (OCR) pipelines and vision-language models exhibit high accuracy on standard OCR and document-understanding benchmarks, yet they systematically underperform on document patterns that are operationally critical in financial workflows. These…",
-   "matched": [
-    "ocr"
-   ]
-  },
-  {
-   "uid": "b1bc2d475c874948",
-   "title": "Composable Soft-Prompt Distillation of RL Experts: Toward Continual Post-Training",
-   "url": "https://arxiv.org/abs/2611.27376",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27376v1 Announce Type: cross Abstract: RL post-training typically produces domain experts that must then be consolidated into one model, and as new experts keep arriving, this consolidation becomes a continual process. Weight merging and multi-teacher on-policy distillation (MOPD) must re-consolidate the…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "19336a740e94f741",
-   "title": "HR-Merge: Model Merging with Headroom-Weighted Residual Refinement",
-   "url": "https://arxiv.org/abs/2611.27377",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.27377v1 Announce Type: cross Abstract: Model merging combines experts fine-tuned from a shared backbone, such as LoRA adapters of a large language model, into one multi-task model without further training. Existing methods apply one rule to every task, yet the accuracy they lose is uneven across tasks. We…",
-   "matched": [
-    "lora"
-   ]
   }
  ],
- "last_run": "2026-11-24T18:06:02.120455+00:00"
+ "last_run": "2026-11-25T01:30:05.922038+00:00"
 }
