@@ -5,8 +5,116 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-11-25T17:29:55Z</updated>
+  <updated>2026-11-26T01:04:45Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>🚀 pymupdf/PyMuPDF 2.2 — PyMuPDF-2.2 released</title>
+    <link href="https://github.com/pymupdf/PyMuPDF/releases/tag/2.2"/>
+    <id>urn:uuid:213e6494acdeb275</id>
+    <updated>2026-11-25T23:55:37Z</updated>
+    <published>2026-11-25T23:55:37Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;Wheels for Windows, Linux and MacOS, and the sdist, are available on https://pypi.org and can be installed in the usual way, for example: ``` python -m pip install --upgrade pymupdf ``` **Changes in version 2.2** Fixed issues: * **Fixed** #4484 * **Fixed** #5175 * **Fixed** #5185 * **Fixed** #5198 * **Fixed** #5238 * **Fixed** #5239 * **Fixed** #5240 * **Fixed** #5241 * **Fixed** #5280 New…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/pymupdf/PyMuPDF/releases/tag/2.2"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12751 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12751"/>
+    <id>urn:uuid:809ae8053fd6cfb2</id>
+    <updated>2026-11-25T23:29:28Z</updated>
+    <published>2026-11-25T23:29:28Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;vocab : implement Metaspace prepend_scheme always for BPE (#33038) * vocab : implement Metaspace prepend_scheme always for BPE * Drop test-tokenizer-mmbert **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12751/llama-b12751-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12751"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ultralytics/ultralytics v8.4.219 — v8.4.219 - Native detection mAP matches pycocotools to machine precision (#27370)</title>
+    <link href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.219"/>
+    <id>urn:uuid:915fe071332a810f</id>
+    <updated>2026-11-25T23:28:37Z</updated>
+    <published>2026-11-25T23:28:37Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## 🌟 Summary Release v8.4.219 makes model evaluation more accurate and efficient, improves reliability across several export and inference backends, and refreshes key user and developer documentation. ## 📊 Key Changes - **COCO-style evaluation now matches pycocotools:** The native scorer agrees within machine precision across detection boxes, segmentation, and pose results. CPU scoring is about…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ultralytics/ultralytics/releases/tag/v8.4.219"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Quoting Scott Aaronson</title>
+    <link href="https://simonwillison.net/2026/Nov/25/scott-aaronson/"/>
+    <id>urn:uuid:4d915475581d9cbb</id>
+    <updated>2026-11-25T23:26:32Z</updated>
+    <published>2026-11-25T23:26:32Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Simon Willison&lt;/p&gt;&lt;p&gt;It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog. Picture van Leeuwenhoek first training a microscope on pondwater, or Galileo first training his telescope on the stars.…&lt;/p&gt;&lt;p&gt;&lt;a href="https://simonwillison.net/2026/Nov/25/scott-aaronson/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12738 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12738"/>
+    <id>urn:uuid:fc4711e72f90e0aa</id>
+    <updated>2026-11-25T22:35:44Z</updated>
+    <published>2026-11-25T22:35:44Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;server : handle CTRL_BREAK_EVENT on Windows for clean shutdown (#32080) Windows can't send SIGINT to a child process, so scripts that launch llama-server could only kill it, which skips the clean shutdown. The console control handler only handled CTRL_C_EVENT, so a CTRL_BREAK_EVENT sent to the server's own process group ended it with STATUS_CONTROL_C_EXIT. - server: handle CTRL_BREAK_EVENT the…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12738"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12734 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12734"/>
+    <id>urn:uuid:5d45f4cd05eebe7f</id>
+    <updated>2026-11-25T22:14:54Z</updated>
+    <published>2026-11-25T22:14:54Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;metal : commit the graph in chunks with one command buffer thread (#32947) Assisted-by: Claude Opus 5.5 **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12734/llama-b12734-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) -…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12734"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12732 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12732"/>
+    <id>urn:uuid:2eb9235ab9234ad0</id>
+    <updated>2026-11-25T21:51:00Z</updated>
+    <published>2026-11-25T21:51:00Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;ggml: allow input async copies (#30685) * ggml: allow input async copies Copy the host inputs of a split with set_tensor_async followed by a single synchronize, instead of one blocking copy per input. This is opt-in per device through the new async_host_input cap, which only CUDA sets. Other backends keep the current path. The async path is used without pipeline parallelism only. With pipeline…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12732"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Much shorter version of GRH Lean verification from Anthropic</title>
+    <link href="https://github.com/lsernau/grh-lean"/>
+    <id>urn:uuid:5af483645e9ecb88</id>
+    <updated>2026-11-25T21:48:10Z</updated>
+    <published>2026-11-25T21:48:10Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://github.com/lsernau/grh-lean Comments URL: https://news.ycombinator.com/item?id=50648050 Points: 239 # Comments: 109&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: anthropic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/lsernau/grh-lean"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 langchain-ai/langgraph cli==0.4.44 — langgraph-cli==0.4.44</title>
+    <link href="https://github.com/langchain-ai/langgraph/releases/tag/cli%3D%3D0.4.44"/>
+    <id>urn:uuid:bfeb4832a30ffcb3</id>
+    <updated>2026-11-25T20:52:34Z</updated>
+    <published>2026-11-25T20:52:34Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;Changes since cli==0.4.43 * feat(cli): add url to deploy list --json (#9793) * release(cli): 0.4.44 (#9794) * fix(cli): omit an empty secrets list when updating a deployment (#9737) * chore(deps): bump opentelemetry-api from 1.45.1 to 1.45.2 in /libs/cli (#9695) * feat(cli): deploy to BYOC data planes with only an API key (#9692)&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/langchain-ai/langgraph/releases/tag/cli%3D%3D0.4.44"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Where scientists draw the line on AI agents</title>
+    <link href="https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"/>
+    <id>urn:uuid:5e896daf221913a6</id>
+    <updated>2026-11-25T18:52:55Z</updated>
+    <published>2026-11-25T18:52:55Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hugging Face Blog&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 845 · opensetlabs/openset-llm (C++)</title>
+    <link href="https://github.com/opensetlabs/openset-llm"/>
+    <id>urn:uuid:d6c54e27e307d8d2</id>
+    <updated>2026-11-25T18:21:36Z</updated>
+    <published>2026-11-25T18:21:36Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/opensetlabs/openset-llm"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 pydantic/pydantic-ai v2.75.0 — v2.75.0 (2026-11-25)</title>
+    <link href="https://github.com/pydantic/pydantic-ai/releases/tag/v2.75.0"/>
+    <id>urn:uuid:055719351194c3ec</id>
+    <updated>2026-11-25T18:21:00Z</updated>
+    <published>2026-11-25T18:21:00Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;## What's Changed ### ⚠️ Compatibility Notes * Keep workspace files below `'operator'` authority out of the instructions in `RepoContext`, `Skills` and `Memory`, and add `lowest_authority_under` by @adtyavrdhn in https://github.com/pydantic/pydantic-ai/pull/11837 * Text from a workspace file below `'operator'` authority no longer reaches the instructions: `RepoContext` names the working…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/pydantic/pydantic-ai/releases/tag/v2.75.0"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>🚀 ggml-org/llama.cpp b12728 (pre)</title>
     <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12728"/>
@@ -978,113 +1086,5 @@
     <published>2026-11-23T05:00:00Z</published>
     <category term="PAPER"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2510.04392v2 Announce Type: replace Abstract: Retrieval-Augmented Generation (RAG) systems are increasingly deployed in high-stakes domains where users expect outputs to be consistent across semantically equivalent queries. However, existing systems often exhibit significant inconsistencies due to variability in…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: rag&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2510.04392"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 RAG Makes Guardrails Brittle? Investigating Robustness of Guardrails under RAG-style Contexts</title>
-    <link href="https://arxiv.org/abs/2510.05310"/>
-    <id>urn:uuid:97b0e1f15eaec3cc</id>
-    <updated>2026-11-23T05:00:00Z</updated>
-    <published>2026-11-23T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2510.05310v2 Announce Type: replace Abstract: With the increasing adoption of large language models (LLMs), ensuring the safety of LLM systems has become a pressing concern. External LLM-based guardrail models have emerged as a popular solution to screen unsafe inputs and outputs, but they are themselves…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, rag&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2510.05310"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Emergent Misalignment via In-Context Learning: Narrow in-context examples can produce broadly misaligned LLMs</title>
-    <link href="https://arxiv.org/abs/2510.11288"/>
-    <id>urn:uuid:1cae875ae7f63268</id>
-    <updated>2026-11-23T05:00:00Z</updated>
-    <published>2026-11-23T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2510.11288v5 Announce Type: replace Abstract: Recent work has shown that narrow finetuning can produce broadly misaligned LLMs, a phenomenon termed emergent misalignment (EM). While concerning, these findings were limited to finetuning and activation steering, leaving out in-context learning (ICL). We therefore…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: finetuning&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2510.11288"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Supervised Fine-tuning for Geometry-aware Instruction-following</title>
-    <link href="https://arxiv.org/abs/2510.26183"/>
-    <id>urn:uuid:9b7bfcb74aa28642</id>
-    <updated>2026-11-23T05:00:00Z</updated>
-    <published>2026-11-23T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2510.26183v2 Announce Type: replace Abstract: We examine a contrastive input encoding scheme for supervised fine-tuning of language models (LMs) that masks the content of incorrect generations up to a classification control token. This small-scale study, using a variation of the classic word ordering diagnostic…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tuning&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2510.26183"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Change the Number, Change the Answer: Assessing Rating Scale Sensitivity in LLM-Based Text Scoring</title>
-    <link href="https://arxiv.org/abs/2610.22187"/>
-    <id>urn:uuid:4313e429ad5f0fe8</id>
-    <updated>2026-11-23T05:00:00Z</updated>
-    <published>2026-11-23T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2610.22187v2 Announce Type: replace Abstract: Large language models (LLMs) are increasingly used in computational social science to assign scalar scores to social and psychological constructs. However, studies use different rating scales, and whether their scores remain comparable across scale designs is…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2610.22187"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Right On Q: Recovering Reasoning under Quantization via Self-Generated Trajectories</title>
-    <link href="https://arxiv.org/abs/2610.29378"/>
-    <id>urn:uuid:bbc6e8f50b176424</id>
-    <updated>2026-11-23T05:00:00Z</updated>
-    <published>2026-11-23T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2610.29378v2 Announce Type: replace Abstract: Quantization-aware training (QAT) aims to recover reasoning capabilities in low-bit large language models (LLMs). Existing recipes typically supervise the quantized student with the original full-precision model on fixed response sequences. However, the resulting…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: quantization&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2610.29378"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Entity Matching using Decision Models</title>
-    <link href="https://arxiv.org/abs/2610.34626"/>
-    <id>urn:uuid:ca9d12d21d39b026</id>
-    <updated>2026-11-23T05:00:00Z</updated>
-    <published>2026-11-23T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2610.34626v2 Announce Type: replace Abstract: Entity matching is the task of deciding whether two records describe the same real-world entity. Current methods often rely on pre-trained language models (PLMs), which require task-specific fine-tuning, or on generative large language models (LLMs), which need no…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tuning&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2610.34626"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Style over Substance? Linguistic Bias in LLM-based Peer Review</title>
-    <link href="https://arxiv.org/abs/2610.35254"/>
-    <id>urn:uuid:2d620f53f659b4b8</id>
-    <updated>2026-11-23T05:00:00Z</updated>
-    <published>2026-11-23T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2610.35254v4 Announce Type: replace Abstract: The number of paper submissions to major AI conferences has increased dramatically in recent years, substantially increasing the peer-review workload of researchers. At the same time, large language models (LLMs) are increasingly used to support peer review, both by…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2610.35254"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Grounding Language Models in Speech Does Not Fix "AI Flavor": Calibrated LLM Judges, Goodhart Traps, and a Preference-Tuning Fix</title>
-    <link href="https://arxiv.org/abs/2611.19840"/>
-    <id>urn:uuid:c520e1ac82f16ef4</id>
-    <updated>2026-11-23T05:00:00Z</updated>
-    <published>2026-11-23T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.19840v2 Announce Type: replace Abstract: Chinese outputs of large language models carry a perceptible "AI flavor": formulaic sentence frames, stacked written-register connectives, repetition loops, and layout leakage. A popular hypothesis blames text-only training for the missing inner-speech layer of human…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.19840"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 STARK: Moving towards Personalized Agents That Truly Learn and Remember</title>
-    <link href="https://arxiv.org/abs/2611.25705"/>
-    <id>urn:uuid:46e1914c82ecb123</id>
-    <updated>2026-11-23T05:00:00Z</updated>
-    <published>2026-11-23T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.25705v2 Announce Type: replace Abstract: Long-term memory is essential for personalized agentic systems that interact with users over long time periods, yet current architectures only capture what happened while leaving the reasoning of why it happened to be derived later by underlying LLMs. These events…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.25705"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher</title>
-    <link href="https://arxiv.org/abs/2611.26510"/>
-    <id>urn:uuid:2fb50df7ad2332d2</id>
-    <updated>2026-11-23T05:00:00Z</updated>
-    <published>2026-11-23T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.26510v2 Announce Type: replace Abstract: Task success alone does not specify which behaviors post-training should reinforce. Even successful teacher trajectories can contain unsupported assumptions, unproductive repetition, or superficial verification. We propose Skill-FT (Skill-Guided Fine-Tuning), which…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tuning&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.26510"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Generalizing Test-time Compute-optimal Scaling as an Optimizable Graph</title>
-    <link href="https://arxiv.org/abs/2511.00086"/>
-    <id>urn:uuid:2f4ef163ce3af3e6</id>
-    <updated>2026-11-23T05:00:00Z</updated>
-    <published>2026-11-23T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2511.00086v2 Announce Type: replace-cross Abstract: Test-Time Scaling (TTS) improves large language models (LLMs) by allocating additional computation during inference, typically through parallel, sequential, or hybrid scaling. However, prior studies often assume fixed collaboration architectures (e.g.,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2511.00086"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models</title>
-    <link href="https://arxiv.org/abs/2601.18734"/>
-    <id>urn:uuid:377f2b7e4031b530</id>
-    <updated>2026-11-23T05:00:00Z</updated>
-    <published>2026-11-23T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2601.18734v4 Announce Type: replace-cross Abstract: Knowledge distillation improves large language model (LLM) reasoning by compressing the knowledge of a teacher LLM to train smaller LLMs. On-policy distillation advances this approach by having the student sample its own trajectories while a teacher LLM…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2601.18734"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

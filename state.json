@@ -1,5 +1,17 @@
 {
  "seen": [
+  "213e6494acdeb275",
+  "809ae8053fd6cfb2",
+  "915fe071332a810f",
+  "4d915475581d9cbb",
+  "fc4711e72f90e0aa",
+  "5d45f4cd05eebe7f",
+  "2eb9235ab9234ad0",
+  "5af483645e9ecb88",
+  "bfeb4832a30ffcb3",
+  "5e896daf221913a6",
+  "d6c54e27e307d8d2",
+  "055719351194c3ec",
   "65187fc819aa0727",
   "be339c502d9964de",
   "494b3a44f16a24f6",
@@ -107,21 +119,154 @@
   "72227fe20fa4c314",
   "18e7fbc8ff75a804",
   "83c8de48d772ba60",
-  "04e29838811ba4be",
-  "97b0e1f15eaec3cc",
-  "1cae875ae7f63268",
-  "9b7bfcb74aa28642",
-  "4313e429ad5f0fe8",
-  "bbc6e8f50b176424",
-  "ca9d12d21d39b026",
-  "2d620f53f659b4b8",
-  "c520e1ac82f16ef4",
-  "46e1914c82ecb123",
-  "2fb50df7ad2332d2",
-  "2f4ef163ce3af3e6",
-  "377f2b7e4031b530"
+  "04e29838811ba4be"
  ],
  "items": [
+  {
+   "uid": "213e6494acdeb275",
+   "title": "pymupdf/PyMuPDF 2.2 — PyMuPDF-2.2 released",
+   "url": "https://github.com/pymupdf/PyMuPDF/releases/tag/2.2",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-25T23:55:37+00:00",
+   "summary": "Wheels for Windows, Linux and MacOS, and the sdist, are available on https://pypi.org and can be installed in the usual way, for example: ``` python -m pip install --upgrade pymupdf ``` **Changes in version 2.2** Fixed issues: * **Fixed** #4484 * **Fixed** #5175 * **Fixed** #5185 * **Fixed** #5198 * **Fixed** #5238 * **Fixed** #5239 * **Fixed** #5240 * **Fixed** #5241 * **Fixed** #5280 New…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "809ae8053fd6cfb2",
+   "title": "ggml-org/llama.cpp b12751 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12751",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-25T23:29:28+00:00",
+   "summary": "vocab : implement Metaspace prepend_scheme always for BPE (#33038) * vocab : implement Metaspace prepend_scheme always for BPE * Drop test-tokenizer-mmbert **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12751/llama-b12751-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "915fe071332a810f",
+   "title": "ultralytics/ultralytics v8.4.219 — v8.4.219 - Native detection mAP matches pycocotools to machine precision (#27370)",
+   "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.219",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-25T23:28:37+00:00",
+   "summary": "## 🌟 Summary Release v8.4.219 makes model evaluation more accurate and efficient, improves reliability across several export and inference backends, and refreshes key user and developer documentation. ## 📊 Key Changes - **COCO-style evaluation now matches pycocotools:** The native scorer agrees within machine precision across detection boxes, segmentation, and pose results. CPU scoring is about…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "4d915475581d9cbb",
+   "title": "Quoting Scott Aaronson",
+   "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-11-25T23:26:32+00:00",
+   "summary": "It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog. Picture van Leeuwenhoek first training a microscope on pondwater, or Galileo first training his telescope on the stars.…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "fc4711e72f90e0aa",
+   "title": "ggml-org/llama.cpp b12738 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12738",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-25T22:35:44+00:00",
+   "summary": "server : handle CTRL_BREAK_EVENT on Windows for clean shutdown (#32080) Windows can't send SIGINT to a child process, so scripts that launch llama-server could only kill it, which skips the clean shutdown. The console control handler only handled CTRL_C_EVENT, so a CTRL_BREAK_EVENT sent to the server's own process group ended it with STATUS_CONTROL_C_EXIT. - server: handle CTRL_BREAK_EVENT the…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "5d45f4cd05eebe7f",
+   "title": "ggml-org/llama.cpp b12734 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12734",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-25T22:14:54+00:00",
+   "summary": "metal : commit the graph in chunks with one command buffer thread (#32947) Assisted-by: Claude Opus 5.5 **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12734/llama-b12734-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) -…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "2eb9235ab9234ad0",
+   "title": "ggml-org/llama.cpp b12732 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12732",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-25T21:51:00+00:00",
+   "summary": "ggml: allow input async copies (#30685) * ggml: allow input async copies Copy the host inputs of a split with set_tensor_async followed by a single synchronize, instead of one blocking copy per input. This is opt-in per device through the new async_host_input cap, which only CUDA sets. Other backends keep the current path. The async path is used without pipeline parallelism only. With pipeline…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "5af483645e9ecb88",
+   "title": "Much shorter version of GRH Lean verification from Anthropic",
+   "url": "https://github.com/lsernau/grh-lean",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-11-25T21:48:10+00:00",
+   "summary": "Article URL: https://github.com/lsernau/grh-lean Comments URL: https://news.ycombinator.com/item?id=50648050 Points: 239 # Comments: 109",
+   "matched": [
+    "anthropic"
+   ]
+  },
+  {
+   "uid": "bfeb4832a30ffcb3",
+   "title": "langchain-ai/langgraph cli==0.4.44 — langgraph-cli==0.4.44",
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/cli%3D%3D0.4.44",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-25T20:52:34+00:00",
+   "summary": "Changes since cli==0.4.43 * feat(cli): add url to deploy list --json (#9793) * release(cli): 0.4.44 (#9794) * fix(cli): omit an empty secrets list when updating a deployment (#9737) * chore(deps): bump opentelemetry-api from 1.45.1 to 1.45.2 in /libs/cli (#9695) * feat(cli): deploy to BYOC data planes with only an API key (#9692)",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "5e896daf221913a6",
+   "title": "Where scientists draw the line on AI agents",
+   "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+   "source": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-11-25T18:52:55+00:00",
+   "summary": "",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "d6c54e27e307d8d2",
+   "title": "⭐ 845 · opensetlabs/openset-llm (C++)",
+   "url": "https://github.com/opensetlabs/openset-llm",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-25T18:21:36+00:00",
+   "summary": "Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server.",
+   "matched": [
+    "llm",
+    "inference"
+   ]
+  },
+  {
+   "uid": "055719351194c3ec",
+   "title": "pydantic/pydantic-ai v2.75.0 — v2.75.0 (2026-11-25)",
+   "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.75.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-25T18:21:00+00:00",
+   "summary": "## What's Changed ### ⚠️ Compatibility Notes * Keep workspace files below `'operator'` authority out of the instructions in `RepoContext`, `Skills` and `Memory`, and add `lowest_authority_under` by @adtyavrdhn in https://github.com/pydantic/pydantic-ai/pull/11837 * Text from a workspace file below `'operator'` authority no longer reaches the instructions: `RepoContext` names the working…",
+   "matched": [
+    "*"
+   ]
+  },
   {
    "uid": "65187fc819aa0727",
    "title": "ggml-org/llama.cpp b12728 (pre)",
@@ -1440,153 +1585,7 @@
    "matched": [
     "rag"
    ]
-  },
-  {
-   "uid": "97b0e1f15eaec3cc",
-   "title": "RAG Makes Guardrails Brittle? Investigating Robustness of Guardrails under RAG-style Contexts",
-   "url": "https://arxiv.org/abs/2510.05310",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2510.05310v2 Announce Type: replace Abstract: With the increasing adoption of large language models (LLMs), ensuring the safety of LLM systems has become a pressing concern. External LLM-based guardrail models have emerged as a popular solution to screen unsafe inputs and outputs, but they are themselves…",
-   "matched": [
-    "llm",
-    "rag"
-   ]
-  },
-  {
-   "uid": "1cae875ae7f63268",
-   "title": "Emergent Misalignment via In-Context Learning: Narrow in-context examples can produce broadly misaligned LLMs",
-   "url": "https://arxiv.org/abs/2510.11288",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2510.11288v5 Announce Type: replace Abstract: Recent work has shown that narrow finetuning can produce broadly misaligned LLMs, a phenomenon termed emergent misalignment (EM). While concerning, these findings were limited to finetuning and activation steering, leaving out in-context learning (ICL). We therefore…",
-   "matched": [
-    "finetuning"
-   ]
-  },
-  {
-   "uid": "9b7bfcb74aa28642",
-   "title": "Supervised Fine-tuning for Geometry-aware Instruction-following",
-   "url": "https://arxiv.org/abs/2510.26183",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2510.26183v2 Announce Type: replace Abstract: We examine a contrastive input encoding scheme for supervised fine-tuning of language models (LMs) that masks the content of incorrect generations up to a classification control token. This small-scale study, using a variation of the classic word ordering diagnostic…",
-   "matched": [
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "4313e429ad5f0fe8",
-   "title": "Change the Number, Change the Answer: Assessing Rating Scale Sensitivity in LLM-Based Text Scoring",
-   "url": "https://arxiv.org/abs/2610.22187",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2610.22187v2 Announce Type: replace Abstract: Large language models (LLMs) are increasingly used in computational social science to assign scalar scores to social and psychological constructs. However, studies use different rating scales, and whether their scores remain comparable across scale designs is…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "bbc6e8f50b176424",
-   "title": "Right On Q: Recovering Reasoning under Quantization via Self-Generated Trajectories",
-   "url": "https://arxiv.org/abs/2610.29378",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2610.29378v2 Announce Type: replace Abstract: Quantization-aware training (QAT) aims to recover reasoning capabilities in low-bit large language models (LLMs). Existing recipes typically supervise the quantized student with the original full-precision model on fixed response sequences. However, the resulting…",
-   "matched": [
-    "quantization"
-   ]
-  },
-  {
-   "uid": "ca9d12d21d39b026",
-   "title": "Entity Matching using Decision Models",
-   "url": "https://arxiv.org/abs/2610.34626",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2610.34626v2 Announce Type: replace Abstract: Entity matching is the task of deciding whether two records describe the same real-world entity. Current methods often rely on pre-trained language models (PLMs), which require task-specific fine-tuning, or on generative large language models (LLMs), which need no…",
-   "matched": [
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "2d620f53f659b4b8",
-   "title": "Style over Substance? Linguistic Bias in LLM-based Peer Review",
-   "url": "https://arxiv.org/abs/2610.35254",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2610.35254v4 Announce Type: replace Abstract: The number of paper submissions to major AI conferences has increased dramatically in recent years, substantially increasing the peer-review workload of researchers. At the same time, large language models (LLMs) are increasingly used to support peer review, both by…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "c520e1ac82f16ef4",
-   "title": "Grounding Language Models in Speech Does Not Fix \"AI Flavor\": Calibrated LLM Judges, Goodhart Traps, and a Preference-Tuning Fix",
-   "url": "https://arxiv.org/abs/2611.19840",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.19840v2 Announce Type: replace Abstract: Chinese outputs of large language models carry a perceptible \"AI flavor\": formulaic sentence frames, stacked written-register connectives, repetition loops, and layout leakage. A popular hypothesis blames text-only training for the missing inner-speech layer of human…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "46e1914c82ecb123",
-   "title": "STARK: Moving towards Personalized Agents That Truly Learn and Remember",
-   "url": "https://arxiv.org/abs/2611.25705",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.25705v2 Announce Type: replace Abstract: Long-term memory is essential for personalized agentic systems that interact with users over long time periods, yet current architectures only capture what happened while leaving the reasoning of why it happened to be derived later by underlying LLMs. These events…",
-   "matched": [
-    "agentic"
-   ]
-  },
-  {
-   "uid": "2fb50df7ad2332d2",
-   "title": "AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher",
-   "url": "https://arxiv.org/abs/2611.26510",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2611.26510v2 Announce Type: replace Abstract: Task success alone does not specify which behaviors post-training should reinforce. Even successful teacher trajectories can contain unsupported assumptions, unproductive repetition, or superficial verification. We propose Skill-FT (Skill-Guided Fine-Tuning), which…",
-   "matched": [
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "2f4ef163ce3af3e6",
-   "title": "Generalizing Test-time Compute-optimal Scaling as an Optimizable Graph",
-   "url": "https://arxiv.org/abs/2511.00086",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2511.00086v2 Announce Type: replace-cross Abstract: Test-Time Scaling (TTS) improves large language models (LLMs) by allocating additional computation during inference, typically through parallel, sequential, or hybrid scaling. However, prior studies often assume fixed collaboration architectures (e.g.,…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "377f2b7e4031b530",
-   "title": "Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models",
-   "url": "https://arxiv.org/abs/2601.18734",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-23T05:00:00+00:00",
-   "summary": "arXiv:2601.18734v4 Announce Type: replace-cross Abstract: Knowledge distillation improves large language model (LLM) reasoning by compressing the knowledge of a teacher LLM to train smaller LLMs. On-policy distillation advances this approach by having the student sample its own trajectories while a teacher LLM…",
-   "matched": [
-    "llm",
-    "distillation"
-   ]
   }
  ],
- "last_run": "2026-11-25T17:29:55.314235+00:00"
+ "last_run": "2026-11-26T01:04:45.588753+00:00"
 }
