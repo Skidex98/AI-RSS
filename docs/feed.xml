@@ -5,8 +5,242 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-11-27T01:06:06Z</updated>
+  <updated>2026-11-27T16:53:57Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>📦 zhouxiaoka/autoclip</title>
+    <link href="https://github.com/zhouxiaoka/autoclip"/>
+    <id>urn:uuid:210d0267d9f063a0</id>
+    <updated>2026-11-27T16:53:43Z</updated>
+    <published>2026-11-27T16:53:43Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — Python&lt;/p&gt;&lt;p&gt;AutoClip｜The open-source OpusClip alternative — local-first AI clipping &amp;amp; MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。 https://zhouxiaoka.github.io/autoclip_intro/ AutoClip Turn any video, link, or live stream into ready-to-post…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/zhouxiaoka/autoclip"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 61 · axelered/papyrus (Python)</title>
+    <link href="https://github.com/axelered/papyrus"/>
+    <id>urn:uuid:d0ddc9cad7828e57</id>
+    <updated>2026-11-27T16:09:37Z</updated>
+    <published>2026-11-27T16:09:37Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Everything your AI does with documents, behind one self-hosted API. Read, convert and render any file or web page, with OCR on your GPUs or Mistral.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mistral, ocr&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/axelered/papyrus"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12815 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12815"/>
+    <id>urn:uuid:c8197842be01c601</id>
+    <updated>2026-11-27T14:09:06Z</updated>
+    <published>2026-11-27T14:09:06Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;cuda : fix NVFP4 MMQ y_scale over-read in the stream-k fixup (#33136) **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12815/llama-b12815-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12815"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12814 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12814"/>
+    <id>urn:uuid:0d3f505ef21914ae</id>
+    <updated>2026-11-27T13:27:51Z</updated>
+    <published>2026-11-27T13:27:51Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;moe-cache : support experts selected on another backend (#33133) When the experts are selected on another backend than the cache, e.g. the loop passes of inkling2_loop with a layer split, the lookup reads a copy of the ids made by the scheduler, which has no source to read the shape from. Take the experts per token from build_lookup instead. Fixes #33101 **Website:** - **Attestations:** -…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12814"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12812 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12812"/>
+    <id>urn:uuid:8bb49e05cfc4723f</id>
+    <updated>2026-11-27T13:06:01Z</updated>
+    <published>2026-11-27T13:06:01Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;metal : check all fused nodes for concurrency (#33175) * metal : check all fused nodes for concurrency The concurrency check for a fused group only examined the last node, so intermediate outputs (e.g. the TOPK_MOE ids/weights) and the group's sources (e.g. the router logits) were ignored. This allowed the fused top-k kernel to run concurrently with the router matmul that writes its input,…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12812"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12811 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12811"/>
+    <id>urn:uuid:4fe203116cd5ea92</id>
+    <updated>2026-11-27T11:14:55Z</updated>
+    <published>2026-11-27T11:14:55Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;ui: share conversations to Hugging Face datasets as agent traces (#32608) * ui: add @ggml-org/llama-huggingface, a Hugging Face account as a package A package in ui/lib that gives an app running in the browser, with no server of its own, a Hugging Face account. Its plain entry holds "Sign in with Hugging Face" (OAuth with PKCE and dynamic client registration) and the Hub calls: who the account…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12811"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Claude sabotaging ML research tasks?</title>
+    <link href="https://twitter.com/RealAstropulse/status/2126119408997466389"/>
+    <id>urn:uuid:ca63b5ec03d12565</id>
+    <updated>2026-11-27T08:28:08Z</updated>
+    <published>2026-11-27T08:28:08Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389 Comments URL: https://news.ycombinator.com/item?id=50664325 Points: 244 # Comments: 141&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://twitter.com/RealAstropulse/status/2126119408997466389"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12810 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12810"/>
+    <id>urn:uuid:b7f2106c80dfaf7e</id>
+    <updated>2026-11-27T08:11:21Z</updated>
+    <published>2026-11-27T08:11:21Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;hex-hmx: fix accuracy issues in act and weight scaling, drop w8a8+f16 hybrid mode (no longer needed) (#33166) Co-authored-by: Max Krasnyansky **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12810/llama-b12810-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12810"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📄 Too Smart for Its Own Good? Cognitive Fidelity and Competence Leakage in LLM Simulations of Young Learners</title>
+    <link href="https://arxiv.org/abs/2611.34042"/>
+    <id>urn:uuid:91664fb1afadeaaf</id>
+    <updated>2026-11-27T05:00:00Z</updated>
+    <published>2026-11-27T05:00:00Z</published>
+    <category term="PAPER"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.34042v1 Announce Type: new Abstract: LLM-based interactive learner simulators are increasingly used in educational applications, including teacher training and tutoring system development. A critical requirement for those simulations is cognitive fidelity: the simulated learner should maintain the assigned…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.34042"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📄 Reliable User Simulation in Complex Multi-Step Workflows</title>
+    <link href="https://arxiv.org/abs/2611.34044"/>
+    <id>urn:uuid:6abb2979ae52e12b</id>
+    <updated>2026-11-27T05:00:00Z</updated>
+    <published>2026-11-27T05:00:00Z</published>
+    <category term="PAPER"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.34044v1 Announce Type: new Abstract: LLM-based user simulators are increasingly used to evaluate conversational assistants. Yet, these simulators can drift from their assigned goals or fail to exhaustively explore all specified options, causing evaluation errors incorrectly attributed to the assistant.…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.34044"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📄 MINE: A Training-Free Defense against Indirect Prompt Injection via Mutual Information and Embedding Variance</title>
+    <link href="https://arxiv.org/abs/2611.34188"/>
+    <id>urn:uuid:24d5a48815f84b4a</id>
+    <updated>2026-11-27T05:00:00Z</updated>
+    <published>2026-11-27T05:00:00Z</published>
+    <category term="PAPER"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.34188v1 Announce Type: new Abstract: Existing defenses against indirect prompt injection in retrieval-augmented generation (RAG) are inherently reactive: prompt-engineering methods are often overridden by the injected instructions, while supervised detectors must be retrained for each new attack style. We…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: rag, embedding&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.34188"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📄 IRTIQA: Evolving in English, Evaluated in Urdu -- Does Agent Self-Evolution Transfer from English to Urdu and Code-Switched Input?</title>
+    <link href="https://arxiv.org/abs/2611.34303"/>
+    <id>urn:uuid:05beb62c4f598fb1</id>
+    <updated>2026-11-27T05:00:00Z</updated>
+    <published>2026-11-27T05:00:00Z</published>
+    <category term="PAPER"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.34303v1 Announce Type: new Abstract: As LLM agents increasingly learn from their own experience, the tasks they learn from and are evaluated on are almost always in English. We ask whether self-evolution transfers from English to Urdu, and release IRTIQA, a benchmark of aligned English, Urdu-translated, and…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.34303"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📄 Under the Influence -- of What? A Controlled Evaluation of Influence Functions</title>
+    <link href="https://arxiv.org/abs/2611.34373"/>
+    <id>urn:uuid:6d67045576bcf778</id>
+    <updated>2026-11-27T05:00:00Z</updated>
+    <published>2026-11-27T05:00:00Z</published>
+    <category term="PAPER"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.34373v1 Announce Type: new Abstract: Influence functions are a promising way to identify which training examples are responsible for a model's output. However, so far empirical evaluations on LLM pretraining level only assumed that they work as intended. This is the first work to systematically evaluate…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.34373"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📄 FlyingStart: Learned Cross-Token Warm Starts for Fixed-Point Decoding in Recurrent-Depth Language Models</title>
+    <link href="https://arxiv.org/abs/2611.34492"/>
+    <id>urn:uuid:63d3d2a0cac2f92f</id>
+    <updated>2026-11-27T05:00:00Z</updated>
+    <published>2026-11-27T05:00:00Z</published>
+    <category term="PAPER"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.34492v1 Announce Type: new Abstract: Recurrent-depth language models generate each token by iterating a shared block of layers until its hidden state converges. Inference methods for these models decide when to stop the iteration, yet every token still starts from random noise and pays the full cost of…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.34492"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📄 PoVi: Agentic Poetry-to-Video Generation with Knowledge Grounding and Figurative Understanding</title>
+    <link href="https://arxiv.org/abs/2611.34690"/>
+    <id>urn:uuid:533eba66b0296b50</id>
+    <updated>2026-11-27T05:00:00Z</updated>
+    <published>2026-11-27T05:00:00Z</published>
+    <category term="PAPER"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.34690v1 Announce Type: new Abstract: Poetry-to-video generation requires more than translating text into visual scenes. Poetic language is highly compressed, often depends on historical and cultural knowledge, and frequently conveys meaning through metaphor, imagery, and other non-literal expressions. We…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.34690"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📄 Collect for Coverage, Replay with Evidence: Adaptive and Efficient On-Policy Distillation for Long-Horizon Agents</title>
+    <link href="https://arxiv.org/abs/2611.34756"/>
+    <id>urn:uuid:6ad8b5a5b1948c4c</id>
+    <updated>2026-11-27T05:00:00Z</updated>
+    <published>2026-11-27T05:00:00Z</published>
+    <category term="PAPER"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.34756v1 Announce Type: new Abstract: Fully online on-policy distillation (OPD) is costly for long-horizon agents because each update depends on fresh environment rollouts. Prefix replay offers an efficient alternative by sampling current-student responses from stored histories, reducing idle time for…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.34756"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📄 DFly2: Turbocharging Long-Context Speculative Decoding by Sharing the Target's Sparsity</title>
+    <link href="https://arxiv.org/abs/2611.34776"/>
+    <id>urn:uuid:00991b75cfa9c246</id>
+    <updated>2026-11-27T05:00:00Z</updated>
+    <published>2026-11-27T05:00:00Z</published>
+    <category term="PAPER"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.34776v1 Announce Type: new Abstract: To avoid the quadratic cost of dense attention over long contexts, models such as DeepSeek-V4 and Hy4 have turned natively sparse, and speculative decoding, which matters most where decoding is slowest, increasingly runs on them. Their drafters, however, still keep a…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: deepseek&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.34776"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📄 Repairing the Trustworthiness of Distilled Language Models</title>
+    <link href="https://arxiv.org/abs/2611.34831"/>
+    <id>urn:uuid:5c74a9872e13c3a7</id>
+    <updated>2026-11-27T05:00:00Z</updated>
+    <published>2026-11-27T05:00:00Z</published>
+    <category term="PAPER"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.34831v1 Announce Type: new Abstract: Knowledge distillation enables the deployment of large language models through smaller student models, but the compression process can introduce regressions in trustworthiness even when downstream performance is preserved. Repairing such failures is challenging because…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.34831"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📄 Improving Tail-Augmented Speculative Drafting with Hidden State Mixing and Gradient Detach</title>
+    <link href="https://arxiv.org/abs/2611.34092"/>
+    <id>urn:uuid:5c0244189c38ee3b</id>
+    <updated>2026-11-27T05:00:00Z</updated>
+    <published>2026-11-27T05:00:00Z</published>
+    <category term="PAPER"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.34092v1 Announce Type: cross Abstract: Multi-token prediction (MTP) modules and EAGLE-style drafters support efficient speculative decoding by reusing target-model hidden states. Their autoregressive use, however, introduces a training-inference mismatch: training supplies sequences of hidden states from…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.34092"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📄 SOLO: Towards Sample-Faithful and Detectable LLM Watermarking under Repeated Sampling via Content-Anchored Single-Owner Contexts</title>
+    <link href="https://arxiv.org/abs/2611.34190"/>
+    <id>urn:uuid:5cfa9c2f278df90c</id>
+    <updated>2026-11-27T05:00:00Z</updated>
+    <published>2026-11-27T05:00:00Z</published>
+    <category term="PAPER"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.34190v1 Announce Type: cross Abstract: Providers watermark the outputs of large language models, while applications sample many responses per prompt for self-consistency, best-of-n selection, and uncertainty estimation. We show that deployed configurations of distortion-free watermarks, which deduplicate…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.34190"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📄 MedSkill-E$^{2}$: Evaluating and Evolving Skills for Medical Agents</title>
+    <link href="https://arxiv.org/abs/2611.34250"/>
+    <id>urn:uuid:80c168b5ee391aaf</id>
+    <updated>2026-11-27T05:00:00Z</updated>
+    <published>2026-11-27T05:00:00Z</published>
+    <category term="PAPER"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.34250v1 Announce Type: cross Abstract: Large language model (LLM) agents increasingly use skills to access domain knowledge and complete real-world tasks. We observe that even when a skill specifies the rules and procedures needed for a task, agents may fail to apply them effectively during autonomous…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.34250"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📄 Strong Starts, Simple Recipes: Unified Multi-Teacher On-Policy Distillation from Multimodal Specialists</title>
+    <link href="https://arxiv.org/abs/2611.34397"/>
+    <id>urn:uuid:ad3767b405c48530</id>
+    <updated>2026-11-27T05:00:00Z</updated>
+    <published>2026-11-27T05:00:00Z</published>
+    <category term="PAPER"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.34397v1 Announce Type: cross Abstract: Multi-teacher on-policy distillation (MOPD) integrates separately trained domain specialists into a single unified model. Existing methods focus on refining the distillation procedure while initializing the student from a base model or a multi-domain SFT checkpoint,…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.34397"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📄 Any-Rate: Half-Bit Multi-Precision LLM Quantization with Coded Bit-Planes</title>
+    <link href="https://arxiv.org/abs/2611.34402"/>
+    <id>urn:uuid:8d4b0c653d816392</id>
+    <updated>2026-11-27T05:00:00Z</updated>
+    <published>2026-11-27T05:00:00Z</published>
+    <category term="PAPER"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.34402v1 Announce Type: cross Abstract: Nested multi-precision quantization derives multiple precisions from a single checkpoint by reading only the leading bits of each weight, which makes it attractive for on-device deployment under varying memory and energy budgets. However, existing methods offer only…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, quantization&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.34402"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📄 vSFT: Learning to Verbally Tune Agents at Test Time</title>
+    <link href="https://arxiv.org/abs/2611.34440"/>
+    <id>urn:uuid:d4cf70a704579a8f</id>
+    <updated>2026-11-27T05:00:00Z</updated>
+    <published>2026-11-27T05:00:00Z</published>
+    <category term="PAPER"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.34440v1 Announce Type: cross Abstract: Large language model agents are increasingly improved via agentic reinforcement learning, which can be on-policy but suffers from expensive rollouts and sparse rewards, limiting its application at test time. In this paper, we present a verbally Supervised Fine-Tuning…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tuning, agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.34440"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📄 Reading Fine-Tuning Diffs Through Lenses: Model Diffing for Backdoor Detection</title>
+    <link href="https://arxiv.org/abs/2611.34758"/>
+    <id>urn:uuid:4fcada467f9003d2</id>
+    <updated>2026-11-27T05:00:00Z</updated>
+    <published>2026-11-27T05:00:00Z</published>
+    <category term="PAPER"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.34758v1 Announce Type: cross Abstract: We introduce a common scoring system based on token readouts to evaluate weight, activation and output-based model diffing methods for backdoor detection in fine-tuning processes. We also improve existing weight and activation based methods by incorporating the…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tuning&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.34758"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 "What's Claude's Fursona?" and Other Questions</title>
+    <link href="https://herecomesthemoon.net/2026/11/whats-claudes-fursona/"/>
+    <id>urn:uuid:cb20663495018205</id>
+    <updated>2026-11-27T04:56:18Z</updated>
+    <published>2026-11-27T04:56:18Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/ Comments URL: https://news.ycombinator.com/item?id=50662933 Points: 104 # Comments: 81&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://herecomesthemoon.net/2026/11/whats-claudes-fursona/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>📦 rtk-ai/rtk</title>
     <link href="https://github.com/rtk-ai/rtk"/>
@@ -204,6 +438,24 @@
     <published>2026-11-27T00:21:42Z</published>
     <category term="REPO"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Let a coding agent design the LLM quantization recipe.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, quantization&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/humanfia/qda"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 AI agents now control part of DeepMind's compute for Gemini experiments</title>
+    <link href="https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/"/>
+    <id>urn:uuid:47e150062967a0df</id>
+    <updated>2026-11-27T00:03:18Z</updated>
+    <published>2026-11-27T00:03:18Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/item?id=50661218 Points: 56 # Comments: 28&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: gemini&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Taking Trainium3 to the Track: Generating Videos with LTX-2.5</title>
+    <link href="https://huggingface.co/blog/video-trainium3"/>
+    <id>urn:uuid:3d3f2086cd1916a4</id>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <published>2026-11-27T00:00:00Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hugging Face Blog&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://huggingface.co/blog/video-trainium3"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>🚀 pydantic/pydantic-ai v2.76.0 — v2.76.0 (2026-11-26)</title>
@@ -834,257 +1086,5 @@
     <published>2026-11-26T05:00:00Z</published>
     <category term="PAPER"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2605.22511v3 Announce Type: replace-cross Abstract: Outcome based reinforcement learning provides a simple and effective recipe for training search augmented reasoning agents. Recent work seeks further improvements through stronger external teachers, auxiliary process supervision, specialized reward shaping, and…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2605.22511"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Safe Inference-Time Alignment via Lagrangian Reward Augmentation</title>
-    <link href="https://arxiv.org/abs/2607.02781"/>
-    <id>urn:uuid:fe9e76603d4de385</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2607.02781v3 Announce Type: replace-cross Abstract: Inference-time alignment steers a frozen language model during decoding using auxiliary reward signals, avoiding the cost of repeated weight updates. However, existing inference-time alignment methods typically optimize a single scalar score, so explicit safety…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2607.02781"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 AVA-Encoder: Learning to Represent Videos via Reconstruction-Driven Agentic Self-Evolution</title>
-    <link href="https://arxiv.org/abs/2608.12313"/>
-    <id>urn:uuid:08890071506ce81e</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2608.12313v4 Announce Type: replace-cross Abstract: Agentic video creation systems remain far from cinematic-grade quality: their underlying models struggle to plan how story, characters, visuals, and sound fit together, and high-quality creation trajectories to learn such planning abilities are scarce. Finished…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2608.12313"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Frozen Factor or Spectral Band? In LoRA, the Factor Matters More at Low Rank</title>
-    <link href="https://arxiv.org/abs/2610.06621"/>
-    <id>urn:uuid:e350fa63ee31f43d</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2610.06621v2 Announce Type: replace-cross Abstract: On two main task-model pairs, at ranks 1 to 8 with few optimiser steps, the factor a LoRA variant freezes matters more than its band of singular directions. MiCA and PiCa are compared by band, minor against dominant, yet MiCA freezes the output factor B and…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: lora&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2610.06621"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Envisioning Agentic Robotics: A New Era of Robotic Systems</title>
-    <link href="https://arxiv.org/abs/2611.18359"/>
-    <id>urn:uuid:ed9f8c319fb4d95d</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.18359v2 Announce Type: replace-cross Abstract: The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded task-specific policies on many embodied benchmarks. Instead of training a dedicated policy…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.18359"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Bias Cascade: Understanding the Gap Between Knowledge Alignment and Effect Replication in LLM-based Social Simulation</title>
-    <link href="https://arxiv.org/abs/2611.28854"/>
-    <id>urn:uuid:75f1d4248e777e96</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.28854v2 Announce Type: replace-cross Abstract: Large language models (LLMs) are increasingly used to simulate participants in social experiments. Existing research has primarily focused on aligning social knowledge and isolated responses, while overlooking whether simulations can reproduce the collective…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.28854"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Confidence-Based Adaptive Retrieval Fails Where It Matters Most: A Paradox in Biomedical Question Answering</title>
-    <link href="https://arxiv.org/abs/2611.33210"/>
-    <id>urn:uuid:98a31fe8953b9b51</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33210v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for biomedical question answering, but plausible incorrect answers remain a safety risk in clinical settings. Retrieval-augmented generation (RAG) can ground responses in medical literature, while confidence-based…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: rag&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33210"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Same Tokenizer, Better Tokens: Choosing Image Tokens by MAP Inference</title>
-    <link href="https://arxiv.org/abs/2611.33261"/>
-    <id>urn:uuid:39147ffe4db063ee</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33261v1 Announce Type: new Abstract: Discrete visual tokens encode images for reconstruction and serve as training targets for autoregressive image generators. Vector-quantized tokenizers typically assign each encoder feature its nearest code independently. The decoder uses these codes jointly, so a…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33261"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 JetDiffusion: Pushing the Speed Limits of Video Generation with NVFP4 Sparse Attention</title>
-    <link href="https://arxiv.org/abs/2611.33268"/>
-    <id>urn:uuid:22ab0a72a2d5044a</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33268v1 Announce Type: new Abstract: Attention over long sequences is a major computational bottleneck in video generation, which can be alleviated through sparsity and low-bit quantization. We propose JetDiffusion, a video generation system built on trainable Video Sparse Quantized Attention (VSQA), with…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: quantization&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33268"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Benchmarking Segmentation Models for Scalable Mangrove Mapping with Sentinel-1/2 Imagery</title>
-    <link href="https://arxiv.org/abs/2611.33369"/>
-    <id>urn:uuid:702c8adf387a6714</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33369v1 Announce Type: new Abstract: Mangroves are dynamic coastal ecosystems that contribute to carbon storage, coastal protection and biodiversity conservation, but are vulnerable to climate change. Very-high-resolution imagery such as Pl\'eiades enables detailed mangrove mapping but it is costly and have…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33369"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 MotifFlow: Training-Free, Self-Contained Style Transfer from Color to Motif in Rectified Flow Transformers</title>
-    <link href="https://arxiv.org/abs/2611.33371"/>
-    <id>urn:uuid:9a2c14c50fb86d1d</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33371v1 Announce Type: new Abstract: Expressive style transfer must reproduce a painting's palette, brushwork, and characteristic motifs while retaining the content image's structure. Attention injection is effective in U-Net-based diffusion models, but adapting it to FLUX often transfers color without…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: u-net&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33371"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 ArtKit: Motion-Driven Re-Segmentation and Link Re-Generation for Articulated Objects from RGB-D Video</title>
-    <link href="https://arxiv.org/abs/2611.33403"/>
-    <id>urn:uuid:854e146d025e77ed</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33403v1 Announce Type: new Abstract: An RGB-D camera that films an object being moved, often from one viewpoint, sees one side of it and how its parts move. We present ArtKit, which takes such a video as input to create an articulated model with complete parts, a kinematic tree, and typed joints. Our…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33403"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Anatomy-Aware Pseudo-Labels and Homotopy-Annealed Hausdorff Supervision for Semi-Supervised Pancreas Segmentation</title>
-    <link href="https://arxiv.org/abs/2611.33425"/>
-    <id>urn:uuid:656f4f6736dbb8a9</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33425v1 Announce Type: new Abstract: Confidence-gated co-training assumes that pseudo-label errors are uncertain and concentrated at organ boundaries. We argue that for pancreas CT, where the target organ is a single connected structure and detached fragments are anatomically implausible, the dominant…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33425"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 ViCARD: Visual Credit Assignment with Reward-Gated Distillation for Multimodal Reasoning</title>
-    <link href="https://arxiv.org/abs/2611.33437"/>
-    <id>urn:uuid:10f34312cbf48593</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33437v1 Announce Type: new Abstract: Visual reasoning requires models to identify relevant visual evidence and use it to derive correct answers. Outcomebased reinforcement learning (RL) faces two key challenges in this regime: it yields no learning signal when perceptual errors cause all sampled responses…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33437"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Playfulness as Feedback for Agentic Game Development</title>
-    <link href="https://arxiv.org/abs/2611.33457"/>
-    <id>urn:uuid:0cfe7ca81e6f8892</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33457v1 Announce Type: new Abstract: Coding agents can generate runnable games from natural-language descriptions. However, a runnable game does not guarantee an excellent gameplay experience for players. In our view, a playful game should provide 1) reliable core functionality, 2) appealing visual design…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33457"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Nepali Currency Denomination Classification Using Convolutional Neural Networks (CNNs) and MobileNetV2: An Experimental Comparison</title>
-    <link href="https://arxiv.org/abs/2611.33713"/>
-    <id>urn:uuid:7d81195664f8784c</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33713v1 Announce Type: new Abstract: Automated currency denomination recognition is a computer vision task with applications in cash handling, financial technology, and assistive systems. This study classifies seven Nepali currency denominations (Rs. 5, 10, 20, 50, 100, 500, and 1,000) using three…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: computer vision&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33713"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Agentic Reinforcement Learning with Immediate and Prospective Credit Assignment for Medical Visual Reasoning</title>
-    <link href="https://arxiv.org/abs/2611.33777"/>
-    <id>urn:uuid:9aaf3db5beb4d6e8</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33777v1 Announce Type: new Abstract: Medical visual question answering (VQA) requires acquiring useful evidence and deciding where to look next. Yet final-answer rewards do not reveal which observations support answering or guide subsequent inspection. We introduce MedPACT, an agentic reinforcement learning…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33777"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Spatial Transcriptomics Prediction from Histology via Topology-Informed Graph Attention and Gene-Semantics Conditioning</title>
-    <link href="https://arxiv.org/abs/2611.33792"/>
-    <id>urn:uuid:656870bd50995eaa</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33792v1 Announce Type: new Abstract: Spatial transcriptomics (ST) profiles gene expression with spatial context but remains costly, motivating models that infer expression from H E images. Existing approaches face three key limitations: (i) a single patch embedding is often insufficient: morphologically…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: embedding&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33792"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 DriftWAM: Faster World-Action Models via Action-Aware Video Drifting</title>
-    <link href="https://arxiv.org/abs/2611.33797"/>
-    <id>urn:uuid:f6c5500b70f22e40</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33797v1 Announce Type: new Abstract: World-action models (WAMs) unify future video prediction and action generation for robotic control, but their reliance on iterative denoising incurs substantial inference costs. Distilling these models into few-step generators offers a promising route to efficient…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33797"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 SPiXSeg: Rethinking MLLM-based Image Segmentation as Superpixel Classification</title>
-    <link href="https://arxiv.org/abs/2611.33842"/>
-    <id>urn:uuid:bc925cba1abc6b61</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33842v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) are widely used for image segmentation. However, existing methods either use a decoder or use patch-based approach which trades boundary precision against the number of decisions as coarse grid cells mix foreground and background…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33842"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Continuous Foundation-Guided Pseudo-Label Weighting for Breast Ultrasound Domain Adaptation</title>
-    <link href="https://arxiv.org/abs/2611.33843"/>
-    <id>urn:uuid:ce3acf565433ca50</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33843v1 Announce Type: new Abstract: Breast ultrasound segmentation models often generalize poorly across scanners, institutions, and patient populations. We investigate continuous foundation-guided pseudo-label weighting for unsupervised domain adaptation (UDA). An exponential-moving-average (EMA) teacher…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33843"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 OmniMeld: Enhancing Audio-Visual Understanding via Multi-Teacher On-Policy Distillation</title>
-    <link href="https://arxiv.org/abs/2611.33861"/>
-    <id>urn:uuid:d6fe99608435358e</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33861v1 Announce Type: new Abstract: Audio-visual understanding requires perceptual grounding, temporal understanding, and semantic inference. Multi-teacher distillation can consolidate these capabilities, but direct probability matching does not explicitly capture teacher prediction changes across…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: distillation, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33861"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 X-Matte: VAE-Free Pixel-Space Flow Matching for Single-Step Image Matting</title>
-    <link href="https://arxiv.org/abs/2611.33874"/>
-    <id>urn:uuid:c5fa932234fa147b</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33874v1 Announce Type: new Abstract: Pre-trained generative models offer rich visual priors for image matting, but their adaptation often relies on variational autoencoders (VAEs), whose spatial compression can degrade fine alpha details and introduce additional inference overhead. To address these…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33874"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Off the Driven Path: Transferable Road Understanding in Driving VLAs</title>
-    <link href="https://arxiv.org/abs/2611.33878"/>
-    <id>urn:uuid:1e0e4966d0b25054</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33878v1 Announce Type: new Abstract: End-to-end driving policies increasingly operate without explicit HD maps at inference, raising the question of what road knowledge they actually internalize. To probe this knowledge through model outputs, we introduce Road-KSU, a framework that automatically converts HD…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33878"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 TWIST: Teacher-Weighted Initial-Noise Spherical Transform for Quality-Preserving Diversity in Distilled Diffusion Models</title>
-    <link href="https://arxiv.org/abs/2611.33895"/>
-    <id>urn:uuid:615581139682b001</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33895v1 Announce Type: new Abstract: Timestep-distilled diffusion models generate high-quality images in one or a few steps, but often suffer from reduced mode coverage and limited diversity. Recent methods improve diversity by optimizing the initial noise at inference time, requiring costly backpropagation…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33895"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Tortho-Gaussian++: Suppressing Geometric Drift and Floaters for Robust Gravity-Aligned TDOM Generation in Large-Scale Aerial Scenes</title>
-    <link href="https://arxiv.org/abs/2611.33905"/>
-    <id>urn:uuid:b011c8a13d08bba2</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33905v1 Announce Type: new Abstract: 3D Gaussian Splatting (3DGS) has demonstrated remarkable performance in aerial scene reconstruction, motivating its recent extension to true digital orthophoto maps (TDOMs) generation. We propose Tortho-Gaussian++, a novel 3DGS training framework that suppresses…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: orthophoto&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33905"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 TAT-Det: A Dataset for Testicular Appendage Torsion Detection and Segmentation in Ultrasound Images</title>
-    <link href="https://arxiv.org/abs/2611.33940"/>
-    <id>urn:uuid:551811400d8da23d</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33940v1 Announce Type: new Abstract: Background: Testicular appendage torsion (TAT) is the leading cause of acute scrotal pain in prepubertal children. Yet, its diagnosis remains challenging due to nonspecific clinical manifestations and the absence of standardized datasets for pediatric acute scrotal…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33940"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 RefMix: Expanding Endpoint Proposals for Diversity-Preserving Reward Fine-Tuning</title>
-    <link href="https://arxiv.org/abs/2611.33957"/>
-    <id>urn:uuid:e44993f99c5c33b1</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33957v1 Announce Type: new Abstract: Online forward matching aligns flow-based generative models by repeatedly generating, rewarding, and fitting model-produced endpoints. However, this behavior creates an on-policy feedback loop: as high-reward modes become increasingly favored, alternative modes become…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tuning&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33957"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Where Does Free-Text 3D Grounding Fail? An Error Analysis of Report-Sentence Segmentation in Chest CT</title>
-    <link href="https://arxiv.org/abs/2611.33958"/>
-    <id>urn:uuid:81cf1e42e1646804</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CV (Vision/Segmentation)&lt;/p&gt;&lt;p&gt;arXiv:2611.33958v1 Announce Type: new Abstract: Free-text 3D grounding, segmenting in a CT volume the region described by one sentence of the radiology report, could link reports to images at scale, but it is unclear where current models fail. We analyse the publicly released VoxTell model on all 381 findings of the…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: segmentation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33958"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
