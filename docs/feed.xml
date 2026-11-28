@@ -5,8 +5,98 @@
   <link href="https://Skidex98.github.io/AI-RSS/feed.xml" rel="self"/>
   <link href="https://Skidex98.github.io/AI-RSS/"/>
   <id>https://Skidex98.github.io/AI-RSS/</id>
-  <updated>2026-11-28T00:38:32Z</updated>
+  <updated>2026-11-28T15:45:08Z</updated>
   <author><name>ai-digest</name></author>
+  <entry>
+    <title>📦 NYLLON-SOFTWARE/SignuDoc</title>
+    <link href="https://github.com/NYLLON-SOFTWARE/SignuDoc"/>
+    <id>urn:uuid:83b7197f831a5973</id>
+    <updated>2026-11-28T15:44:53Z</updated>
+    <published>2026-11-28T15:44:53Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub Trending — TypeScript&lt;/p&gt;&lt;p&gt;Open-source document signature platform. Not affiliated with DocuSign. An e-signature app for your own organization, on your own Vercel account. Upload a PDF, place fields, send signing links, and keep the sealed, signed copy with its audit certificate. or copy this to your LLM Features · SignuDoc vs DocuSign · What…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/NYLLON-SOFTWARE/SignuDoc"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 414 · sol1560/Captae (Rust)</title>
+    <link href="https://github.com/sol1560/Captae"/>
+    <id>urn:uuid:5352791a6654b655</id>
+    <updated>2026-11-28T15:28:23Z</updated>
+    <published>2026-11-28T15:28:23Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Local media downloader and library for macOS, Windows and Linux, with a browser extension and an MCP server for AI assistants&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: mcp&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/sol1560/Captae"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 2906 · sybil-solutions/inference-optimisation-skill (Python)</title>
+    <link href="https://github.com/sybil-solutions/inference-optimisation-skill"/>
+    <id>urn:uuid:d01cba343359342e</id>
+    <updated>2026-11-28T14:44:33Z</updated>
+    <published>2026-11-28T14:44:33Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, quantization, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/sybil-solutions/inference-optimisation-skill"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12833 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12833"/>
+    <id>urn:uuid:1468336033776ad3</id>
+    <updated>2026-11-28T14:04:35Z</updated>
+    <published>2026-11-28T14:04:35Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;webgpu : add CONV_TRANSPOSE_1D support (#32719) * webgpu : add CONV_TRANSPOSE_1D support * webgpu : remove redundant CONV_TRANSPOSE_1D checks **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12833/llama-b12833-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12833"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12832 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12832"/>
+    <id>urn:uuid:f578224916740ca8</id>
+    <updated>2026-11-28T13:50:25Z</updated>
+    <published>2026-11-28T13:50:25Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;ggml : add CONCAT backward pass (#32151) Each input's gradient is a view of the output gradient at its offset along dim, made contiguous. Mark a and b as params so grad mode checks the op, with grad_nmax raised to 40000 to keep the default shapes. The output is weighted by random values in [1, 2], since with a plain sum every gradient is 1 and a wrong offset would still pass. Transposed-b cases…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12832"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12831 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12831"/>
+    <id>urn:uuid:1caddbeeca2258da</id>
+    <updated>2026-11-28T13:33:06Z</updated>
+    <published>2026-11-28T13:33:06Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;ggml-cpu: optimize s390x vector intrinsic (#32253) Signed-off-by: Aaron Teo **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12831/llama-b12831-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12831"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12830 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12830"/>
+    <id>urn:uuid:e0263eb51b94f43b</id>
+    <updated>2026-11-28T12:59:31Z</updated>
+    <published>2026-11-28T12:59:31Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;chat : Allow K2 Horizon tool call during thought (#32993) Allow tool calls that would otherwise appear inside reasoning/thinking blocks for K2 Horizon. K2 Horizon models can emit tool calls without closing the thinking block. Without this fix the parser would only stop on explicit end tag, and the tool call was lost without executing. With this PR we now end reasoning before the tool call starts.…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12830"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚀 ggml-org/llama.cpp b12828 (pre)</title>
+    <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12828"/>
+    <id>urn:uuid:73670d8889c549ce</id>
+    <updated>2026-11-28T12:02:31Z</updated>
+    <published>2026-11-28T12:02:31Z</published>
+    <category term="RELEASE"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;model : expand Inkling 2 tau after embeddings (#33186) * model : inkling2 expand tau after the embeddings * model : build inkling2 embeddings before tau **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12828/llama-b12828-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12828"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims</title>
+    <link href="https://malspark.com/blog/malicious-gguf-models-hugging-face/"/>
+    <id>urn:uuid:e71257f5651d8e18</id>
+    <updated>2026-11-28T11:57:04Z</updated>
+    <published>2026-11-28T11:57:04Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://malspark.com/blog/malicious-gguf-models-hugging-face/ Comments URL: https://news.ycombinator.com/item?id=50676752 Points: 88 # Comments: 28&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://malspark.com/blog/malicious-gguf-models-hugging-face/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 Claude Code sabotage: preliminary benchmarking</title>
+    <link href="https://xinyadu.github.io/blog/claude-code-sabotage.html"/>
+    <id>urn:uuid:65ebc7fadf6295ff</id>
+    <updated>2026-11-28T10:37:40Z</updated>
+    <published>2026-11-28T10:37:40Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://xinyadu.github.io/blog/claude-code-sabotage.html Comments URL: https://news.ycombinator.com/item?id=50676390 Points: 325 # Comments: 114&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude, claude code&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xinyadu.github.io/blog/claude-code-sabotage.html"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>🚀 ggml-org/llama.cpp b12819 (pre)</title>
     <link href="https://github.com/ggml-org/llama.cpp/releases/tag/b12819"/>
@@ -123,6 +213,15 @@
     <published>2026-11-27T13:06:01Z</published>
     <category term="RELEASE"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[RELEASE]&lt;/strong&gt; GitHub Releases&lt;/p&gt;&lt;p&gt;metal : check all fused nodes for concurrency (#33175) * metal : check all fused nodes for concurrency The concurrency check for a fused group only examined the last node, so intermediate outputs (e.g. the TOPK_MOE ids/weights) and the group's sources (e.g. the router logits) were ignored. This allowed the fused top-k kernel to run concurrently with the router matmul that writes its input,…&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/b12812"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📦 ⭐ 40 · Ramakm/agentic-ai-from-scratch (Python)</title>
+    <link href="https://github.com/Ramakm/agentic-ai-from-scratch"/>
+    <id>urn:uuid:f4fec7dea5d48f27</id>
+    <updated>2026-11-27T11:58:26Z</updated>
+    <published>2026-11-27T11:58:26Z</published>
+    <category term="REPO"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[REPO]&lt;/strong&gt; GitHub — nowe repo&lt;/p&gt;&lt;p&gt;Learn Agentic AI from sratch. Learn, build and Ship it for others.&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: agentic&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Ramakm/agentic-ai-from-scratch"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>🚀 ggml-org/llama.cpp b12811 (pre)</title>
@@ -348,6 +447,15 @@
     <published>2026-11-27T05:00:00Z</published>
     <category term="PAPER"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.34758v1 Announce Type: cross Abstract: We introduce a common scoring system based on token readouts to evaluate weight, activation and output-based model diffing methods for backdoor detection in fine-tuning processes. We also improve existing weight and activation based methods by incorporating the…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tuning&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.34758"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>📰 "What's Claude's fursona?" and other questions</title>
+    <link href="https://herecomesthemoon.net/2026/11/whats-claudes-fursona/"/>
+    <id>urn:uuid:c532bcabbe8e95f5</id>
+    <updated>2026-11-27T04:56:18Z</updated>
+    <published>2026-11-27T04:56:18Z</published>
+    <category term="NEWS"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;[NEWS]&lt;/strong&gt; Hacker News (AI)&lt;/p&gt;&lt;p&gt;Article URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/ Comments URL: https://news.ycombinator.com/item?id=50662933 Points: 204 # Comments: 198&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: claude&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://herecomesthemoon.net/2026/11/whats-claudes-fursona/"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>📰 "What's Claude's Fursona?" and Other Questions</title>
@@ -978,113 +1086,5 @@
     <published>2026-11-26T05:00:00Z</published>
     <category term="PAPER"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.33497v1 Announce Type: cross Abstract: Retrieval-augmented generation (RAG) typically optimises evidence selection for semantic relevance, whereas compliance-sensitive long-form generation also requires evidence supporting explicit structural obligations. Semantically relevant retrieval may therefore omit…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: rag&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33497"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Aligned Machine: A Benchmark for Evaluating Multimodal Embedding Similarity via Human Comparative Judgements</title>
-    <link href="https://arxiv.org/abs/2611.33594"/>
-    <id>urn:uuid:9a8ecda981577ec6</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.33594v1 Announce Type: cross Abstract: Embedding models increasingly inform how people search, recommend, and retrieve information, yet we lack credible ways to test whether these similarity judgments reflect how humans understand meaning. Existing benchmarks typically rely on static, expert-labeled pairs…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: embedding&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33594"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 DLaR: Dynamic Stochasticity Control for Latent Reasoning in Large Language Models</title>
-    <link href="https://arxiv.org/abs/2611.33962"/>
-    <id>urn:uuid:9ad6ce16930aeeff</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.33962v1 Announce Type: cross Abstract: Latent reasoning enables LLMs to operate in continuous embedding space, yet existing methods suffer from deterministic inference that precludes exploration of diverse reasoning paths. While recent approaches inject stochasticity to restore exploration, we identify two…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference, embedding&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.33962"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Polyrating: A Cost-Effective and Bias-Aware Rating System for LLM Evaluation</title>
-    <link href="https://arxiv.org/abs/2409.00696"/>
-    <id>urn:uuid:fec90f29c7f74ea5</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2409.00696v5 Announce Type: replace Abstract: Rating-based human evaluation has become an essential tool to accurately evaluate the impressive performance of large language models (LLMs). However, current rating systems suffer from several important limitations: first, they fail to account for biases that…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2409.00696"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 The Open Proof Corpus: A Large-Scale Study of LLM-Generated Mathematical Proofs</title>
-    <link href="https://arxiv.org/abs/2506.21621"/>
-    <id>urn:uuid:8cb9ab25d2d6640b</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2506.21621v3 Announce Type: replace Abstract: In recent months, large language models (LLMs) have made significant progress in mathematical proof generation, but further advancement is hindered by the lack of a large-scale, high-quality dataset of human-evaluated proofs. While expensive to create, such a dataset…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2506.21621"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Fusian: Multi-LoRA Fusion for Fine-Grained Continuous MBTI Personality Control in Large Language Models</title>
-    <link href="https://arxiv.org/abs/2603.15405"/>
-    <id>urn:uuid:cb51135b81ed2487</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2603.15405v2 Announce Type: replace Abstract: Large Language Models (LLMs) have demonstrated impressive capabilities in simulating diverse human behaviors and personalities. However, existing methods for personality control, which include prompt engineering and standard Supervised Fine-Tuning (SFT), typically…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: fine-tuning, lora, prompt engineering&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2603.15405"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Knowledge-Preserving LLM Architecture Standardization: Analytic Normalizer Mapping with Equal-Size Distillation</title>
-    <link href="https://arxiv.org/abs/2605.25676"/>
-    <id>urn:uuid:74bafcd3a462b2bd</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2605.25676v2 Announce Type: replace Abstract: Competent pretrained LLMs are often locked into architectures that mainstream tooling no longer supports, which strands their knowledge. The conventional remedy, uptraining, needs heavy compute plus a corpus covering everything the model knows. We study a common…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, distillation&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2605.25676"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference</title>
-    <link href="https://arxiv.org/abs/2606.04511"/>
-    <id>urn:uuid:ee606645d6b03eaf</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2606.04511v2 Announce Type: replace Abstract: Sparse attention reduces compute and memory bandwidth for long-context LLM inference. However, two key challenges remain: (1) KV cache capacity still grows with sequence length, and offloading to CPU memory introduces a PCIe transfer bottleneck; (2) sparse selection…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2606.04511"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 RepSelect: Robust LLM Unlearning via Representation Selectivity</title>
-    <link href="https://arxiv.org/abs/2606.17168"/>
-    <id>urn:uuid:49311f144b484c42</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2606.17168v4 Announce Type: replace Abstract: When LLM weights are open or fine-tuning is available through an API, suppressing hazardous knowledge and tendencies is not enough: removal has to be deep enough that an adversary cannot restore it. Existing unlearning is shallow by this standard: fine-tuning or a…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm, fine-tuning&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2606.17168"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Attention Routing Stabilizes Early: Working-Set Inference for Recurrent Language Models</title>
-    <link href="https://arxiv.org/abs/2609.27373"/>
-    <id>urn:uuid:ec010879fd967d01</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.27373v3 Announce Type: replace Abstract: Recurrent-depth language models, such as looped Transformers, repeatedly apply shared network blocks to refine latent representations, enabling additional test-time computation without generating explicit intermediate reasoning tokens. However, recurrent inference…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: inference&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.27373"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 AdaTutoRank: Learning to Rerank Document Sets via Adaptive Tutoring Optimization for RAG and Deep Research</title>
-    <link href="https://arxiv.org/abs/2609.32472"/>
-    <id>urn:uuid:a0f8e64e9632de63</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2609.32472v3 Announce Type: replace Abstract: Document rerankers determine what evidence reaches the downstream model in RAG and deep research, yet mainstream rerankers select by relevance matching, and individually relevant documents rarely constitute the complete, complementary, non-redundant set a complex…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: rag&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2609.32472"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Do Language Models Need a Trainable Input Embedding Table? Fixed Minimal Token Codes at 1.7B-Class Scale</title>
-    <link href="https://arxiv.org/abs/2610.04002"/>
-    <id>urn:uuid:56bc80cd6063b16a</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2610.04002v2 Announce Type: replace Abstract: A token must be identifiable before a language model can learn how to use it. Must its input coordinates also be learned? We replace the trainable input table of a decoder-only Transformer with a predetermined 16-bit identifier for each of 49,152 tokens. Repetition…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: embedding&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2610.04002"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>📄 Where Is Uncertainty Observed? A Mechanistic Understanding of Uncertainty Quantification in LLMs</title>
-    <link href="https://arxiv.org/abs/2611.15735"/>
-    <id>urn:uuid:d5ff20cf932a8881</id>
-    <updated>2026-11-26T05:00:00Z</updated>
-    <published>2026-11-26T05:00:00Z</published>
-    <category term="PAPER"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;[PAPER]&lt;/strong&gt; arXiv cs.CL (NLP/LLM)&lt;/p&gt;&lt;p&gt;arXiv:2611.15735v2 Announce Type: replace Abstract: Knowing when a large language model's (LLM's) response can be trusted is critical for its safe use. Uncertainty quantification (UQ) can help LLMs recognize if their responses may be unreliable. Existing taxonomies organize UQ methods by uncertainty source or…&lt;/p&gt;&lt;p&gt;&lt;small&gt;tagi: llm&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://arxiv.org/abs/2611.15735"&gt;Otwórz →&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

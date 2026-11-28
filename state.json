@@ -1,5 +1,15 @@
 {
  "seen": [
+  "83b7197f831a5973",
+  "5352791a6654b655",
+  "d01cba343359342e",
+  "1468336033776ad3",
+  "f578224916740ca8",
+  "1caddbeeca2258da",
+  "e0263eb51b94f43b",
+  "73670d8889c549ce",
+  "e71257f5651d8e18",
+  "65ebc7fadf6295ff",
   "bf063c7d389a1ec0",
   "aa36578bd35a6eda",
   "0747243d53cbb3aa",
@@ -13,6 +23,7 @@
   "c8197842be01c601",
   "0d3f505ef21914ae",
   "8bb49e05cfc4723f",
+  "f4fec7dea5d48f27",
   "4fe203116cd5ea92",
   "ca63b5ec03d12565",
   "b7f2106c80dfaf7e",
@@ -38,6 +49,7 @@
   "8d4b0c653d816392",
   "d4cf70a704579a8f",
   "4fcada467f9003d2",
+  "c532bcabbe8e95f5",
   "cb20663495018205",
   "d4d7434ec434c586",
   "a5da3fd404727b88",
@@ -107,21 +119,132 @@
   "68a45f0960da36f4",
   "78d637ca19a020eb",
   "b3d0484eea244462",
-  "09e9e73174fd25f6",
-  "9a8ecda981577ec6",
-  "9ad6ce16930aeeff",
-  "fec90f29c7f74ea5",
-  "8cb9ab25d2d6640b",
-  "cb51135b81ed2487",
-  "74bafcd3a462b2bd",
-  "ee606645d6b03eaf",
-  "49311f144b484c42",
-  "ec010879fd967d01",
-  "a0f8e64e9632de63",
-  "56bc80cd6063b16a",
-  "d5ff20cf932a8881"
+  "09e9e73174fd25f6"
  ],
  "items": [
+  {
+   "uid": "83b7197f831a5973",
+   "title": "NYLLON-SOFTWARE/SignuDoc",
+   "url": "https://github.com/NYLLON-SOFTWARE/SignuDoc",
+   "source": "GitHub Trending — TypeScript",
+   "category": "repo",
+   "published": "2026-11-28T15:44:53.178856+00:00",
+   "summary": "Open-source document signature platform. Not affiliated with DocuSign. An e-signature app for your own organization, on your own Vercel account. Upload a PDF, place fields, send signing links, and keep the sealed, signed copy with its audit certificate. or copy this to your LLM Features · SignuDoc vs DocuSign · What…",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "5352791a6654b655",
+   "title": "⭐ 414 · sol1560/Captae (Rust)",
+   "url": "https://github.com/sol1560/Captae",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-28T15:28:23+00:00",
+   "summary": "Local media downloader and library for macOS, Windows and Linux, with a browser extension and an MCP server for AI assistants",
+   "matched": [
+    "mcp"
+   ]
+  },
+  {
+   "uid": "d01cba343359342e",
+   "title": "⭐ 2906 · sybil-solutions/inference-optimisation-skill (Python)",
+   "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-28T14:44:33+00:00",
+   "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+   "matched": [
+    "llm",
+    "quantization",
+    "inference"
+   ]
+  },
+  {
+   "uid": "1468336033776ad3",
+   "title": "ggml-org/llama.cpp b12833 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12833",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-28T14:04:35+00:00",
+   "summary": "webgpu : add CONV_TRANSPOSE_1D support (#32719) * webgpu : add CONV_TRANSPOSE_1D support * webgpu : remove redundant CONV_TRANSPOSE_1D checks **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12833/llama-b12833-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "f578224916740ca8",
+   "title": "ggml-org/llama.cpp b12832 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12832",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-28T13:50:25+00:00",
+   "summary": "ggml : add CONCAT backward pass (#32151) Each input's gradient is a view of the output gradient at its offset along dim, made contiguous. Mark a and b as params so grad mode checks the op, with grad_nmax raised to 40000 to keep the default shapes. The output is weighted by random values in [1, 2], since with a plain sum every gradient is 1 and a wrong offset would still pass. Transposed-b cases…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "1caddbeeca2258da",
+   "title": "ggml-org/llama.cpp b12831 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12831",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-28T13:33:06+00:00",
+   "summary": "ggml-cpu: optimize s390x vector intrinsic (#32253) Signed-off-by: Aaron Teo **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12831/llama-b12831-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780) - [macOS Intel…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "e0263eb51b94f43b",
+   "title": "ggml-org/llama.cpp b12830 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12830",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-28T12:59:31+00:00",
+   "summary": "chat : Allow K2 Horizon tool call during thought (#32993) Allow tool calls that would otherwise appear inside reasoning/thinking blocks for K2 Horizon. K2 Horizon models can emit tool calls without closing the thinking block. Without this fix the parser would only stop on explicit end tag, and the tool call was lost without executing. With this PR we now end reasoning before the tool call starts.…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "73670d8889c549ce",
+   "title": "ggml-org/llama.cpp b12828 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12828",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-28T12:02:31+00:00",
+   "summary": "model : expand Inkling 2 tau after embeddings (#33186) * model : inkling2 expand tau after the embeddings * model : build inkling2 embeddings before tau **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12828/llama-b12828-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "e71257f5651d8e18",
+   "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+   "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-11-28T11:57:04+00:00",
+   "summary": "Article URL: https://malspark.com/blog/malicious-gguf-models-hugging-face/ Comments URL: https://news.ycombinator.com/item?id=50676752 Points: 88 # Comments: 28",
+   "matched": [
+    "llm"
+   ]
+  },
+  {
+   "uid": "65ebc7fadf6295ff",
+   "title": "Claude Code sabotage: preliminary benchmarking",
+   "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-11-28T10:37:40+00:00",
+   "summary": "Article URL: https://xinyadu.github.io/blog/claude-code-sabotage.html Comments URL: https://news.ycombinator.com/item?id=50676390 Points: 325 # Comments: 114",
+   "matched": [
+    "claude",
+    "claude code"
+   ]
+  },
   {
    "uid": "bf063c7d389a1ec0",
    "title": "ggml-org/llama.cpp b12819 (pre)",
@@ -280,6 +403,18 @@
    "summary": "metal : check all fused nodes for concurrency (#33175) * metal : check all fused nodes for concurrency The concurrency check for a fused group only examined the last node, so intermediate outputs (e.g. the TOPK_MOE ids/weights) and the group's sources (e.g. the router logits) were ignored. This allowed the fused top-k kernel to run concurrently with the router matmul that writes its input,…",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "f4fec7dea5d48f27",
+   "title": "⭐ 40 · Ramakm/agentic-ai-from-scratch (Python)",
+   "url": "https://github.com/Ramakm/agentic-ai-from-scratch",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-27T11:58:26+00:00",
+   "summary": "Learn Agentic AI from sratch. Learn, build and Ship it for others.",
+   "matched": [
+    "agentic"
    ]
   },
   {
@@ -583,6 +718,18 @@
    "summary": "arXiv:2611.34758v1 Announce Type: cross Abstract: We introduce a common scoring system based on token readouts to evaluate weight, activation and output-based model diffing methods for backdoor detection in fine-tuning processes. We also improve existing weight and activation based methods by incorporating the…",
    "matched": [
     "fine-tuning"
+   ]
+  },
+  {
+   "uid": "c532bcabbe8e95f5",
+   "title": "\"What's Claude's fursona?\" and other questions",
+   "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+   "source": "Hacker News (AI)",
+   "category": "news",
+   "published": "2026-11-27T04:56:18+00:00",
+   "summary": "Article URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/ Comments URL: https://news.ycombinator.com/item?id=50662933 Points: 204 # Comments: 198",
+   "matched": [
+    "claude"
    ]
   },
   {
@@ -1446,157 +1593,7 @@
    "matched": [
     "rag"
    ]
-  },
-  {
-   "uid": "9a8ecda981577ec6",
-   "title": "Aligned Machine: A Benchmark for Evaluating Multimodal Embedding Similarity via Human Comparative Judgements",
-   "url": "https://arxiv.org/abs/2611.33594",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2611.33594v1 Announce Type: cross Abstract: Embedding models increasingly inform how people search, recommend, and retrieve information, yet we lack credible ways to test whether these similarity judgments reflect how humans understand meaning. Existing benchmarks typically rely on static, expert-labeled pairs…",
-   "matched": [
-    "embedding"
-   ]
-  },
-  {
-   "uid": "9ad6ce16930aeeff",
-   "title": "DLaR: Dynamic Stochasticity Control for Latent Reasoning in Large Language Models",
-   "url": "https://arxiv.org/abs/2611.33962",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2611.33962v1 Announce Type: cross Abstract: Latent reasoning enables LLMs to operate in continuous embedding space, yet existing methods suffer from deterministic inference that precludes exploration of diverse reasoning paths. While recent approaches inject stochasticity to restore exploration, we identify two…",
-   "matched": [
-    "inference",
-    "embedding"
-   ]
-  },
-  {
-   "uid": "fec90f29c7f74ea5",
-   "title": "Polyrating: A Cost-Effective and Bias-Aware Rating System for LLM Evaluation",
-   "url": "https://arxiv.org/abs/2409.00696",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2409.00696v5 Announce Type: replace Abstract: Rating-based human evaluation has become an essential tool to accurately evaluate the impressive performance of large language models (LLMs). However, current rating systems suffer from several important limitations: first, they fail to account for biases that…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "8cb9ab25d2d6640b",
-   "title": "The Open Proof Corpus: A Large-Scale Study of LLM-Generated Mathematical Proofs",
-   "url": "https://arxiv.org/abs/2506.21621",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2506.21621v3 Announce Type: replace Abstract: In recent months, large language models (LLMs) have made significant progress in mathematical proof generation, but further advancement is hindered by the lack of a large-scale, high-quality dataset of human-evaluated proofs. While expensive to create, such a dataset…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "cb51135b81ed2487",
-   "title": "Fusian: Multi-LoRA Fusion for Fine-Grained Continuous MBTI Personality Control in Large Language Models",
-   "url": "https://arxiv.org/abs/2603.15405",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2603.15405v2 Announce Type: replace Abstract: Large Language Models (LLMs) have demonstrated impressive capabilities in simulating diverse human behaviors and personalities. However, existing methods for personality control, which include prompt engineering and standard Supervised Fine-Tuning (SFT), typically…",
-   "matched": [
-    "fine-tuning",
-    "lora",
-    "prompt engineering"
-   ]
-  },
-  {
-   "uid": "74bafcd3a462b2bd",
-   "title": "Knowledge-Preserving LLM Architecture Standardization: Analytic Normalizer Mapping with Equal-Size Distillation",
-   "url": "https://arxiv.org/abs/2605.25676",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2605.25676v2 Announce Type: replace Abstract: Competent pretrained LLMs are often locked into architectures that mainstream tooling no longer supports, which strands their knowledge. The conventional remedy, uptraining, needs heavy compute plus a corpus covering everything the model knows. We study a common…",
-   "matched": [
-    "llm",
-    "distillation"
-   ]
-  },
-  {
-   "uid": "ee606645d6b03eaf",
-   "title": "SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference",
-   "url": "https://arxiv.org/abs/2606.04511",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2606.04511v2 Announce Type: replace Abstract: Sparse attention reduces compute and memory bandwidth for long-context LLM inference. However, two key challenges remain: (1) KV cache capacity still grows with sequence length, and offloading to CPU memory introduces a PCIe transfer bottleneck; (2) sparse selection…",
-   "matched": [
-    "llm",
-    "inference"
-   ]
-  },
-  {
-   "uid": "49311f144b484c42",
-   "title": "RepSelect: Robust LLM Unlearning via Representation Selectivity",
-   "url": "https://arxiv.org/abs/2606.17168",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2606.17168v4 Announce Type: replace Abstract: When LLM weights are open or fine-tuning is available through an API, suppressing hazardous knowledge and tendencies is not enough: removal has to be deep enough that an adversary cannot restore it. Existing unlearning is shallow by this standard: fine-tuning or a…",
-   "matched": [
-    "llm",
-    "fine-tuning"
-   ]
-  },
-  {
-   "uid": "ec010879fd967d01",
-   "title": "Attention Routing Stabilizes Early: Working-Set Inference for Recurrent Language Models",
-   "url": "https://arxiv.org/abs/2609.27373",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2609.27373v3 Announce Type: replace Abstract: Recurrent-depth language models, such as looped Transformers, repeatedly apply shared network blocks to refine latent representations, enabling additional test-time computation without generating explicit intermediate reasoning tokens. However, recurrent inference…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "a0f8e64e9632de63",
-   "title": "AdaTutoRank: Learning to Rerank Document Sets via Adaptive Tutoring Optimization for RAG and Deep Research",
-   "url": "https://arxiv.org/abs/2609.32472",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2609.32472v3 Announce Type: replace Abstract: Document rerankers determine what evidence reaches the downstream model in RAG and deep research, yet mainstream rerankers select by relevance matching, and individually relevant documents rarely constitute the complete, complementary, non-redundant set a complex…",
-   "matched": [
-    "rag"
-   ]
-  },
-  {
-   "uid": "56bc80cd6063b16a",
-   "title": "Do Language Models Need a Trainable Input Embedding Table? Fixed Minimal Token Codes at 1.7B-Class Scale",
-   "url": "https://arxiv.org/abs/2610.04002",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2610.04002v2 Announce Type: replace Abstract: A token must be identifiable before a language model can learn how to use it. Must its input coordinates also be learned? We replace the trainable input table of a decoder-only Transformer with a predetermined 16-bit identifier for each of 49,152 tokens. Repetition…",
-   "matched": [
-    "embedding"
-   ]
-  },
-  {
-   "uid": "d5ff20cf932a8881",
-   "title": "Where Is Uncertainty Observed? A Mechanistic Understanding of Uncertainty Quantification in LLMs",
-   "url": "https://arxiv.org/abs/2611.15735",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2611.15735v2 Announce Type: replace Abstract: Knowing when a large language model's (LLM's) response can be trusted is critical for its safe use. Uncertainty quantification (UQ) can help LLMs recognize if their responses may be unreliable. Existing taxonomies organize UQ methods by uncertainty source or…",
-   "matched": [
-    "llm"
-   ]
   }
  ],
- "last_run": "2026-11-28T00:38:32.765051+00:00"
+ "last_run": "2026-11-28T15:45:08.326023+00:00"
 }
