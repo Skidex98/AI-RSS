@@ -1,5 +1,13 @@
 {
  "seen": [
+  "bf063c7d389a1ec0",
+  "aa36578bd35a6eda",
+  "0747243d53cbb3aa",
+  "266e86f2ec873329",
+  "dd6f88674ac98034",
+  "1ce4b922b6b3be54",
+  "d9284e9289a9795e",
+  "5afb6e8a5d52e0be",
   "210d0267d9f063a0",
   "d0ddc9cad7828e57",
   "c8197842be01c601",
@@ -8,6 +16,11 @@
   "4fe203116cd5ea92",
   "ca63b5ec03d12565",
   "b7f2106c80dfaf7e",
+  "fe9e76603d4de385",
+  "08890071506ce81e",
+  "e350fa63ee31f43d",
+  "ed9f8c319fb4d95d",
+  "75f1d4248e777e96",
   "91664fb1afadeaaf",
   "6abb2979ae52e12b",
   "24d5a48815f84b4a",
@@ -47,6 +60,7 @@
   "013d91aa0c19339e",
   "1b892e6881210702",
   "fd79ed280b6ec397",
+  "05b8e757b69c078f",
   "f0691dbf593be78f",
   "47e150062967a0df",
   "3d3f2086cd1916a4",
@@ -105,23 +119,108 @@
   "ec010879fd967d01",
   "a0f8e64e9632de63",
   "56bc80cd6063b16a",
-  "d5ff20cf932a8881",
-  "2e53c144a3e380b6",
-  "c76b38b313f66310",
-  "adef6d75af0d81ea",
-  "1e7cedf4bb2ea758",
-  "92bc41e6891b01a3",
-  "de056979a8fe396a",
-  "2f34f82c5c15ae86",
-  "3adab29c1a23bc2f",
-  "8070426a2f244024",
-  "89769326669539a5",
-  "220344d67552e84c",
-  "6db7d340b0363b45",
-  "2521594825572eaa",
-  "234f3edf3a87aca2"
+  "d5ff20cf932a8881"
  ],
  "items": [
+  {
+   "uid": "bf063c7d389a1ec0",
+   "title": "ggml-org/llama.cpp b12819 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12819",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-28T00:21:16+00:00",
+   "summary": "CUDA: cache the device type at init (#33142) * CUDA: cache the device type at init ggml_backend_cuda_device_get_type called cudaGetDeviceProperties on every call, which takes ~0.7-1 ms with the CUDA 12 runtime. With tensor overrides on multiple GPUs the scheduler queries the device type for every split input, so this ran dozens of times per token. Store the device type in ggml_cuda_device_info at…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "aa36578bd35a6eda",
+   "title": "datasette-charts 0.4a0",
+   "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-11-27T23:57:17+00:00",
+   "summary": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of friction points in the…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "0747243d53cbb3aa",
+   "title": "pydantic/pydantic-ai v2.77.0 — v2.77.0 (2026-11-27)",
+   "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.77.0",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-27T23:32:31+00:00",
+   "summary": "## What's Changed ### ⚠️ Compatibility Notes * Add SQLite, Postgres and MongoDB backends for `ConversationStore`, and rename the Pax session store to `SqliteSessionStore` by @DouweM in https://github.com/pydantic/pydantic-ai/pull/10473 * `SqliteConversationStore` and `ConversationConflict` in `pydantic_ai_harness.step_persistence.conversations`, the Pax session-browser store, are renamed…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "266e86f2ec873329",
+   "title": "⭐ 41 · Niruthiya04/echomind-voice-assistant (HTML)",
+   "url": "https://github.com/Niruthiya04/echomind-voice-assistant",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-27T22:25:20+00:00",
+   "summary": "EchoMind: Local-First Voice Memory Assistant with Live Transcription and Private RAG",
+   "matched": [
+    "rag"
+   ]
+  },
+  {
+   "uid": "dd6f88674ac98034",
+   "title": "ggml-org/llama.cpp b12818 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12818",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-27T20:43:59+00:00",
+   "summary": "ggml: support quant scales for fp8 and nvfp4 (#28898) * ggml: add tensor scaling (per-tensor, per-channel, per-expert, per-expert-per-channel) support * add meta backend scale split * add optional activation scales to mul_mat and mul_mat_id tensors * handle bitnet scales too, disable in backends * Don't treat single expert as per-channel-per-expert * Temp workaround for moe-cache with scaled…",
+   "matched": [
+    "*"
+   ]
+  },
+  {
+   "uid": "1ce4b922b6b3be54",
+   "title": "⭐ 2212 · alesha-pro/llm.asm (Assembly)",
+   "url": "https://github.com/alesha-pro/llm.asm",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-27T20:40:20+00:00",
+   "summary": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+   "matched": [
+    "llm",
+    "inference"
+   ]
+  },
+  {
+   "uid": "d9284e9289a9795e",
+   "title": "⭐ 215 · sresarehumantoo/ARTEX-CC (Go)",
+   "url": "https://github.com/sresarehumantoo/ARTEX-CC",
+   "source": "GitHub — nowe repo",
+   "category": "repo",
+   "published": "2026-11-27T17:23:33+00:00",
+   "summary": "Autonomous penetration testing platform for Claude Code. 65 MCP tools, dual-graph architecture, multi-instance coordination, web UI, recording proxy, and evidence capture.",
+   "matched": [
+    "claude",
+    "mcp",
+    "claude code"
+   ]
+  },
+  {
+   "uid": "5afb6e8a5d52e0be",
+   "title": "ggml-org/llama.cpp b12816 (pre)",
+   "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12816",
+   "source": "GitHub Releases",
+   "category": "release",
+   "published": "2026-11-27T17:02:01+00:00",
+   "summary": "graph : read recurrent states in place instead of copying (#28841) (#30139) * graph : read recurrent states in place instead of copying (#28841) This is a graph only change that speeds up token output in the majority of cases and backends by removing state copy steps. Where possible, kernels now read recurrent states directly from the cache instead of a copy from ggml_get_rows. A change to…",
+   "matched": [
+    "*"
+   ]
+  },
   {
    "uid": "210d0267d9f063a0",
    "title": "zhouxiaoka/autoclip",
@@ -217,6 +316,66 @@
    "summary": "hex-hmx: fix accuracy issues in act and weight scaling, drop w8a8+f16 hybrid mode (no longer needed) (#33166) Co-authored-by: Max Krasnyansky **Website:** - **Attestations:** - **macOS/iOS:** - [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b12810/llama-b12810-bin-macos-arm64.tar.gz) - macOS Apple Silicon (arm64, KleidiAI enabled)…",
    "matched": [
     "*"
+   ]
+  },
+  {
+   "uid": "fe9e76603d4de385",
+   "title": "Safe Inference-Time Alignment via Lagrangian Reward Augmentation",
+   "url": "https://arxiv.org/abs/2607.02781",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-27T05:00:00+00:00",
+   "summary": "arXiv:2607.02781v3 Announce Type: replace-cross Abstract: Inference-time alignment steers a frozen language model during decoding using auxiliary reward signals, avoiding the cost of repeated weight updates. However, existing inference-time alignment methods typically optimize a single scalar score, so explicit safety…",
+   "matched": [
+    "inference"
+   ]
+  },
+  {
+   "uid": "08890071506ce81e",
+   "title": "AVA-Encoder: Learning to Represent Videos via Reconstruction-Driven Agentic Self-Evolution",
+   "url": "https://arxiv.org/abs/2608.12313",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-27T05:00:00+00:00",
+   "summary": "arXiv:2608.12313v4 Announce Type: replace-cross Abstract: Agentic video creation systems remain far from cinematic-grade quality: their underlying models struggle to plan how story, characters, visuals, and sound fit together, and high-quality creation trajectories to learn such planning abilities are scarce. Finished…",
+   "matched": [
+    "agentic"
+   ]
+  },
+  {
+   "uid": "e350fa63ee31f43d",
+   "title": "Frozen Factor or Spectral Band? In LoRA, the Factor Matters More at Low Rank",
+   "url": "https://arxiv.org/abs/2610.06621",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-27T05:00:00+00:00",
+   "summary": "arXiv:2610.06621v2 Announce Type: replace-cross Abstract: On two main task-model pairs, at ranks 1 to 8 with few optimiser steps, the factor a LoRA variant freezes matters more than its band of singular directions. MiCA and PiCa are compared by band, minor against dominant, yet MiCA freezes the output factor B and…",
+   "matched": [
+    "lora"
+   ]
+  },
+  {
+   "uid": "ed9f8c319fb4d95d",
+   "title": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
+   "url": "https://arxiv.org/abs/2611.18359",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-27T05:00:00+00:00",
+   "summary": "arXiv:2611.18359v2 Announce Type: replace-cross Abstract: The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded task-specific policies on many embodied benchmarks. Instead of training a dedicated policy…",
+   "matched": [
+    "agentic"
+   ]
+  },
+  {
+   "uid": "75f1d4248e777e96",
+   "title": "Bias Cascade: Understanding the Gap Between Knowledge Alignment and Effect Replication in LLM-based Social Simulation",
+   "url": "https://arxiv.org/abs/2611.28854",
+   "source": "arXiv cs.CL (NLP/LLM)",
+   "category": "paper",
+   "published": "2026-11-27T05:00:00+00:00",
+   "summary": "arXiv:2611.28854v2 Announce Type: replace-cross Abstract: Large language models (LLMs) are increasingly used to simulate participants in social experiments. Existing research has primarily focused on aligning social knowledge and isolated responses, while overlooking whether simulations can reproduce the collective…",
+   "matched": [
+    "llm"
    ]
   },
   {
@@ -703,6 +862,18 @@
     "claude",
     "deepseek",
     "mcp"
+   ]
+  },
+  {
+   "uid": "05b8e757b69c078f",
+   "title": "datasette-mcp 0.4",
+   "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+   "source": "Simon Willison",
+   "category": "news",
+   "published": "2026-11-27T00:26:17+00:00",
+   "summary": "Release: datasette-mcp 0.4 Fixed for compatibility with Datasette 1.0a44 . Tags: model-context-protocol , datasette",
+   "matched": [
+    "*"
    ]
   },
   {
@@ -1425,176 +1596,7 @@
    "matched": [
     "llm"
    ]
-  },
-  {
-   "uid": "2e53c144a3e380b6",
-   "title": "The Silent Cost of Conversation History in LLM Reasoning",
-   "url": "https://arxiv.org/abs/2611.20071",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2611.20071v3 Announce Type: replace Abstract: Large language models (LLMs) in multi-turn information systems accumulate their own earlier replies and a growing task state. We asked whether this conversation history lowers accuracy, and whether process-level quality metrics warn before it does. Each analysis was…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "c76b38b313f66310",
-   "title": "AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators",
-   "url": "https://arxiv.org/abs/2611.26073",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2611.26073v2 Announce Type: replace Abstract: Large language models (LLMs) are increasingly used as judges and graders to replace human annotators, raising the question of when such replacement is statistically justified. To support such decisions, the Alternative Annotator Test (Alt-Test) was introduced for…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "adef6d75af0d81ea",
-   "title": "Search From the Start: Search-Native Pretraining for Language Models",
-   "url": "https://arxiv.org/abs/2611.26809",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2611.26809v2 Announce Type: replace Abstract: Modern language models (LMs) are increasingly deployed with access to search tools at inference. Yet pretraining remains predominantly focused on predicting static text, with search capabilities typically introduced during post-training. We propose Search-Native…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "1e7cedf4bb2ea758",
-   "title": "Isolating the Language Shell: A Content-Controlled Study of Multilingual Reasoning",
-   "url": "https://arxiv.org/abs/2611.27053",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2611.27053v2 Announce Type: replace Abstract: Multilingual reasoning distillation requires choosing the language in which teacher reasoning is presented, yet existing recipes often entangle linguistic form with differences in generation, translation, and filtering. We construct content-controlled supervision by…",
-   "matched": [
-    "distillation"
-   ]
-  },
-  {
-   "uid": "92bc41e6891b01a3",
-   "title": "When Ink Meets Pixel: Intent-Aware OCR with VLMs for Human-Corrected Financial Documents",
-   "url": "https://arxiv.org/abs/2611.32446",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2611.32446v2 Announce Type: replace Abstract: Human annotations on documents (such as arrows, carets, strikethroughs, and insertions) express corrective intent yet existing OCR and document understanding systems treat these marks as visual noise rather than semantic edit operations. We introduce intent-aware…",
-   "matched": [
-    "ocr"
-   ]
-  },
-  {
-   "uid": "de056979a8fe396a",
-   "title": "Modeling Bilingual Learning Through LLM Training: A Critical-Period Exploration",
-   "url": "https://arxiv.org/abs/2611.32997",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2611.32997v2 Announce Type: replace Abstract: Critical-period accounts of second-language (L2) acquisition suggest that the ability to learn a new language may depend on how easily previously acquired first-language (L1) knowledge can be modified. This exploratory computational study extends a neural…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "2f34f82c5c15ae86",
-   "title": "United in Diversity? Contextual Biases in LLM-Based Predictions of the 2024 European Parliament Elections",
-   "url": "https://arxiv.org/abs/2409.09045",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2409.09045v3 Announce Type: replace-cross Abstract: \"Silicon samples\" based on large language models (LLMs) have been argued to serve as efficient alternatives to surveys of humans, assuming that their training data includes information on human attitudes and behavior. However, LLM-generated survey data might…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "3adab29c1a23bc2f",
-   "title": "GDS Agent for Graph Algorithmic Reasoning",
-   "url": "https://arxiv.org/abs/2508.20637",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2508.20637v3 Announce Type: replace-cross Abstract: Large language models (LLMs) have shown remarkable multimodal information processing and reasoning ability. When equipped with tools through function calling and enhanced with retrieval-augmented techniques, compound LLM-based systems can access closed data…",
-   "matched": [
-    "llm",
-    "function calling"
-   ]
-  },
-  {
-   "uid": "8070426a2f244024",
-   "title": "Shadows in the Code: Exploring the Risks and Defenses of LLM-based Multi-Agent Software Development Systems",
-   "url": "https://arxiv.org/abs/2511.18467",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2511.18467v2 Announce Type: replace-cross Abstract: The rapid advancement of Large Language Model (LLM)-driven multi-agent systems has significantly streamlined software developing tasks, enabling users with little technical expertise to develop executable applications. While these systems democratize software…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "89769326669539a5",
-   "title": "Network of Theseus (like the ship)",
-   "url": "https://arxiv.org/abs/2512.04198",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2512.04198v2 Announce Type: replace-cross Abstract: A standard assumption in deep learning is that the inductive bias introduced by a neural network architecture must persist from training through inference. The architecture you train with is the architecture you deploy. This assumption constrains the community…",
-   "matched": [
-    "inference"
-   ]
-  },
-  {
-   "uid": "220344d67552e84c",
-   "title": "Neural Isomorphic Fields: A Transformer-based Algebraic Numerical Embedding",
-   "url": "https://arxiv.org/abs/2601.12095",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2601.12095v2 Announce Type: replace-cross Abstract: Neural network models often face challenges when processing very small or very large numbers due to issues such as overflow, underflow, and unstable output variations. To mitigate these problems, we propose using embedding vectors for numbers instead of…",
-   "matched": [
-    "embedding"
-   ]
-  },
-  {
-   "uid": "6db7d340b0363b45",
-   "title": "BLADE: Better Language Answers through Dialogue and Explanations",
-   "url": "https://arxiv.org/abs/2604.03236",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2604.03236v3 Announce Type: replace-cross Abstract: Large language model (LLM)-based educational assistants often provide direct answers offering little incentive for students to explore or engage with course materials. We present BLADE (Better Language Answers through Dialogue and Explanations), a…",
-   "matched": [
-    "llm"
-   ]
-  },
-  {
-   "uid": "2521594825572eaa",
-   "title": "NSFL: A Post-Training Neuro-Symbolic Fuzzy Logic Framework for Boolean Operators in Neural Embeddings",
-   "url": "https://arxiv.org/abs/2604.10604",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2604.10604v2 Announce Type: replace-cross Abstract: Standard dense retrievers have no native mechanism for multi-atom logical constraints. We introduce Neuro-Symbolic Fuzzy Logic (NSFL), a training-free framework that brings fuzzy-logical structure to neural embedding spaces through a first-order…",
-   "matched": [
-    "embedding"
-   ]
-  },
-  {
-   "uid": "234f3edf3a87aca2",
-   "title": "Search-E1: Self-Distillation Drives Self-Evolution in Search-Augmented Reasoning",
-   "url": "https://arxiv.org/abs/2605.22511",
-   "source": "arXiv cs.CL (NLP/LLM)",
-   "category": "paper",
-   "published": "2026-11-26T05:00:00+00:00",
-   "summary": "arXiv:2605.22511v3 Announce Type: replace-cross Abstract: Outcome based reinforcement learning provides a simple and effective recipe for training search augmented reasoning agents. Recent work seeks further improvements through stronger external teachers, auxiliary process supervision, specialized reward shaping, and…",
-   "matched": [
-    "distillation"
-   ]
   }
  ],
- "last_run": "2026-11-27T16:53:57.788030+00:00"
+ "last_run": "2026-11-28T00:38:32.765051+00:00"
 }
